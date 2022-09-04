@@ -1,0 +1,5303 @@
+// FOO
+digraph GraphTitle {
+	graph [rankdir=LR]
+	label="Key to the
+ suborder of the Rhabdita"
+	000 [label="Key to the
+ suborder of the Rhabdita" fillcolor=red style=filled]
+	000 -> 001 [label=Rhabdita
+]
+	Diplogastrina [label=Diplogastrina fillcolor=aqua shape=hexagon style=filled]
+	Rhabditina [label=Rhabditina fillcolor=aqua shape=hexagon style=filled]
+	Teratocephalina [label=Teratocephalina fillcolor=aqua shape=hexagon style=filled]
+	Cephalobina [label=Cephalobina fillcolor=aqua shape=hexagon style=filled]
+	Alloinematoidea [label=Alloinematoidea fillcolor=aqua shape=hexagon style=filled]
+	Bunonematoidea [label=Bunonematoidea fillcolor=aqua shape=hexagon style=filled]
+	Rhabditoidea [label=Rhabditoidea fillcolor=aqua shape=hexagon style=filled]
+	Alloionematoidea [label=Alloionematoidea fillcolor=aqua shape=hexagon style=filled]
+	Alloionematinae [label=Alloionematinae fillcolor=aqua shape=hexagon style=filled]
+	Rhabditophanes [label=Rhabditophanes fillcolor=aqua shape=hexagon style=filled]
+	"aphodii (Sachs)" [label="aphodii (Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"cobbi (Hnatewytsch)" [label="cobbi (Hnatewytsch)" fillcolor=aqua shape=hexagon style=filled]
+	schneideri [label=schneideri fillcolor=aqua shape=hexagon style=filled]
+	Diploscapteridae [label=Diploscapteridae fillcolor=aqua shape=hexagon style=filled]
+	"0dontorhabditidae" [label="0dontorhabditidae" fillcolor=aqua shape=hexagon style=filled]
+	Rhabditonematidae [label=Rhabditonematidae fillcolor=aqua shape=hexagon style=filled]
+	Rhabditidae [label=Rhabditidae fillcolor=aqua shape=hexagon style=filled]
+	Rhabditonema [label=Rhabditonema fillcolor=aqua shape=hexagon style=filled]
+	propinquum [label=propinquum fillcolor=aqua shape=hexagon style=filled]
+	Saprorhabditis [label=Saprorhabditis fillcolor=aqua shape=hexagon style=filled]
+	adentifera [label=adentifera fillcolor=aqua shape=hexagon style=filled]
+	Stomachorhabditinae [label=Stomachorhabditinae fillcolor=aqua shape=hexagon style=filled]
+	Amphidirhabditinae [label=Amphidirhabditinae fillcolor=aqua shape=hexagon style=filled]
+	Protorhabditinae [label=Protorhabditinae fillcolor=aqua shape=hexagon style=filled]
+	Mesorhabditinae [label=Mesorhabditinae fillcolor=aqua shape=hexagon style=filled]
+	Peloderinae [label=Peloderinae fillcolor=aqua shape=hexagon style=filled]
+	Ablechroiulina [label=Ablechroiulina fillcolor=aqua shape=hexagon style=filled]
+	Rhabditinae [label=Rhabditinae fillcolor=aqua shape=hexagon style=filled]
+	Parasitorhabditis [label=Parasitorhabditis fillcolor=aqua shape=hexagon style=filled]
+	Paradoxorhabditis [label=Paradoxorhabditis fillcolor=aqua shape=hexagon style=filled]
+	Prodontorhabditis [label=Prodontorhabditis fillcolor=aqua shape=hexagon style=filled]
+	Protorhabditis [label=Protorhabditis fillcolor=aqua shape=hexagon style=filled]
+	"elaphri (Hirschmann)" [label="elaphri (Hirschmann)" fillcolor=aqua shape=hexagon style=filled]
+	"tristis (Hirschmann)" [label="tristis (Hirschmann)" fillcolor=aqua shape=hexagon style=filled]
+	"filiformis (BÃ¼tschli)" [label="filiformis (BÃ¼tschli)" fillcolor=aqua shape=hexagon style=filled]
+	"virgo (KOrner in Osche)" [label="virgo (KOrner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"oxyuroides Sudhaus" [label="oxyuroides Sudhaus" fillcolor=aqua shape=hexagon style=filled]
+	"parvovelata (KÃ´rner in Osche)" [label="parvovelata (KÃ´rner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"ruehmi (KÃ´rner in Osche)" [label="ruehmi (KÃ´rner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"macrovelata Sudhaus" [label="macrovelata Sudhaus" fillcolor=aqua shape=hexagon style=filled]
+	"postneri (K6rner in Osche)" [label="postneri (K6rner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"xylocola (Korner in Osche" [label="xylocola (Korner in Osche" fillcolor=aqua shape=hexagon style=filled]
+	"pluvialis Timm" [label="pluvialis Timm" fillcolor=aqua shape=hexagon style=filled]
+	"anthobia Schneider" [label="anthobia Schneider" fillcolor=aqua shape=hexagon style=filled]
+	"wirthi Sudhaus" [label="wirthi Sudhaus" fillcolor=aqua shape=hexagon style=filled]
+	"Prodontis Sudhaus" [label="Prodontis Sudhaus" fillcolor=aqua shape=hexagon style=filled]
+	obtusa [label=obtusa fillcolor=aqua shape=hexagon style=filled]
+	"subelongati Slobobj anjuk" [label="subelongati Slobobj anjuk" fillcolor=aqua shape=hexagon style=filled]
+	"sexdentati Rilhm" [label="sexdentati Rilhm" fillcolor=aqua shape=hexagon style=filled]
+	"chal cographi (Fuchs)" [label="chal cographi (Fuchs)" fillcolor=aqua shape=hexagon style=filled]
+	"acuminati (Fuchs)" [label="acuminati (Fuchs)" fillcolor=aqua shape=hexagon style=filled]
+	"piniperdae (Fuchs)" [label="piniperdae (Fuchs)" fillcolor=aqua shape=hexagon style=filled]
+	"ligniperdae(Fuchs)" [label="ligniperdae(Fuchs)" fillcolor=aqua shape=hexagon style=filled]
+	"terebrana Massey" [label="terebrana Massey" fillcolor=aqua shape=hexagon style=filled]
+	"hylurgi Massey" [label="hylurgi Massey" fillcolor=aqua shape=hexagon style=filled]
+	"bicoloris Devdariani & Maglakelidze" [label="bicoloris Devdariani & Maglakelidze" fillcolor=aqua shape=hexagon style=filled]
+	"curvidentis (Fuchs)" [label="curvidentis (Fuchs)" fillcolor=aqua shape=hexagon style=filled]
+	"gracilis Massey" [label="gracilis Massey" fillcolor=aqua shape=hexagon style=filled]
+	"malii Devdariani & Kakulija" [label="malii Devdariani & Kakulija" fillcolor=aqua shape=hexagon style=filled]
+	"welchi Devdariani" [label="welchi Devdariani" fillcolor=aqua shape=hexagon style=filled]
+	"bidentati Ruhm" [label="bidentati Ruhm" fillcolor=aqua shape=hexagon style=filled]
+	"dendroctoni Ruhm" [label="dendroctoni Ruhm" fillcolor=aqua shape=hexagon style=filled]
+	"hectographi Ruhm & Chararas" [label="hectographi Ruhm & Chararas" fillcolor=aqua shape=hexagon style=filled]
+	"ateri (Fuchs)" [label="ateri (Fuchs)" fillcolor=aqua shape=hexagon style=filled]
+	"villosi Riihm" [label="villosi Riihm" fillcolor=aqua shape=hexagon style=filled]
+	"bellifonti Lieutier & Laumond" [label="bellifonti Lieutier & Laumond" fillcolor=aqua shape=hexagon style=filled]
+	"autographi (Fuchs)" [label="autographi (Fuchs)" fillcolor=aqua shape=hexagon style=filled]
+	"opaci Riihm" [label="opaci Riihm" fillcolor=aqua shape=hexagon style=filled]
+	"cryphalophila Ruhm" [label="cryphalophila Ruhm" fillcolor=aqua shape=hexagon style=filled]
+	"palliati (Fuchs)" [label="palliati (Fuchs)" fillcolor=aqua shape=hexagon style=filled]
+	"fuchsi Blinova & Gurando" [label="fuchsi Blinova & Gurando" fillcolor=aqua shape=hexagon style=filled]
+	"hastula Massey" [label="hastula Massey" fillcolor=aqua shape=hexagon style=filled]
+	"thornei Sudhaus" [label="thornei Sudhaus" fillcolor=aqua shape=hexagon style=filled]
+	"clunicula Massey" [label="clunicula Massey" fillcolor=aqua shape=hexagon style=filled]
+	"acanthocini Lazarevskaja" [label="acanthocini Lazarevskaja" fillcolor=aqua shape=hexagon style=filled]
+	"ipini Massey" [label="ipini Massey" fillcolor=aqua shape=hexagon style=filled]
+	Paradoxorhabditis [label=Paradoxorhabditis fillcolor=aqua shape=hexagon style=filled]
+	"paradoxa khera" [label="paradoxa khera" fillcolor=aqua shape=hexagon style=filled]
+	Rhabpanus [label=Rhabpanus fillcolor=aqua shape=hexagon style=filled]
+	Operculorhabditis [label=Operculorhabditis fillcolor=aqua shape=hexagon style=filled]
+	Marispelodera [label=Marispelodera fillcolor=aqua shape=hexagon style=filled]
+	Crustorhabditis [label=Crustorhabditis fillcolor=aqua shape=hexagon style=filled]
+	"megachilis (Sudhaus)" [label="megachilis (Sudhaus)" fillcolor=aqua shape=hexagon style=filled]
+	"irregularis (Korner in Osche)" [label="irregularis (Korner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"sudhausi Andr.issy" [label="sudhausi Andr.issy" fillcolor=aqua shape=hexagon style=filled]
+	"juglandicola Fuchs" [label="juglandicola Fuchs" fillcolor=aqua shape=hexagon style=filled]
+	"graciliformis (Goffart)" [label="graciliformis (Goffart)" fillcolor=aqua shape=hexagon style=filled]
+	"anisomorpha (Sudhaus)" [label="anisomorpha (Sudhaus)" fillcolor=aqua shape=hexagon style=filled]
+	"cranganorensis(Khera)" [label="cranganorensis(Khera)" fillcolor=aqua shape=hexagon style=filled]
+	"szunyoghyi Andrassy" [label="szunyoghyi Andrassy" fillcolor=aqua shape=hexagon style=filled]
+	"miotki (sudhaus)" [label="miotki (sudhaus)" fillcolor=aqua shape=hexagon style=filled]
+	"inarimensis ( Meyl)" [label="inarimensis ( Meyl)" fillcolor=aqua shape=hexagon style=filled]
+	"oschei (KOrner in Osche)" [label="oschei (KOrner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"tenuispicula( KOrner in Osche)" [label="tenuispicula( KOrner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"belari (Nigon)" [label="belari (Nigon)" fillcolor=aqua shape=hexagon style=filled]
+	"spiculigera (Steiner)" [label="spiculigera (Steiner)" fillcolor=aqua shape=hexagon style=filled]
+	"africana Andrassy" [label="africana Andrassy" fillcolor=aqua shape=hexagon style=filled]
+	"longespiculosa (Schuurmans Stekhoven)" [label="longespiculosa (Schuurmans Stekhoven)" fillcolor=aqua shape=hexagon style=filled]
+	"ultima (Korner in Osche)" [label="ultima (Korner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"scanica (Allg~n)" [label="scanica (Allg~n)" fillcolor=aqua shape=hexagon style=filled]
+	"ocypodis (Chitwood)" [label="ocypodis (Chitwood)" fillcolor=aqua shape=hexagon style=filled]
+	"riemanni (Sudhaus)" [label="riemanni (Sudhaus)" fillcolor=aqua shape=hexagon style=filled]
+	"stasileonovi Belogurov" [label="stasileonovi Belogurov" fillcolor=aqua shape=hexagon style=filled]
+	"labia ta (Volk)" [label="labia ta (Volk)" fillcolor=aqua shape=hexagon style=filled]
+	"paucipapilla ta (Paetzold)" [label="paucipapilla ta (Paetzold)" fillcolor=aqua shape=hexagon style=filled]
+	"microbursaris (Steiner)" [label="microbursaris (Steiner)" fillcolor=aqua shape=hexagon style=filled]
+	"microbursaris (Steiner)" [label="microbursaris (Steiner)" fillcolor=aqua shape=hexagon style=filled]
+	"vernalis Andrassy" [label="vernalis Andrassy" fillcolor=aqua shape=hexagon style=filled]
+	"littoralis (Yeates)" [label="littoralis (Yeates)" fillcolor=aqua shape=hexagon style=filled]
+	"monhystera (Butschli)" [label="monhystera (Butschli)" fillcolor=aqua shape=hexagon style=filled]
+	"dentifera (Volk)" [label="dentifera (Volk)" fillcolor=aqua shape=hexagon style=filled]
+	"stiannula Anderson" [label="stiannula Anderson" fillcolor=aqua shape=hexagon style=filled]
+	"mariannae Farkas" [label="mariannae Farkas" fillcolor=aqua shape=hexagon style=filled]
+	"rovinjensis (Sudhaus" [label="rovinjensis (Sudhaus" fillcolor=aqua shape=hexagon style=filled]
+	"tripartitum (Linstow)" [label="tripartitum (Linstow)" fillcolor=aqua shape=hexagon style=filled]
+	"Scarabaeum (Sudhaus)" [label="Scarabaeum (Sudhaus)" fillcolor=aqua shape=hexagon style=filled]
+	Coarctadera [label=Coarctadera fillcolor=aqua shape=hexagon style=filled]
+	Phasmarhabditis [label=Phasmarhabditis fillcolor=aqua shape=hexagon style=filled]
+	Rhomborhabditis [label=Rhomborhabditis fillcolor=aqua shape=hexagon style=filled]
+	"dolichura (Schneider)" [label="dolichura (Schneider)" fillcolor=aqua shape=hexagon style=filled]
+	"carpathica (Soos)" [label="carpathica (Soos)" fillcolor=aqua shape=hexagon style=filled]
+	"rara (K5rner in Osche)" [label="rara (K5rner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"debi!icauda (Fuchs)" [label="debi!icauda (Fuchs)" fillcolor=aqua shape=hexagon style=filled]
+	"nidrosiensis (Allg~n)" [label="nidrosiensis (Allg~n)" fillcolor=aqua shape=hexagon style=filled]
+	"papillosa (Schneider)" [label="papillosa (Schneider)" fillcolor=aqua shape=hexagon style=filled]
+	"valida (Sudhaus)" [label="valida (Sudhaus)" fillcolor=aqua shape=hexagon style=filled]
+	"neopapillosa(Mengert in Osche)" [label="neopapillosa(Mengert in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"hermaphrodi ta (Schneider)" [label="hermaphrodi ta (Schneider)" fillcolor=aqua shape=hexagon style=filled]
+	"" [label="" fillcolor=aqua shape=hexagon style=filled]
+	"plicata (Volk)" [label="plicata (Volk)" fillcolor=aqua shape=hexagon style=filled]
+	"formosana (Yokoo & Okabe)" [label="formosana (Yokoo & Okabe)" fillcolor=aqua shape=hexagon style=filled]
+	"perrieri (Maupas)" [label="perrieri (Maupas)" fillcolor=aqua shape=hexagon style=filled]
+	"briggsae (Dougherty & Nigon)" [label="briggsae (Dougherty & Nigon)" fillcolor=aqua shape=hexagon style=filled]
+	"remanei (Sudhaus" [label="remanei (Sudhaus" fillcolor=aqua shape=hexagon style=filled]
+	"elegans (Maupas)" [label="elegans (Maupas)" fillcolor=aqua shape=hexagon style=filled]
+	"operosa (Andrassy)" [label="operosa (Andrassy)" fillcolor=aqua shape=hexagon style=filled]
+	"bakeri (Riihm)" [label="bakeri (Riihm)" fillcolor=aqua shape=hexagon style=filled]
+	"pseudodolichura(Korner in Osche)" [label="pseudodolichura(Korner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"bengalensis (Timm)" [label="bengalensis (Timm)" fillcolor=aqua shape=hexagon style=filled]
+	"coffeae (Rahm)" [label="coffeae (Rahm)" fillcolor=aqua shape=hexagon style=filled]
+	"ninomiyai (Yokoo)" [label="ninomiyai (Yokoo)" fillcolor=aqua shape=hexagon style=filled]
+	"seurati (Maupas)" [label="seurati (Maupas)" fillcolor=aqua shape=hexagon style=filled]
+	"buetschlii (De Man)" [label="buetschlii (De Man)" fillcolor=aqua shape=hexagon style=filled]
+	"guenini (Altherr)" [label="guenini (Altherr)" fillcolor=aqua shape=hexagon style=filled]
+	"viguieri (Maupas)" [label="viguieri (Maupas)" fillcolor=aqua shape=hexagon style=filled]
+	"Eriderici(Hirschmann)" [label="Eriderici(Hirschmann)" fillcolor=aqua shape=hexagon style=filled]
+	"pellioides (Butschli)" [label="pellioides (Butschli)" fillcolor=aqua shape=hexagon style=filled]
+	"marina (Bastian)" [label="marina (Bastian)" fillcolor=aqua shape=hexagon style=filled]
+	"typica (Stefanski)" [label="typica (Stefanski)" fillcolor=aqua shape=hexagon style=filled]
+	"Pellio (Schneider)" [label="Pellio (Schneider)" fillcolor=aqua shape=hexagon style=filled]
+	"hartmanni (Sachs)*" [label="hartmanni (Sachs)*" fillcolor=aqua shape=hexagon style=filled]
+	"insolita(Paesler)" [label="insolita(Paesler)" fillcolor=aqua shape=hexagon style=filled]
+	"roedi terranea (Sudhaus)" [label="roedi terranea (Sudhaus)" fillcolor=aqua shape=hexagon style=filled]
+	"incilaria (Yokoo & Shinohara)" [label="incilaria (Yokoo & Shinohara)" fillcolor=aqua shape=hexagon style=filled]
+	"conica (Reiter)" [label="conica (Reiter)" fillcolor=aqua shape=hexagon style=filled]
+	"teres (Schneider)" [label="teres (Schneider)" fillcolor=aqua shape=hexagon style=filled]
+	"punctata (CObb)" [label="punctata (CObb)" fillcolor=aqua shape=hexagon style=filled]
+	"strongyloides (Schneider)" [label="strongyloides (Schneider)" fillcolor=aqua shape=hexagon style=filled]
+	"cylindrica (Cobb)" [label="cylindrica (Cobb)" fillcolor=aqua shape=hexagon style=filled]
+	"tretzeli (Sachs)" [label="tretzeli (Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"par (Andrassy)" [label="par (Andrassy)" fillcolor=aqua shape=hexagon style=filled]
+	"cystilarva (Volk)" [label="cystilarva (Volk)" fillcolor=aqua shape=hexagon style=filled]
+	"voelki (Sachs)" [label="voelki (Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"coarctata. (Leuckart)" [label="coarctata. (Leuckart)" fillcolor=aqua shape=hexagon style=filled]
+	"kolbi(Sachs)" [label="kolbi(Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"icosiensis (Maupas)" [label="icosiensis (Maupas)" fillcolor=aqua shape=hexagon style=filled]
+	"serrata(K~rner in Osche)" [label="serrata(K~rner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"stammeri (Vc3lk)" [label="stammeri (Vc3lk)" fillcolor=aqua shape=hexagon style=filled]
+	"Colporhabdi tis (p. I 34)" [label="Colporhabdi tis (p. I 34)" fillcolor=aqua shape=hexagon style=filled]
+	Oscheius [label=Oscheius fillcolor=aqua shape=hexagon style=filled]
+	Curviditis [label=Curviditis fillcolor=aqua shape=hexagon style=filled]
+	Rhabditella [label=Rhabditella fillcolor=aqua shape=hexagon style=filled]
+	Poikilolaimus [label=Poikilolaimus fillcolor=aqua shape=hexagon style=filled]
+	Cuticularia [label=Cuticularia fillcolor=aqua shape=hexagon style=filled]
+	Rhitis [label=Rhitis fillcolor=aqua shape=hexagon style=filled]
+	Discoditis [label=Discoditis fillcolor=aqua shape=hexagon style=filled]
+	Rhabditis [label=Rhabditis fillcolor=aqua shape=hexagon style=filled]
+	"Guignardi Maupas" [label="Guignardi Maupas" fillcolor=aqua shape=hexagon style=filled]
+	"maupasi Seurat in Maupas" [label="maupasi Seurat in Maupas" fillcolor=aqua shape=hexagon style=filled]
+	"marionis Maupas" [label="marionis Maupas" fillcolor=aqua shape=hexagon style=filled]
+	"terricola Dujardin" [label="terricola Dujardin" fillcolor=aqua shape=hexagon style=filled]
+	"wohlgemuthi V6lk" [label="wohlgemuthi V6lk" fillcolor=aqua shape=hexagon style=filled]
+	"gracilicauda De Man" [label="gracilicauda De Man" fillcolor=aqua shape=hexagon style=filled]
+	"heteruroides Altherr" [label="heteruroides Altherr" fillcolor=aqua shape=hexagon style=filled]
+	"heterura 0rley" [label="heterura 0rley" fillcolor=aqua shape=hexagon style=filled]
+	"producta (Schneider)" [label="producta (Schneider)" fillcolor=aqua shape=hexagon style=filled]
+	"intermedia De Man" [label="intermedia De Man" fillcolor=aqua shape=hexagon style=filled]
+	"uliginosa so6s" [label="uliginosa so6s" fillcolor=aqua shape=hexagon style=filled]
+	"longicaudata Bastian" [label="longicaudata Bastian" fillcolor=aqua shape=hexagon style=filled]
+	"seychellensis Potts" [label="seychellensis Potts" fillcolor=aqua shape=hexagon style=filled]
+	"blumi Sudhaus" [label="blumi Sudhaus" fillcolor=aqua shape=hexagon style=filled]
+	"reciproca Sudhaus" [label="reciproca Sudhaus" fillcolor=aqua shape=hexagon style=filled]
+	"lucianii Maupas" [label="lucianii Maupas" fillcolor=aqua shape=hexagon style=filled]
+	"cucumeri s (Marcinowski" [label="cucumeri s (Marcinowski" fillcolor=aqua shape=hexagon style=filled]
+	"anomala Hertwig" [label="anomala Hertwig" fillcolor=aqua shape=hexagon style=filled]
+	"caulleryi Maupas" [label="caulleryi Maupas" fillcolor=aqua shape=hexagon style=filled]
+	"dubia (Bovien)" [label="dubia (Bovien)" fillcolor=aqua shape=hexagon style=filled]
+	"maxima (Volk)" [label="maxima (Volk)" fillcolor=aqua shape=hexagon style=filled]
+	"insectivora (Korner in Osche)" [label="insectivora (Korner in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"koerneri(Osche)" [label="koerneri(Osche)" fillcolor=aqua shape=hexagon style=filled]
+	Colporhabditis [label=Colporhabditis fillcolor=aqua shape=hexagon style=filled]
+	"coronigera(Altherr)" [label="coronigera(Altherr)" fillcolor=aqua shape=hexagon style=filled]
+	"leptura(Cobb)" [label="leptura(Cobb)" fillcolor=aqua shape=hexagon style=filled]
+	"pseudoelongata(Micoletzky)" [label="pseudoelongata(Micoletzky)" fillcolor=aqua shape=hexagon style=filled]
+	"octopleura (Steiner)" [label="octopleura (Steiner)" fillcolor=aqua shape=hexagon style=filled]
+	"dimorpha (Sudhaus)" [label="dimorpha (Sudhaus)" fillcolor=aqua shape=hexagon style=filled]
+	"curvicaudata (Schneider)" [label="curvicaudata (Schneider)" fillcolor=aqua shape=hexagon style=filled]
+	"hermaphrodita(Osche" [label="hermaphrodita(Osche" fillcolor=aqua shape=hexagon style=filled]
+	"inermiformis (Osche)" [label="inermiformis (Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"hanuskai (Kokordak)" [label="hanuskai (Kokordak)" fillcolor=aqua shape=hexagon style=filled]
+	"inermis (Schneider)" [label="inermis (Schneider)" fillcolor=aqua shape=hexagon style=filled]
+	"luci Andrassy" [label="luci Andrassy" fillcolor=aqua shape=hexagon style=filled]
+	"regenfussi(Sudhaus)" [label="regenfussi(Sudhaus)" fillcolor=aqua shape=hexagon style=filled]
+	"oxycerca (De Man)" [label="oxycerca (De Man)" fillcolor=aqua shape=hexagon style=filled]
+	"rotundus (Massey)" [label="rotundus (Massey)" fillcolor=aqua shape=hexagon style=filled]
+	"incisocaudatus (De Coninck)" [label="incisocaudatus (De Coninck)" fillcolor=aqua shape=hexagon style=filled]
+	"piniperdae Fu~hs" [label="piniperdae Fu~hs" fillcolor=aqua shape=hexagon style=filled]
+	Ablechroiulinae [label=Ablechroiulinae fillcolor=aqua shape=hexagon style=filled]
+	Rhabditoides [label=Rhabditoides fillcolor=aqua shape=hexagon style=filled]
+	Ablechroiulus [label=Ablechroiulus fillcolor=aqua shape=hexagon style=filled]
+	"anchisporus Andrassy" [label="anchisporus Andrassy" fillcolor=aqua shape=hexagon style=filled]
+	"paraciliatus (Goodey)" [label="paraciliatus (Goodey)" fillcolor=aqua shape=hexagon style=filled]
+	"ciliatus(Fuchs)" [label="ciliatus(Fuchs)" fillcolor=aqua shape=hexagon style=filled]
+	"gongyloides(Reiter)" [label="gongyloides(Reiter)" fillcolor=aqua shape=hexagon style=filled]
+	"dudichi Andrassy" [label="dudichi Andrassy" fillcolor=aqua shape=hexagon style=filled]
+	"cristatus (Hirschmann)" [label="cristatus (Hirschmann)" fillcolor=aqua shape=hexagon style=filled]
+	"maculosus Andrassy" [label="maculosus Andrassy" fillcolor=aqua shape=hexagon style=filled]
+	"crenatus(Paesler)" [label="crenatus(Paesler)" fillcolor=aqua shape=hexagon style=filled]
+	"acartus (Ruhm in Osche)" [label="acartus (Ruhm in Osche)" fillcolor=aqua shape=hexagon style=filled]
+	"broughtonalcocki (Buckley)" [label="broughtonalcocki (Buckley)" fillcolor=aqua shape=hexagon style=filled]
+	"longispina (Reiter)â€¢" [label="longispina (Reiter)â€¢" fillcolor=aqua shape=hexagon style=filled]
+	Amphidirhabditis [label=Amphidirhabditis fillcolor=aqua shape=hexagon style=filled]
+	"longipapillata Andrdssy" [label="longipapillata Andrdssy" fillcolor=aqua shape=hexagon style=filled]
+	Stomachorhabditis [label=Stomachorhabditis fillcolor=aqua shape=hexagon style=filled]
+	"borealis(Kreis)" [label="borealis(Kreis)" fillcolor=aqua shape=hexagon style=filled]
+	"fastidiosa (Massey)" [label="fastidiosa (Massey)" fillcolor=aqua shape=hexagon style=filled]
+	"vietnamica Andrassy" [label="vietnamica Andrassy" fillcolor=aqua shape=hexagon style=filled]
+	Odontorhabditidae [label=Odontorhabditidae fillcolor=aqua shape=hexagon style=filled]
+	Diploscapteroides [label=Diploscapteroides fillcolor=aqua shape=hexagon style=filled]
+	Cephaloboides [label=Cephaloboides fillcolor=aqua shape=hexagon style=filled]
+	"brevicauda Rahm" [label="brevicauda Rahm" fillcolor=aqua shape=hexagon style=filled]
+	"dacchensis (Timm)" [label="dacchensis (Timm)" fillcolor=aqua shape=hexagon style=filled]
+	"chitinolabiatus(Schneider)" [label="chitinolabiatus(Schneider)" fillcolor=aqua shape=hexagon style=filled]
+	"musicola (Rahm)" [label="musicola (Rahm)" fillcolor=aqua shape=hexagon style=filled]
+	"pseudoxycerca(Goodey)" [label="pseudoxycerca(Goodey)" fillcolor=aqua shape=hexagon style=filled]
+	Diploscapter [label=Diploscapter fillcolor=aqua shape=hexagon style=filled]
+	"rhizophilus Rahm" [label="rhizophilus Rahm" fillcolor=aqua shape=hexagon style=filled]
+	"nodifer Mihelcic" [label="nodifer Mihelcic" fillcolor=aqua shape=hexagon style=filled]
+	"cylindricus Rahm" [label="cylindricus Rahm" fillcolor=aqua shape=hexagon style=filled]
+	"libycus Penso" [label="libycus Penso" fillcolor=aqua shape=hexagon style=filled]
+	"orientalis Kannan" [label="orientalis Kannan" fillcolor=aqua shape=hexagon style=filled]
+	"lycostoma Volk" [label="lycostoma Volk" fillcolor=aqua shape=hexagon style=filled]
+	"cannae Rahm" [label="cannae Rahm" fillcolor=aqua shape=hexagon style=filled]
+	"coronatus (Cobb)" [label="coronatus (Cobb)" fillcolor=aqua shape=hexagon style=filled]
+	"pachys Steiner" [label="pachys Steiner" fillcolor=aqua shape=hexagon style=filled]
+	Bunonematidae [label=Bunonematidae fillcolor=aqua shape=hexagon style=filled]
+	Pterygorhabditidae [label=Pterygorhabditidae fillcolor=aqua shape=hexagon style=filled]
+	Pterygorhabditis [label=Pterygorhabditis fillcolor=aqua shape=hexagon style=filled]
+	"pakistanensis Timm" [label="pakistanensis Timm" fillcolor=aqua shape=hexagon style=filled]
+	"panopla Bernard" [label="panopla Bernard" fillcolor=aqua shape=hexagon style=filled]
+	"hungarica Andrassy" [label="hungarica Andrassy" fillcolor=aqua shape=hexagon style=filled]
+	Craspedonematinae [label=Craspedonematinae fillcolor=aqua shape=hexagon style=filled]
+	Bunonematinae [label=Bunonematinae fillcolor=aqua shape=hexagon style=filled]
+	Bunonema [label=Bunonema fillcolor=aqua shape=hexagon style=filled]
+	Rhodonema [label=Rhodonema fillcolor=aqua shape=hexagon style=filled]
+	Serronema [label=Serronema fillcolor=aqua shape=hexagon style=filled]
+	Rhodolaimus [label=Rhodolaimus fillcolor=aqua shape=hexagon style=filled]
+	"dentatum(Paesler)" [label="dentatum(Paesler)" fillcolor=aqua shape=hexagon style=filled]
+	"goffarti (Sachs)" [label="goffarti (Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"inequalis (Cobb)" [label="inequalis (Cobb)" fillcolor=aqua shape=hexagon style=filled]
+	"dimorphus Bernard" [label="dimorphus Bernard" fillcolor=aqua shape=hexagon style=filled]
+	"impar(Cobb)" [label="impar(Cobb)" fillcolor=aqua shape=hexagon style=filled]
+	"jakobii(Sachs)" [label="jakobii(Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"pini Fuchs" [label="pini Fuchs" fillcolor=aqua shape=hexagon style=filled]
+	"pusillus Fuchs" [label="pusillus Fuchs" fillcolor=aqua shape=hexagon style=filled]
+	"pannonicus Andrassy" [label="pannonicus Andrassy" fillcolor=aqua shape=hexagon style=filled]
+	"voulliemei (Riihm)" [label="voulliemei (Riihm)" fillcolor=aqua shape=hexagon style=filled]
+	"poligraphi Fuchs" [label="poligraphi Fuchs" fillcolor=aqua shape=hexagon style=filled]
+	"stoeckherti (Sachs)" [label="stoeckherti (Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"estonicus (Krall)" [label="estonicus (Krall)" fillcolor=aqua shape=hexagon style=filled]
+	"reticulatum Richters" [label="reticulatum Richters" fillcolor=aqua shape=hexagon style=filled]
+	"multipapillatwn Stefanski" [label="multipapillatwn Stefanski" fillcolor=aqua shape=hexagon style=filled]
+	"steineri Stefanski" [label="steineri Stefanski" fillcolor=aqua shape=hexagon style=filled]
+	"ditlevseni Micoletzky" [label="ditlevseni Micoletzky" fillcolor=aqua shape=hexagon style=filled]
+	"richtersi Jagerskiold" [label="richtersi Jagerskiold" fillcolor=aqua shape=hexagon style=filled]
+	"franzi Andrassy" [label="franzi Andrassy" fillcolor=aqua shape=hexagon style=filled]
+	"husseyi Bernard" [label="husseyi Bernard" fillcolor=aqua shape=hexagon style=filled]
+	"hessi Steiner" [label="hessi Steiner" fillcolor=aqua shape=hexagon style=filled]
+	"tuerkorum Sachs" [label="tuerkorum Sachs" fillcolor=aqua shape=hexagon style=filled]
+	"penardi Stefanski" [label="penardi Stefanski" fillcolor=aqua shape=hexagon style=filled]
+	"striatum (Andrassy)" [label="striatum (Andrassy)" fillcolor=aqua shape=hexagon style=filled]
+	"stephaniae (Bernard)" [label="stephaniae (Bernard)" fillcolor=aqua shape=hexagon style=filled]
+	Craspedonema [label=Craspedonema fillcolor=aqua shape=hexagon style=filled]
+	Aspidonema [label=Aspidonema fillcolor=aqua shape=hexagon style=filled]
+	Sachsium [label=Sachsium fillcolor=aqua shape=hexagon style=filled]
+	"scheucherae (Sachs)" [label="scheucherae (Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"ruehmi(Sachs)" [label="ruehmi(Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"stammeri(Sachs)" [label="stammeri(Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"Sachsi (Meyl)" [label="Sachsi (Meyl)" fillcolor=aqua shape=hexagon style=filled]
+	"weingaertnerae(Sachs)" [label="weingaertnerae(Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"helenae (Sachs)" [label="helenae (Sachs)" fillcolor=aqua shape=hexagon style=filled]
+	"Zeelandicum DE Man" [label="Zeelandicum DE Man" fillcolor=aqua shape=hexagon style=filled]
+	"javanicum Richters" [label="javanicum Richters" fillcolor=aqua shape=hexagon style=filled]
+	"styriacwn Micoletzky" [label="styriacwn Micoletzky" fillcolor=aqua shape=hexagon style=filled]
+	"elegans Rahm" [label="elegans Rahm" fillcolor=aqua shape=hexagon style=filled]
+	001 -> 002 [label="Stoma well developed,
+either long, tubular,
+or wide, spacious,
+metastom with small
+denticles or large
+teeth; esophagus in
+almost every case
+with a median
+bulb or swelling;
+female gonads generally
+didelphic; bursa present
+or secondarily reduced
+"]
+	001 -> 003 [label="Stoma small, mostly
+relatively narrow, consisting
+of tiny dots
+in optical view,
+esophagus without a
+median bulb or
+swelling, female gonads
+generally monodelphic, bursa
+lacking primarily
+"]
+	002 -> Diplogastrina [label="esophagus with two
+bulbs: with a
+muscular median bulb
+and a glandular
+terminal one; valvular
+apparatus in the
+median bulb; stoma
+often wide, teeth
+conspicuous, usually large;
+bursa reduced in
+most cases
+"]
+	002 -> Rhabditina [label="Esophagus with one
+bulb: only a
+terminal bulb present,
+valvular apparatus in
+the terminal bulb,
+stoma usually tubular,
+denticles small; bursa
+well developed, only
+occasionally reduced
+"]
+	003 -> Teratocephalina [label="Head margin strongly
+cuticularized and notched,
+or head bearing
+six bristles; female
+gonads amphidelphic or
+monodelphic; amphids behind
+the labial region,
+mostly well discernible
+"]
+	003 -> Cephalobina [label="Head margin not
+cuticularized and only
+rarely notched, bristles
+never present; female
+gonads always monodelphic;
+amphids on the
+labial region (only
+exceptionally behind it),
+hardly discernible
+"]
+	Rhabditina -> Alloinematoidea [label="Stoma of Panagrolaimus
+type, i.e. composed
+of short, weakly
+cuticularized rhabdions (rings);
+bursa not present
+"]
+	Rhabditina -> 005 [label="Stoma of Rhabditis
+type, i.e. well
+cuticularized and on
+the whole tubular;
+bursa present, only
+rarely reduced
+"]
+	005 -> Bunonematoidea [label="Body distinctly asymmetrical;
+left side with
+longitudinal ridges, right
+aide with various
+ornamentation (network, tubercles,
+warts, fins )
+"]
+	005 -> Rhabditoidea [label="Body symmetrical bilaterally,
+without such an
+ornamentation
+"]
+	Rhabditina -> Alloionematoidea [label=""]
+	Alloionematoidea -> Alloionematinae [label=""]
+	Alloionematinae -> Rhabditophanes [label=""]
+	Rhabditophanes -> 006 [label=""]
+	006 -> "aphodii (Sachs)" [label="Spicules longer than
+50 vm. Nearly
+twice as long
+as anal body
+diameter; gubernaculum comparatively
+large, more than
+half as long
+as spicules. ~:
+L Male L=
+0.93-1.37 mm; a
+= 14-17; b
+0.73-0.81 mm; a
+= 14-19; b
+5.8-7.9; c =
+9-12; V 4.1-6.4;
+c = 9-11.
+52-55%. Germany, Austria,
+Czechoslovakia; in cow
+dung, associated with
+species of Aphodius
+"]
+	006 -> 007 [label="Spicules shorter than
+25 μm, shorter
+than anal body
+diameter; gubernaculum relatively
+small
+"]
+	007 -> "cobbi (Hnatewytsch)" [label="Spicules are plump
+and straight, 16-18
+μm long; the
+tail tip of
+males are finely
+rounded with a
+hair-like mucro. Female
+L = 0.4-0.8
+mm; a 13-18;
+b = 4.8-7.1;
+c = 7-11;
+V 0.60-0.67 mm;
+a = 19-20;
+b = 4.6;
+c 15-16. 49-53%.
+Germany, Austria, Hungary,
+Poland; in saprobic
+habitats
+"]
+	007 -> schneideri [label="Spicules slender and
+arched, 21-22 μm
+long; tail of
+male uniformly conoid
+with pointed tip.
+9 :L =
+0.65-1.0 mm; a
+= 12-19; b
+5.3-8.0; c =
+9-11; V 50-53%.
+d':without data of
+measurements. Germany, Austria,
+Hungary, Bulgaria, Spain,
+Italy, Poland, SovietUnion
+(Estonia, Azerbaijan, Kazakhstan,
+Uzbekistan), United States,
+under saprobic conditions,
+especially in rotten
+wood (Fig.7)
+"]
+	Rhabditoidea -> 008 [label=""]
+	008 -> Diploscapteridae [label="Dorsal and ventral
+lips are heavily
+cuticularized and transformed
+into hook-like structures
+"]
+	008 -> 009 [label="Lips normal, not
+hook-like
+"]
+	009 -> "0dontorhabditidae" [label="Buccal tube (promesostom)
+with a large,
+transverse, dorsal tooth
+"]
+	009 -> 010 [label="Buccal tube without
+a tooth, its
+walls parallel
+"]
+	009 -> Rhabditonematidae [label="Stoma short, only
+about twice as
+long as wide;
+esophagus corpus cylindrical;
+bursa primarily absent
+"]
+	009 -> Rhabditidae [label="Stoma in almost
+every case, more
+than three times
+longer than wide;
+bursa generally well
+developed, if rudimentary,
+then esophagus corpus
+is distinctly swollen,
+bulb-like
+"]
+	010 -> Rhabditonema [label="Metastom with small
+but visible denticles;
+female tail relatively
+long, 1/8-1/9 of
+the total body
+length
+"]
+	Rhabditonema -> propinquum [label="Tail of female
+5-6 times, that
+of male 4
+times as long
+as anal body
+diameter. 9: L
+= 0.40-0.53 mm;
+a 22-33; b
+= 3.7-4.7; c
+= 8-9; V
+= 51-57 ,.
+CJ\": L z
+0.5 mm; a=
+29; b =
+3.8; c =
+9. Germany and
+Czechoslovakia; in frass
+of capricorn beetles
+"]
+	010 -> Saprorhabditis [label="Metastom without denticles;
+female tail relatively
+short, only about1/50
+of total body
+length
+"]
+	Saprorhabditis -> 011 [label=""]
+	011 -> adentifera [label="Stoma 15 m
+long and 6
+m wide; tail
+only slightly longerthan
+anal body diameter.~
+: L =
+0.58-0.72 mm; a
+= 16-19; b
+3.8-4.0; c 48-53;
+V 55-57%.et' :
+lUlknown.India; on the
+banks of sewer
+"]
+	Rhabditidae -> Stomachorhabditinae [label="Beginning of intestine
+marked by folds,
+on the whole
+stomach-like; no bursa
+"]
+	Rhabditidae -> 013 [label="Beginning of intestine
+without folds, not
+stomach-like; bursa present
+"]
+	013 -> Amphidirhabditinae [label="Amphids are large,
+conspicuous, at the
+level of promesostom;
+cheilostom cuticularized, comparatively
+large with arched
+walls
+"]
+	013 -> 014 [label="Amphids are mostly
+very small, inconspicuous,
+on the 1ateral
+lips; cheilostom is
+simple, only exceptionally
+cuticularized
+"]
+	014 -> Protorhabditinae [label="Stoma, a simple
+tube without glottoid
+apparatus, metastom devoid
+of denticles
+"]
+	014 -> 015 [label="Stoma differentiated, with
+distinct glottoid apparatus
+(swellings)and denticles
+"]
+	015 -> 088 [label="Female gonad single,
+prodelphic, vulva far
+back; lips hemispherical,
+well separate, mostly
+with setose papillae
+â€¢..â€¢ Mesorhabditinae (p.59)
+"]
+	015 -> Mesorhabditinae [label="Female gonad single,
+prodelphic, vulva far
+back; lips hemispherical,
+well separate, mostly
+with setose papillae
+â€¢..â€¢ Mesorhabditinae (p.59)
+"]
+	015 -> 016 [label="Female gonad didelphic,
+vulva at mid-B35;
+lips generally hardly
+separate, without setose
+papillae
+"]
+	016 -> Peloderinae [label="Bursa peloderan: encircling
+the tail tip
+"]
+	016 -> 017 [label="Bursa leptoderan: leaving
+tail tip free
+"]
+	017 -> Ablechroiulina [label="Lips bearing numerous
+fine cilia or
+setose projections; esophageal
+collar high, longer
+than half length
+of stoma
+"]
+	017 -> Rhabditinae [label="Lips without cilia;
+esophageal collar usually
+shorter than half
+of stoma
+"]
+	Protorhabditinae -> 018 [label=""]
+	018 -> Parasitorhabditis [label="Female gonad unpaired,
+prodelphic, vulva quite
+near to the
+anus; spicules fused
+distally
+"]
+	018 -> 019 [label="Female gonads paired.
+amphidelphic. Vulva at
+mid-body; spicules free
+"]
+	019 -> Paradoxorhabditis [label="Bursa pseudopeloderan; corpus
+and isthmus of
+esophagus weakly segregated
+"]
+	019 -> 020 [label="Bursa peloderan: corpus
+and isthmus of
+esophagus weIl segregated
+"]
+	020 -> Prodontorhabditis [label="The anterior end
+of protostome with
+three small teeth;
+bursa closed
+"]
+	020 -> Protorhabditis [label="Protostom without teeth;
+bursa open (
+in a single
+species closed)
+"]
+	Protorhabditis -> 022 [label="The female tail
+is very long,
+10-14 times longer
+than the anal
+body diameter, filiform
+"]
+	Protorhabditis -> 024 [label="Female tail much
+shorter, at most
+five times as
+long as the
+anal body diameter
+"]
+	022 -> "elaphri (Hirschmann)" [label="esophagus corpus completely
+cylindrical: esophageal collar
+long,surrounding about 3/4
+length of buccal
+tube: longer species,
+morethan 0.5 mm.Female
+L=0.63-0.92 mm: a
+= 20-28: b
+= 5.7-7.1: c
+= 4-9: V
+43-51%.cr: L =
+0.54-0.69 mm; a
+= 18-27: b
+= 4.7-5.6: c
+= 17-25.Germany, Czechoslovakia
+and Soviet Union
+(Far East): terrestrial,associated
+with Elaphrus riparius(Carabidae)
+"]
+	022 -> 023 [label="Esophagus corpus is
+distinctly swollen; esophageal
+collar absent; shorter
+species, less than
+0.5 mm
+"]
+	023 -> "tristis (Hirschmann)" [label="Bursal papillae nine
+pairs; head not
+offset.Female L=0.45-0.55 mm,
+a = 22-27;
+b = 4.4-6.2,
+c m 3.3-4.5,
+V 46-47%.Male L=
+0.27-0.30 mm, a
+- 17-21, b
+- 2.9-3.4, c
+â€¢ 17.Germany, Czechoslovakia,
+Hungary, Bulgaria, Poland,
+and Soviet Union(Russia,
+Lithuania, Uzbekistan), in
+soil, litter and
+freshwater(Fig. 10)
+"]
+	023 -> "filiformis (BÃ¼tschli)" [label="Bursal papillae seven
+pairs, head offset.Female
+L= 0.45-0.60 mm;
+a = 22-30,
+b = 4.5-5.3,
+c = 3.2-4.0,
+V =42-47%.Male L=0.35
+mm.Holland, Belgium, Germany,
+Austria, Czechoslovakia, Hungary,
+Spain, Poland, Denmark,
+Great Britain, Ireland,
+Soviet Union(Russia, Estonia,
+Lithuania, Moldavia, Belorussia,
+Turkmenia, Kazakhstan, Azerbaijan,
+Uzbekistan); Java, Sumatra,
+Fernando Poo, Zaire;
+Australia, New Zealand;
+terrestrial, in soil,
+litter and moss
+"]
+	024 -> "virgo (KOrner in Osche)" [label="Small species, up
+to 0.5 mm
+long; esophagus corpus
+slightlyswollen; male unknown.Female
+L= 0.43-0.53 mm;
+a = 22-26,
+b = 4.3-5.5:
+c 6-9; V
+= 53-57%.Male :
+unknown.Germany: in rotten
+wood
+"]
+	024 -> 025 [label="More significant species,
+body length more
+than 0.5 mm;
+esophagus corpus distinctly
+swollen; males known
+"]
+	025 -> "oxyuroides Sudhaus" [label="Bursa proximally closed.Female
+L=0.59-0.B7 mm; a
+17-21; b =
+4.3-5.9; c =
+6.7-10.8; V 53-56%.
+Male L= 0.32-0.72
+mm; a =
+15-25; b =
+3.5-5.0; c =
+19-27.Holland, Belgium, Germany,
+Switzerland, France, Yugoslavia,
+Poland,Soviet Union (Ukraine,
+Georgia), terrestrial, in
+soil, mess,humus, rarely
+in horse and
+cow dung
+"]
+	025 -> 026 [label="Bursa proximally open
+"]
+	026 -> "parvovelata (KÃ´rner in Osche)" [label="Bursa quite small,
+reduced.Female L=0.58-0.87 mm;
+a 20-24; b
+= 4.0-5.9; c
+11-30; V =
+56-62%. Male L=0.52-0.64
+mm; a -
+20-22; b =
+3.8-4.4, c =
+20-26.Germany; in rotten
+wood
+"]
+	026 -> 027 [label="Bursa well developed
+"]
+	027 -> "ruehmi (KÃ´rner in Osche)" [label="Lips ornamented by
+small outer processes,
+crown-like.Female L=Male L=0.60-0.75
+mm; a 17-21;
+b0.54-0.66 mm; a
+= 19-22; b4.4-4.9;
+c = 8-9;
+V4.1-4.6; c =
+19-21.54-58%.Germany, Czechoslovakia and
+Soviet Union (Uzbekistan);
+in thegalleries of
+Sinodendron cylindricum and
+in rotten wood
+"]
+	027 -> 028 [label="Lips are simple,
+not crown-like
+"]
+	028 -> "macrovelata Sudhaus" [label="Spicules 16-21 μm
+long.9: without measurement
+data. Male :
+L =0.49-0.57 mm;
+a = 14-18;b
+= 3.5-3.8; c
+= 22-23.0.49-0.57 mm;
+a 14-18;Germany; associated
+with scarabaeid larval.
+Spicules 21-34 μm
+long
+"]
+	028 -> 029 [label="Spicules 21-34 μm
+long
+"]
+	029 -> "postneri (K6rner in Osche)" [label="Cheilorhabdions proximally divergent.Female
+L=0.63-0.86 mm, a=
+16-22; b =
+4.3-5.3; c =
+7.8-13.5; V56-67%.c,\":L =
+0.63-0.72 mm; a=
+17-25; b =
+4.2-4.5; c =
+19-23.Germany, Austria; in
+frass of the
+larvae of Dorcus
+parallelopipedus(Lucanidae)
+"]
+	029 -> "xylocola (Korner in Osche" [label="Cheilorhabdions proximally not
+divergent.Female L=o.51-0.68 mm;
+a= 19-22; b
+= 4.6-5.7; c
+= 9.6-13.1; V
+=54-58%. Male L=0.40-0.58
+mm; a= 18-23;
+b = 4.0-5.1;
+c = 18-21.Germany,
+Hungary, Soviet Union
+(Moldavia); in rotting
+wood andassociated with
+Trichius species (Scarabaeidae)
+"]
+	Prodontorhabditis -> 031 [label="The stoma is
+about three times
+as long as
+the head diameter,
+16-22 μm long
+"]
+	Prodontorhabditis -> 032 [label="The stoma is
+only 1 to
+1.5 times as
+long as the
+head diameter, 8-14
+μm long
+"]
+	031 -> "pluvialis Timm" [label="Female tail filiform,
+16-20 times longer
+than anal body
+diameter.Female L=0.58-0.73 mm;
+a= 25-28; b
+= 5.3-6.2; c
+= 2.5-3.1; V
+= 37-43%. Male
+L=0.34-0.45 mm; a=
+18-25; b =
+3.5-4.2; c =
+12-18.Bangladesh; terrestrial
+"]
+	031 -> "anthobia Schneider" [label="Female tail much
+shorter, only 6-7
+times longer than
+anal body diameter.Female
+L= o.7-1.0 mm;
+a= 26-33; b
+= 3.4-3.8; c
+= 8-9; VMale
+L= 0.75 mm;
+a= 30; b
+= 3.3; c
+= 22.56-57%.Sumatra; in
+fresh water
+"]
+	032 -> "wirthi Sudhaus" [label="Stoma extremely short,
+8-10 Î¼ m,
+not longer than
+head diameter.~: L
+= 0.60-0.72 mm;
+a= 21-28; b
+= 5.0-5.7; c
+= 3.0-4.1; V
+44-54%.Male L=0.39-0.60 mm;
+a= 18-23; b
+= 3.6-4.7; c
+= 14-21.New Zealand;
+littoral detritus
+"]
+	032 -> "Prodontis Sudhaus" [label="Stoma 12-14 μm,
+about 1.5 times
+as long as
+head diameter.Female L=0.64-0.93
+mm; a= 18-26;
+b 4.5-5.7; c
+4.8-5.2; V 49-52
+i. d'Â·L =
+0.54-o. 70 mm;
+a = 22-27;
+b = 4.0-4.
+7; c =
+20-28.United States (Florida);
+in littoral detritus
+"]
+	Parasitorhabditis -> 033 [label=""]
+	033 -> 034 [label="Female tail extremely
+short, only about
+half as long
+as anal body
+diameter, cupola-shaped or
+broadly rounded
+"]
+	033 -> 039 [label="Female tail one
+or two anal
+body diameters long,
+conoid or dome-shaped,
+with or without
+tip
+"]
+	034 -> obtusa [label="Anterior portion of
+esophagus (from head
+to proximal end
+of corpus)longer than
+the posterior portion;
+female tail broadly
+rounded.Female L=0.73-1.11 mm;
+a= 16-24; b
+= 4.0-4.7; c
+= 44-49; V
+= 94-96%. o\":
+L = 0.
+75-0.85mm; a =
+19-21; b =
+4.1-4.6; c =
+18-22.Germany, Austria, Czechoslovakia,
+Switzerland, Soviet Union(Russia,
+Georgia), United States;
+associated with Ips
+typographusand I.cembrae (Scolytidae)
+"]
+	034 -> 035 [label="The anterior portion
+of the esophagus
+is distinctly shorter
+than the posterior
+portion; the female
+tail with a
+short tip
+"]
+	035 -> "subelongati Slobobj anjuk" [label="Spicules are dorsally
+curved and convex
+on their ventral
+side.Female L=0.42-1.16 mm;
+a= 11-22; b
+= 3.0-6.3; c
+= 40-97; V
+= 93-97%. o\":
+L = 0.42-0.93
+mm; a= 15-27;
+b = 3.1-5.2;
+c = 12-23.France,
+Soviet Union (Russia)
+and United States
+(New Mexico); associated
+with Ips subelongatus
+(larch bark beetle)
+"]
+	035 -> 036 [label="Spicules are straight
+or slightly curved
+ventrally, convex on
+their dorsal side
+"]
+	036 -> "sexdentati Rilhm" [label="Spicules about 50
+μm long.Female L=1.0-1.4
+mm; a= 16-19;
+b 5. 7-7
+.1; C 63-69;
+V 96%. Male
+L=0.73-0.95 mm; a=
+17-20; b =
+4.7-5.4; c =
+19-21.Germany and Soviet
+Union (Russia, Georgia);
+in the frass
+andthe rectum of
+Ips sexdentatus
+"]
+	036 -> 037 [label="Spicules up to
+40 μm long
+"]
+	037 -> "chal cographi (Fuchs)" [label="Body 0.6-0.8 mm
+long; female tail
+very short, 8-10
+μm. Female L=0.60-0.82
+mm; a 19-21;
+b = 4.7-4.8,
+c = 92-96;
+V = 95-96
+\.Male L=o.66-0.75 mm;
+a= 23-28; b
+= 4.7-5.4; c
+= 27-30.Germany and
+Soviet Union (Russia,
+Georgia); the larvae
+live in the
+rectum of Pityogenes
+chalcographus (six-toothed spruce
+bark beetles) (Scolytidae)
+"]
+	037 -> 038 [label="Body 0.8-1.2 mm
+long; female tail
+longer, 14-28 μm
+"]
+	038 -> "acuminati (Fuchs)" [label="Stoma shorter (16-19
+μm) and narrower,
+7-8 times as
+long as wide;larvae
+parasitic in rectum
+of the host.Female
+L=r;j': L0.94-1.14 mm;
+a= 19-25; b
+= 5.1-6.3; c
+= 54-67; V0.8-1.0
+mm; a= 18-22;
+b = 4.4-5.6;
+c = 22-23.Germany
+and Soviet Union
+(Russia);associated with Ips
+acumi-95\.natus
+"]
+	038 -> "piniperdae (Fuchs)" [label="Stoma longer (19-22
+μm) and wider,
+4-5 times as
+long as wide;larvae
+parasitic in body
+cavity of the
+host.Female L=0.94-1.23mm; a=
+19-22; b =
+4.7-6.l; c =
+44-56; V =
+94-95\. Male L=0.85-1.1
+mm; a= 19-20;
+b = 5.0-5.4;
+c = 24-30.Germany,
+France, Soviet Union
+(Russia, Georgia); associated
+withBlastophagus piniperdae
+"]
+	039 -> 040 [label="Female tail about
+twice as long
+as anal body
+diameter, conical, distinctly
+longer than the
+vulva-anus distance
+"]
+	039 -> 045 [label="Female tail 1
+to 1.5 times
+as long as
+anal body diameter,
+not longer (mostly
+shorter) than the
+vulva-anus distance
+"]
+	040 -> 041 [label="Stoma 20-28 μm,
+about twice as
+long as the
+head diameter
+"]
+	040 -> 043 [label="Stoma 14-17 μm,
+only 1.3-1.5 times
+as long as
+the head diameter
+"]
+	041 -> "ligniperdae(Fuchs)" [label="Tip of spicules
+ventrally curved; body
+0.9-1.4 unn long.9:L1.44
+mm; a= 18-20;
+b = 4.8-5.2;
+c = 14-24:
+V = 89-92\.o\":L1.1
+IIBII; a= 19-20;
+b = 4.6-5.1;
+C = 23-28.0.90-0.88-Germany;
+associated with Hylurgops
+ligniperda (Scolytidae)
+"]
+	041 -> 042 [label="Tip of spicules
+straight; body o.8-0.9
+mm long
+"]
+	042 -> "terebrana Massey" [label="Walls of stoma
+anteriorly convergent, esophagus
+corpus cylindrical. '?:
+L(!: L0.77-0.81 mm;
+a= 20; b
+= 4.2-4.3; c
+= 26-27; V0.75
+mm; a= 19;
+b = 4.1;
+c = 27.93%.United
+States (Texas); associated
+with Dendroctonus terebrans
+(black turpentine beetle)
+(Scolytidae, Bark Beetle)
+"]
+	042 -> "hylurgi Massey" [label="Walls of stoma
+parallel also anteriorly;
+esophagus corpus proximally
+swollen.Female L= 0.89-0.90
+mm; a= 17-19;
+b0.77-0.83 mm; a=
+19-22; b4.8-5.3; c
+= 24-25; V
+92%.4.4; C 22-29.United
+States (New York);
+associated with Hylurgops
+pinifex (Scolytidae, Bark
+Beetle)
+"]
+	043 -> "bicoloris Devdariani & Maglakelidze" [label="Female tail twice
+as long as
+the distance between
+vulva and anus
+or longer.Female L=0.57
+mm; a= 19;
+ba= 31; b
+= 5 .
+8; c =
+31.4. 7; C
+24; V 90%.
+Male L= 0.69mm;
+Soviet Union (Georgia);
+associated with Taphrorhynchus
+bicolor(Scolytidae, Bark Beetle)
+"]
+	043 -> 044 [label="Female tail at
+least 1.5 times
+as long as
+the distance between
+vulva and anus
+"]
+	044 -> "curvidentis (Fuchs)" [label="Cuticle finely but
+distinctly spotted; both
+esophagus portions about
+or the same
+length.<_j? : L(!:
+L0.60-0.78 mm; a=
+17-18; b0.57-0.67 mm;
+a= 16-19; b4.5-5.4;
+c = 20-22;
+V4.2-4.8; C =
+21-27.91%.Germany; associated with
+Ips curvidentis (Bark
+Beetle)
+"]
+	044 -> "gracilis Massey" [label="Cuticle not spotted;
+posterior portion of
+esophagus longer than
+the anterior.'?: L
+= 0.8 mm;
+a= 25; ba=
+29; b =
+5.1; c =
+29.5; C 27;
+V 93%. d'
+L O. 76
+mm;United States (Arizona);
+associated with the
+scolytid species Pseudohylesinus
+grandis (Silver Fir
+Beetles)
+"]
+	045 -> 046 [label="Female tail cupola-shaped
+with a pointed
+tip
+"]
+	045 -> 048 [label="Female tail conoid
+or rounded
+"]
+	046 -> "malii Devdariani & Kakulija" [label="The stoma is
+comparatively short, 13
+μm, about as
+long as the
+head diameter.~: L
+= 0.68-0.76 mm;
+a= 14-17; b
+= 5.0-5.5; c
+= 30-67; V
+= 93-97%. (!
+:L = 0.56-0.63
+mm; a =
+16-29; b =
+4;4-4.6; c =
+18-20.Soviet Union (Georgia);
+in the galleries
+of Scolytus mali
+"]
+	046 -> 047 [label="Stoma 18-21 \Jll,
+1.7-2 times as
+long as the
+head diameter
+"]
+	047 -> "welchi Devdariani" [label="Tip of the
+cupola tail very
+short, blunt, knob-like;
+arrangement of bursa
+papillae: 2+4+2+2 or
+2+3+1+2 pairs.Female L=0.86mm;
+A 28; b
+= 5. 8;
+c = 81;
+V = 97%.
+d' L O.
+79mm;a= 24; b
+= 5.1; c
+= 12.Soviet Union
+(Georgia); associated with
+Monochamus sutor.(Cerambycidae, Longhorn
+beetle)
+"]
+	047 -> "bidentati Ruhm" [label="Tip of the
+cupola tail longer,
+sharply pointed; arrangement
+ofbursa papillae: 2+3+2+3
+pairs.Female L=Male L=l.O-l.2mm;
+a= 24-27; b
+= 6.0-6.6; c
+= 57-70; V0.8-0.9
+mm; a= 26-31;
+b = 5.1-5.2;
+c = 26-28.95-96%.Germany
+and Soviet Union
+(Georgia); larvae parasitic
+in therectum of
+Pityogenes bidentatus (Scolytidae,
+Bark Beetle)
+"]
+	048 -> 049 [label="Female tail conical,
+sharply pointed; spicules
+straight. (Ten species
+difficult to distinguish)
+"]
+	048 -> 058 [label="Female tail rounded,
+blunt, occasionally with
+a very fine
+mucro; spicules slightly
+curved dorsally
+"]
+	049 -> 050 [label="Stoma twice as
+long as the
+head diameter
+"]
+	049 -> 055 [label="Stoma 1.5 times
+as long as
+the head diameter
+"]
+	050 -> 051 [label="Female tail 30-40
+μm long
+"]
+	050 -> 053 [label="Female tail 15-25
+μm long
+"]
+	051 -> "dendroctoni Ruhm" [label="Body tapering slowly
+behind vulva: vulval
+diameter 1.5 times
+aslong as anal
+diameter.9 : LMale
+L=0.88-1.050.75-0.98mm;mm;a =a =15-19;
+b18-19; b4.2-4.8;4.0-4.8;C =C
+=27-32; V31-35.93%.Germany and
+Soviet Union (Georgia);
+the larvae live
+in the rectumof
+Dendroctonus micans (Scolytidae)
+"]
+	051 -> 052 [label="Body narrowing rapidly
+behind vulva: vulval
+diameter twice as
+long as the
+anal diameter
+"]
+	052 -> "hectographi Ruhm & Chararas" [label="Arrangement of bursa
+papillae: 2+5+3 pairs.9:LMale
+L=0.78 mm; a=
+17-24; b =
+4.6-5.2; c =
+25-27; V0.66-0.78 mm;
+a= 19-21; b
+= 4.7-4.9; c
+= 25.79-92 %.France;
+associated with Dryocoetes
+hectographus (Scolytidae) .
+"]
+	052 -> "ateri (Fuchs)" [label="Arrangement of bursa
+papillae: 2+4+4 pairs.'f:
+L = 0.82-0.99
+mm; a= 15-17;
+b = 4.9-6.6;
+c = 23-31;
+V = 92-94%.
+Male L=0. 70-0.86
+mm; a =
+16-22; b =
+4. 7-5. 7;
+c = 19-21.
+Germany, Austria; in
+the galleries of
+Hylastes ater and
+Hylastes cunicularius (bark
+beetle)
+"]
+	053 -> "villosi Riihm" [label="Arrangement of bursa
+papillae 2+4+4 pairs.Female
+L=Male L=0.55-0.72 mm;
+a= 17; b
+= 4.5-4.9; c
+= 32-39; V
+= 92-93%.0.56-0.71 mm;
+a= 22-23; b
+= 4.2-5.1; c
+= 23-24.Germany; associated
+with Dryocoetes villosus
+(Scolytidae)
+"]
+	053 -> 054 [label="Arrangement of bursa
+papillae: 2+5+3 pairs
+"]
+	054 -> "bellifonti Lieutier & Laumond" [label="Spicules very slender,
+almost twice as
+long as tail.Female
+L=Male L=0.56-0.70 mm;
+a= 19-26; b0.43-0.59
+mm; a= 20-26;
+b3.8-5.0; c =
+25-37; V3.6-4.4; C
+= 20-24.92-94%.France; in
+the tunnels of
+Ips typographus (Scolytidae
+"]
+	054 -> "autographi (Fuchs)" [label="Spicules not so
+slender, as long
+as tail.Female L=Male
+L=0.72-0.92 mm; a=
+16-21; b0.62-0.80 mm;
+a= 20-22; b4.8-5.3;
+c = 29-59;
+V4.4-5.1; C =
+21-34.92-95%.Germany and Soviet
+Union (Russia); associated
+with Dryocoetesautographus (Scolytidae)
+"]
+	055 -> "opaci Riihm" [label="Spicules 32 μm
+long.Female L=(!: L0.
+7-1.0 mm; a
+17-18; b 4.3-5.2;
+C 23-29; V
+91-93%.0.52-0.84 nun; a=
+19-20; b =
+3.8-4.5; c =
+23-29.Germany, Soviet Union
+(Russia); in galleries
+of differentHylastes species
+(Scolytidae)
+"]
+	055 -> 056 [label="Spicules 40-50 μm
+long
+"]
+	056 -> "cryphalophila Ruhm" [label="Spicules 1.5 times
+as long as
+tail; stoma 14-16
+μm long, 1.3
+timeslonger than head
+diameter.Female L=Male L=0.7-1.1
+mm; a 16;
+b = 4.7-6.6;
+c = 28-40;
+V = 93-94%.0.63-0.84
+mm; a= 18-22;
+b = 5.1-5.7;
+c = 24-26.Germany;
+associated with Cryphalus
+piceae ( Scolytidae)
+"]
+	056 -> 057 [label="Spicules not longer
+than tail; stoma
+16-24 μm long,
+1.6 times longer
+than the head
+diameter
+"]
+	057 -> "palliati (Fuchs)" [label="Arrangement of bursa
+papillae: 2+4+4 pairs.Female
+L=(!: L0.75-1.1 mm;
+a= 16-20; b
+= 5-6; c
+= 25-29; V
+= 92-94%.0.80-0.95 mm;
+a= 19-21; b
+= 4.8-6.0; c
+= 21-26.Germany, Soviet
+Union ( Russia,
+Georgia); associated with
+Hylurgops palliatus and
+Polygraphus polygraphus (Scolytidae)
+"]
+	057 -> "fuchsi Blinova & Gurando" [label="Arrangement of bursa
+papillae: 2+3+2+3+ pairs.Female
+L=0.97 mm; a=
+20; b =
+5.5; c =
+69; V =
+95%. cJ:La= 24;
+b = 5.1;
+c = 23.0.91
+mm;Soviet Union (Russia,
+Ukraine); associated with
+Blastophagusminor (Scolytidae)
+"]
+	058 -> "hastula Massey" [label="Distal end of
+gubernaculum reflexed, arrow-head
+like.0.67-0.75 mm; a=
+19-21; b =
+4.4-4.8; c =
+42-46; V 95%.0.62-0.67
+mm; a 25-26;
+b = 4.2-4.6;
+c 21-24.United States
+(Texas); associated with
+Ips grandicollis(Scolytidac )
+"]
+	058 -> 059 [label="The distal end
+of the gubernaculum
+is simple, not
+reflexed
+"]
+	059 -> "thornei Sudhaus" [label="Arrangement of bursa
+papillae: 2+3+5 pairs;
+spicules 40-48 μmlong;
+vulva lips plain.Female
+L=Male L=0.73-1.1 mm;
+a= 18-24; b
+= 4.0-5.3; c
+= 43-77; V0.60-0.89
+mm; a= 22-26;
+b = 4.3-5.1;
+c = 18-23.94-98%.France
+and United States
+( Utah, Colorado):
+in galleries ofdifferent
+species of Dendroctonus
+(Scolytidae)
+"]
+	059 -> 060 [label="Bursa papillae in
+other arrangement, spicules
+30-39 μm long;
+vulva lips protruding
+"]
+	060 -> "clunicula Massey" [label="Pairs of bursa
+papillae: 2+2+70. Female
+L=1.0 mm; a=
+20-22; b= 5.1-5.4;
+c = 56-58;
+V = 95%.
+Male: L =
+78-0.81 mm; a=
+23-24; b= 4.5.-5.4;
+c = 18-21.95.
+United States (Arizona);
+associated with Polygraphus
+hoppingi (Bark and
+Ambrosia Beetle)
+"]
+	060 -> 061 [label="Pairs of bursa
+papillae in other
+arrangements
+"]
+	061 -> "acanthocini Lazarevskaja" [label="Ten pairs of
+papillae 2+3+2+1+2.9 :
+LcJ: L0.52-0.99 mm;
+a= 18-26; bo.62-0.78
+mm; a= 15-24;
+b3.6-5.7; c =
+37-58; V4.0-5.8; C
+= 20-26.94-97%.Soviet Union
+(Russia); in the
+frass of Acanthocinus
+aedilis(Cerambycidae)
+"]
+	061 -> "ipini Massey" [label="Nine pairs of
+papillae: (2+1+3+3}Female L=
+0.66-0.95 mm; a
+20-23; b =
+4.4-5.1; C =
+73-108; V 95%.Male
+L= 0.61-0.75 mm;
+a = 21;
+b = 3.9-5.0;
+C = 19-23.United
+States (New York);
+associated with Ips
+pini (Scolytidae)
+"]
+	Protorhabditinae -> Paradoxorhabditis [label=""]
+	Paradoxorhabditis -> "paradoxa khera" [label="Stoma 21 μm
+long; female tail
+15-20 times as
+long as anal
+body diameter.Female L=
+0.90-0.97 mm; a=
+24; b =
+5.0-5.1; c =
+3.7-4.0; V 42%.Male
+L= 0.64-0.67 mm;
+a= 21-24; b
+= 4.0-4.5; c
+= 21.India; from
+the bak of
+a pond
+"]
+	Mesorhabditinae -> 063 [label=""]
+	063 -> 064 [label="Cheilostom cuticularized
+"]
+	063 -> 066 [label="Cheilostom not cuticularized
+"]
+	064 -> 094 [label="Lips with strongly
+cuticularized edges, labial
+region Teratocephalus-like
+"]
+	064 -> 065 [label="Lips without cuticu~arized
+edges, the labial
+region not Teratocephalus-like
+"]
+	065 -> Rhabpanus [label="Bursa pseudopeloderan: a
+short and thin
+tail filament reaching
+beyond the bursa
+"]
+	065 -> 097 [label="Bursa surrounding tail,
+peloderan
+"]
+	066 -> 067 [label="The female tail
+is very short,
+either broadly rounded
+or cupola-shaped, with
+a fine tip
+"]
+	066 -> 068 [label="The female tail
+is elongate, conical,
+pointed
+"]
+	067 -> Operculorhabditis [label="Vulva covered by
+a large, flap-like
+operculum; female tail
+cupola-shaped with the
+tip
+"]
+	067 -> Marispelodera [label="Vulva simple, devoid
+of operculum; female
+tail rounded, without
+tip
+"]
+	068 -> 089 [label="Bursa rudimentary, narrow,
+generally not reaching
+to tail tip
+spicules shorter than
+the tail and
+fused only at
+their tip
+"]
+	068 -> 069 [label="Bursa well developed,
+broad, regular peloderan;
+spicules longer than
+the tail and
+fused at least
+to 1/3 of
+their length
+"]
+	069 -> Crustorhabditis [label="Spicules fused to
+2/3 of their
+length; bursa crenate
+in its anterior
+half
+"]
+	069 -> 070 [label="Spicules fused to
+1/3 - exceptionally
+to 1/2 -
+of their length;
+bursa smooth
+"]
+	070 -> 071 [label="Distance between vulva
+and anus 2
+to 4 times
+as long as
+the tail
+"]
+	070 -> 073 [label="Distance between vulva
+and anus only
+slightly longer, or,
+in most cases,
+shorter than the
+tail
+"]
+	071 -> "megachilis (Sudhaus)" [label="Female tail cupola-shaped,
+about as long
+as anal body
+diameter.Female L=0.80-0.88 mm;
+a= 12-15; b
+= 3.7-5.7; c
+= 30-38; V
+= 85- 86%.
+Male L= 0.74-0.76
+mm; a= 15-17;
+b = 4.6-4.9;
+c = 47-48.Germany;
+in the nests
+of Megachile nigriventris
+(Hymenoptera,Megachilidae)
+"]
+	071 -> 072 [label="Female tail conical,
+1.5 to 3
+times longer than
+the anal body
+diameter
+"]
+	072 -> "irregularis (Korner in Osche)" [label="Bursa rather small,
+distally pointed, with
+10 pairs of
+papillae;female tail 1
+to 2 anal
+diameters.Female L= 0.54-0.88
+mm; a= 12-19;
+b = 3.9-6.2;
+c = 16-47;
+Va 80-85%. Male
+L=0.48-0.72 mm; a=
+14-22; b =
+3.6-5.8; c =
+30-41.Germany, Czechoslovakia, Hungary,
+Bulgaria, Soviet Union
+(Uzbekistan,Far East); in
+soil and rotting
+wood, larvae associatedwith
+Trichius fasciatus (Scarabaeidae)
+"]
+	072 -> "sudhausi Andr.issy" [label="Bursa well developed,
+distally rounded, with
+9 pairs of
+papillae;female tail longer
+than two anal
+diameters.Female L=0.49-0.56 mm;
+a= 18-20; b
+= 3.7-3.9; c
+= 19-21; V
+= 83-85 %.
+d' L =
+0.45-0.53 mm; a
+= 19-22; b
+= 3. 7-3.8;
+c = 25-30.Hungary;
+in soil
+"]
+	073 -> "juglandicola Fuchs" [label="Vulva quite near
+the anus, distance
+between vulva and
+anus at mostas
+long as anal
+body diameter or
+1/4 of tail
+length, respectively.Female L=0.50-0.74
+mm; a= 16-22;
+b = 4.8-7.0;
+c = 8.15;
+V = 87-91%.
+d' L =
+0.42-0.50 mm; a=
+18-19; b =
+4.6-4.8; c =
+26-31.Germany; under bark
+of tree
+"]
+	073 -> 074 [label="Vulva not so
+close to the
+anus, distance between
+vulva and anus
+at least double
+of anal body
+diameter, or nearly
+as long or
+longer than the
+tail.
+"]
+	074 -> "graciliformis (Goffart)" [label="Female tail about
+ten anal body
+diameters long, nearly
+as long as
+vulva-anus distance.Female L=
+0.8-1.0 mm; a=
+34-36; b 5.0-5.7;
+c = 6-9;
+V 78%. Male
+L= 0.53-0.75 mm;
+a= 26-28; b
+= 4-5; c
+30-31.Soviet Union (Far
+East) and Cameroon;
+in rotting fruits.
+The systematic position
+of this species
+is somewhat problematic
+"]
+	074 -> 075 [label="Female tail maximum
+six anal body
+diameters long
+"]
+	075 -> "anisomorpha (Sudhaus)" [label="Dorsal wall of
+promesostom with tooth-like
+inner projection, glottoidapparatus
+anisomorphic.Female L=0.65-0.76 mm;
+a= 15-22; b
+4.2-4.6; C 8.4-10.l;
+V=78-811. Male L=
+0.52-0.65 mm; a=
+15-22; b =
+3.6-4.3; c =
+33-40.Spain; in mouldy
+wood
+"]
+	075 -> 076 [label="Dorsal wall of
+promesostom without tooth-like
+projection, glottoid apparatus
+isomorphic
+"]
+	076 -> "cranganorensis(Khera)" [label="The esophagus is
+unusually long, with
+almost 1/3 of
+the total body
+length1 tail as
+long as six
+anal body diameters.Female
+L=0.42-0.50 mm; a=
+28-31; b73-761. d'
+unknown.3.5-3.7; C =
+9-101 V =India;
+terrestrial
+"]
+	076 -> 077 [label="Esophagus normal, about
+1/4 of total
+body length or
+shorter; tail mostly
+shorter
+"]
+	077 -> 078 [label="Distance between vulva
+and anus shorter
+than tail, and
+only 1-1.5times as
+long as vulval
+body diameter, respectively
+"]
+	077 -> 080 [label="Distance between vulva
+and anus as
+long or longer
+than tail, and2-2.5
+times as long
+as vulval body
+diameter, respectively
+"]
+	078 -> "szunyoghyi Andrassy" [label="Spicula large, longer
+than 50 μm
+( to 76
+μm); vulva far
+back, in80-1:!8% of
+body length. Female
+L=0.63-0.80 DDD; a=
+16-19; b =
+4.0-4.8; c =
+10-13; V =80-88%.
+Male L=0.59-0.75 mm;
+a= 14-18; b
+= 3.8-4.7; c
+= 22-51.Africa: Nigeria,
+Angola, Tanzania, Venezuela;
+probably alsoSoviet-Union (Uzbekistan,
+Far East); in
+soil, moss and
+decaying plant residues
+"]
+	078 -> 079 [label="Spicula smaller, shorter
+than 40 μm;
+vulva not so
+far, in 74-791of
+body length
+"]
+	079 -> "miotki (sudhaus)" [label="Female tail 6
+anal body diameters
+long; genital papillae
+10 pairs.Female L=0.49-0.79
+mm; a= 15-21;
+b = 4.1-5.5;
+c = 6.3-8.5;
+V =74-79 1.cf
+0.40-0.61 DDD; a=
+16-23; b =
+3.5-4.9; c =
+27-42.Yugoslavia; in mouldy
+wood
+"]
+	079 -> "inarimensis ( Meyl)" [label="Female tail four
+anal body diameters
+long; genital papillae
+nine pairs.Female L=0.44-0.46
+mm; a= 13-16;
+b = 3.8-4.2;
+c = 8.0-8.5;
+V =77-78%; Male
+L = 0.37-0.42
+mm; a =
+14-16; b =
+3.4-4.0; c =19-21.
+Germany, Hungary, Bulgaria,
+Italy, Soviet-Union (Russia,
+Kirghizia, Uzbekistan); in
+soil, hot spring(\"
+fumarole \") and
+frass of the
+larvae of a
+stag beetle (Lucanus
+cervus (Lucanidae))
+"]
+	080 -> "oschei (KOrner in Osche)" [label="Spicules are relatively
+thick and fused
+to 1/2 of
+their length.Female L=0.74-0.88
+mm; a= 17-19;
+b = 3.8-4.5;
+c = 10-12;
+V = 79-81%.
+Male L=0.50-0.93 mm;
+a 18-21; b
+3.9-4.6; C=20-23. Germany,
+Czechoslovakia; in rotten
+wood
+"]
+	080 -> 081 [label="Spicules are slender,
+often very long
+and fused to
+1/4 or 1/3
+of their length
+"]
+	081 -> 082 [label="Arrangement of bursa
+papillae: 2+4+3 pairs
+"]
+	081 -> 083 [label="Arrangement of bursa
+papillae: 2+5+3 pairs
+(the 6th pair
+is sometimes minimal)
+"]
+	082 -> "tenuispicula( KOrner in Osche)" [label="Stoma 20 μm
+long, buccal tube
+(promesostom) narrow, 8-9
+timesas long as
+wide.Female L=0.76-0.94 mm;
+a = Â·14-18;
+b = 6.1-7.4;
+c = 13-171
+V =84-87%. c:J':
+L = 0.56-0.70
+mm; a= 16-24;
+b = 5.6-6.2;
+c = 30-34.Germany;
+in frass of
+beetles living in
+wood
+"]
+	082 -> "belari (Nigon)" [label="Stoma .13-16 μm
+long; buccal tube
+wide, only four
+times as long
+as wide.Female L=O.
+7 mm; a
+= 18; ba=
+13; b =
+4.3; c 33.5;
+C 10; V
+d' L 0.9mmGermany,
+France, Fiji Islands,
+Australia; terrestrial
+"]
+	083 -> "spiculigera (Steiner)" [label="Three papillae of
+the second group
+(papillae 4, 5
+and 6) are
+proximally fused.Female L=
+0.41-0.94 mm; a=
+15-25; b= 3.4-5.31;
+c= 8-14; V
+= 78-84%. Male
+L=0.37-0.62mml; a= 15-22;
+b = 3.4-4.9;
+c = 28-40.
+Holland, Germany, Switzerland,
+Austria, Hungary, Czechoslovakia,
+Bulgaria, Spain, France,
+Greece, Poland, Soviet
+Union (Russia, Lithuania,
+Kazakhstan, Uzbekistan, Far
+East); Egypt, Canary
+IslandsSouth Africa; Canada,
+United States (California,
+Wisconsin, NewJersey, Pennsylvania);
+Hawaii, Fiji Islands,
+New Zeland; in
+terrestrial habitats, viz.
+in soil, mushroom,
+rotten wood, mould,
+compost, cow- and
+horse dung
+"]
+	083 -> 084 [label="The papillae mentioned
+above are not
+fused proximally
+"]
+	084 -> "africana Andrassy" [label="Labial papillae distinctly
+curved inwards; the
+5th and 6th
+bursalpapillae shorter than
+the others.Female L=0.68-0.71
+mm; a= 17-21;
+b = 4.3-4.61
+c = 9.0-9.7;
+V78-80%. d: L
+= 0.49-0.55 mm;
+a= 16-18; b
+= 3.5-3.9; c
+= 20-22 Congo
+Republic; in soil
+"]
+	084 -> 085 [label="Labial papillae straight;
+either the 6th
+or the 7th
+of bursal papillae
+shorter than the
+other
+"]
+	085 -> "longespiculosa (Schuurmans Stekhoven)" [label="Spicules proximally hooked;
+the 6th papilla
+shorter than theothers.~:
+L = 0.65-0.85
+mm; a= 13-20;
+b = 4.1-5.4;
+c = 10-15;
+V=80-84%. Male :
+L = 0.46-0.77mm;
+a= 13-19; b
+= 3.2-5.3; c
+= 26-53.Kenya, Congo
+Republic, Zaire and
+Brazil; in soil
+and mould(Fig.13)
+"]
+	085 -> "ultima (Korner in Osche)" [label="Spicules not hooked
+proximally; the 7th
+papilla shorter than
+theothers.Female L=0.55-0.79mm; a=
+12-20; b =
+4.2-5.3; c =
+12-15; V =
+79-85%. Male L=0.45-0.67mm;
+a= 14-21; b
+= 3.5-5.0; c
+= 30-47.Germany, Czechoslovakia,
+Hungary, Soviet-Union (Moldavia,Uzbekistan);
+Egypt; Venezuela; in
+soil, mould and
+rottingwood
+"]
+	Crustorhabditis -> "scanica (Allg~n)" [label="Smaller species, 0.8-1.5
+mm long; spicules
+40-50 um long.
+Female L=0.86-1.52 mm;
+a= 16-24; b
+= 5.1-7.8; c
+= 8.7-16.4; V
+= 88-89 %.Male
+L= 0.78-1.17 mm;
+a= 15-23; b
+= 4.0-6.5; c
+= 31-49.On the
+coasts of Denmark,
+Italy, Egypt, Kenya,
+Madagascar and Chile;
+in groundwater, detritus
+and associated with
+Brachyuracrabs
+"]
+	Crustorhabditis -> 087 [label="Larger species, 2-4
+mm long; spicules
+longer than SO
+μm
+"]
+	087 -> "ocypodis (Chitwood)" [label="Arran:Jement of bursa
+papillae: 2+1+7 pairs;
+spicules 65-71 μmlong.(}:
+L ,. 1.97-2.87
+mm; a =
+25-39; b \"'
+6.8-8. 7; c
+= 14-181 V
+\"' 89-91 ,.
+Male L=2.0-2.38 mm;
+a= 27-40; b
+= 6.1-7.4; c
+= 71-98.Atlantic coast
+of the United
+States (North Carolina)
+and Columbia; associated
+with Brachyura crabs
+"]
+	087 -> "riemanni (Sudhaus)" [label="Arrangement of bursa
+papillae: 2+2+6 pairs;
+spicules 53-62 μm
+long.Female L=\"' 2.42-3.98
+mm; a= 14-23;
+b = 7.9-11.8;
+c = 20-36;
+V\"' 91-94 %.
+Male L=1.89-2.82 mm;
+a= 16-22; b
+= 6.5-9.1; c
+= 39-65.On coasts
+of Kenya; associated
+with Brachyura crabs
+"]
+	088 -> "stasileonovi Belogurov" [label="Stoma 32 μm
+long; vulva-anus distance
+2-3 times longer
+than tail, the
+latter shorter than
+the anal body
+diameter. Female L=1.40-1.84
+mm;a; 18-20; b
+= 5.8-6.1; c
+= 68-69; V
+= 85-98. Male
+unknown. Soviet Union
+(Vozrozhdeniya Island); in
+the littoral zone
+"]
+	089 -> 090 [label="The tail of
+a male is
+short, 1.5 times
+as long as
+the anal body
+diameter; spicules nearly
+as long as
+the tail
+"]
+	089 -> 091 [label="The tail of
+a male is
+at least three
+times as long
+as the anal
+body diameter. Spicules
+are much shorter
+than the tail
+(1/3 to 1/2
+of the latter)
+"]
+	090 -> "labia ta (Volk)" [label="Bursa completely surrounding
+tail tip, with
+6 pairs of
+papillae.Female L=0.56-0.94 mm;
+a= 11-21; b
+= 5.0-6.3; c
+= 6-11; V
+= 72-80%cf': L
+= 0.3-0.5 mm;
+a 13-15; b
+= 3.5-4.8; c
+14-21.Germany and Czechoslovakia;
+terrestrial, also in
+saprobichabitats
+"]
+	090 -> "paucipapilla ta (Paetzold)" [label="Bursa not reaching
+to tail tip,
+with seven pairs
+of papillae.Female L=o.54-0.65
+mm; a 17-20;
+b 4.1-4.8; C
+8-10; V =
+73-76%. d' L
+= 0.32-0.44 llllII;
+a= 14-18; b
+= 3.0-3.9; c
+= 15-17.Germany, Hungary,
+Soviet Union (Uzbekistan)
+Mauretania, Venezuela;mostly terrestrial
+but also in
+saline waters
+"]
+	091 -> "microbursaris (Steiner)" [label="Spicules nearly half
+as long as
+tail; medial swelling
+of esophagus weak
+Female L=0.35-0.52 mm;
+a= 14-18; b=4.0-5.1
+c=8-11 V=72-80; Male
+L=0.35-0.42; a= 18-22;
+b=5.1-6.2; c =
+10-11; Germany and
+South Africa; terrestrial
+"]
+	091 -> 093 [label="Spicules 1/3 of
+tail length; medial
+swelling of esophagus
+strong
+"]
+	092 -> "microbursaris (Steiner)" [label="The number of
+bursal papillae is
+three pairs.Female L=
+0.35-0.52 nun; a=
+14-18; bMale L=
+0.35-0.42 mm; a=
+18-22; b4.0-5.1; c
+= 8-11; V5.1-6.2;
+C = 10-11.
+Germany and South
+Africa; Terrestrial
+"]
+	092 -> "vernalis Andrassy" [label="Number of bursal
+papillae 5 pairsFemale
+L=0.41-0.56 mm; a=
+16-21; b =
+3.7-4.4; c72-74%. d'
+L = 0.30
+mm; a= 14;
+b = 3.4;
+c = 7.1.7.8-8.7;
+VVietnam; in garden
+soil
+"]
+	093 -> "littoralis (Yeates)" [label="The tail of
+female 7, that
+of male 4-5
+anal body diameters
+long; bursa papillae
+five pairs. Female
+L=0.60-0.72 mm; a=
+15-18; b =
+5.2-6.0; c =
+7.4-8.7; V =72-82%.
+Male L=0.33-0.44mm; a=
+17-20; b =
+3.6-4.2; c =
+6.6-7.0.New Zealand; in
+dune sand
+"]
+	093 -> "monhystera (Butschli)" [label="The tail of
+a female is
+3-5, that of
+a male 3-3.5
+anal body diameters
+long; bursa papillae
+nine pairs.9= L
+= 0.60-0.85 mm;
+a= 19-21; b
+= 3.5-5.0; c
+= 8-9; V
+66-80%. Male L=0.35-0.50
+mm; a= 18;
+b = 3.2-4.6;
+c = 6-9.Holland,
+Belgium, Germany, Switzerland,
+Austria, Hungary, Czechoslovakia,
+Rumania, France, Yugoslavia,
+Bulgaria, Italy, Denmark,
+Sweden, Poland, Soviet
+Union (Russia, Latvia,
+Lithuania, Belorussia, Georgia,
+Azerbaijan, Kazakhstan, Kirghizia,
+Tadzhikistan, Uzbekistan, Far
+East), India, Bali,
+Zaire, United States(New
+York), Brazil, Paraguay,
+Australia, Fiji Islands,
+New Zealand; terrestrial
+but occasionally also
+in aquatic habitats
+"]
+	094 -> 095 [label="The tail of
+a female conical
+"]
+	094 -> 096 [label="Tail of female
+cupola-shaped, spicate
+"]
+	095 -> "dentifera (Volk)" [label="Spicules fused distally
+for 1/2 or
+their length; metastom
+withsmall bristle-like denticles
+9 : L
+1.0-1.3 mm; a=
+13-27; b =
+4.7-7.1; c =
+10-34; V 83-94%.Male
+: L 0.66-1.0
+mm; a =
+19-21; b =
+3.6-5.2; c =
+10-24.Ge rmany and
+Bulgaria; terrestrial, in
+plant residus
+"]
+	095 -> "stiannula Anderson" [label="Spicules fused distally
+for 1/5 of
+their length; metastom
+withfine rasp-like structure.(j?:
+L 0.7-1.0 mm;
+a 20-26; b
+= 3.6-5.1; c
+= 10-14; V
+= 86-91%.Male L=
+0.52-0.76 mm; a=
+23-27; b =
+3.3-4.4; c =
+27-48.Canad a ;
+in soil, from
+roots
+"]
+	096 -> "mariannae Farkas" [label="Lips of two
+shapes: lateral lips
+large, triangular, pointed
+anteriorly,s ubventral and
+subdorsal lips small
+and narrow, spiculesfused
+for 3/4 of
+their length.Female L=
+0.74-1.35 mm; a=
+17-20; b =
+3.4-6.0; c =
+22-28; V =
+93%.cf: L 0
+. 70-0.87 mm;
+a 17-22; b
+3.4-4.7;c = 29-40.Hungary;
+in mushroom beds
+"]
+	096 -> "rovinjensis (Sudhaus" [label="Lips nearly uniform
+in shape; spicules
+fused for 40,
+of theirlength.~: L
+= 0.92-1.55 mm;
+a= 15-21; b
+= 4-6; c
+= 13-26; V
+= 67 (?)-93%.
+Male L=0.81-l.09mm; a=
+11-22; b =
+3.7-5.1; c =
+27-42.Yugoslavia; in dung
+"]
+	097 -> "tripartitum (Linstow)" [label="Genital papillae nine
+pairs: 2+2+5 or
+2+2+1+4.Female L= 0.9-2.2
+mm; a= 10-20;
+bcf: L 0.6-1.5
+mm; a= 10-22;
+b3.6-7.7; c =
+8-24; V 80-87%.3.3-7.0;
+C = 25-50.Holland,
+Germany, Switzerland, Hungary,
+England, Bulgaria,Italy, Soviet
+Union (Russia, Moldavia,
+Georgia, Tadzhikistan,Kazakhstan, Uzbekistan,
+Far East); China;
+Algeria, Congo Republic,South
+Africa; United States
+(Washington D.C., Utah,
+Missouri),Venezuela, Argentina, Brazil;
+Fiji Islands; terrestrial,
+generallyin plant residues
+(Fig.14)
+"]
+	097 -> "Scarabaeum (Sudhaus)" [label="Genital papillae ten
+pairs: 2+1+4+3.Female L=1.37-1.64
+mm; a =
+19-23; b =
+6.8-6.9; c ;,,
+14.5-14.6; V87-89%. cf
+L = 1.17-1.89
+mm; a= 18-19;
+b = 5.5-5.6;
+c = 37-69.Egypt;
+on the beetle
+.Scarabaeus sacer
+"]
+	Peloderinae -> 098 [label=""]
+	098 -> 099 [label="Bursa anteriorly closed,
+sucker-shaped
+"]
+	098 -> 100 [label="Bursa anteriorly open
+"]
+	099 -> 112 [label="The tail of
+female co~oid; spicules
+free; nine pairs
+of bursa papillae
+present
+"]
+	099 -> Coarctadera [label="The tail of
+female cupola-shaped, rounded
+or spicate; spicules
+distally fused; ten
+pairs of bursa
+papillae present
+"]
+	100 -> Phasmarhabditis [label="Buccal tube short,
+only once or
+twice as long
+as wide, cheilostom
+cuticularized; phasmids very
+prominent, dot-like
+"]
+	100 -> 101 [label="Buccal tube standard,
+at least four
+times as long
+as wide, cheilostom
+usually not cuticularized;
+phasmids small, pointlike
+"]
+	101 -> 102 [label="Spicules free; bursa
+papillae nine pairs
+"]
+	101 -> 104 [label="Spicules distally fused;
+bursa papillae ten
+pairs
+"]
+	102 -> 103 [label="Glottoid apparatus, each
+with 2 or
+3 bristle-like denticles
+"]
+	102 -> 119 [label="Glottoid apparatus, each
+with 3 or
+5 minacious warts
+"]
+	103 -> 118 [label="Cheilostom cuticularized; esophagus
+corpus is swollen,
+bulb-like
+"]
+	103 -> 105 [label="Cheilostom not cuticularized;
+esophagus corpus not
+swollen, cylindrical
+"]
+	104 -> Rhomborhabditis [label="Two first pairs
+of genital papillae
+lying out of
+bursa; tail of
+female rounded
+"]
+	104 -> 134 [label="Every pair of
+genital papillae lying
+on the bursa;
+tail of femalespicate
+"]
+	105 -> "dolichura (Schneider)" [label="Rectum of female
+unusually long, about
+3 times as
+long as ahalbody
+diameter.Female L=0.7-1.1 mm;
+a= 14-20; b
+5.3-8.6; c =
+8-11; V 49-55%Male
+L=0.5-0.9 mm; a=
+16-22; b 4.5-5.8;
+c = 19-30.Germany,
+Austria, Czechoslovakia, Hungary,
+Poland, Bulgaria,Italy, Soviet
+Union (R\lssia, Kazakhstan,
+Uzbekistan, Far East);Sri
+Lanka; Algeria, Egypt;
+United States; New
+_Zealand; in soil,decayed
+plant material and
+especially in rotten
+wood
+"]
+	105 -> 106 [label="The rectum of
+a female is
+a standard length,
+1 to 1.5
+times as long
+as the anal
+body diameter
+"]
+	106 -> "carpathica (Soos)" [label="Tail of female
+about three anal
+body diameters long.~:
+L = 0.43-0.70
+mm; a= 17-20;
+b = 3.6-4.2;
+c = 9-12;
+VMale : unknown.50-53%Czechoslovakia
+and Soviet Union
+(Far East); in
+Sphagnum moors
+"]
+	106 -> 107 [label="The tail of
+a female is
+about six anal
+body diameters long
+"]
+	107 -> "rara (K5rner in Osche)" [label="Very small species,
+to 0.5 mm;
+labial papillae setose.~:
+L = o.30-0.46
+mm; a= 17-24;
+b = 3.9-4.6;
+c = 3.5-7.0;
+V =45-56%cf :
+unknown. Germany, Switzerland,
+Bulgaria, Corsica, Soviet
+Union (Far East),
+New Zealand; terrestrial,
+mostly in rotten
+wood
+"]
+	107 -> "debi!icauda (Fuchs)" [label="Body longer, about
+3/4 mm; labial
+papillae minute.Female L=0.75
+mm; a= 21;
+b 6.4; c
+= 10; V
+= 51%.r:!: L
+= 0.53 mm;
+a= 19; b
+4.7; c =
+24.Germany, Austria, Soviet
+Union (Russia, Lithuania,
+Uzbekistan);in litter and
+under bark
+"]
+	Phasmarhabditis -> 109 [label="The tail of
+a female cupola-shaped
+with a pointed
+tip, 1.5-2 anal
+body diameters long
+"]
+	Phasmarhabditis -> 111 [label="The tail of
+a female elongate-conoid,
+3-4 anal body
+diameters long
+"]
+	109 -> "nidrosiensis (Allg~n)" [label="Bursa small and
+narrow, hardly protruding
+from body contour;
+spiculestwice as long
+as tail.9 :
+Lcf: Ll.0-1.75 mm;
+a= 14-21; b
+= 3.6-4.6; c
+= 17-25; V=52-60%.0.90-1.72
+mm; a= 14-21;
+b = 3.2-4.71
+c = 25-53.On
+the coasts of
+Germany and Great
+Britain; marine
+"]
+	109 -> 110 [label="Bursa normal, well
+developed; spicules 1-1.5
+times as long
+as the tail
+"]
+	110 -> "papillosa (Schneider)" [label="Three pairs of
+bursa papillae lying
+preanal.Female L=ci': L1.6-3.4
+mm; a= 17-24;
+b1.2-2.4 mm; a
+17-26; b7.0-9.8; c
+= 23-35; V=
+49-53%.6.6-9.0; c =
+30-43.Germany, Austria, Hungary,
+Spain, Japan, Zaire;
+in soil andsaprobic
+biotopes; larvae parasitic
+in snails (Arionidae
+andLimacidae)
+"]
+	110 -> "valida (Sudhaus)" [label="One pair of
+bursa papillae lying
+preanal.No measurements.New Zealand;
+in littoral detritus
+"]
+	111 -> "neopapillosa(Mengert in Osche)" [label="Females and males
+equally common.Female L=<:/:
+L1.4-2.6 mm; a=
+14-20; b1.3-1.5 mm;
+a= 19-21; b7-10;
+c = 9-15;
+V= 47-53%.6-7; C
+= 25-28.Germany; terrestrial,larvae
+parasitic in Limacidae
+snails
+"]
+	111 -> "hermaphrodi ta (Schneider)" [label="Males extraordinarily rare,
+reproduction by hermaphroditism
+Female L =
+3. 1 mm;
+a = 18;
+b = 9;
+c= 24; V
+= 50 %.
+Male L= 2.0mm;
+a= 19; b=
+7; c= 34.
+Germany and France
+(Corsica); in saprobic
+habitats, larvae in
+snails (Arionidae)
+"]
+	112 -> 113 [label="Spicules are unusually
+long, 95mm; bursa
+arrow-shaped. Taiwan; from
+the intestine of
+a thrush avicola
+Schmidt & Kuntz
+"]
+	112 -> "" [label="Spicules much shorter,
+to 60 μm;
+bursa of the
+usual shape
+"]
+	113 -> "plicata (Volk)" [label="Tail of female
+short, as long
+as 1.5-2 anal
+body diameters; bursavelum
+finely gathered, with
+waved margin.9 :
+L(/: L1.24-1.85 mm;
+a= 16-22; b
+= 5.9-8.4; c
+= 23-35; V=56-66%.1.0-1.
+7 mm; a
+17-24; b =
+5.6-8.0; c 27-51.Germany
+and Kenya; terrestrial,
+especially in carcass
+"]
+	113 -> 114 [label="The tail of
+a female is
+8 to 10
+anal body diameters
+long; bursa velum
+not gathered, mainly
+with a smooth
+margin
+"]
+	114 -> "formosana (Yokoo & Okabe)" [label="Spicules about 50
+μm long; bursa
+distally obtuse.Female L=
+1.0-1.5 mm; a=
+16-27; b =
+5.o-9.8; c =
+5.6-7.0; V=46-51%.Male L=
+0.63-1.4 mm; a=
+14-28; b =
+3.3-6.6; c =
+13-28.Taiwan; associated with
+snails (Truncatellidae)
+"]
+	114 -> 115 [label="Spicules about 35
+μm long; bursa
+heart-shaped, distally more
+or less pointed.
+"]
+	115 -> "perrieri (Maupas)" [label="First group of
+bursa papillae consisting
+of three papillae.1.3
+-1.4 mm; a=
+24; b 7;
+c = 8;
+V=53%.0.9 mm; a=
+24; b =
+5; c =
+22.Algeria; terrestrial
+"]
+	115 -> 116 [label="The first group
+of bursa papillae
+consists of two
+papillae
+"]
+	116 -> "briggsae (Dougherty & Nigon)" [label="Arrangement of papillae:
+2+4+3 pairs9 :
+LMale L=1.1-1.5 mm;
+a= 12-17; V
+= 52%.0.95-1.2 mm;
+a= 17-22.Belgium, Great
+Britain, Israel, Canada,
+United States (California),
+Australia; terrestrial. Labs
+rear this species
+for laboratory investigations
+"]
+	116 -> 117 [label="Arrangement of papillae:
+2+1+3+3 pairs
+"]
+	117 -> "remanei (Sudhaus" [label="Bursa with finely
+waved margins anteriorly;
+females and malesnearly
+equally common.Female L=
+0.83-1.43 IIIID; a=
+16-24; b(f': L
+0.60-1.19 mm; a=
+16~24; b4.o-6.S; c
+= 4.9-B.5; v~4B-56%.3.6-6.6;
+C = 17-30.Germany;
+associated with snails
+(Arion sp )
+"]
+	117 -> "elegans (Maupas)" [label="Bursa with smooth
+margins; males very
+rare.1.0-1.8 mm; a=
+17-21; bc!: L
+0.7-1.3 mm; a=
+20-27; b5.1-8.5; c
+= 5.6-10; V=42-52%.4.5-6.7;
+C = 15-34.Germany,
+Czechoslovakia, France, Bulgaria,
+Italy, England, Denmark,
+Soviet Union (Russia,
+Georgia, Turkmenia, Kazakhstan,
+Kirghizia, Uzbekistan, Far
+East), China, Algeria,
+United States; terrestrial.
+Like C. briggsae,
+this species is
+very suitable for
+experimental purposes
+"]
+	118 -> "operosa (Andrassy)" [label="Lips broad, anteriorly
+flattened, head offset.Female
+L=0.8-1.0 mm; a
+14-18; b 5.2-5.9;
+c 10-ll;V =
+50-51%.cj': L =
+0.75-0.96 mm; a=
+13-17; b =
+3.8-5.3; c =
+21-39.Hungary and Soviet
+Union (Moldavia, Turkmenia,
+Kirghizia, Kazakhstan,Uzbekistan, Far
+East); in soil
+around roots
+"]
+	118 -> "bakeri (Riihm)" [label="Lips narrow, conoid,
+head not offset.Female
+L= 0.75-1.0 mm;
+a= 18-19; b
+= 4.3-4.9; c
+= 11-12; V
+=56-60%.Male L= 0.70-0.92
+mm; a= 18-19;
+b = 3.8-4.4;
+c = 27.Chile;
+associated with Calvertius
+tuberosus (Curculionidae)
+"]
+	119 -> 120 [label="The rectum of
+a female is
+2 to 3
+times as long
+as the anal
+body diameter
+"]
+	119 -> 121 [label="The rectum of
+a female is
+about as long
+as the anal
+body diameter
+"]
+	120 -> "pseudodolichura(Korner in Osche)" [label="Anterior part of
+esophagus with bulb-like
+swelling; tail tip
+offemale sharply pointed.~:
+L 0.9-1.2 mm;
+a= 15-20; b
+= 6.6-8.0; c
+= 7-8; V
+45-49%.(!: L 0.76
+mm; a= 20;
+b = 6.4;
+c = 25.Germany
+and Soviet Union
+(Uzbekistan); in rotten
+wood
+"]
+	120 -> "bengalensis (Timm)" [label="The anterior part
+of the esophagus
+is cylindrical. Females
+have a swollen
+tail tip. Female
+L=r;f: L1051.16-1.64 mm;
+a= 17-23; b;
+5.5-7.5; c =
+12-17; V=48-52%.0.84-1.37 mm;
+a= 19-29; b
+= 4.8-6.7; c
+= 27-48.On the
+coasts of Bangladesh,
+Kenya and Mexico;
+marine
+"]
+	121 -> "coffeae (Rahm)" [label="Esophagus corpus cylindricalq:
+Lr;f: Ll.O-l.2mm; a=
+19-24; b =
+3.9-5.8; c =3.4-6.0;
+V0.83-0.90 mm; a=
+19-21; b =
+4-5; c =
+30-31.59-64%.Brazi 1; on
+plant roots
+"]
+	121 -> 122 [label="Esophagus corpus proximally
+swollen
+"]
+	122 -> 123 [label="The tail of
+a female cupola-shaped
+with a tip
+"]
+	122 -> 125 [label="The tail of
+a female conical
+"]
+	123 -> "ninomiyai (Yokoo)" [label="Tail of female
+as long as
+anal body diameter,
+both cupola and
+tipequal in length.q:
+LMale L=1.0-1.54 mm;
+a= 10-20; b0.77-1.3
+mm; a= 12-26;
+b5.3-7.0; c =
+20-26; V3.8-6.2; C
+= 20-33.50-53%.Japan; terrestrial
+"]
+	123 -> 124 [label="The tail of
+the female is
+4-5 times as
+long as the
+anal body diameter,
+the tip 5-6
+times longer than
+the cupola
+"]
+	124 -> "seurati (Maupas)" [label="Spicules 23-30 μm
+long.Female L=Male L=I.
+1-1.5 mm; a
+17-24; b 7-8;
+c = 6.0-7.5;
+V = 40-46
+%.0.45-0.75 mm; a=
+21-23; b =
+4.0-5.6; c =
+23-24.Algeria; in decayed
+plant tissues
+"]
+	124 -> "buetschlii (De Man)" [label="Spicules 40-50 μm
+long.LL1.0-1.4 mm; a=
+20-23; b1.0-1.2 mm;
+a= 20-23; b5-6;
+c = 5.6-9.5;
+V5.Q-6.8; C =
+17-25.50-55%.Holland, Germany, Austria,
+Hungary, Bulgaria, Poland,
+Brazil,New Zealand; mostly
+in cow and
+horse dung
+"]
+	125 -> 126 [label="The tail of
+a female is
+more than six
+anal body diameters
+long (to 20
+anal body diameters)
+"]
+	125 -> 129 [label="The tail of
+a female, at
+most four anal
+body diameters long
+"]
+	126 -> 127 [label="Distance between the
+1st and 2nd
+bursa papillae is
+unusually long, about
+equal to an
+anal body diameter
+"]
+	126 -> 128 [label="Distance between the
+1st and 2nd
+bursa papillae is
+relatively short
+"]
+	127 -> "guenini (Altherr)" [label="Three pairs of
+papillae lying preanal;
+vulva behind middle
+of body.9 :
+Ld'' Lo.8-1.4 mm;
+a= 25-35; b
+= 4.5-6.5; c
+= 8-17; v
+= 56%.1.0-1.36 mm;
+a= 24-28; b
+= 5-7; c
+= 25-35.Switzerland; in
+soil
+"]
+	127 -> "viguieri (Maupas)" [label="One pair of
+papillae lying preanal;
+vulva before middle
+of body.Female L=a
+0.9-1.6 mm; a
+25-32; b 6.4-9.4;
+C 4-7; V
+= 41-49%.(j': L
+â€¢ 0.44-0.65 mm1
+a a 16-27;
+b = 3.8-5.0;
+c = 21-31.Germany,
+Italy, Soviet Union
+(Far East), Algeria;
+in soil anddecayed
+plants materials
+"]
+	128 -> "Eriderici(Hirschmann)" [label="Tail of female
+very long: 15-20
+times longer than
+anal body diameter;spicules
+26-31 μm long,
+gubernaculum lacking(?)2: L
+â€¢ 0.92-1.44 mm;
+aâ€¢ 14-33; b
+= 5.9-8.7; c
+= 2.7-3.9; v
+z40-41%. Male L=
+â€¢ 0.80-0.96 111112;
+a= 21-25; b
+= 5.0-6.2; c
+= 20-26.Germany and
+Italy; mostly on
+river-sides
+"]
+	128 -> "pellioides (Butschli)" [label="Tail of female
+shorter, 6-7 times
+as long as
+anal body diameter;spicules
+45-60 μm long,
+gubernaculum present.Female L=E
+0.8-1.8 mm; a=
+18-23; b0.5-0.8 mm;
+a= 19-25; b4.2-8.0;
+c = 6-8;
+V4.2-8.0; C =
+17-25.49-52%.Germany, Austria, Poland,
+Soviet Union (Russia,
+Uzbekistan),Japan, United States,
+Cuba, Fiji, Australia;
+in saprobic biotopes,especially
+in dung (Fig.17)
+"]
+	129 -> "marina (Bastian)" [label="Tip of female
+tail swollen, rounded.1.0-3.0Male
+L==0.8-2.6mm; a= 14-27;
+ba= 21-32; b4.6-10.0;
+c = 11-22;
+V =50-57%.4.5-8.2; C
+= 17-31.On the
+coasts of Europe,
+North Africa, the
+both Americas, Australiaand
+New Zealand, but
+also in freshwater
+biotopes in Germany,Hungary,
+Czechoslovakia and the
+Soviet Union (Russia)
+"]
+	129 -> 130 [label="Tip of female
+tail pointed, not
+swollen
+"]
+	130 -> "typica (Stefanski)" [label="TWo pairs of
+bursa papillae lying
+preanal.Female L=(j': L1.3
+mm1 a= 21;
+b a 9;
+c = 8;
+V = 50
+%.1.2 mm; a=
+20; b =
+9; c =
+9.Germany, Poland, South-West
+Africa, United States
+(Wisconsin);terrestrial, mostly in
+saprobic habitats
+"]
+	130 -> 131 [label="Three pairs of
+bursa papillae lying
+preanal
+"]
+	131 -> 132 [label="Distance between the
+1st and 2nd
+papillae 4-6 times
+longer than that
+between the 2nd
+and 3rd papillae
+"]
+	131 -> "Pellio (Schneider)" [label="Distance between the
+1st and 2nd
+papillae at most
+twice as long
+asas that between
+the 2nd and
+3rd papillae.Female L=
+1.3-2.2 mm; a
+z 18-23; b
+= 8-10; c
+z 13-17; V
+= 50-53%.<:f: L
+= 1.1-1.6 mm;
+a= 18-24; b
+6.5-9.0; c =
+40-45.Germany, Austria, Czechoslovakia,
+Switzerland, Spain (Menorca),France,
+Denmark, Soviet Union
+(Georgia), Canary Islands,
+UnitedStates, Chile; in
+soil and decayed
+plant material, but
+also associatedwith earthworms
+(Lumbricidae)
+"]
+	132 -> "hartmanni (Sachs)*" [label="Postanal bursa papillae
+separate, about in
+equal distance fromone
+another.'t: LMale L=0.80-1.85
+mm; a= 14-18;
+b0.64-1.23 mm; a=
+15-19; b5.1-8.9; c
+= 9-12; V=51-54%.4.4-6.9;
+C = 17-20.Germany
+and Soviet Union
+(Far East); in
+cow dung
+"]
+	132 -> 133 [label="Postanal bursa papillae
+are arranged in
+two groups, each
+containing three papillae
+"]
+	133 -> "insolita(Paesler)" [label="Stoma twice as
+long as labial
+diameter; anterior part
+of esophagus( from
+head to posterior
+end of median
+bulb) 1.3-1.4 timesas
+long as posterior
+part.'t : Lcf:
+L1.30-1.45 mm; a=
+19-21; b =
+8; c =
+15-16; V1.0-1.45 mm;
+a= 21-29; b
+= 6; c
+= 30-34.49-54%.Germany; found
+in a puddle
+"]
+	133 -> "roedi terranea (Sudhaus)" [label="Stoma nearly as
+long as labial
+diameter; anterior part
+of esophagusalmost twice
+as long as
+posterior part.Female L=(j':
+L0.85-1.74 mm; a=
+18-29; b =
+5.2-8.5; c =
+11-25;V= 51-55%.0.67-1.3 mm;
+a= 19- 35;
+b = 3.9-6.6;
+c = 21-42.On
+the coasts of
+the Mediterranea (Yugoslavia,
+Italy, Algeria),as well
+as in Germany
+and the Canary
+Islands; marine and
+terrestrial
+"]
+	134 -> "incilaria (Yokoo & Shinohara)" [label="Number of preanal
+bursa papillae 4-5
+pairs.1.0-1.2 mm; a
+15; b =
+5.0-6.6; c =
+30-38; V =
+52-55%.0.74-0.90 mm; a=
+15-16; b =
+6.6-6.9; c =
+27-31.Japan; from intestine
+of snails
+"]
+	134 -> 135 [label="Number of preanal
+bursa papillae 2-3
+pairs
+"]
+	135 -> 136 [label="Bursa with three
+pairs of preanal
+papillae; spicules fused
+for 1/4 of
+their length
+"]
+	135 -> 137 [label="Bursa with two
+pairs of preanal
+papillae; spicules fused
+for 2/3 of
+their length
+"]
+	136 -> "conica (Reiter)" [label="Tail of female
+conical; the 5th
+pair of bursa
+papillae considerablythicker than
+the other.Female L=cJ':
+L1.2-2.0 mm; a=
+16-23; b1.0-1.3 mm;
+a= 18-21; b5.6-8.4;
+c = 14-26;
+V5.0-6.5; C =
+20-32.55-58%.Germany, Austria, Hungary,
+United States (Utah),
+Venezuela; terrestrial,generally in
+decayed plant material
+(Fig.18)
+"]
+	136 -> "teres (Schneider)" [label="The tail of
+female cupola-shaped with
+tip ( occasionally
+showing a form
+being intermediate between
+conoid and cupola
+types); the 5thpair
+of bursa papillae
+not thickened.Female L=(!:
+L1.0-1.6 mm; a=
+15-20; b1.0-1.3 mm;
+a= 15-25; b5-7;
+C = 20-30;
+V5-7; C =
+20-25.53-60%.Holland, Germany, Austria,
+Czechoslovakia, Bulgaria, Italy,
+England, Poland, Sweden,
+Soviet Union (Russia,
+Estonia, Lithuania, Moldavia,
+Georgia, Kazakhstan, Kirghizia,
+Uzbekistan, Far East),
+Canary Islands, Egypt,
+Zaire; terrestrial, in
+soil and especially
+in saprobic habitats
+"]
+	137 -> "punctata (CObb)" [label="Tail of female
+elongate-conoid, 4 anal
+body diameters long.Female
+L= 1.2-2.s mm;
+a 15-28; b
+5.2-7.9; c 11-18;
+V= 49-591.Male L=
+0.98-1.55 mm; a=
+18-35; b =
+5.2-7.8; c =
+33-45.Holland, Germany, Czechoslovakia,
+Hungary, Italy, Soviet
+Union,United States (New
+York, Washington, Wisconsin);
+aquatic or semiaquatic,in
+detritus and on
+water plants
+"]
+	137 -> "strongyloides (Schneider)" [label="Tail of female
+either cupola-shaped with
+tip or conical,
+1-1.5 timesas long
+as anal body
+diameter.Female L= 1.0-2.3
+mm; a= 14-20;
+bMale L= 0.8-1.6
+mm; a= 15-23;
+b4.9-8.4; c =
+22-35; V4.9-6.3; C
+= 20-44.55-58%.Holland, Germany,
+Austria, Hungary, England,
+Bulgaria, Poland,Soviet Union
+(Russia, Estonia, Lithuania,
+Moldavia, Uzbekistan,Far East),
+Zaire, Canada, United
+States; terrestrial, in
+saprobicbiotopes; larvae in
+the fell of
+rodents
+"]
+	Coarctadera -> "cylindrica (Cobb)" [label="Tail of female
+bluntly rounded, hemispherical,
+without tip.Female L=0.9-1.Smm;
+a= 12-19; b
+= 4.1-7.l; c
+= 40-80; V=59-64%.Male
+: L =
+0.6-1.2 mm; a=
+16-22; b =
+4.6-6.0; c =
+17-33.Germany, Austria, Hungary,
+Bulgaria, Poland, Spain,
+Soviet Union(Russia, Lithuania,
+Moldavia, Uzbekistan, Far
+East), India, China,Egypt,
+Kenya, United States
+(California), Australia, New
+Zealand;in cow dung
+and rotting plant
+tissues, larvae associated
+with acari
+"]
+	Coarctadera -> 139 [label="The tail of
+the female cupola-
+shaped with a
+tip
+"]
+	139 -> 140 [label="Tip of tail
+longer than the
+cupola
+"]
+	139 -> 144 [label="Tip of t
+a il shorter
+than cupola
+"]
+	140 -> 141 [label="Three pairs of
+papillae lying preanal
+"]
+	140 -> 142 [label="Two pairs of
+papillae lying preanal
+"]
+	141 -> "tretzeli (Sachs)" [label="Head showing sexual
+dimorphism: lips of
+male inconspicuous.'?: LMale
+L=1. 5-3. 3
+mm; a 12-17;
+b 8-12; c
+= 28-33; V
+= 57-59%.0.64-0.76 mm;
+a= 15-18; b
+= 4.9-5.9; c
+= 28-36.Germany, Austria,
+Bulgaria and the
+Soviet Union (Uzbekistan);
+mostly in cow
+dung
+"]
+	141 -> "par (Andrassy)" [label="Head not showing
+sexual dimorphism, lips
+of both sexes
+conspicuous,similar.9 : LMale
+L=1.0 mm; a=
+18; b =
+7.1; c =
+27.5; V0.66 mm;
+a= 23; b
+= 4.3; c
+= 2159%.Hungary; in
+horse dung
+"]
+	142 -> "cystilarva (Volk)" [label="Tail of female
+4-5 anal body
+diameters long; vulva
+in middle ofbody
+length.Female L=Male :
+L1.20-1.74 mm; a=
+12-16; b =
+6.2-7.6; c =
+7.5-9.1; V=49-52%.0.88-1.0 mm;
+a= 11-12; b
+= 5.0-5.4; c
+= 24-46.Germany; in
+forest soil
+"]
+	142 -> 143 [label="The tail of
+a female at
+most two anal
+body diameters long;
+vulva well behind
+the middle of
+the body
+"]
+	143 -> "voelki (Sachs)" [label="Lateral lips conoid,
+anteriorly pointed, higher
+than submedian lips;labial
+region of both
+sexes similar in
+shape.Female L=Male L=1.5-3.6
+mm; a= 15-18;
+b = 7.6-9.Â£;
+c = 26-36;
+v0.88-1.6 mm; a=
+16-20; b =
+5.3-6.1; c =
+22-27.59-61%.Germany, Austria, Czechoslovakia;
+terrestrial, mostly in
+cowdung
+"]
+	143 -> "coarctata. (Leuckart)" [label="All lips rounded;
+labial region of
+both sexes showing
+sexual dirr~rphism:lips of
+male larger with
+setose papillae.Female L=
+1.2-1.6 mm; a=
+14-17; bMale L=
+0.9-1.0 mm; a=
+14-21; b5.8-7.9; c
+= 17-21; V4.3-5.5;
+C = 27-37.57-59%.Germany,
+Austria, Hungary, Czechoslovakia,
+Soviet Union (Far
+East)United States (Virginia),
+Fiji, Marquesas Islands;
+in cow dung
+andother saprobies
+"]
+	144 -> "kolbi(Sachs)" [label="The first pair
+of papillae lying
+out of bursa.Female
+L=1.2-1.3 mm; a
+15-16; b 5.9-7.9;
+c 22-28; V=56-58%.Male
+L=0.75-0.80 mm; a=
+16-18; b =
+4.4-4.61 c =
+16-20.Germany and Austria;
+in cow dung
+"]
+	144 -> 145 [label="The first pair
+of papillae lying
+within the bursa
+"]
+	145 -> "icosiensis (Maupas)" [label="Spicules 40-60 μm;
+stoma proximally bulging.Female
+L=0.80-1.86 mm; a=
+11-18; b =
+5.3-8.7; c =
+24-40; VMale L=0
+. 7-1.3 mm;
+a= 14-21; b
+= 4.0-6.6; c
+14-20.56-62%.Holland, Germany, Austria,
+Hungary, Poland, Soviet
+Union (FarEast), Algeria,
+United States; mostly
+in manure
+"]
+	145 -> "serrata(K~rner in Osche)" [label="Spicules 70-80 μm;
+stoma proximally not
+bulging.1.1-1.4 mm; a=
+11-13; b1.0-1.2 mm;
+a= 13-16; b4.6-5.9;
+c = 37-51;
+V4.8-5.9; C =
+29-41.57-61%.Germany, Hungary, England,
+Soviet Union (Kazakhstan,
+Uzbekistan);in soil and
+humus
+"]
+	Rhomborhabditis -> "stammeri (Vc3lk)" [label="Stoma 20 μm
+long; spicules 43-68
+μm long; bursa
+finely wawed; tailof
+female much shorter
+than anal body
+diameter.1.0-2.6 mm; a=
+11-15; b =
+6.8-10.6; c =
+23-48; V =53-59%.1.16
+mm; a= 16;
+b = 8.3;
+c = 21.Germany
+and Hungary ;
+in carrion and
+carrion beetles
+"]
+	Rhabditinae -> "Colporhabdi tis (p. I 34)" [label="Head Teratocephalus-like, i.e.
+lip margins strongly
+cuticularized, refractive, axils
+separating lips tubular
+"]
+	Rhabditinae -> 148 [label="Head, not Teratocephalus-like,
+lips normal, without
+cuticularized margins
+"]
+	148 -> Oscheius [label="Stoma unusually short,
+promesostom (buccal tube)
+as long as,
+or only a
+little longer than
+wide
+"]
+	148 -> 149 [label="Stoma well developed,
+promesostom at least
+twice as long
+as wide but
+generally much longer
+"]
+	149 -> 150 [label="Bursa is rudimentary,
+short and very
+narrow
+"]
+	149 -> 154 [label="Bursa norma 1,
+conspicuous
+"]
+	150 -> 151 [label="Each spicule with
+a long dorsal
+thorn; metastom provided
+with minute warts
+"]
+	150 -> 152 [label="Spicules without dorsal
+thorns; metastom provided
+with setosedenticles
+"]
+	151 -> Curviditis [label="The tail of
+a female cupola-shaped
+with a pointed
+tip; bursa papillae
+with ten pairs
+"]
+	151 -> Rhabditella [label="The tail of
+female conoid; bursa
+papillae nine pairs
+"]
+	152 -> Poikilolaimus [label="Amphids comparatively large,
+oval, behind lip
+region; genital papillae
+seven pairs
+"]
+	152 -> 153 [label="The amphids are
+very small, pore-like,
+on the lateral
+lips; genital papillae9
+pairs
+"]
+	153 -> Cuticularia [label="Cuticle strikingly loose,
+sack-like, bursa not
+separated from cuticle;
+tail cupola-shaped
+"]
+	153 -> Rhitis [label="Cuticle thin and
+tight, with separated
+bursa; tail conical
+"]
+	154 -> Discoditis [label="Bursa anteriorly closed,
+sucker-shaped
+"]
+	154 -> Rhabditis [label="Bursa anteriorly open,
+not sucker-shaped
+"]
+	Rhabditis -> 156 [label="Bursa pseudopeloderan, leaving
+a very short
+and thin tail
+tip-free
+"]
+	Rhabditis -> 160 [label="Bursa typical leptoderan,
+the free tip
+of tail conspicuous
+usually long
+"]
+	156 -> "Guignardi Maupas" [label="One pair of
+papillae lying preanalFemale
+L=rJ': L1.5 mm;
+a= 21; b
+= 7; c
+= 11; V=
+52%.0.86-1.1 mm; a=
+20-21; b =
+5-6; c =
+15-19.Germany and Algeria;
+in soil and
+associated with earthworms
+"]
+	156 -> 157 [label="Three pairs of
+papillae lying preanal
+"]
+	157 -> 158 [label="Stoma short, about
+as long as
+head diameter; tail
+of female2.5-3 anal
+body diameters long
+"]
+	157 -> 159 [label="Stoma distinctly (1.5
+times) longer than
+head diameter; tail
+of female 4-8
+anal body diameters
+long
+"]
+	158 -> "maupasi Seurat in Maupas" [label="Spicules 70-86 μm
+long.9 : LMale
+L=1.9-2.1 mm; a=
+12-14; b =8.6-9.6;
+c = 19-20;
+V= 52-54%1.2-1.7 mm;
+a= 12-18; b
+= 6.3-8.o; c
+= 19-25.Germany, Austria,
+Hungary, Algeria, Zaire
+; in soil,
+s a probichabitats
+, also in
+earthworms
+"]
+	158 -> "marionis Maupas" [label="Spicules 55-60 μm
+long.<?: LMale L=1.85-2
+. 05 mm;
+a= 20; b1.30-1.45
+mm; a= 26;
+b8; c =
+16; V6; C
+= 26.51%Germany, England,
+France; mostly in
+earthworms
+"]
+	159 -> "terricola Dujardin" [label="Tail of female
+6-8 anal body
+diameters long; rectum
+1.5-2 timesas long
+as diameter; median
+bulb of esophagus
+strong.Female L=cf': L1.2-2.0;a
+= 16-25; b
+= 6.2-8.8; c
+7-13; V=47-51%0.8-1.4 mm;
+a= 13-22; b
+= 5.7-7.4; c
+= 17-22.Holland, Belgium,
+Germany, Austria, Hungary,
+Denmark,Poland, Spain, France,
+Italy, Soviet-Union (Russia,
+Estonia,Lithuania, Georgia, Kazakhstan,
+Uzbekistan), Japan, Algeria,United
+States, Brazil ;
+in soil, compost
+and other saprobicmatters
+(Fig.21)
+"]
+	159 -> "wohlgemuthi V6lk" [label="Tail of female
+4-5 anal body
+diameters long; rectum
+as long asthree
+anal diameters; median
+bulb of esophagus
+quite weak.Female L=Male
+L=1.6-2.1 mm; a=
+16-19; b1.2-1.5 mm;
+a= 18-20; b6.4-7.6;
+c = 10-14;V=48-53%5.6-7.3;
+C = 22-30.Germany;
+in saprobic biotopes
+"]
+	160 -> 161 [label="The tail of
+a female is
+very long, filiform,
+12-15 times longer
+than the anal
+body diameter
+"]
+	160 -> 162 [label="The tail of
+the female is
+a maximum of
+eight times as
+long as the
+anal body diameter
+but generally shorter
+"]
+	161 -> "gracilicauda De Man" [label="Head offset; spicules
+stout; stoma almost
+twice as long
+as headdiameter.Female L=cf':
+L0.9 mm; a=
+30; b =
+4-6; c =
+3.5-3.8; V0.75 mm;
+a= 20; b
+= 4-6; c
+= 4.8-6.0.42%Holland, Germany,
+Austria, Hungary, Czechoslovakia,
+Sweden,Soviet Union (Russia);
+mostly in cow
+dung
+"]
+	161 -> "heteruroides Altherr" [label="Head not offset;
+spicules slender; stoma
+only as long
+as headdiameter.Female L=0.60-0.65
+mm; a= 25;
+b = 4.8-5.1;
+c 3.5-4.5; V44-46%
+. Male :
+L = 0.65
+mm; a 31;
+b 5; c
+= 3.5.Switzerland; terrestrial,
+in wet wood
+"]
+	162 -> 163 [label="The tail of
+a female cupola-shaped
+with a pointed
+tip
+"]
+	162 -> 165 [label="The tail of
+a female conical
+"]
+	163 -> "heterura 0rley" [label="Cupola part of
+tail twice as
+long as the
+anal body diameter.Female
+L=1.53 mm; a=
+25; b =
+6; c =
+4. Male: without
+measurements. Hungary; in
+liquid manure
+"]
+	163 -> 164 [label="Cupola part of
+tail at most
+as long as
+the anal body
+diameter
+"]
+	164 -> "producta (Schneider)" [label="Female tail 4
+anal body diameters
+long; esophagus with
+distinctmedial bulb.Female L=Male
+L=1.2-2.2 mm; a=
+14-23; b1.0-1.5 mm;
+a= 13-22; b5.5-7.3;
+c = 7-13;V
+=48-52%.5.0-6.8; C =
+13-21.Holland, Germany, Austria,
+Poland, France, Yugoslavia,
+Spain,Soviet Union (Russia),
+Nepal, Taiwan, Zaire,
+Annobon; in soiland
+humus
+"]
+	164 -> "intermedia De Man" [label="Female tail 2-2.5
+anal body diameters
+long; esophagus withoutmedial
+bulb Female L
+= 0.7-0.9 mm;
+a= 17-19; b
+= 4.3-4.5; c
+= 13-14; V
+=somewhat behind mid-body.
+Male L=0.7 mm;
+a= 17-19; b
+= 4.3-4.5;C =
+11-12.Holland, Czechoslovakia, Hungary,
+Bulgaria, Soviet Union(Russia,
+Georgia, Turkmenia, Kirghizia,
+Azerbaizhan, Uzbekistan,Far East);
+in soil and
+humus
+"]
+	165 -> 166 [label="The tail of
+a female is
+6-8 times longer
+than the anal
+body diameter
+"]
+	165 -> 170 [label="The tail of
+a female is
+3-4 times longer
+than the anal
+body diameter
+"]
+	166 -> "uliginosa so6s" [label="Buccal tube (promesostom)
+convergent in its
+middle Female L=0.63-0.78
+mm; a= 18-30;
+b = 3.8-4.5;
+c = 4.0-4.6;
+V47-53%.cf:unknown.Czechoslovakia; in Sphagnum
+moss
+"]
+	166 -> 167 [label="Buccal tube with
+parallel walls
+"]
+	167 -> 168 [label="Tail tip of
+male as long
+as bursa or
+longer
+"]
+	167 -> 169 [label="Tail tip of
+male much shorter
+than bursa
+"]
+	168 -> "longicaudata Bastian" [label="Larger species, above
+1 mm.Female L=
+~ 1.1-1.8 mm;
+a= 15-21; bcl':
+L 0.9-1.4 mm;
+a= 17-30; b5-8;
+c = 4.6-7.0;
+V4.6-5.5; C =
+9-14.47-55%.Holland, Germany, Austria,
+Hungary, Czechoslovakia, Bulgaria,Italy,
+Poland, Great Britain,
+Soviet Union (Russia,
+Lithuania, Moldavia,Kazakhstan, Tadzhikistan,
+Uzbekistan), United States,
+Cuba;in soil, mushroom,
+compost and dung
+"]
+	168 -> "seychellensis Potts" [label="smaller species, under
+1 mm.Female L=(j':
+L0.68-0.85 mm; a=
+21-22; b0.50-0.62 mm;
+a= 21-22; b5-6;
+C = 5-6;
+V5-6; C =
+7.50%.Germany, Austria, Seychelles
+Islands; aquatic
+"]
+	169 -> "blumi Sudhaus" [label="Anterior portion of
+esophagus cylindrical; three
+papillae lyingpreanal; larger
+species 1.3 to
+1.8 mm.Female L=1.32-1.82
+mm; a= 18-23;
+b = 4.8-6.l;
+c = 7.0-9.7;
+V=48-52 %. Male
+L=0.99-1.41 mm; a=
+17-22; b =
+4.2-5.9; c =
+17-27 .Spain; in
+dung
+"]
+	169 -> "reciproca Sudhaus" [label="Anterior portion of
+esophagus proximally swollen;
+two papillaelying preanal;
+smaller species :
+0.8 to 1.1
+mm.Female L=0.77-1.10 mm;
+a= 13-17; b
+= 5.2-7.5; c
+= 5.2-6.9; V
+=46-49%. Male L=0.52-0.73
+mm; a= 16-24;
+b = 4.6-5.8;
+c = 20-26.Germany,
+probably on carrion
+"]
+	170 -> "lucianii Maupas" [label="Stoma relatively short,
+1/15-1/25 of esophagus
+length.9 : LMale
+L=1.6-2.8 mm; a=
+16-20; b1.2-1.9 mm;
+a= 24-29; b5-10;
+C = 14-17;
+V6.6-8.0; C =
+29-45.48-54%.Algeria; in soil
+"]
+	170 -> 171 [label="Stoma longer, 1/8-1/12
+of esophagus length
+"]
+	171 -> "cucumeri s (Marcinowski" [label="The first pair
+of papillae lying
+out of bursa,
+befo_re it.Female L=0.8-1.2
+mm; a= 17-25;
+b = 5-7;
+c = 9-14;
+vulva slightlypost-equatorial.Holland, Belgium,
+Germany, Switzerland, Austria,
+Hungary, Czec hoslovakia,
+Denmark, Po land,
+Sweden, Bulgaria, Soviet
+Union(Russia, Estonia ,
+Belorussia, Lithuania, Moldavia,
+Georgia, Turkmenia,Kirghizia, Azerbaizhan,
+Kaz akhstan, Uzbekistan),
+India,Hainan , Brazil;
+t e rrestrial
+"]
+	171 -> 172 [label="The first pair
+of papillae lying
+on the bursa
+"]
+	172 -> "anomala Hertwig" [label="Tail o f
+female 4 a
+nal body diameters
+long; spicules 54-58
+μm long .Female
+L=cf: L1.0-2 .0
+mm; a= 14-17;
+b = 6.6-7.5;
+c = 13-14;
+V ~ 48-53%.1.3-1.5
+mm; a= 16;
+b = 6.6;
+c = 28.Germany,
+Austria, and United
+States; in earthworms
+"]
+	172 -> "caulleryi Maupas" [label="Tail o f
+female 2.5 to
+3 anal body
+diameters l ong;
+spicules39-48 umlong.Female L=cf:
+L1 . 9-2.4
+mm; 17-19; b
+= 9; c
+= 21-26; V
+= 50-52 %.1.05-1.3
+mm; a= 17-20;
+b 6; C
+= 2 3-30.Algeria;
+in soil
+"]
+	Discoditis -> "dubia (Bovien)" [label="Tail of female
+5 anal body
+diameters long; spicules
+free.<}: L<J: L1.06-1.12
+mm; a= 17-24;
+b = 5.5-6.8;
+c = 9-12;
+V = 50%.1.0-1.1
+mm; a 20-24;
+b = 6;
+c = 10.5.Germany
+and Denmark; in
+cow dung, larvae
+( \" Dauerlarven
+\"lon flies
+"]
+	Discoditis -> "maxima (Volk)" [label="Tail of female
+as long as
+anal body diameter
+or only slightlylonger;
+spicules fused; large
+species.1.7-3.7 mm; a=
+10-32; b 8-10;
+c = 26-64;
+V2.6 mm; a=
+21; b =
+6.7; c =
+43.53-59%.Germany and Bulgaria;
+on carrion beetles
+"]
+	Oscheius -> "insectivora (Korner in Osche)" [label="Tail of female
+shorter, 1/12-1/15 of
+entire body length;
+rectum3-4 times as
+long as anal
+body diameter; body
+large, 2-3 mm.Female
+L= 2.0-3.2 mm;
+a= 14-19; b(!:
+L 1.6-3.2 mm;
+a= 20-28; b8.8-13.5;
+c = 12-15;
+V = 47-50%.7.3-13;
+C = 21-47.Germany,
+France; associated with
+Lucanidae beetles Lucanuscervus
+and Dorus parallelopipedus
+"]
+	Oscheius -> "koerneri(Osche)" [label="Tail of female
+longer, 1/5-1/8 of
+entire body length;
+rectum aslong as
+anal body diameter
+or so; body
+smaller, 1-2 mm.Female
+L=(!: L1.2-2.0 mm;
+a= 17-28; b1.3-1.5
+mm; a 20-21;
+b6.2-9.8; C =
+5-8; V =
+46-48%.6.2-8.1; C =
+7-8.Germany and Bulgaria;
+in cow dung
+"]
+	Rhabditinae -> Colporhabditis [label=""]
+	Colporhabditis -> "coronigera(Altherr)" [label="Arrangement o f
+bursa! papillae: 3+4+3
+pairs; bursa enveloping
+2/3of tai 1
+length.9 : LcJ:
+L0.40-0.85 mm; a=
+19-34; b0.57-0.75 mm;
+a= 24-29; b3.4-4.1,
+c = 6.5-14;
+V=54-63%.3.4-4.1; C =
+14-18.Switzerland and p
+e rhaps soviet
+Union (Far East);
+terrestrial ..
+"]
+	Rhabditella -> "leptura(Cobb)" [label="Glottoid apparatus of
+metastom anisoglottoid, dorsal
+wall ofbuccal tube
+longer than the
+ventral one.Female L=
+0.8-1.5 mm; a
+= 33-36; b
+5.8-6.0; C =
+5-6; V =
+43-48%.(!: L 0.6-1.0
+mm; a =
+29-32; b 5.7-6.3;
+C = 4.5-6.0Germany,
+United States, Honduras,
+Brazil; terrestrial,usually in
+saprobic habitats
+"]
+	Rhabditella -> 177 [label="Glottoid apparatus of
+metastom isoglottoid, both
+dorsal andventral wall
+of buccal tube
+equally long
+"]
+	177 -> "pseudoelongata(Micoletzky)" [label="Stoma unusually long,
+3.5-3.8 times longer
+than head diameterand
+12-15 times longer
+than wide, respectively.Female
+L=d'' L0.8-2.9 mm;
+a= 20-32; b0.7-1.5
+mm; a= 21-29;
+b4-9; c =
+3.0-5.5; V =
+38-50%.4.0-6.5; C =
+3.5-6.0Germany, Switzerland, Austria,
+Hungary, Yugoslavia, Bulgaria,Spain,
+Italy, Poland, Soviet
+Union (Russia, Estonia,
+Lithuania,Moldavia, Turkmenia, Uzbekistan,
+Far East); Iran,
+India, China,Japan; Zaire,
+Zimbabwe; United States,
+Cuba, Venezuela, Chile;
+in saprobic biotopes,
+predominantly in dung
+"]
+	177 -> "octopleura (Steiner)" [label="Stoma 2.3-2.5 times
+longer than head
+diameter and 7
+times longerthan wide,
+respectively.Female L=0.76-1.2 mm;
+a= 20-32; b
+= 4.1-6.5; c
+= 3.6-6.0; V
+=38-50%. Male L=0.74-0.94
+mm; a= 21-29;
+b = 4.0-5.4;
+c = 3.5-7.0.Germany,
+India, Egypt, United
+States, Chile; in
+plant andanimal residues,
+occasionally on beetles
+"]
+	Curviditis -> "dimorpha (Sudhaus)" [label="Lateral papillae in
+head - especially
+those of female
+- abnormallylong, tentacle-like.Female
+L=0.85-0.99 mm; a=
+13-22; b =
+3.7-4.6; c =
+26-30; V =61-64
+%.Male :0.68-1.05 mm;
+a= 15-23; b
+= 3.8-5.0; c
+= 20-28.Greece; in
+rotten wood
+"]
+	Curviditis -> "curvicaudata (Schneider)" [label="Lateral papillae on
+head normal, minute.Female
+L= 1.1-1.8 mm;
+a = 15-24;
+b = 4
+:4-6.0; c =
+13-22; V =
+53-61%. o\": L
+= 1.0-1.6 mm;
+a= 17-25; b
+= 4.2-6.0; c
+= 12-20.Germany, Austria,
+Hungary, Yugoslavia, Italy,
+England, Poland,Faeroer Islands,
+Soviet Union (Russia,
+Estonia, Lithuania), Malaysia;terrestrial
+(in compost) and
+aquatic
+"]
+	Rhitis -> "hermaphrodita(Osche" [label="Tail of female
+very long, about
+1/4 of total
+body length, withcuticle
+shrunken characteristically behind
+anus.Female L=0.90-1.07 mm;
+a= 18-26; b
+= 7.0-8.1; c
+= 3.6-5.3; V=
+38-45%rf: unknown.Holland, Germany,
+Kenya; mostly in
+dung
+"]
+	Rhitis -> 180 [label="Tail of female
+shorter, its cuticle
+not shrunken
+"]
+	180 -> "inermiformis (Osche)" [label="Spicules 50-60 μm
+long, longer than
+tail.Female L= 0.94-1.5
+mm; a =
+17-24; b 5.7-7.1;
+C = 9-13;
+V=52-60%.r!: L 0.82-1.1
+mm; a =
+18-25; b 5.7-7.9;
+C = 19-23.Germany,
+Italy, Soviet Union
+(Russia, Lithuania), New
+Zealand;terrestrial
+"]
+	180 -> 181 [label="Spicules 32-50 μm
+long, shorter than
+tail
+"]
+	181 -> "hanuskai (Kokordak)" [label="Arrangement of postanal
+bursa papillae: 3+5
+pairs; bursa almostreaching
+to tail tip.Female
+L= 1.47-1.87 mm;
+a = 23-28;
+br!: L 0.84-1.06
+mm; a= 21-26;
+b5.4-7.5; c =
+10-14; V=50-53%.4.3-5.3; C
+= 8-17.Czechoslovakia; in
+mud
+"]
+	181 -> 182 [label="Arrangement of postanal
+papillae other; bursa
+leaving the half
+length of tail
+free
+"]
+	182 -> "inermis (Schneider)" [label="Firs t pair
+of genital papillae
+lying far before
+spicules; esophaguswith strong
+and rounded medial
+swelling.Female L= 0.6-2.0
+mm; a= 14-22;
+b = 4-11;
+c = 8-14;
+V =50-55\.r1: L
+o.4 6-1.4 mm;
+a= 13-23; b
+= 4-7; c
+= 13-20.Germany, Aus
+tria, Hungary, Spain
+(Menorca), Poland, Soviet
+Union(Lithuania, Far East),
+Japan, Zaire; terrestrial,
+mostly indung
+"]
+	182 -> "luci Andrassy" [label="First pair of
+genital papillae lying
+at proximal end
+of spicules;esophagus with
+an oblong medial
+swelling.Female L=0.88-1.0 mm;
+a = 17-21;
+b = 5.2-5.9;
+c = 9.5-10.2;
+V =50-53%. Male
+L=0.79-0.95 mm; a=
+17-20; b =
+4.7-5.5; c =
+10-15.India; in s
+oil
+"]
+	Cuticularia -> "regenfussi(Sudhaus)" [label="Female tail distinctly
+longer than anal
+body diameter; cuticle
+with longitudinal rows
+of fine dots;
+only females known.~
+: L =
+0.68-1.31 mm; a=
+15-30; b =
+3.4-5.7; c =
+13-21; V52-57%. cf:
+unknown.Sumatra; in compost
+"]
+	Cuticularia -> "oxycerca (De Man)" [label="Female tail shorter
+than anal body
+diameter; cuticle without
+dots;males frequent.Female L=
+0.5-1.1 mm; a
+14-20; b =
+4-5; c 30-60;
+Vcf': L o.54-1.17
+mm; a= 13-18;
+b = 4-5;
+c = 18-30.55-59%.Holland,
+Germany, Austria, Switzerland,
+Czechoslovakia, Hungary,Italy, Poland,
+England, Sweden, Soviet
+Union (Russia, Moldavia,Georgia,
+Uzbekistan, Far East),
+Zaire, Trinidad, Australia;
+terrestrial,mostly in organic
+residues (Fig.22)
+"]
+	Poikilolaimus -> "rotundus (Massey)" [label="Tail of female
+cupola-shaped with tip;
+larger species, 0.8-1.0
+mm.Female L=0.82-1.0 mm;
+a= 20-22; b
+= 4.4-5.0; c
+= 20-31; V
+=55-56%.<J: L =
+0.81 mm; a
+= 18-20; b
+= 4.1-4.5;Â· c
+15-25.United States (Arizona);
+associated with Dendroctonus
+adjunctus(Scolytidae)
+"]
+	Poikilolaimus -> 185 [label="The tail of
+female conical; smaller
+species; 0.4-0.6mm
+"]
+	185 -> "incisocaudatus (De Coninck)" [label="Tail 3 anal
+diameters, about 1/10
+of body length.fl:
+L = 0.
+56 mm; a
+= 20; bMale
+L= 0.60 mm;
+a= 27; b3.1;
+c = 9;
+V = 54
+\.3.0-3.1; C =
+11-13.Zaire; in liver
+moss
+"]
+	185 -> "piniperdae Fu~hs" [label="Tail 1.5-2 anal
+diameters, about 1/20
+of body length.LL0.4-0.6
+mm; a0.35-0.60 mm;18-23;
+b 3.3-4.5; C
+18-26; Va= 19-30;
+b = 3.0-4.6;
+c = 18-27.Germany,
+Spain, United States
+(Wisconsin); associated with
+certainspecies of Curculionidae,Scolytidae,
+Cerambycidae and Buprestidae(Coleoptera).
+The subspecies P.
+piniperdae panagrocerca Stdhaus,
+1980 has a
+little larger body,
+a longer female
+tail and a
+more reduced bursa.
+Found in Austria,
+on Sinodendron cylindricum
+(rhinoceros stag beetle)
+"]
+	Rhabditidae -> Ablechroiulinae [label=""]
+	Ablechroiulinae -> Rhabditoides [label="Bursa relatively narrow,
+rudimentary, observable only
+from medial view,
+with then pairs
+of papillae
+"]
+	Ablechroiulinae -> Ablechroiulus [label="Bursa normally developed,
+observable also from
+a lateral view,
+with nine pairs
+of papillae
+"]
+	Ablechroiulus -> 188 [label="The tail of
+the female is
+cupola-shaped, with a
+tip
+"]
+	Ablechroiulus -> 190 [label="The tail of
+a female is
+conoid
+"]
+	188 -> "anchisporus Andrassy" [label="Head continuous with
+neck region; tail
+4-6 anal body
+diameterslong.9' L 0.8-1.0
+mm; a =
+18-20; b =
+4.1-4.4; C =
+6-11; V=51-55%.d'' L
+l.0-1.1 mm; a
+= 22-24; b
+5.0-5.2; C =
+12-14.Ghana; in soil
+(Fig.24)
+"]
+	188 -> 189 [label="Head well offset;
+tail maximum 3
+anal body diameters
+long
+"]
+	189 -> "paraciliatus (Goodey)" [label="Tail longer than
+double anal body
+diametersft : L(!:
+L0.76-0.94 mm; a=
+18-19: b0.65-0.86 mm;
+a= 15-17; b4-5;
+C 16-19; V
+= 55-57%.3.6-5.2; C
+= 12-14.Germany, England,
+Malaysia, terrestrial
+"]
+	189 -> "ciliatus(Fuchs)" [label="Tail as long
+as anal body
+diameter.9 : L
+1.0 mm; a
+= 16-18; b
+5.6; C =
+21; V 57%.cf':
+L 0.9 mm;
+a = 16-20;
+b 5-6; C
+= 16.Germany; in
+rotting plant residues
+"]
+	190 -> "gongyloides(Reiter)" [label="Tail of female
+about 3 anal
+body diameters; distance
+between 1stand 2nd
+papillae about equal
+with that between
+2nd and 3rd
+papillae.Female L=(j': L1.0-2.8
+mm; a= 16-23;
+b1.0-1.6 mm; a=
+16-22; b4.8-8.0; c
+= 11-17; V
+=53-57%.4.8-6.5; C =
+21-27.Germany, Hungary and
+Poland; in soil
+and compost
+"]
+	190 -> 191 [label="The tail of
+a female is
+at least 5-6
+times longer than
+the anal body
+diameter; the distance
+between 1st and
+2nd papillae is
+more significant than
+that between 2nd
+and 3rd papillae
+"]
+	191 -> 192 [label="Bursa papillae 2
+and 3 as
+well as 5
+and 6 fused
+at base
+"]
+	191 -> 193 [label="Bursa papillae are
+all free
+"]
+	192 -> "dudichi Andrassy" [label="Body small, 0.5-0.6
+mm; spicules fused
+distally; a bisexual
+species.Female L= O.
+53-0.63 mm; a
+= 19-25; bcJ~
+L = 0.47-0.56
+mm; a= 18-23;
+b4.0-4.6; c =
+5.0-5.7; V=43-49%.3.5-4.2; C
+= 10-11.Vietnam; in
+fungi
+"]
+	192 -> "cristatus (Hirschmann)" [label="Body larger, 0.7-1.1
+mm; spicules separate;
+a hermaphroditespeciesâ€¢.Female L=0.72-1.14
+mm; a= 20-24;
+bcJ: not measured.4.7-6.8;
+C 4-6; V
+=43-51'.Germany and Czechoslovakia;
+in soil
+"]
+	193 -> 194 [label="Head offset; cuticle.at
+least on the
+anterior region, coarsely
+annulated and longitudinally
+striated; spicules distally
+pointed
+"]
+	193 -> 195 [label="Head practically not
+offset; cuticle hardly
+structured; spicules distally
+rounded
+"]
+	194 -> "maculosus Andrassy" [label="Two pairs of
+papillae lying preanal;
+distance between papillae
+2 and 3
+times longer than
+that between papillae
+3 and 4;
+body small, about
+1/2 mm. Female
+L=0.54-0.62 mm; a
+= 18-19; b43-
+45%. Male L=0.49
+mm; a= 17;
+b4.5-5.0; c =
+5.5-5.6; V4.7; C
+= 8.3.Congo Republic;
+in forest soil
+"]
+	194 -> "crenatus(Paesler)" [label="Three pairs of
+papillae lying preanal;
+distance between papillae2
+and 3 shorter
+than that between
+papillae 3 and
+4; body larger,1
+mm or more.1.0-1.6
+mm; a= 15-21;
+b~: L =
+0.8-1.4 mm; a=
+17-20; b4.9-6.5; c
+= 5-7; V
+= 47-51%.4.6-5.5; C
+= .9-14.Germany; in
+saprobic habitats
+"]
+	195 -> "acartus (Ruhm in Osche)" [label="Tail of female
+10 anal body
+diameters; body length
+about 1 mm.Female
+L=0.9-1.05 mm; a
+= 23; b
+= 5.6-6.0; c
+= 5; V
+= 47%.cJ: L
+= 0.67-0.85 mm;
+a= 21-22; b
+= 4.8-5.6; c
+= 5-6.Germany; in
+rotten wood
+"]
+	195 -> "broughtonalcocki (Buckley)" [label="Ta il of
+female 5-6 anal
+body diameters; body
+length 1.2 to
+1.9 mm.Female L=cf:
+L1.2-1 . 9
+mm; a 22-27;
+b0.75-1.72 mm; a
+= 23-28; b4.9-6.2;
+c = 7-12;
+V = 50
+%.4.2-5 . 8;
+C = 13-22.England;
+i n the
+fungous mass o
+f an ice-chest
+"]
+	Rhabditoides -> "longispina (Reiter)â€¢" [label="Labial cilia about
+30 in number;
+spicules 30 μm;
+tail of female4-5
+anal body diameters.Female
+L= 1. 2-1.
+9 mm; a
+15-20; b 6.3-9.2;
+c = 7-12;
+V 43-50%.Male L=0.9-1.3
+mm; a= 14-21;
+b 5.5-8.0; c
+= 8-11.Germany, Austria,
+Czechoslovakia, Poland, England,Soviet
+Union(Russia); in compost
+and cow dung
+"]
+	Amphidirhabditinae -> Amphidirhabditis [label=""]
+	Amphidirhabditis -> "longipapillata Andrdssy" [label="Labial papillae in
+two circles of
+which the posterior
+ones directedon female
+forward, on male
+backward; spicules 23-24
+μm long;tail of
+female 15 times
+longer than anal
+body diameter.Female L=1.02
+mm; a= 30;
+b 4.4; c
+= 3.8; V
+= 46%.Male L=
+0.92 mm; a=
+28; b 4.6;
+c = 4.6.New
+Caledonia; in forest
+litter (Fig.26)
+"]
+	Stomachorhabditinae -> Stomachorhabditis [label=""]
+	Stomachorhabditis -> "borealis(Kreis)" [label="Tail shorter, about
+five anal body
+diameters; vulva a
+little postmedial.Female L=0.91-0.97
+mm; a= 16-23;
+b = 4.3-5.2;
+c = 9.4-10.7;
+V = 55%.cf
+unknown. Iceland; in
+s oil of
+the coastal region
+"]
+	Stomachorhabditis -> 199 [label="Tail longer, about
+20 anal body
+diameters; vulva far
+premedial
+"]
+	199 -> "fastidiosa (Massey)" [label="The 1st pair
+of papillae is
+one spiculum length
+before spicules. Female
+L=0.79-0.81 mm; a=
+22-27; b =
+5.4-5.8; c =
+4.4 (3.5 calculated
+from Massey's drawing);
+V = 42%.
+Male: L =
+0.62-0.64 mm; a=20-23;
+b= 4.1-4.8; c
+= 3.3-5.2. United
+States (Mississippi); associated
+with Reticulitermes flavipes(Isoptera)
+"]
+	199 -> "vietnamica Andrassy" [label="The 1st pair
+of papillae level
+with spicules.Female L=
+o. 72mm; a
+= 25; b
+= 5 .1;
+C = 2.7;
+V = 38%.c!:
+L 0.65-0.78 mm;
+a 24-27; b
+5.0-5.2; C =
+2.4-2.9.Vietnam; terrestrial (Fig.28)
+"]
+	Rhabditoidea -> Odontorhabditidae [label=""]
+	Odontorhabditidae -> Diploscapteroides [label="Cheilorhabdions strongly cuticularized;
+tail of female
+conoid
+"]
+	Odontorhabditidae -> Cephaloboides [label="Cheilorhabdions slightly cuticularized;
+tail of female
+cupola shaped
+"]
+	Diploscapteroides -> "brevicauda Rahm" [label="Tail short, only
+1/30-1/40 of entire
+body length; dorsal
+toothlying in the
+mid-region of promesostom.Female
+L= 1.6-1.7 mm;
+a= 18-20; b
+= 3.5-4.0; c
+= 36-37; V
+=56-66i.<::J' unknown.Brazil; in
+soil.
+"]
+	Diploscapteroides -> 202 [label="Tail longer, 1/5-1/15
+of entire body
+length; dorsal tooth
+lying in the
+posterior third of
+promesostom
+"]
+	202 -> "dacchensis (Timm)" [label="The tail of
+female 8-10 anal
+diameters long; the
+arrangement of genital
+papillae 3+1+3+2 pairs.
+Female L= 0
+.77-1 . 2
+mm; a= 19-24;
+b = 4.2-4.7
+; c =
+4.5-7; V =
+50-52% .cf' :
+L = 0.
+60-0 .74 mm;
+a= 19-30; b
+= 3 .6-4.
+3 ; c
+= 7.4-12. Bangladesh
+and Viet Nam;
+found in rotting
+banana
+"]
+	202 -> "chitinolabiatus(Schneider)" [label="Tail of f
+emale 4-5 anal
+diameters long; arrangement
+of genitalpapillae 4+3+2
+pairs .9 :
+L 0.8 mm
+; a= 24-25;
+b = 3.8;
+c = 12;
+V = 55%.cJ
+: L o.
+7 mm; a
+= 30; b
+= 3 .
+2; c =
+15.Sumatra; in phytothermae
+"]
+	Cephaloboides -> "musicola (Rahm)" [label="Buccal tube broad,
+only 2-2.5 times
+longer than wide;
+female tail about
+three anal body
+diameters.Female L=0.8-1.1 mm;
+a= 16-21; b
+= 3.8-4.5; c
+= 11-15; V=54-57%.Male
+L= 0.64-1.0 mm;
+a= 15-25; b
+= 3.3-4.5; c
+= 8-14.Bangladesh and
+Brazil; in and
+around rotting banana
+residues(Fig. 30)
+"]
+	Cephaloboides -> "pseudoxycerca(Goodey)" [label="Buccal tube narrow,
+6-8 times longer
+than wide; female
+tail 1.5-2anal body
+diameters.Female L=0.96-1.2 mm;
+a= 13-20; b
+= 3.8-5.0; c
+~ 17-19;V= 56-59%.cJ:
+L = 0.8-1.1
+mm; a c
+13-15; b =
+4.0-5.5; c =
+13-21.Germany and England;
+in dung
+"]
+	Diploscapteridae -> Diploscapter [label=""]
+	Diploscapter -> 205 [label="Vulva far back,
+about 3/4 of
+body length
+"]
+	Diploscapter -> 206 [label="Vulva in 1/2
+to 2/3 of
+body length
+"]
+	205 -> "rhizophilus Rahm" [label="The tail of
+female 9-10 anal
+body diameters. Â·2:
+L = o.56-0.76
+mm; a= 15-21;
+b = 3.5-4.1;
+c = 7.9-9.3;
+V=66-80%.~: L =
+0.76-0.92 mm; a=
+17-25; b 3.4-4.31
+c = 21-23.Czechoslovakia,
+Bulgaria, Soviet Union
+(Lithuania, Ukraine, Moldavia,
+Georgia, Tadzhikistan, Azerbaijan,
+Kazakhstan, Uzbekistan), Brazil;
+in soil and
+plant residues
+"]
+	205 -> "nodifer Mihelcic" [label="Tail of female
+4 anal body
+diameters.Female L= 0.40-0.45
+mm; a= 20;
+b = 4;
+Cd': unknown.5.3; V
+70-85%.Austria; terrestrial
+"]
+	206 -> "cylindricus Rahm" [label="The esophageal corpus
+is continuous with
+the isthmus.Female L=?
+; a= 12;
+b = 3.7;
+c = 8;
+V = 60%.
+(All data calculated
+from Rahm's drawing)
+Male unknown. Brazil;
+in soil
+"]
+	206 -> 207 [label="The esophageal corpus
+separated from the
+isthmus
+"]
+	207 -> 208 [label="The stoma is
+short, about as
+long as the
+head diameter
+"]
+	207 -> 209 [label="Stoma longer, minimum
+1.5 times longer
+than the head
+diameter
+"]
+	208 -> "libycus Penso" [label="Tail of female
+4 times longer
+than anal body
+diameter; stomatalwalls parallel.Female
+L=0.65mm; a= 36-41;
+V = 66%.
+Male L=0.50-0.55 mm.Libya;
+terrestrial
+"]
+	208 -> "orientalis Kannan" [label="Tail of female
+2.5-3 times longer
+than anal body
+diameter; stomatalwalls slightly
+concave.Female L=0.5 mm;
+a= 12; b
+= 4.9; c
+= 10.7; V
+= 56%. Male
+:unknown.India; terrestrial
+"]
+	209 -> "lycostoma Volk" [label="Cuticle smooth; esophageal
+corpus cylindrical, longer
+than isthmusand terminal
+bulb together9 :
+L o.46-0.58 mm;
+a= 13-17; b(j:
+L 0.35-0.42 mm;
+a= 12-15; b5.5-6.1;
+c = 6.6-7.5;
+V= 48-59%.4.5-5.5; C
+= 11-17.Germany, Soviet
+Union (Far East),
+United States; in
+soil andcompcst, larvae
+in ants (Iridomyrmex
+sp.)
+"]
+	209 -> 210 [label="Cuticle finely annulated;
+esophageal corpus is
+proximally swollen, shorter
+than isthmus and
+terminal bulb together
+"]
+	210 -> "cannae Rahm" [label="Stoma 36 μm
+long; vulva in
+2/3 of body
+length; body longer
+than1/2 mm.Female L=(/:
+Lo.63-o.66 mm; a=
+16-17;b = 3.5;
+c = 6.5-6.6;
+v1.12 (?) mm;
+a= 19; b
+= 3.8; c
+= 25.66%.Brazil; in
+soil
+"]
+	210 -> 211 [label="Stoma 16-25 μm
+long; vulva not
+so far back;
+body 1/2 mm
+or shorter
+"]
+	211 -> "coronatus (Cobb)" [label="Labial hooks with
+a pointed tip
+and labial membranes
+with zigzag borders.Female
+L= 0.3-0.5 mm;
+a= 15-18; b
+3.5-5.0; c =
+6-10; V =51-57%.d'=
+L 0.3-0.5 mm;
+a= 15-18; b
+4.0-4.5; c =
+14-23.The commonest species
+of the genus:
+Holland, Germany, Austria,
+Hungary, Czechoslovakia, Bulgaria,
+Yugoslavia, Italy, Poland,
+England, Soviet Union
+(Russia, Ukraine, Estonia,
+Lithuania, Moldavia, Georgia,
+Turkmenia, Kazakhstan, Kirghizia,
+Uzbekistan); China, Japan,
+Java; Algeria, Zaire;
+United States, Panama,
+Venezuela, Brazil, Peru,
+Paraguay; Fiji; in
+various terrestrial habitats,
+viz. in soil,
+litter, humus, moss,
+compost, decayed plant
+material (Fig.32)
+"]
+	211 -> "pachys Steiner" [label="Labial hooks with
+rounded tip, labial
+membranes smoothly bordered.Female
+L=0.3-0.4 mm; a=
+12-14; b =
+3.8-4.5; c Â·=
+7.6-9.2; V=55-58%.d'Â·unknown.soviet Unio
+n (Uzbekistan) and
+United States (Kentucky);
+terrestria 1
+"]
+	Bunonematoidea -> Bunonematidae [label="The right side
+of the body
+is ornamented with
+network and papillae,
+tubercles or shields.
+The left side
+bears five thin.
+longitudinal ridges
+"]
+	Bunonematoidea -> Pterygorhabditidae [label="The right side
+of the body
+is without network
+or papilla-like structures
+but ornamented with
+small rhomboidal fields,
+the left side
+bearing four longitudinal
+ridges
+"]
+	Pterygorhabditidae -> Pterygorhabditis [label=""]
+	Pterygorhabditis -> "pakistanensis Timm" [label="Neck region simply
+striated; esophageal corpus
+cylindrical; larger species.2'
+L = o.
+70-0.85 mm; a
+= 11-13; b
+3.7-4.4; C =
+8-9; V=64-65%.c/: L
+= 0.54-0.67 mm;
+a = 10-13;
+b 3.4-4..2; C
+= 10-12.Bangladesh; in
+damp straw
+"]
+	Pterygorhabditis -> 215 [label="Neck region provided
+with large oval
+shields formed by
+flattened transverse striae;
+esophageal corpus with
+bulb-like swelling; smaller
+species
+"]
+	215 -> "panopla Bernard" [label="One oval shield
+on the neck
+region; right body
+side with longitudinalridges;
+bursa papillae all
+postanal.2' L =
+0.47-0.57 mm; a=
+12-13; b =
+3.5-4.2; c =
+13-16; V=50-58%.c!: L
+= 0.44-0.51 mm;
+a= 14-18; b
+= 3.4-3.9; c
+= 15-20.United States
+(Tennessee); in litter
+and under bark
+"]
+	215 -> "hungarica Andrassy" [label="Three oval shields
+on the neck
+region; right body
+side withoutdiscernible longitudinal
+ridges; four pairs
+of bursa papillae
+lyingpreanal.Female L=(!: L0.50-0.52
+mm; a= 13-16;
+b = 4.2-4.3;
+c = 8.2-9.5;V=53-54%.0.49
+mm; a= 16;
+b = 4.2;
+c = 21.Hungary;
+under bark of
+hornbeam tree
+"]
+	Bunonematidae -> Craspedonematinae [label="Right body side
+either with large
+shield-like structures or
+with crust-like swellings
+"]
+	Bunonematidae -> Bunonematinae [label="Right body side
+with network and
+with warts, papillae
+or longitudinal striae;
+no shields or
+crust-like swellings
+"]
+	Bunonematinae -> Bunonema [label="The right side
+of the neck
+with Adam's apple-like
+collar; warts paired
+and provided with
+internal thickened rods;
+only females known
+"]
+	Bunonematinae -> 219 [label="The right side
+of the neck
+without a collar;
+warts paired or
+unpaired, sometimes lacking,
+without internal rods;
+bisexual forms
+"]
+	219 -> Rhodonema [label="Warts or papillae
+absent, right body
+side, instead of
+them, ornamented with
+irregular, longitudinal striae
+"]
+	219 -> 220 [label="Warts or papillae
+present, no longitudinal
+striae on the
+right side
+"]
+	220 -> Serronema [label="Warts are simple,
+papilla- or rod-like,
+arranged in a
+single row
+"]
+	220 -> Rhodolaimus [label="Warts are composed
+of more than
+one element, forming
+wart-groups or fins,
+paired or unpaired,
+or building continuous
+rows
+"]
+	Serronema -> "dentatum(Paesler)" [label="The female's tail
+is about four
+anal body diameters,
+vulva-anus distance4 times
+longer than the
+tail; spicules 21
+μm long.Female L=0.24-0.30
+mm; a= 13-16;
+b<1: L =
+O. 23-0. 25
+mm; a =
+15-16; b3.3-4.0; c
+= 6-12; V3.8;
+c = 7.5.50-57%.
+Germany and Bulgaria;
+in mushroom cultures
+"]
+	Rhodolaimus -> 223 [label="Warts or wart
+groups arranged in
+a single row
+"]
+	Rhodolaimus -> 224 [label="At least a
+part of warts
+or wart-group~ arranged
+in pairs
+"]
+	223 -> "goffarti (Sachs)" [label="Warts 13 μm
+high, higher than
+half body diameter,
+cylindrical.Female L= 0.37-0.43
+mm; a ;
+12-15 ; b
+4.7-6.0; C ;
+12-16; V=58-61%.(!: L
+0.32-0.38 mm; a
+16-17; b 5.2-6.1;
+C = 9-11.Germany
+and Austria; in
+animal residues
+"]
+	223 -> "inequalis (Cobb)" [label="Warts lower than
+half body diameter,
+rounded.C?: L(!: L0.3
+11ml; a= 14;
+b = 4.2;
+c = 17;
+V = 57%.0.25
+mm; a= 15;
+b = 3.6;
+c = 9.United
+States (Washington D.C.)
+and Brazil; in
+rotting wood
+"]
+	224 -> 225 [label="36-45 separate warts,
+partly arranged in
+pairs
+"]
+	224 -> 227 [label="Only 1-7 separate
+warts or all
+warts arranged in
+continuous
+"]
+	225 -> "dimorphus Bernard" [label="The majority of
+warts arranged in
+two alternative rows.9
+: Ld: L0.26-0.30
+mm; a= 16-20;
+b0.25-0.26 mm; a=
+19-23; b3.3-3.8; C
+= 13-16; V=57-64%.3.3-3.8;
+C = 7.1-9.2.United
+States (Georgia); in
+organic litter
+"]
+	225 -> 226 [label="The majority of
+warts grouped in
+pairs
+"]
+	226 -> "impar(Cobb)" [label="One unpaired wart
+before the paired
+ones. Female unknown.
+Male L=0.32 mm;
+a= 14; b
+= 3.9; c
+= 10. United
+States (Washington D.C.);
+in rotting wood
+"]
+	226 -> "jakobii(Sachs)" [label="i'hree to five
+unpaired warts before
+the paired ones.0.32-0.48
+mm; a= 12-15;
+b = 4.8-5.3;
+c = 16-17;V=
+57-59%.0.3-0.5 mm; a
+15-17; b =
+4.7-5.4; c 8.10.Germany;
+in animal remains
+"]
+	227 -> 228 [label="All warts lying
+in two continuous
+rows
+"]
+	227 -> 229 [label="Besides the continuous
+rows also 4-7
+separate warts or
+fins (wart groups)
+present
+"]
+	228 -> "pini Fuchs" [label="Warts forming some
+- mostly 4
+- large fins
+at anterior body.Female
+L=Male L=0.25-0.42 mm;
+a= 10-14; b0.33-0.35
+mm; a= 16-18;
+b4.2-5.4; c =
+13-17;V=53-58%.4.6-4.9; C =
+10.Germany, Austria, France;
+in galleries of
+bark beetles
+"]
+	228 -> "pusillus Fuchs" [label="No large fins
+at anterior body.2
+unknown.Male L= 0.21
+mm; a= 8.4;
+b = 3.7;
+c =,8.4.Germany; in
+detritus
+"]
+	229 -> 230 [label="Some of the
+fins are unpaired
+"]
+	229 -> 231 [label="All fins paired
+"]
+	230 -> "pannonicus Andrassy" [label="Fins higher than
+half body diameter,
+beginning just behind
+head;network sharply expressed.Female
+L=<f: L0.38-0.43 mm;
+a= 12-14; b0.36-0.38
+mm; a 18-22;
+bHungary; in plant
+remains3.9-4.1; c =
+13-16;V= 52-53%.4.0-4.2; C
+= 11-12.
+"]
+	230 -> "voulliemei (Riihm)" [label="Fins lower than
+half body diameter,
+beginning behind stoma;
+networkfine.Female L=a\": L0.40-0.45
+mm; a= 14-17;
+b0.34-0.40 mm; a=
+17-18; b4.6-5.3; c
+= 13-15; V=
+45%.4.6-5.0; C =
+10-13.Chile; in tunnels
+of bark beetles
+"]
+	231 -> "poligraphi Fuchs" [label="Anterior body with
+4-6 pairs of
+fins; the latter
+composed each of
+7-16 elements.Female L=Male
+L=o.32-0.40 mm; a=
+12-14; bo.27-0.34 mm;
+a= 16-21; b5.4-5.9;
+c = 13-18;V=58-65%.5.1-5.3;
+C = 8-10.Holland
+and Germany; in
+detritus under bark
+"]
+	231 -> 232 [label="Anterior body with
+2-4 pairs of
+fins; the latter
+composed each of
+2-4 elements
+"]
+	232 -> "stoeckherti (Sachs)" [label="Dots on cuticle
+forming a network;
+mostly three pairs
+of fins.Female L=Male
+L=0.37-0.50 mm; a=
+13-14; bo.28-0.35 mm;
+a= 13-18; b5.4-6.6;
+c = 10-13;V=56-57%.4.8-5.2;
+C = 8-9.Germany,
+Austria, Hungary; in
+cow- and horse
+dung
+"]
+	232 -> "estonicus (Krall)" [label="Dots on cuticle
+arranged in transversal
+rows; four pairs
+of fins.Female L=0.30-0.47
+mm; a= 9-14;
+b = 3.5-4.0;
+c = 13-19;
+V=56-58%.d'unknown.Soviet Union (Estonia);
+in potato tubers
+"]
+	Bunonema -> 234 [label="Warts are well
+developed, at least
+in the esophageal
+region
+"]
+	Bunonema -> 240 [label="Warts indistinct, rudimentary
+"]
+	234 -> 235 [label="More than 25
+pairs of warts
+present
+"]
+	234 -> 237 [label="Less than 25
+pairs of warts
+present
+"]
+	235 -> "reticulatum Richters" [label="The network on
+the right side
+is very prominent.Female
+L=0.22-0.36 mm; a
+= 11-14; b
+= 3-4; c
+= 9-16; V
+=56-61%. Male unknown.
+Holland, Belgium, Germany,
+Switzerland, Austria, Hungary,
+Czechoslovakia, Denmark, Poland,
+England, Scotland, Ireland,Spitzbergen,
+Rumania, Bulgaria, Soviet
+Union (Russia, Estonia),Japan,
+Possession Islands, Canary
+Islands, St. Helen,
+Ghana, UnitedStates, Columbia;
+in moss and
+detritus (Fig.36)
+"]
+	235 -> 236 [label="Network on the
+right side quite
+fine
+"]
+	236 -> "multipapillatwn Stefanski" [label="Each wart with
+5-6 internal thickened
+rods; female gonads
+are symmetrical. Female
+L=0.30-0.38 mm; a~unknown.13-18;
+b 3.3-4.0; C
+11-18; V=59-66%.Germany, Switzerland,
+Czechoslovakia, Hungary; in
+moss
+"]
+	236 -> "steineri Stefanski" [label="Warts without internal
+rods; anterior gonad
+shorter than posterior.Female
+L=0.37-0.40 mm; a=
+18-19; b =
+3.6-3.8; c =
+15-16; V =
+?~unknown.Poland; in moss
+"]
+	237 -> "ditlevseni Micoletzky" [label="Warts in 6-10
+pairs, located in
+the esophageal region.Female
+L= ~ o.22-0.25
+mm; a= 13-14;
+b = 3.0-3.2;
+c = 18-21;
+V=58-60%.<!unknown.Holland and Denmark;
+in moss
+"]
+	237 -> 238 [label="Warts in 12-21
+pairs, distributed on
+the whole body
+"]
+	238 -> "richtersi Jagerskiold" [label="Four weakly thickened
+rods in each
+wart.Female L=o.19-0.31 mm;
+a= 8-15; b
+= 3.0-4.3; c
+= 6-13; V=
+58-61%.dunknown.Holland, Germany, Switzerland,
+Austria, France, Rumania,
+Bulgaria, Poland, Denmark,
+England, Soviet Union
+(Estonia, Lithuania), canary
+Islands, Possession Islands,
+St. Helen, United
+States (Georgia, Michigan),
+Brazil, Kerguelen Islands;
+in moss and
+humus
+"]
+	238 -> 239 [label="Two strongly thickened
+rods in each
+wart
+"]
+	239 -> "franzi Andrassy" [label="The esophageal region
+with four pairs
+of warts.Female L=
+0 . 21
+mm ; a=
+15 ; b
+= 3.7; c
+= 15; V
+55%. Male unknown.
+Reunion; in humus
+"]
+	239 -> "husseyi Bernard" [label="The esophageal region
+with five pairs
+of warts.Female L=
+0. 26 -0.
+28 mm; a=
+11-15; b =
+3 . 4-3
+.7; c =
+13.9-17.2;V = 50
+.8-56 .8 %.
+Male unknown. United
+States (Georgia, Tennessee,
+Michigan); in rotten
+wood
+"]
+	240 -> "hessi Steiner" [label="Network consisting of
+relatively large quadrangles
+arranged in 2
+or3 longitudinal rows.Female
+L= 0.20-0. 27
+mm; a =
+13-15; b=3.1-3.4; c=
+10-11; V=56-58%. Male
+unknown. Switzerland, Austria,
+Rumania, Soviet Union
+(Nojava Zemlja); in
+moss and humus
+"]
+	240 -> 241 [label="Network consisting of
+small and dense
+blocks not arranged
+in longitudinal rows
+"]
+	241 -> "tuerkorum Sachs" [label="Network with some
+stronger dotted oval
+spots.Female L=0.30-0.35 mm;
+a= 13-15; b
+= 4.0-4 .
+4; c =
+14-15;V=57-58%.cf unknown.Ge rmany
+and Bulgaria; in
+Sphagnum moss
+"]
+	241 -> "penardi Stefanski" [label="Network very fine,
+without oval spots.Female
+L=0.30-0.37 mm; a=
+14-18; b =
+3.5-4.1; c =
+14-19; V=57-58%.o\" unknown
+.Holland, Germany, Switzerland,
+Austria, Rumania, Italy,
+Poland;in soil, humus
+and moss
+"]
+	Rhodonema -> "striatum (Andrassy)" [label="Right side with
+two longitudinal striae;
+tail of female
+three anal body
+diameters.2: L =
+0.39 mm; a=
+17; b =
+4.2; c =
+111 V =
+54%. a\" unknown.Paraguay;
+in plant remains
+"]
+	Rhodonema -> "stephaniae (Bernard)" [label="Right s ide
+with four longitudinal
+striae; tail of
+female two analbody
+diameters.<_?: L =
+0.29-0.33 mm; a=
+10.5-12.2; b =
+3.9-4.5; c =
+16.2-19.5;V = 53-63%.
+d' L =
+0.24-0.26 mm; a=
+11.8-15.7; b =
+3.6-3.9; c =
+7.2-8.3.United States (Georgia,
+Tennessee); in rotten
+wood
+"]
+	Craspedonematinae -> Craspedonema [label="Right side with
+several shields or
+crust-like swellings but
+without warts
+"]
+	Craspedonematinae -> 244 [label="Right side with
+warts and shields
+"]
+	244 -> Aspidonema [label="Warts paired in
+two longitudinal rows;
+striae in medial
+membranes forked
+"]
+	244 -> Sachsium [label="Warts unpaired, in
+a single row;
+striae in medial
+membranessimple
+"]
+	Aspidonema -> 246 [label="warts in 20-35
+pairs, and, at
+least in the
+anterior body, consisting
+of several elements;
+shields rounded
+"]
+	Aspidonema -> 247 [label="Warts in 40-60
+pairs, small and
+simple; shields oval
+"]
+	246 -> "scheucherae (Sachs)" [label="Warts in 20-26
+pairs, those in
+anterior body consisting
+of 3-6elements.Female L=o.28-0.33
+mm; a= 11-12;
+bMale L=o.27-0.31 mm;
+a= 11-14; b4.3-4.7;
+c = 9-11;
+V4.2-4.8; C =
+6.55-57%.Germany; in cow
+dung
+"]
+	246 -> "ruehmi(Sachs)" [label="Warts in 30-35
+pairs, those in
+anterior body consisting
+of twoelements.Female L=0.27-0.40
+mm; a= 11-13;
+bMale L=0.23-0.26 mm;
+a= 10-12; b4.4-6.4;
+c = 11-13;
+V=52-56%.3.4-4.0; C =
+5-6.Germany; in compost
+and cow dung
+"]
+	247 -> "stammeri(Sachs)" [label="Warts rounded, 50-60
+pairs in number.Female
+L=0.30-0.43 mm; a=
+11-13; bMale L=0.26-0.33
+'llllll; a= 13-15;
+b4.1-6:0; c =
+9~12; V=59-64%.4.6-5.3; C
+= 6-7.Germany; in
+compost and dung
+"]
+	247 -> 248 [label="Warts oval, 40-45
+pairs in a
+number
+"]
+	248 -> "Sachsi (Meyl)" [label="Left bursal wing
+bearing eight papillae.9
+unknown. d' L
+0.24-0.29 mm; a=
+10-13; b =
+3.8-4.9; c =
+7-8.Germany; in cow
+dung
+"]
+	248 -> "weingaertnerae(Sachs)" [label="Left bursa wing
+bearing three papillae.Female
+L= 0.27-0.31 mm;
+a= 11-13; bMale
+L= 0.24-0.29 mm;
+a= 10-13; b4.1-5.9;
+c = 9-11;
+V=55-59%.3.8-4.9; C 7-8.Germany;
+in cow dung
+"]
+	Sachsium -> "helenae (Sachs)" [label="22-29 warts; spicules
+30-36 μm long.Female
+L=0.28-0.38 mm; a=
+13-15; b =
+4.1-5.5; c =
+15-16; V=61-63%.Male L=o.26-0.30
+mm; a= 16-18;
+b = 4.2-5.1;
+c = 8-9.Germany;
+in dung
+"]
+	Craspedonema -> "Zeelandicum DE Man" [label="Right side with
+semi-circular shields ornamented
+with pearl-shaped dots.Female
+L=Male L=0. 35-0
+.50 mm; a
+12-16; b0 .36-0.44
+mm; a= 14-18;
+b4.0-6.5; c =
+15- 18; V
+=54-56%.4.5-6.0; C =
+8-10.Holland, Germany; in
+cow and horse
+dung
+"]
+	Craspedonema -> 251 [label="Right side instead
+of shields with
+crust-like swellings
+"]
+	251 -> "javanicum Richters" [label="Body small, shorter
+than 1/3 mm;
+right side coarsely
+crusted. Female and
+Male L= 0.20-0.32
+mm; no other
+measurements.Java; in moss
+"]
+	251 -> 252 [label="Body longer, 0.6
+to 1.3 mm;
+right side finely
+crusted
+"]
+	252 -> "styriacwn Micoletzky" [label="Right side ornamented
+with dense rods
+or dots.Female L=0.65
+mm; a= 19;
+b = 3.2;
+c = 17;
+V = 57%.<J
+: unknown.Austria; in
+moor
+"]
+	252 -> "elegans Rahm" [label="Right side ornamented
+with small tubercles.Female
+L=0.81 mm; a
+15; b =
+5.5; C =
+8; V=56%. Male
+L=0.56-1.25mm; a= 14-18;
+b = 3.1-4.0;
+c 6-9. Brazil;
+in soil
+"]
+}
