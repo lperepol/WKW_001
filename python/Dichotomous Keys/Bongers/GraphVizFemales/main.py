@@ -7,7 +7,7 @@ import pandas as pd
 import openpyxl
 
 def readSpreadSheet():
-    fn = '../Bongers_KEY TO THE FAMILIES_females.xlsx'
+    fn = '../../Bongers_KEY TO THE FAMILIES_females.xlsx'
     df = pd.read_excel(fn, sheet_name='BongersKeys_001')
     df = df.fillna('')
     return df

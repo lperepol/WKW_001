@@ -12,7 +12,7 @@
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
         <!-- Bootstrap core CSS -->
-        <link href="/vendor/bootstrap-5.0.2/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/css/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <style>
             .bd-placeholder-img {
                 font-size: 1.125rem;
@@ -42,12 +42,16 @@
 
 
             .header-title {
-                position: absolute;
+                  margin: auto;
+  width: 50%;
+                //position: absolute;
                 top: 80px;
-                font-size: 40px;
+                font-size: 30px;
                 font-weight: bolder;
-                left: 300px;
+                text-align: center;
+
             }
+}
 
             .top-buffer {
                 margin-top:50px;
@@ -63,26 +67,17 @@
         </style>
         <script>
             $(function () {
-                $("#nav-placeholder").load("/nav.html");
+                $("#wkw-header").load("/nav-header-001.html");
+                $("#nav-placeholder").load("/nav.html"); 
             });
         </script>    
         <script src="https://kit.fontawesome.com/df910c26c0.js" crossorigin="anonymous"></script>
     </head>
     <body>
 
-        <!--brand icon-->
-        <i class="fa-brands fa-github-square"></i>        
-        <nav class="navbar navbar-default bg_image">
-            <div class="container-fluid">
-                <div class="navbar-header text-center">
-                    <div class="text-balack header-title">
-                        Nematode Fauna of The West Kootenay
-                    </div>                   
-                    <div class="header-content-bottom text-white-50">Konza Prairie</div>
-                </div>
-            </div>
-        </nav> 
         <!--Navigation bar-->
+        <div id="wkw-header"> 
+        </div>    
         <div id="nav-placeholder"> 
         </div>    
 
@@ -138,8 +133,8 @@
                 <p>Lawrence Perepolkin</p>
                 <object data="/files/images/publicdomain.svg" > </object>
             </footer>
-            <script src="js/vendor/bootstrap.min.js"></script>
-            <script src="js/main.js"></script>
+            <script src="/js/vendor/bootstrap/bootstrap.min.js"></script>
+            <script src="/js/main.js"></script>
             <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
             <script>
             (function (b, o, i, l, e, r) {
@@ -157,6 +152,6 @@
             ga('create', 'UA-XXXXX-X', 'auto');
             ga('send', 'pageview');
             </script>
-            <script src="/vendor/bootstrap-5.0.2/js/bootstrap.bundle.min.js"></script>     
+            <script src="/css/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>     
     </body>
 </html>

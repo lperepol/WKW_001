@@ -1,0 +1,1138 @@
+// FOO
+digraph GraphTitle {
+	graph [rankdir=LR]
+	label="De Nematoden
+van
+Nederland
+Tom Bongers (1988)"
+	000 [label="Key to the
+ Families" fillcolor=red style=filled]
+	000 -> 001 [label=Males
+]
+	Rotylenchulus [label=Rotylenchulus fillcolor=aqua shape=hexagon style=filled]
+	Trophonema [label=Trophonema fillcolor=aqua shape=hexagon style=filled]
+	Anguinidae [label=Anguinidae fillcolor=aqua shape=hexagon style=filled]
+	Sphaeronema [label=Sphaeronema fillcolor=aqua shape=hexagon style=filled]
+	Verutus [label=Verutus fillcolor=aqua shape=hexagon style=filled]
+	Heteroderidae [label=Heteroderidae fillcolor=aqua shape=hexagon style=filled]
+	Meloidogynidae [label=Meloidogynidae fillcolor=aqua shape=hexagon style=filled]
+	Sphaeronematidae [label=Sphaeronematidae fillcolor=aqua shape=hexagon style=filled]
+	Ecphyadophoridae [label=Ecphyadophoridae fillcolor=aqua shape=hexagon style=filled]
+	Tylenchidae [label=Tylenchidae fillcolor=aqua shape=hexagon style=filled]
+	Pseudhalenchus [label=Pseudhalenchus fillcolor=aqua shape=hexagon style=filled]
+	Dotylaphus [label=Dotylaphus fillcolor=aqua shape=hexagon style=filled]
+	Funchiotonchiurn [label=Funchiotonchiurn fillcolor=aqua shape=hexagon style=filled]
+	Neotylenchidae [label=Neotylenchidae fillcolor=aqua shape=hexagon style=filled]
+	Paratylenchidae [label=Paratylenchidae fillcolor=aqua shape=hexagon style=filled]
+	Criconematidae [label=Criconematidae fillcolor=aqua shape=hexagon style=filled]
+	Hemicriconemoides [label=Hemicriconemoides fillcolor=aqua shape=hexagon style=filled]
+	Hemicycliophoridae [label=Hemicycliophoridae fillcolor=aqua shape=hexagon style=filled]
+	Atylenchidae [label=Atylenchidae fillcolor=aqua shape=hexagon style=filled]
+	Paraphelenchus [label=Paraphelenchus fillcolor=aqua shape=hexagon style=filled]
+	Aphelenchus [label=Aphelenchus fillcolor=aqua shape=hexagon style=filled]
+	Aphelenchoididae [label=Aphelenchoididae fillcolor=aqua shape=hexagon style=filled]
+	Pratylenchidae [label=Pratylenchidae fillcolor=aqua shape=hexagon style=filled]
+	Anguinidae [label=Anguinidae fillcolor=aqua shape=hexagon style=filled]
+	Tylodoridae [label=Tylodoridae fillcolor=aqua shape=hexagon style=filled]
+	Tylenchidae [label=Tylenchidae fillcolor=aqua shape=hexagon style=filled]
+	Dolichodoridae [label=Dolichodoridae fillcolor=aqua shape=hexagon style=filled]
+	Pratylenchidae [label=Pratylenchidae fillcolor=aqua shape=hexagon style=filled]
+	Hoplolaimidae [label=Hoplolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Psilenchidae [label=Psilenchidae fillcolor=aqua shape=hexagon style=filled]
+	Dolichodoridae [label=Dolichodoridae fillcolor=aqua shape=hexagon style=filled]
+	Pararotylenchus [label=Pararotylenchus fillcolor=aqua shape=hexagon style=filled]
+	Amplimerlinius [label=Amplimerlinius fillcolor=aqua shape=hexagon style=filled]
+	Longidoridae [label=Longidoridae fillcolor=aqua shape=hexagon style=filled]
+	Trichodoridae [label=Trichodoridae fillcolor=aqua shape=hexagon style=filled]
+	Paractinolaimus [label=Paractinolaimus fillcolor=aqua shape=hexagon style=filled]
+	Carcharolaimus [label=Carcharolaimus fillcolor=aqua shape=hexagon style=filled]
+	Discolaimidae [label=Discolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Kochinema [label=Kochinema fillcolor=aqua shape=hexagon style=filled]
+	Nygolaimidae [label=Nygolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Sectonema [label=Sectonema fillcolor=aqua shape=hexagon style=filled]
+	Diphterophoridae [label=Diphterophoridae fillcolor=aqua shape=hexagon style=filled]
+	Belondiridae [label=Belondiridae fillcolor=aqua shape=hexagon style=filled]
+	Aporcelaimidae [label=Aporcelaimidae fillcolor=aqua shape=hexagon style=filled]
+	Dorylaimoides [label=Dorylaimoides fillcolor=aqua shape=hexagon style=filled]
+	Leptonchus [label=Leptonchus fillcolor=aqua shape=hexagon style=filled]
+	Tylencholaimus [label=Tylencholaimus fillcolor=aqua shape=hexagon style=filled]
+	Dorylaimidae [label=Dorylaimidae fillcolor=aqua shape=hexagon style=filled]
+	Chrysonematidae [label=Chrysonematidae fillcolor=aqua shape=hexagon style=filled]
+	Thornenematidae [label=Thornenematidae fillcolor=aqua shape=hexagon style=filled]
+	Longidorella [label=Longidorella fillcolor=aqua shape=hexagon style=filled]
+	Enchodelus [label=Enchodelus fillcolor=aqua shape=hexagon style=filled]
+	Thornia [label=Thornia fillcolor=aqua shape=hexagon style=filled]
+	Qudsianematidae [label=Qudsianematidae fillcolor=aqua shape=hexagon style=filled]
+	Tylencholaimus [label=Tylencholaimus fillcolor=aqua shape=hexagon style=filled]
+	"Oxydirus oxycephalus" [label="Oxydirus oxycephalus" fillcolor=aqua shape=hexagon style=filled]
+	Axonchium [label=Axonchium fillcolor=aqua shape=hexagon style=filled]
+	Tylencholaimellus [label=Tylencholaimellus fillcolor=aqua shape=hexagon style=filled]
+	Doryllium [label=Doryllium fillcolor=aqua shape=hexagon style=filled]
+	Dorylaimoides [label=Dorylaimoides fillcolor=aqua shape=hexagon style=filled]
+	Pungentus [label=Pungentus fillcolor=aqua shape=hexagon style=filled]
+	Thornenematidae [label=Thornenematidae fillcolor=aqua shape=hexagon style=filled]
+	Desmoscolecidae [label=Desmoscolecidae fillcolor=aqua shape=hexagon style=filled]
+	Bunonematidae [label=Bunonematidae fillcolor=aqua shape=hexagon style=filled]
+	Tylopharynchidae [label=Tylopharynchidae fillcolor=aqua shape=hexagon style=filled]
+	Neodiplogasteridae [label=Neodiplogasteridae fillcolor=aqua shape=hexagon style=filled]
+	Diplogasteridae [label=Diplogasteridae fillcolor=aqua shape=hexagon style=filled]
+	Teratocephalidae [label=Teratocephalidae fillcolor=aqua shape=hexagon style=filled]
+	Ethmolaimidae [label=Ethmolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Achromadoridae [label=Achromadoridae fillcolor=aqua shape=hexagon style=filled]
+	Chromadoridae [label=Chromadoridae fillcolor=aqua shape=hexagon style=filled]
+	Hypodontolaimidae [label=Hypodontolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Teratocephalidae [label=Teratocephalidae fillcolor=aqua shape=hexagon style=filled]
+	Desmodoridae [label=Desmodoridae fillcolor=aqua shape=hexagon style=filled]
+	Linhomoeidae [label=Linhomoeidae fillcolor=aqua shape=hexagon style=filled]
+	Plectidae [label=Plectidae fillcolor=aqua shape=hexagon style=filled]
+	Alloionematidae [label=Alloionematidae fillcolor=aqua shape=hexagon style=filled]
+	Diploscapteridae [label=Diploscapteridae fillcolor=aqua shape=hexagon style=filled]
+	Rhabditidae [label=Rhabditidae fillcolor=aqua shape=hexagon style=filled]
+	Onchulidae [label=Onchulidae fillcolor=aqua shape=hexagon style=filled]
+	Prismatolaimidae [label=Prismatolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Anatonchidae [label=Anatonchidae fillcolor=aqua shape=hexagon style=filled]
+	Mononchidae [label=Mononchidae fillcolor=aqua shape=hexagon style=filled]
+	Isolaimidae [label=Isolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Choanolaimidae [label=Choanolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Cyatholaimidae [label=Cyatholaimidae fillcolor=aqua shape=hexagon style=filled]
+	Aphanolaimus [label=Aphanolaimus fillcolor=aqua shape=hexagon style=filled]
+	Rhabdolaimidae [label=Rhabdolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Odontolaimidae [label=Odontolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Diplopeltidae [label=Diplopeltidae fillcolor=aqua shape=hexagon style=filled]
+	Aulolaimidae [label=Aulolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Leptolaimidae [label=Leptolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Halaphanolaimidae [label=Halaphanolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Diplopeltidae [label=Diplopeltidae fillcolor=aqua shape=hexagon style=filled]
+	Bastianiidae [label=Bastianiidae fillcolor=aqua shape=hexagon style=filled]
+	Tripylidae [label=Tripylidae fillcolor=aqua shape=hexagon style=filled]
+	Ironidae [label=Ironidae fillcolor=aqua shape=hexagon style=filled]
+	Bathyodontidae [label=Bathyodontidae fillcolor=aqua shape=hexagon style=filled]
+	Amphidelus [label=Amphidelus fillcolor=aqua shape=hexagon style=filled]
+	Tobrilidae [label=Tobrilidae fillcolor=aqua shape=hexagon style=filled]
+	Alairnidae [label=Alairnidae fillcolor=aqua shape=hexagon style=filled]
+	Osstellidae [label=Osstellidae fillcolor=aqua shape=hexagon style=filled]
+	Cephalobidae [label=Cephalobidae fillcolor=aqua shape=hexagon style=filled]
+	Panagrolaimidae [label=Panagrolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Diplogasteroididae [label=Diplogasteroididae fillcolor=aqua shape=hexagon style=filled]
+	Rhabditidae [label=Rhabditidae fillcolor=aqua shape=hexagon style=filled]
+	Teratocephalus [label=Teratocephalus fillcolor=aqua shape=hexagon style=filled]
+	Chronogaster [label=Chronogaster fillcolor=aqua shape=hexagon style=filled]
+	Turbatrix [label=Turbatrix fillcolor=aqua shape=hexagon style=filled]
+	Plectonchus [label=Plectonchus fillcolor=aqua shape=hexagon style=filled]
+	Campydora [label=Campydora fillcolor=aqua shape=hexagon style=filled]
+	Monhystrella [label=Monhystrella fillcolor=aqua shape=hexagon style=filled]
+	Odontopharyngidae [label=Odontopharyngidae fillcolor=aqua shape=hexagon style=filled]
+	Prismatolaimidae [label=Prismatolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Sphaerolaimidae [label=Sphaerolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Campydora [label=Campydora fillcolor=aqua shape=hexagon style=filled]
+	Xyalidae [label=Xyalidae fillcolor=aqua shape=hexagon style=filled]
+	Monhysteridae [label=Monhysteridae fillcolor=aqua shape=hexagon style=filled]
+	001 -> 002 [label="Body swollen: female
+wholly or partly
+inside a plant
+root
+"]
+	001 -> 009 [label="Body relatively slender:
+animals are mobile
+"]
+	002 -> 003 [label="The tail tip
+is recognizable
+"]
+	002 -> 005 [label="Tail tip not
+recognizable: body round,
+oval or pear-shaped
+"]
+	003 -> 004 [label="Body screw -
+or spiral-shaped, headframe
+not developed
+"]
+	003 -> Rotylenchulus [label="Body C-shaped, headframe
+well developed
+"]
+	004 -> Trophonema [label="Ventral excretion-gland well
+developed
+"]
+	004 -> Anguinidae [label="Ventral excretion-gland inconspicuous
+"]
+	005 -> Sphaeronema [label="Body length less
+than 250 um
+"]
+	005 -> 006 [label="Body length over
+250 um
+"]
+	006 -> Verutus [label="Body irregular, swollen,
+somewhat sausage- or
+kidney-shaped
+"]
+	006 -> 007 [label="The body is
+regularly swollen, at
+most three times
+longer than broad
+"]
+	007 -> Heteroderidae [label="Deceased females forming
+brown cysts
+"]
+	007 -> 008 [label="Deceased females do
+not form cysts
+"]
+	008 -> Meloidogynidae [label="Excretion pore before
+the median bulb
+"]
+	008 -> Sphaeronematidae [label="Excretion pore behind
+median bulb
+"]
+	009 -> 010 [label="On the front
+side of the
+head, there is
+a spear or
+stylet which can
+protrude
+"]
+	009 -> 063 [label="Head without stylet
+or spear
+"]
+	010 -> 011 [label="Mouth with a
+tylenchid stylet: esophagus
+with a median
+bulb
+"]
+	010 -> 035 [label="Mouth with a
+dorylaimid spear: esophagus
+cylindrical or bottle-shaped,
+without a median
+bulb
+"]
+	011 -> 012 [label="Median bulb without
+valves
+"]
+	011 -> 017 [label="Median bulb with
+valves
+"]
+	012 -> Ecphyadophoridae [label="Body extremely slender:
+ratio more than
+60
+"]
+	012 -> 013 [label="Body not as
+slender: a <
+60
+"]
+	013 -> 014 [label="Vulva- position more
+than two body
+diameters before the
+anus
+"]
+	013 -> 015 [label="Vulva-position at most
+two body diameters
+before the anus
+"]
+	014 -> Tylenchidae [label="Esophageal glands within
+abutting bulb: glands
+do not overlap
+the intestine
+"]
+	014 -> Pseudhalenchus [label="Esophageal glands overlapping
+"]
+	015 -> Dotylaphus [label="Stylet curved, tail
+short, rounded. Gonads
+not developed
+"]
+	015 -> 016 [label="Stylet not curved,
+tail conical
+"]
+	016 -> Funchiotonchiurn [label="Lip region is
+swollen, body length
+more than 2
+mm
+"]
+	016 -> Neotylenchidae [label="Lip region not
+swollen, body shorter
+than 2 mm
+"]
+	017 -> 018 [label="Procorpus and median
+bulb shade off
+into one other,
+terminal bulb strongly
+reduced, cuticle conspicuously
+annulated
+"]
+	017 -> 021 [label="Procorpus is separated
+from the median
+bulb by a
+constriction
+"]
+	018 -> Paratylenchidae [label="Cuticle-annulation is not
+very coarse; constriction
+between the median
+bulb and terminal
+bulb is relatively
+long
+"]
+	018 -> 019 [label="Cuticle annulation is
+conspicuously coarse, already
+visible at 40x
+magnification. The median
+bulb is a
+little constricted and
+immediately followed by
+the terminal bulb
+"]
+	019 -> 020 [label="The cuticle is
+two-layered; the outer
+layer looks like
+a second cuticle.
+"]
+	019 -> Criconematidae [label="Cuticle one-layered, body
+plump, heavily annulated,
+annules often ornamented
+"]
+	020 -> Hemicriconemoides [label="Stylet knobs pointing
+forward, body plump,
+ratio a <
+20 vulva position
+more than 90%
+"]
+	020 -> Hemicycliophoridae [label="Stylet knobs rounded,
+body relatively slender,
+ratio a >
+20, vulva position
+at most 90%
+"]
+	021 -> 022 [label="One gonad
+"]
+	021 -> 029 [label="Two gonads
+"]
+	022 -> Atylenchidae [label="Lip region with
+four setae
+"]
+	022 -> 023 [label="Lip region without
+setae
+"]
+	023 -> 024 [label="The median bulb
+is strongly muscled
+and conspicuously well
+developed, already distinct
+at low magnification;
+the dorsal Esophageal
+gland empties into
+the lumen of
+the esophagus within
+the median bulb
+"]
+	023 -> 026 [label="Median bulb normal.
+The dorsal Esophageal
+gland empties into
+the lumen of
+the esophagus just
+behind the stylet
+"]
+	024 -> Paraphelenchus [label="Esophageal glands within
+the abutting bulb
+"]
+	024 -> 025 [label="Esophageal glands overlap
+the intestine dorsally
+"]
+	025 -> Aphelenchus [label="Tail broadly rounded,
+stylet knobs absent
+"]
+	025 -> Aphelenchoididae [label="Stylet knobs present,
+when absent, then
+tail not broadly
+rounded
+"]
+	026 -> Pratylenchidae [label="Headframe strongly developed,
+stylet conspicuously robust,
+tail commonly shorter
+than 2.5 anal
+body widths
+"]
+	026 -> 027 [label="Headframe weakly developed,
+stylet slender, tail
+commonly longer than
+2.5 times anal
+body width, seldom
+shorter
+"]
+	027 -> Anguinidae [label="Tail relatively short,
+conical, spermatheca oval,
+phasmids absent
+"]
+	027 -> 028 [label="Tail is long,
+drawn out, spermatheca
+round, phasmids near
+the vulva, dorsally
+from lateral field
+"]
+	028 -> Tylodoridae [label="Stylet long, more
+than 40% of
+the distance from
+anterior to median
+bulb
+"]
+	028 -> Tylenchidae [label="Stylet at most
+30% of the
+distance from anterior
+to median bulb
+"]
+	029 -> 030 [label="Esophageal glands overlapping
+"]
+	029 -> 032 [label="Esophageal glands not
+overlapping
+"]
+	030 -> 031 [label="Headframe strongly developed
+"]
+	030 -> Dolichodoridae [label="Headframe not developed
+"]
+	031 -> Pratylenchidae [label="Lip region low,
+flattened at anteriorly
+"]
+	031 -> Hoplolaimidae [label="Lip region high,
+anteriorly round or
+flattened
+"]
+	032 -> Psilenchidae [label="Tail long, c'
+more than 5,
+stylet knobs absent
+"]
+	032 -> 033 [label="Tail short, bluntly
+rounded, stylet with
+knobs
+"]
+	033 -> Dolichodoridae [label="Headframe weak
+"]
+	033 -> 034 [label="Headframe strongly developed
+"]
+	034 -> Pararotylenchus [label="Lateral field with
+four lines
+"]
+	034 -> Amplimerlinius [label="Lateral field with
+six lines
+"]
+	035 -> Longidoridae [label="Long slender nematodes,
+longer than 2
+mm, ratio a
+> 60, spear
+greatly elongated, straight,
+longer than 55
+um
+"]
+	035 -> 036 [label="Spear less than
+55 um, or
+when longer, then
+nematode shorter than
+2 mm and
+ratio a <
+50
+"]
+	036 -> Trichodoridae [label="Spear relatively long
+and strongly curved,
+tail almost absent
+"]
+	036 -> 037 [label="Spear straight, tail
+present
+"]
+	037 -> 038 [label="Two gonads
+"]
+	037 -> 056 [label="One gonad reduced
+"]
+	038 -> 039 [label="The mouth cavity
+is large, broad
+and sclerotized
+"]
+	038 -> 040 [label="Mouth cavity inconspicuous
+"]
+	039 -> Paractinolaimus [label="Mouth with four
+big teeth, on
+cavity wall there
+are several small
+teeth, tail long,
+head slightly offset
+"]
+	039 -> Carcharolaimus [label="Large teeth lacking,
+cavity wall with
+six sclerotized ribs
+tail short, head
+strongly offset
+"]
+	040 -> 041 [label="Lip region offset
+by a deep
+constriction, lip region
+disc or sucker-shaped,
+lateral field usually
+with a conspicuous
+series of glands
+"]
+	040 -> 042 [label="Lip region, not
+disc- or sucker-shaped
+"]
+	041 -> Discolaimidae [label="Amphid aperture behind
+the constriction
+"]
+	041 -> Kochinema [label="Amphid aperture before
+constriction
+"]
+	042 -> 043 [label="Spear implanted in
+cavity wall
+"]
+	042 -> 044 [label="Spear axial
+"]
+	043 -> Nygolaimidae [label="Spear implanted on
+the right sub
+ventral cavity wall
+"]
+	043 -> Sectonema [label="Spear implanted on
+the. Dorsal cavity
+wall
+"]
+	044 -> Diphterophoridae [label="Tiny plump nematodes,
+stylet consists of
+several parts but
+are usually invisible
+as a result
+of grains in
+the body. Cuticle
+often hangs loosely
+around the body
+"]
+	044 -> 045 [label="Body without grains,
+cuticle normal
+"]
+	045 -> Belondiridae [label="Broadened posterior part
+of esophagus surrounded
+by a muscle-sheath
+"]
+	045 -> 046 [label="Oesophagus proximal not
+surrounded by a
+muscle-sheath
+"]
+	046 -> Aporcelaimidae [label="Spear surrounded by
+a membranous guiding
+tube, tail-cuticle obviously
+with several layers
+"]
+	046 -> 047 [label="Guiding tube not
+membranous cuticle-layers on
+tail not visible
+"]
+	047 -> Dorylaimoides [label="Spear asymmetric, the
+dorsal side of
+spear longer than
+the ventral side,
+spear extension curved
+and surrounded by
+esophageal dense tissue
+"]
+	047 -> 048 [label="Spear symmetric, or
+when asymmetric, spear
+extension not curved
+and not surrounded
+by dense Esophageal
+tissue
+"]
+	048 -> Leptonchus [label="The proximal part
+of the esophagus
+is short, swollen
+pear like, transitioning
+from the intestine
+to the rectum
+near the vulva
+"]
+	048 -> 049 [label="Prerectum shorter, esophagus
+not pear like
+swollen
+"]
+	049 -> Tylencholaimus [label="Spear extension with
+knob-shaped outgrowths, body
+length less than
+1 mm. Lip
+region cap-shaped offset
+"]
+	049 -> 050 [label="Spear extension without
+knob-shaped outgrowths, when
+present, then lip
+region not offset
+cap-shaped or body
+length more than
+1 mm
+"]
+	050 -> Dorylaimidae [label="Cuticle with longitudinal
+grooves, large nematodes
+"]
+	050 -> 051 [label="Cuticle without longitudinal
+grooves
+"]
+	051 -> Chrysonematidae [label="Cuticle inside mouth
+cavity thickened, guiding
+tube barrel-shaped
+"]
+	051 -> 052 [label="Guiding tube, not
+barrel-shaped, cuticle not
+thickened
+"]
+	052 -> Thornenematidae [label="Tail long, conical
+or fine thread-like
+elongated
+"]
+	052 -> 053 [label="Tail short
+"]
+	053 -> Longidorella [label="Spear conspicuously long,
+1/6 of esophagus
+length
+"]
+	053 -> 054 [label="Spear at most
+two lip diameters
+"]
+	054 -> Enchodelus [label="Spear extension pear-shaped
+flanged
+"]
+	054 -> 055 [label="Spear extension, when
+flanged, is not
+pear-shaped
+"]
+	055 -> Thornia [label="Tail bluntly rounded,
+cylindrical, lip region
+not offset, spear
+extension slightly flanged
+"]
+	055 -> Qudsianematidae [label="Tail not cylindrical,
+spear extension not
+flanged
+"]
+	056 -> Tylencholaimus [label="Posterior gonad reduced
+"]
+	056 -> 057 [label="Anterior gonad reduced
+"]
+	057 -> 058 [label="Broadened posterior part
+of the esophagus
+is surrounded by
+a muscle-sheath
+"]
+	057 -> 059 [label="The esophagus is
+not surrounded by
+a muscle-sheath
+"]
+	058 -> "Oxydirus oxycephalus" [label="The tail length
+of more than
+five anal body
+widths
+"]
+	058 -> Axonchium [label="Tail length less
+than 1.5 anal
+body widths
+"]
+	059 -> 060 [label="Spear extension with
+knob-shaped outgrowths
+"]
+	059 -> 061 [label="Spear extension without
+outgrowths
+"]
+	060 -> Tylencholaimellus [label="Spear with a
+dorsal strengthening, lip
+region offset
+"]
+	060 -> Doryllium [label="Spear without a
+dorsal strengthening, lip
+region not offset
+"]
+	061 -> Dorylaimoides [label="Spear extension curved
+and surrounded by
+dense Esophageal tissue
+"]
+	061 -> 062 [label="Spear extension is
+not curved nor
+surrounded by Esophageal
+dense tissue
+"]
+	062 -> Pungentus [label="Tail bluntly rounded,
+around oral aperture
+there are some
+light- refracting particles
+"]
+	062 -> Thornenematidae [label="Tail long or
+conical, no light-refracting
+particles around the
+oral aperture
+"]
+	063 -> Desmoscolecidae [label="Body caterpillar-like, with
+alternating broad and
+narrow annules, amphids
+vesicle-shaped
+"]
+	063 -> 064 [label="Body not caterpillar-like
+"]
+	064 -> Bunonematidae [label="Body asymmetrical right
+body half has
+a fine net
+structure and a
+series of fins
+or shields
+"]
+	064 -> 065 [label="Body symmetrical, without
+conspicuous fins or
+shields
+"]
+	065 -> 066 [label="Two gonads
+"]
+	065 -> 101 [label="One gonad
+"]
+	066 -> 067 [label="Esophagus with a
+bulb containing valves
+"]
+	066 -> 081 [label="Esophagus without bulb
+or, when swollen,
+without valves
+"]
+	067 -> 068 [label="Bulb halfway along
+the esophagus
+"]
+	067 -> 070 [label="The bulb at
+the base of
+the esophagus
+"]
+	068 -> Tylopharynchidae [label="Mouth cavity tubular
+and with stylet-knobs,
+esophagus tylenchid-like
+"]
+	068 -> 069 [label="Mouth cavity without
+knobs
+"]
+	069 -> Neodiplogasteridae [label="Mouth with a
+dorsal movable tooth,
+a large right-
+sub ventral tooth,
+a smooth or
+crenate left-sub ventral
+plate
+"]
+	069 -> Diplogasteridae [label="Mouth with an
+immovable dorsal tooth,
+right and lefthand
+metastom-swellings are identical
+"]
+	070 -> 071 [label="Cuticle punctated
+"]
+	070 -> 075 [label="Cuticle not punctated
+"]
+	071 -> Teratocephalidae [label="Head at anteriorly
+with a crown
+"]
+	071 -> 072 [label="Head without crown
+"]
+	072 -> Ethmolaimidae [label="The anterior part
+of the esophagus,
+which surrounds the
+mouth cavity, is
+strongly offset by
+a constriction
+"]
+	072 -> 073 [label="The anterior part
+of the esophagus
+is not offset
+"]
+	073 -> 074 [label="Amphids are slit-like,
+inconspicuous
+"]
+	073 -> Achromadoridae [label="Amphid spiral-shaped, conspicuous
+"]
+	074 -> Chromadoridae [label="Mouth with one
+dorsal and some
+sub ventral teeth,
+esophagus distally symmetrical
+"]
+	074 -> Hypodontolaimidae [label="The dorsal tooth
+is an extension
+of the Esophageal
+tissue, sub ventral
+teeth inconspicuous, esophagus
+distal asymmetrically
+"]
+	075 -> Teratocephalidae [label="Lip region with
+a crown
+"]
+	075 -> 076 [label="Lip region without
+a crown
+"]
+	076 -> Desmodoridae [label="The valvular apparatus
+divided into two
+parts by a
+cross-groove
+"]
+	076 -> 077 [label="Valvular apparatus not
+divided
+"]
+	077 -> Linhomoeidae [label="Esophageal intestinal valve
+oblong, conspicuous, amphid
+large and circular
+"]
+	077 -> 078 [label="Esophageal intestinal valve
+not oblong, amphid
+not conspicuous large
+"]
+	078 -> 079 [label="Mouth cavity normal
+cylindrical, caudal glands
+absent, amphids inconspicuous.
+Head setae absent
+"]
+	078 -> Plectidae [label="Mouth cavity at
+the base narrowing,
+caudal glands and
+spinneret present, amphid
+halfway along the
+mouth cavity circular
+or slit-like, wing-like
+expansions in neck
+region present or
+absent, head setae
+usually present
+"]
+	079 -> Alloionematidae [label="Mouth cavity walls
+not grown together,
+consisting of separate
+rings, esophagus with
+three subsequent swellings
+"]
+	079 -> 080 [label="Mouth cavity -
+walls are grown
+together, esophagus at
+most regularly swollen
+"]
+	080 -> Diploscapteridae [label="Sub median lips
+hook-shaped bent
+"]
+	080 -> Rhabditidae [label="Lips regular, not
+hook-shaped bent
+"]
+	081 -> 082 [label="The mouth cavity
+is a large,
+barrel-shape
+"]
+	081 -> 085 [label="Mouth cavity minute,
+oblong or absent
+"]
+	082 -> Onchulidae [label="Mouth cavity with
+one or more
+movable teeth
+"]
+	082 -> 083 [label="Mouth cavity without
+movable teeth
+"]
+	083 -> Prismatolaimidae [label="Tail thread- like
+elongated, mouth cavity
+little, with hardly
+sclerotized walls, head
+setae present
+"]
+	083 -> 084 [label="Tail never thread-like
+elongated, mouth cavity
+large with strongly
+sclerotized walls, head
+setae absent
+"]
+	084 -> Anatonchidae [label="The base of
+the mouth cavity
+is flat, esophagus
+- base with
+three vesicles, usually
+three identical teeth
+"]
+	084 -> Mononchidae [label="The base of
+the mouth cavity
+is funnel-shaped, esophagus-base
+without vesicles, sub
+ventral teeth, when
+present, never identical
+to the dorsal
+tooth
+"]
+	085 -> 086 [label="Cuticle punctated
+"]
+	085 -> 088 [label="Cuticle not punctated
+"]
+	086 -> Isolaimidae [label="Amphids absent, tail
+bluntly rounded. Mouth
+cavity tubular, cuticle
+- punctation very
+fine. Ratio b
+> 10
+"]
+	086 -> 087 [label="Amphids spiral- or
+funnel-shaped. Ratio b
+< 10
+"]
+	087 -> Choanolaimidae [label="Tail short, ratio
+c more than
+30
+"]
+	087 -> Cyatholaimidae [label="Tail long, ratio
+c at most
+15
+"]
+	088 -> 089 [label="The base of
+the esophagus bulb
+- like swollen,
+valvular apparatus absent
+"]
+	088 -> 092 [label="The base of
+the esophagus is
+not swollen
+"]
+	089 -> Aphanolaimus [label="Mouth cavity absent,
+amphids conspicuously large
+"]
+	089 -> 090 [label="Mouth cavity present,
+amphids smaller than
+half the corresponding
+body diameter
+"]
+	090 -> Rhabdolaimidae [label="Mouth cavity long,
+tubular, amphids inconspicuous,
+setae absent
+"]
+	090 -> 091 [label="Mouth cavity not
+tubular, amphids obvious,
+head setae present
+"]
+	091 -> Odontolaimidae [label="Ratio c '
+more than 6
+"]
+	091 -> Diplopeltidae [label="Ratio c '
+less than 6
+"]
+	092 -> Aulolaimidae [label="The mouth cavity
+is formed by
+a long, thin
+tube, at minimum
+1/3 as long
+as the distance
+between frontside and
+esophagus-base
+"]
+	092 -> 093 [label="Mouth cavity shorter
+"]
+	093 -> 094 [label="Amphids are circular
+or spiral-shaped
+"]
+	093 -> 097 [label="Amphids cup-shaped
+"]
+	094 -> 096 [label="Head with four
+setae. Body conspicuously
+annulated, tail never
+spatula-shaped, behind terminal
+bulb esophagus has
+no extension inside
+the intestine
+"]
+	094 -> 095 [label="Head with ten
+setae, six long
+and four short,
+or without setae.
+Body not conspicuously
+annulated, tail spatula-shaped.
+Behind the terminal
+bulb, the esophagus
+narrows and has
+an extension inside
+the intestine
+"]
+	095 -> Leptolaimidae [label="Esophagus with terminal
+bulb
+"]
+	095 -> Halaphanolaimidae [label="Esophagus without terminal
+bulb
+"]
+	096 -> Diplopeltidae [label="Mouth cavity tubular
+with sclerotized walls
+"]
+	096 -> Bastianiidae [label="Mouth cavity inconspicuous,
+very slender nematodes
+"]
+	097 -> Tripylidae [label="Cuticle annulated, mouth
+cavity closed when
+resting, but one
+tooth is recognizable
+"]
+	097 -> 098 [label="Cuticle smooth
+"]
+	098 -> Ironidae [label="Mouth cavity tub􁉟lar
+with three movable
+teeth anteriorly
+"]
+	098 -> 099 [label="Mouth cavity, when
+tubular without movable
+teeth
+"]
+	099 -> Bathyodontidae [label="Mouth cavity tubular,
+with a small
+median tooth
+"]
+	099 -> 100 [label="Mouth cavity funnel-shaped
+or reduced
+"]
+	100 -> Amphidelus [label="Head without setae,
+mouth cavity inconspicuous
+"]
+	100 -> Tobrilidae [label="Head with 10
+s setae, mouth
+cavity wide with
+some tiny teeth.
+"]
+	101 -> Alairnidae [label="Anterior gonad reduced
+"]
+	101 -> 102 [label="Posterior gonad reduced
+"]
+	102 -> 103 [label="Anterior gonad reflexed
+and passed the
+vulva
+"]
+	102 -> 105 [label="Anterior gonad, when
+reflexed, does not
+pass the vulva
+"]
+	103 -> Osstellidae [label="Amphid conspicuous large,
+lip region offset,
+spherical - round
+"]
+	103 -> 104 [label="Amphid inconspicuous
+"]
+	104 -> Cephalobidae [label="Anterior gonad passes
+vulva and has
+there a kink.
+Cuticle usually has
+coarse annulation, a
+mouth cavity long
+and slender, is
+equally sclerotized, and
+cheilostom is usually
+broader than other
+components. Head edge
+with incisions, lip
+ornaments present or
+absent
+"]
+	104 -> Panagrolaimidae [label="Anterior gonad passes
+vulva and has
+no kink. Cuticle
+annulation fine, cheilostom
+mouth cavity exists,
+which form a
+more or less
+rectangular hole pro-
+and mesostom strongly
+sclerotized. Lips never
+with ornaments
+"]
+	105 -> 106 [label="Esophagus with a
+bulb containing valvular
+apparatus
+"]
+	105 -> 113 [label="Esophagus without bulb,
+when base swelled,
+then no valvular
+apparatus
+"]
+	106 -> Diplogasteroididae [label="The bulb in
+the middle of
+the esophagus
+"]
+	106 -> 107 [label="The bulb at
+the base of
+the esophagus
+"]
+	107 -> Rhabditidae [label="Mouth cavity tubular
+with parallel walls
+"]
+	107 -> 108 [label="Mouth cavity, not
+tubular
+"]
+	108 -> Teratocephalus [label="In front of
+the lip, the
+region is a
+crown
+"]
+	108 -> 109 [label="Lip region without
+crown
+"]
+	109 -> Chronogaster [label="At the front
+of the head
+are four long
+thin hairs, the
+bulb in two
+parts: the anterior
+part contains several
+little teeth. Oesophagus
+has an extension
+inside the intestine.
+"]
+	109 -> 110 [label="Head without long,
+thin hairs. Esophagus
+behind terminal bulb
+not extended
+"]
+	110 -> 111 [label="Body more than
+1 mm
+"]
+	110 -> 112 [label="Body less than
+1 mm
+"]
+	111 -> Turbatrix [label="Vulva position 55-62%
+"]
+	111 -> Plectonchus [label="Vulva position 70-80%
+"]
+	112 -> Campydora [label="Dorsal mouth cavity
+walls with a
+large tooth, anterior
+gonad reflexed, head
+setae absent, amphid
+cup-shaped and· inconspicuous.
+"]
+	112 -> Monhystrella [label="Mouth cavity without
+teeth, gonad outstretched,
+head setae present,
+amphid conspicuous, circular
+"]
+	113 -> 114 [label="Mouth cavity barrel-shaped
+"]
+	113 -> 116 [label="Mouth cavity narrow
+"]
+	114 -> Odontopharyngidae [label="Esophagus in two
+· parts, anterior
+part muscular, posterior
+part gland tissue,
+head setae absent,
+mouth cavity has
+several teeth
+"]
+	114 -> 115 [label="Esophagus not differentiated,
+head setae present,
+mouth cavity at
+most with an
+inconspicuous tooth
+"]
+	115 -> Prismatolaimidae [label="Tail thread-like extended,
+amphids slit-like
+"]
+	115 -> Sphaerolaimidae [label="Tail is not
+thread-like extended, amphids
+circular
+"]
+	116 -> Campydora [label="The dorsal mouth
+cavity wall has
+a prominent tooth,
+head setae absent,
+amphids inconspicuous, cup-shaped
+"]
+	116 -> 117 [label="Mouth cavity without
+teeth, head setae
+present, amphids conspicuous,
+circular
+"]
+	117 -> Xyalidae [label="Cuticle annulation conspicuous,
+gonad at left
+side from the
+intestine
+"]
+	117 -> Monhysteridae [label="Cuticle smooth, gonad
+at the right
+side of the
+intestine
+"]
+}
