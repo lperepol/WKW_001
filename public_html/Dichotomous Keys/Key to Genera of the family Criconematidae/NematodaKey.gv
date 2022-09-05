@@ -1,0 +1,378 @@
+digraph GraphTitle {
+	graph [rankdir=LR remincross=True]
+	label="Key to Families of the
+ Superfamily Criconematoidea
+ Andrássy, 
+ 2007"
+	s1
+ [label=s1
+ fillcolor=aqua shape=hexagon style=filled]
+	s2
+ [label=s2
+ fillcolor=aqua shape=hexagon style=filled]
+	s3
+ [label=s3
+ fillcolor=aqua shape=hexagon style=filled]
+	Criconematidae
+ [label=Criconematidae
+ fillcolor=aqua shape=hexagon style=filled]
+	Hemicycliophoridae
+ [label=Hemicycliophoridae
+ fillcolor=aqua shape=hexagon style=filled]
+	Paratylenchidae
+ [label=Paratylenchidae
+ fillcolor=aqua shape=hexagon style=filled]
+	s4
+ [label=s4
+ fillcolor=aqua shape=hexagon style=filled]
+	Sphaeronematidae
+ [label=Sphaeronematidae
+ fillcolor=aqua shape=hexagon style=filled]
+	Tylenchulidae
+ [label=Tylenchulidae
+ fillcolor=aqua shape=hexagon style=filled]
+	"Hemicriconemoides Chitwood &
+Birchfield, 1957
+" [label="Hemicriconemoides Chitwood &
+Birchfield, 1957
+" fillcolor=aqua shape=hexagon style=filled]
+	"Blandicephalonema Mehta &
+Raski, 1971
+" [label="Blandicephalonema Mehta &
+Raski, 1971
+" fillcolor=aqua shape=hexagon style=filled]
+	"Crossonema Mehta &
+Raski, 1971
+" [label="Crossonema Mehta &
+Raski, 1971
+" fillcolor=aqua shape=hexagon style=filled]
+	"Croserinema Khan, Chawla
+& Sala, 1976
+" [label="Croserinema Khan, Chawla
+& Sala, 1976
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paterocephalonema Mehta &
+Raski, 1971
+" [label="Paterocephalonema Mehta &
+Raski, 1971
+" fillcolor=aqua shape=hexagon style=filled]
+	"Bakernema Wu, 1964
+" [label="Bakernema Wu, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Orphreyus Siddiqi, 2000
+" [label="Orphreyus Siddiqi, 2000
+" fillcolor=aqua shape=hexagon style=filled]
+	"Ogma Southern, 1914
+" [label="Ogma Southern, 1914
+" fillcolor=aqua shape=hexagon style=filled]
+	"Neolobocriconema Mehta &
+Raski, 1971
+" [label="Neolobocriconema Mehta &
+Raski, 1971
+" fillcolor=aqua shape=hexagon style=filled]
+	"Lobocriconema De Grisse
+& Loof, 1965
+" [label="Lobocriconema De Grisse
+& Loof, 1965
+" fillcolor=aqua shape=hexagon style=filled]
+	"Amphisbaenema Orton Williams,
+1982
+" [label="Amphisbaenema Orton Williams,
+1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Criconema Hofmänner &
+Menzel, 1914
+" [label="Criconema Hofmänner &
+Menzel, 1914
+" fillcolor=aqua shape=hexagon style=filled]
+	"Mesocriconema Andrássy, 1965
+" [label="Mesocriconema Andrássy, 1965
+" fillcolor=aqua shape=hexagon style=filled]
+	"Discocriconemella De Grisse
+& Loof, 1965
+" [label="Discocriconemella De Grisse
+& Loof, 1965
+" fillcolor=aqua shape=hexagon style=filled]
+	"Xenocriconemella De Grisse
+& Loof, 1965
+" [label="Xenocriconemella De Grisse
+& Loof, 1965
+" fillcolor=aqua shape=hexagon style=filled]
+	"Nothocriconemoides Loof &
+De Grisse, 1971
+" [label="Nothocriconemoides Loof &
+De Grisse, 1971
+" fillcolor=aqua shape=hexagon style=filled]
+	"Criconemoides Taylor, 1936
+" [label="Criconemoides Taylor, 1936
+" fillcolor=aqua shape=hexagon style=filled]
+	000
+ -> s1
+ [label=Specimen
+]
+	s1
+ -> s2
+ [label="Cuticle thick, coarsely
+annulated, often with
+extensions, isthmus broad
+and amalgamated with
+basal bulb
+"]
+	s1
+ -> s3
+ [label="Cuticle thin, finely
+annulated, without extensions,
+isthmus slender, not
+amalgamated with basal
+bulb
+"]
+	s2
+ -> Criconematidae
+ [label="Females and juveniles
+cigar-shaped; cuticular annules
+retrorse, often with
+extensions; male tail
+short, bursa small
+or absent
+"]
+	s2
+ -> Hemicycliophoridae
+ [label="Females and juveniles
+slender, vermiform; cuticular
+annules rounded; male
+tail long, bursa
+large
+"]
+	s3
+ -> Paratylenchidae
+ [label="Mature female vermiform
+to elongate-obese; procorpus
+of esophagus wide;
+stylet may be
+long
+"]
+	s3
+ -> s4
+ [label="Mature female saccate
+or spherical; procorpus
+of esophagus slender;
+stylet short
+"]
+	s4
+ -> Sphaeronematidae
+ [label="Mature female spherical,
+vulva terminal; excretory
+pore in anterior
+25% of body
+"]
+	s4
+ -> Tylenchulidae
+ [label="Mature female elongate-obese;
+vulva not terminal;
+excretory pore at
+>50% of body
+length
+"]
+	Criconematidae
+ -> "Hemicriconemoides Chitwood &
+Birchfield, 1957
+" [label="Female with a
+cuticular sheath of
+rounded annules
+"]
+	Criconematidae
+ -> 002
+ [label="Female without cuticular
+sheath
+"]
+	002
+ -> 003
+ [label="Cuticular annules in
+females and juveniles
+with scales, spines
+or other extensions
+"]
+	002
+ -> 009
+ [label="Cuticular annules in
+females smooth, occasionally
+with extensions in
+juveniles
+"]
+	003
+ -> "Blandicephalonema Mehta &
+Raski, 1971
+" [label="Cephalic region small,
+knob-like
+"]
+	003
+ -> 004
+ [label="Cephalic region not
+knob-like, usually with
+two annules
+"]
+	004
+ -> "Crossonema Mehta &
+Raski, 1971
+" [label="Each cuticular annule
+with continuous fringe
+of spines
+"]
+	004
+ -> 005
+ [label="Extensions of cuticular
+annules separated, not
+fringe-like
+"]
+	005
+ -> "Croserinema Khan, Chawla
+& Sala, 1976
+" [label="Cuticular extensions in
+alternating rows
+"]
+	005
+ -> 006
+ [label="Cuticular extensions not
+alternating, arranged in
+longitudinal rows
+"]
+	006
+ -> "Paterocephalonema Mehta &
+Raski, 1971
+" [label="One large saucer-shaped
+cephalic annule
+"]
+	006
+ -> 007
+ [label="Two, sometimes three,
+moderately-sized cephalic annules
+"]
+	007
+ -> "Bakernema Wu, 1964
+" [label="Cuticular extensions transparent,
+membranous
+"]
+	007
+ -> 008
+ [label="Cuticular extensions not
+membranous
+"]
+	008
+ -> "Orphreyus Siddiqi, 2000
+" [label="Shape and size
+of cuticular extensions
+differ on dorsal
+and ventral sides
+"]
+	008
+ -> "Ogma Southern, 1914
+" [label="Shape and size
+of cuticular extensions
+similar on dorsal
+and ventral sides
+"]
+	009
+ -> 010
+ [label="Annules of juveniles
+with longitudinal rows
+of scales or
+spines; females with
+smmoth annules, except
+in tail region
+"]
+	009
+ -> 013
+ [label="Annules of both
+juveniles and females
+without scales or
+spines
+"]
+	010
+ -> "Neolobocriconema Mehta &
+Raski, 1971
+" [label="Scales and spines
+present on annules
+in posterior region
+of females
+"]
+	010
+ -> 011
+ [label="Scales and spines
+not present on
+annules in posterior
+region of females
+"]
+	011
+ -> "Lobocriconema De Grisse
+& Loof, 1965
+" [label="Cephalic region with
+submedial lobes
+"]
+	011
+ -> 012
+ [label="Cephalic region without
+submedial lobes
+"]
+	012
+ -> "Amphisbaenema Orton Williams,
+1982
+" [label="Head with one
+dome-shaped annule; annules
+with encrustations
+"]
+	012
+ -> "Criconema Hofmänner &
+Menzel, 1914
+" [label="Head with two
+ring-like annules; annules
+without encrustations
+"]
+	013
+ -> "Mesocriconema Andrássy, 1965
+" [label="Vulva open; cephalic
+region with submedial
+lobes
+"]
+	013
+ -> 014
+ [label="Vulva closed; cephalic
+region without submedial
+lobes
+"]
+	014
+ -> "Discocriconemella De Grisse
+& Loof, 1965
+" [label="Anterior cephalic annule
+disc-like, offset by
+a collar
+"]
+	014
+ -> 015
+ [label="Anterior cephalic annule
+not disc-like, not
+offset
+"]
+	015
+ -> "Xenocriconemella De Grisse
+& Loof, 1965
+" [label="Stylet exceedingly long,
+flexible
+"]
+	015
+ -> 016
+ [label="Stylet not exceedingly
+long, not flexible
+"]
+	016
+ -> "Nothocriconemoides Loof &
+De Grisse, 1971
+" [label="Anterior lip of
+vulva overhanging aperture
+"]
+	016
+ -> "Criconemoides Taylor, 1936
+" [label="Anterior lip of
+vulva not overhanging
+aperture
+"]
+}

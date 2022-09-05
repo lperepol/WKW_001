@@ -1,0 +1,954 @@
+digraph GraphTitle {
+	graph [rankdir=LR remincross=True]
+	label="Key to Pratylenchus
+ Pablo Castillo and
+ Nicola Vovlas"
+	"P. angulatus
+" [label="P. angulatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. acuticaudatus
+" [label="P. acuticaudatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. crassi
+" [label="P. crassi
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. hippeastri
+" [label="P. hippeastri
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. tenuis
+" [label="P. tenuis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. estoniensis
+" [label="P. estoniensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. macrostylus
+" [label="P. macrostylus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. brachyurus
+" [label="P. brachyurus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. brzeskii
+" [label="P. brzeskii
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. neglectus
+" [label="P. neglectus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. flakkensis
+" [label="P. flakkensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. dunensis
+" [label="P. dunensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. yamagutii
+" [label="P. yamagutii
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. panamaensis
+" [label="P. panamaensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. loosi
+" [label="P. loosi
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. okinawensis
+" [label="P. okinawensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. hexincisus
+" [label="P. hexincisus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. gibbicaudatus
+" [label="P. gibbicaudatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. jaehni
+" [label="P. jaehni
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. silvaticus
+" [label="P. silvaticus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. alleni
+" [label="P. alleni
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. roseus
+" [label="P. roseus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. artemisiae
+" [label="P. artemisiae
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. scribneri
+" [label="P. scribneri
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. neobrachyurus
+" [label="P. neobrachyurus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. coffeae
+" [label="P. coffeae
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pseudocoffeae
+" [label="P. pseudocoffeae
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. microstylus
+" [label="P. microstylus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. japonicus
+" [label="P. japonicus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. bolivianus
+" [label="P. bolivianus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. elamini
+" [label="P. elamini
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. teres
+" [label="P. teres
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. sensillatus
+" [label="P. sensillatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. cruciferus
+" [label="P. cruciferus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. kumaoensis
+" [label="P. kumaoensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. curvicauda
+" [label="P. curvicauda
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pinguicaudatus
+" [label="P. pinguicaudatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. delattrei
+" [label="P. delattrei
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. subranjani
+" [label="P. subranjani
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. yassini
+" [label="P. yassini
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. arlingtoni
+" [label="P. arlingtoni
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. andinus
+" [label="P. andinus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. ekrami
+" [label="P. ekrami
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. bhattii
+" [label="P. bhattii
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. kralli
+" [label="P. kralli
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. mediterraneus
+" [label="P. mediterraneus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pseudofallax
+" [label="P. pseudofallax
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. sudanensis
+" [label="P. sudanensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. vulnus
+" [label="P. vulnus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. unzenensis
+" [label="P. unzenensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pratensisobrinus
+" [label="P. pratensisobrinus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. manaliensis
+" [label="P. manaliensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pratensis
+" [label="P. pratensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. ventroprojectus
+" [label="P. ventroprojectus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. zeae
+" [label="P. zeae
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. thornei
+" [label="P. thornei
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. crenatus
+" [label="P. crenatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. convallariae
+" [label="P. convallariae
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. penetrans
+" [label="P. penetrans
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pseudopratensis
+" [label="P. pseudopratensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. fallax
+" [label="P. fallax
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. morettoi
+" [label="P. morettoi
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. kasari
+" [label="P. kasari
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. subpenetrans
+" [label="P. subpenetrans
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. mulchandi
+" [label="P. mulchandi
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. goodeyi
+" [label="P. goodeyi
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. typicus
+" [label="P. typicus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. wescolagricus
+" [label="P. wescolagricus
+" fillcolor=aqua shape=hexagon style=filled]
+	Start
+ -> 001
+ [label="Pratylenchus Specimen
+"]
+	001
+ -> 002
+ [label="Labial region with
+two annuli
+"]
+	001
+ -> 028
+ [label="Labial region with
+three annuli
+"]
+	001
+ -> 065
+ [label="Labial region with
+four annuli
+"]
+	002
+ -> 003
+ [label="Males absent, spermatheca
+empty
+"]
+	002
+ -> 008
+ [label="Males generally common,
+spermatheca filled with
+sperm
+"]
+	003
+ -> "P. angulatus
+" [label="Stylet length <
+13 μm
+"]
+	003
+ -> 004
+ [label="Stylet length >
+13 μm
+"]
+	004
+ -> "P. acuticaudatus
+" [label="Spermatheca absent or
+reduced
+"]
+	004
+ -> 005
+ [label="Spermatheca well developed
+"]
+	005
+ -> "P. crassi
+" [label="Vulva position <
+75%
+"]
+	005
+ -> 006
+ [label="Vulva position _x0002_
+75%
+"]
+	006
+ -> 007
+ [label="Post-vulval uterine sac
+< 16 μm
+"]
+	006
+ -> "P. hippeastri
+" [label="Post-vulval uterine sac
+30-35 μm long
+"]
+	007
+ -> "P. tenuis
+" [label="Female tail tip
+smooth
+"]
+	007
+ -> "P. estoniensis
+" [label="Female tail tip
+striated
+"]
+	008
+ -> "P. macrostylus
+" [label="Stylet length >
+20 μm
+"]
+	008
+ -> 009
+ [label="Stylet length <
+20 μm
+"]
+	009
+ -> 010
+ [label="Stylet length 18-20
+μm
+"]
+	009
+ -> 011
+ [label="Stylet length <
+18 μm
+"]
+	010
+ -> "P. brachyurus
+" [label="Spermatheca reduced, labial
+region offset from
+body, with angular
+anterior margin
+"]
+	010
+ -> "P. brzeskii
+" [label="Spermatheca developed, rectangular
+"]
+	011
+ -> 012
+ [label="Stylet length 16-17.9
+μm
+"]
+	011
+ -> 018
+ [label="Stylet length <
+16 μm
+"]
+	012
+ -> "P. neglectus
+" [label="Spermatheca reduced, second
+annulus of labial
+region wider than
+first
+"]
+	012
+ -> 013
+ [label="Spermatheca developed
+"]
+	013
+ -> 014
+ [label="Spermatheca rounded to
+spherical
+"]
+	013
+ -> 015
+ [label="Spermatheca oval or
+rectangular
+"]
+	014
+ -> "P. flakkensis
+" [label="Post-vulval uterine sac
+< 20 μm
+"]
+	014
+ -> "P. dunensis
+" [label="Post-vulval uterine sac
+25-30 μm
+"]
+	015
+ -> "P. yamagutii
+" [label="Post-vulval uterine sac
+< 16 μm
+"]
+	015
+ -> 016
+ [label="Post-vulval uterine sac
+> 16 μm
+"]
+	016
+ -> "P. panamaensis
+" [label="Female tail subcylindrical
+"]
+	016
+ -> 017
+ [label="Female tail conoid
+"]
+	017
+ -> "P. loosi
+" [label="Pharyngeal overlap <
+40 μm, labial
+region rounded, spermatheca
+rectangular, tail tapering
+gradually to smooth
+conical tip, usually
+with narrowly rounded
+terminus, males abundant
+"]
+	017
+ -> "P. okinawensis
+" [label="Pharyngeal overlap >
+50 μm
+"]
+	018
+ -> "P. hexincisus
+" [label="Spermatheca reduced, lateral
+fields with six
+lines on most
+of body.
+"]
+	018
+ -> 019
+ [label="Spermatheca developed
+"]
+	019
+ -> 020
+ [label="Spermatheca rounded to
+spherical
+"]
+	019
+ -> 024
+ [label="Spermatheca oval
+"]
+	020
+ -> "P. gibbicaudatus
+" [label="Vulva position <
+75%
+"]
+	020
+ -> 021
+ [label="Vulva position >
+75%
+"]
+	021
+ -> 022
+ [label="Post-vulval uterine sac
+< 20 μm
+"]
+	021
+ -> "P. jaehni
+" [label="Post-vulval uterine sac
+> 20 μm
+"]
+	022
+ -> "P. silvaticus
+" [label="Female tail conoid
+"]
+	022
+ -> 023
+ [label="Female tail subcylindrical
+"]
+	023
+ -> "P. alleni
+" [label="Female tail tip
+smooth
+"]
+	023
+ -> "P. roseus
+" [label="Female tail tip
+striated
+"]
+	024
+ -> 025
+ [label="Vulva position <
+75%
+"]
+	024
+ -> 026
+ [label="Vulva position >
+75%
+"]
+	025
+ -> "P. artemisiae
+" [label="Female tail subcylindrical
+"]
+	025
+ -> "P. scribneri
+" [label="Female tail conoid,
+labial region slightly
+offset from body,
+stylet stout, with
+rounded knobs, spermatheca
+oblong, tail tapering
+slightly with smooth
+terminus
+"]
+	026
+ -> "P. neobrachyurus
+" [label="Post-vulval uterine sac
+< 16 μm
+"]
+	026
+ -> 027
+ [label="Post-vulval uterine sac
+> 16 μm
+"]
+	027
+ -> "P. coffeae
+" [label="Pharyngeal overlap <
+40 μm, labial
+region slightly offset,
+postvulval uterine sac
+1.0-1.5 body diam.
+long with a
+terminal rudimentary ovary,
+female tail tip
+truncate or hemispherical
+"]
+	027
+ -> "P. pseudocoffeae
+" [label="Pharyngeal overlap >
+50 μm
+"]
+	028
+ -> 029
+ [label="Males absent, spermatheca
+empty
+"]
+	028
+ -> 043
+ [label="Males generally common,
+spermatheca filled with
+sperm
+"]
+	029
+ -> "P. microstylus
+" [label="Stylet length <
+13 μm
+"]
+	029
+ -> 030
+ [label="Stylet length >
+13 μm
+"]
+	030
+ -> 031
+ [label="Stylet length 18-20
+μm
+"]
+	030
+ -> 032
+ [label="Stylet length <
+18 μm
+"]
+	031
+ -> "P. japonicus
+" [label="Post-vulval uterine sac
+< 20 μm
+"]
+	031
+ -> "P. bolivianus
+" [label="Post-vulval uterine sac
+> 20 μm
+"]
+	032
+ -> 033
+ [label="Stylet length <
+16 μm
+"]
+	032
+ -> 037
+ [label="Stylet length >
+16 μm
+"]
+	033
+ -> 034
+ [label="Spermatheca reduced or
+absent
+"]
+	033
+ -> "P. elamini
+" [label="Spermatheca oval
+"]
+	034
+ -> "P. teres
+" [label="Vulva position <
+75%
+"]
+	034
+ -> 035
+ [label="Vulva position >
+75%.
+"]
+	035
+ -> 036
+ [label="Post-vulval uterine sac
+< 25 μm
+"]
+	035
+ -> "P. sensillatus
+" [label="Post-vulval uterine sac
+> 25 μm
+"]
+	036
+ -> "P. cruciferus
+" [label="Female tail tip
+smooth
+"]
+	036
+ -> "P. kumaoensis
+" [label="Female tail tip
+striated
+"]
+	037
+ -> 038
+ [label="Spermatheca reduced or
+absent
+"]
+	037
+ -> 041
+ [label="Spermatheca developed
+"]
+	038
+ -> "P. curvicauda
+" [label="Vulva position <
+75%
+"]
+	038
+ -> 039
+ [label="Vulva position >
+75%.
+"]
+	039
+ -> "P. pinguicaudatus
+" [label="Post-vulval uterine sac
+< 16 μm
+"]
+	039
+ -> 040
+ [label="Post-vulval uterine sac
+> 20 μm
+"]
+	040
+ -> "P. delattrei
+" [label="Female tail tip
+smooth
+"]
+	040
+ -> "P. subranjani
+" [label="Female tail tip
+striated
+"]
+	041
+ -> "P. yassini
+" [label="Vulva position <
+75%
+"]
+	041
+ -> 042
+ [label="Vulva position >
+75%.
+"]
+	042
+ -> "P. arlingtoni
+" [label="Post-vulval uterine sac
+shorter than 20
+μm
+"]
+	042
+ -> "P. andinus
+" [label="Post-vulval uterine sac
+longer than 20
+μm
+"]
+	043
+ -> "P. ekrami
+" [label="Stylet length <
+13 μm
+"]
+	043
+ -> 044
+ [label="Stylet length >
+13 μm
+"]
+	044
+ -> 045
+ [label="Stylet length <
+16 μm
+"]
+	044
+ -> 055
+ [label="Stylet length >
+16 μm
+"]
+	045
+ -> 046
+ [label="Spermatheca rounded to
+spherical
+"]
+	045
+ -> 049
+ [label="Spermatheca oval or
+rectangular
+"]
+	046
+ -> "P. bhattii
+" [label="Vulva position <
+75%.
+"]
+	046
+ -> 047
+ [label="Vulva position >
+75%.
+"]
+	047
+ -> "P. kralli
+" [label="Post-vulval uterine sac
+< 16 μm
+"]
+	047
+ -> 048
+ [label="Post-vulval uterine sac
+> 16 μm
+"]
+	048
+ -> "P. mediterraneus
+" [label="Female tail tip
+smooth
+"]
+	048
+ -> "P. pseudofallax
+" [label="Female tail tip
+striated
+"]
+	049
+ -> 050
+ [label="Spermatheca oval
+"]
+	049
+ -> 053
+ [label="Spermatheca rectangular
+"]
+	050
+ -> "P. sudanensis
+" [label="Vulva position <
+75%
+"]
+	050
+ -> 051
+ [label="Vulva position >
+75%
+"]
+	051
+ -> "P. vulnus
+" [label="Post-vulval uterine sac
+> 30 μm,
+labial region almost
+continuous with body
+contour, pharynx overlapping
+intestine in a
+long lobe, spermatheca
+oblong, post-vulval uterine
+sac ca 2
+vulval body diam.
+long with rudimentary
+ovary, tail tapering,
+with narrowly rounded
+to subacute smooth
+tip
+"]
+	051
+ -> 052
+ [label="Post-vulval uterine sac
+< 30 μm
+"]
+	052
+ -> "P. unzenensis
+" [label="Female tail tip
+smooth
+"]
+	052
+ -> "P. pratensisobrinus
+" [label="Female tail tip
+striated
+"]
+	053
+ -> 054
+ [label="Vulva position <
+80%
+"]
+	053
+ -> "P. manaliensis
+" [label="Vulva position 80-85%
+"]
+	054
+ -> "P. pratensis
+" [label="Female tail tip
+striated, cuticle finely
+annulated, oval to
+rectangular spermatheca, post-vulval
+uterine sac length
+similar to body
+diam., tail annulated
+until terminus
+"]
+	054
+ -> "P. ventroprojectus
+" [label="Female tail tip
+with a ventral
+projection
+"]
+	055
+ -> 056
+ [label="Spermatheca reduced or
+absent
+"]
+	055
+ -> 058
+ [label="Spermatheca developed
+"]
+	056
+ -> "P. zeae
+" [label="Vulva position <
+76%, spermatheca round,
+vulva at 68-76%,
+tail conoid, terminus
+generally almost pointed,
+narrowly rounded to
+subacute, unstriated
+"]
+	056
+ -> 057
+ [label="Vulva position >
+76%.
+"]
+	057
+ -> "P. thornei
+" [label="Female tail tip
+smooth, labial region
+not offset from
+body, outer margin
+of sclerotised labial
+framework conspicuously extending
+ca two annuli
+into body and
+1 annulus into
+labial region, lateral
+fields with four
+lines, the outer
+ones straight or
+weakly crenate, stylet
+medium size (17-19
+μm long), spermatheca
+difficult to see,
+not containing spermatozoa,
+males very rare
+"]
+	057
+ -> "P. crenatus
+" [label="Female tail tip
+striated
+"]
+	058
+ -> 059
+ [label="Spermatheca rounded to
+spherical
+"]
+	058
+ -> 062
+ [label="Spermatheca oval
+"]
+	059
+ -> "P. convallariae
+" [label="Post-vulval uterine sac
+longer than 35
+μm
+"]
+	059
+ -> 060
+ [label="Post-vulval uterine sac
+between 25-30 μm
+"]
+	060
+ -> "P. penetrans
+" [label="Female tail tip
+smooth, labial region
+slightly offset, low,
+flat in front,
+with rounded outer
+margins, pharynx overlapping
+intestine in a
+lobe ca 1.5
+body diam. long,
+post-vulval uterine sac
+short, undifferentiated and
+tail generally rounded,
+tip smooth
+"]
+	060
+ -> 061
+ [label="Female tail tip
+striated
+"]
+	061
+ -> "P. pseudopratensis
+" [label="Spermatheca rectangular, female
+tail tip rounded
+to truncate, smooth
+"]
+	061
+ -> "P. fallax
+" [label="Spermatheca rounded, female
+tail tip rounded,
+smooth or slightly
+irregular contour
+"]
+	062
+ -> "P. morettoi
+" [label="Post-vulval uterine sac
+> 35 μm
+"]
+	062
+ -> 063
+ [label="Post-vulval uterine sac
+< 35 μm
+"]
+	063
+ -> 064
+ [label="Female tail tip
+smooth
+"]
+	063
+ -> "P. kasari
+" [label="Female tail tip
+striated
+"]
+	064
+ -> "P. subpenetrans
+" [label="Post-vulval uterine sac
+< 20 μm
+"]
+	064
+ -> "P. mulchandi
+" [label="Post-vulval uterine sac
+> 30 μm
+"]
+	065
+ -> 066
+ [label="Males absent, spermatheca
+empty
+"]
+	065
+ -> "P. goodeyi
+" [label="Males generally common,
+spermatheca filled with
+sperm, lateral fields
+with four inconspicuous
+lines, the two
+outer bands partially
+areolated, tail conoid,
+ventrally concave
+"]
+	066
+ -> "P. typicus
+" [label="Post-vulval uterine sac
+> 30 μm
+"]
+	066
+ -> "P. wescolagricus
+" [label="Post-vulval uterine sac
+< 30 μm
+"]
+}

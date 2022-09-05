@@ -1,0 +1,624 @@
+// FOO
+digraph GraphTitle {
+	graph [rankdir=LR remincross=True]
+	label="Families of
+Plant and Soil
+ Nematodes Howard
+ Ferris February 2011"
+	Aphelenchidae [label=Aphelenchidae fillcolor=aqua shape=hexagon style=filled]
+	Aphelenchoididae [label=Aphelenchoididae fillcolor=aqua shape=hexagon style=filled]
+	Heteroderinae [label=Heteroderinae fillcolor=aqua shape=hexagon style=filled]
+	Meloidogyninae [label=Meloidogyninae fillcolor=aqua shape=hexagon style=filled]
+	Nacobboderinae [label=Nacobboderinae fillcolor=aqua shape=hexagon style=filled]
+	Hoplolaiminae [label=Hoplolaiminae fillcolor=aqua shape=hexagon style=filled]
+	Rotylenchulinae [label=Rotylenchulinae fillcolor=aqua shape=hexagon style=filled]
+	Belonolaiminae [label=Belonolaiminae fillcolor=aqua shape=hexagon style=filled]
+	Telotylenchinae [label=Telotylenchinae fillcolor=aqua shape=hexagon style=filled]
+	Pratylenchinae [label=Pratylenchinae fillcolor=aqua shape=hexagon style=filled]
+	Nacobbinae [label=Nacobbinae fillcolor=aqua shape=hexagon style=filled]
+	Anguinidae [label=Anguinidae fillcolor=aqua shape=hexagon style=filled]
+	Dolichodoridae [label=Dolichodoridae fillcolor=aqua shape=hexagon style=filled]
+	Tylenchidae [label=Tylenchidae fillcolor=aqua shape=hexagon style=filled]
+	Anguinidae [label=Anguinidae fillcolor=aqua shape=hexagon style=filled]
+	Tylenchulinae [label=Tylenchulinae fillcolor=aqua shape=hexagon style=filled]
+	Paratylenchinae [label=Paratylenchinae fillcolor=aqua shape=hexagon style=filled]
+	Criconematinae [label=Criconematinae fillcolor=aqua shape=hexagon style=filled]
+	Hemicycliophorinae [label=Hemicycliophorinae fillcolor=aqua shape=hexagon style=filled]
+	Diphtherophoridae [label=Diphtherophoridae fillcolor=aqua shape=hexagon style=filled]
+	Trichodoridae [label=Trichodoridae fillcolor=aqua shape=hexagon style=filled]
+	Longidoridae [label=Longidoridae fillcolor=aqua shape=hexagon style=filled]
+	Belondiridae [label=Belondiridae fillcolor=aqua shape=hexagon style=filled]
+	Leptonchidae [label=Leptonchidae fillcolor=aqua shape=hexagon style=filled]
+	Nordiidae [label=Nordiidae fillcolor=aqua shape=hexagon style=filled]
+	Aporcelaimidae [label=Aporcelaimidae fillcolor=aqua shape=hexagon style=filled]
+	Thornenematidae [label=Thornenematidae fillcolor=aqua shape=hexagon style=filled]
+	Qudsianematidae [label=Qudsianematidae fillcolor=aqua shape=hexagon style=filled]
+	Bunonematidae [label=Bunonematidae fillcolor=aqua shape=hexagon style=filled]
+	Diplogastridae [label=Diplogastridae fillcolor=aqua shape=hexagon style=filled]
+	Monhysteridae [label=Monhysteridae fillcolor=aqua shape=hexagon style=filled]
+	Bastianiidae [label=Bastianiidae fillcolor=aqua shape=hexagon style=filled]
+	Chromadoridae [label=Chromadoridae fillcolor=aqua shape=hexagon style=filled]
+	Diplogastridae [label=Diplogastridae fillcolor=aqua shape=hexagon style=filled]
+	Plectidae [label=Plectidae fillcolor=aqua shape=hexagon style=filled]
+	Teratocephalidae [label=Teratocephalidae fillcolor=aqua shape=hexagon style=filled]
+	Cephalobidae [label=Cephalobidae fillcolor=aqua shape=hexagon style=filled]
+	Plectidae [label=Plectidae fillcolor=aqua shape=hexagon style=filled]
+	Rhabditidae [label=Rhabditidae fillcolor=aqua shape=hexagon style=filled]
+	Panagrolaimidae [label=Panagrolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Cephalobidae [label=Cephalobidae fillcolor=aqua shape=hexagon style=filled]
+	Bastianiidae [label=Bastianiidae fillcolor=aqua shape=hexagon style=filled]
+	Alaimidae [label=Alaimidae fillcolor=aqua shape=hexagon style=filled]
+	Monhysteridae [label=Monhysteridae fillcolor=aqua shape=hexagon style=filled]
+	Prismatolaimidae [label=Prismatolaimidae fillcolor=aqua shape=hexagon style=filled]
+	Mononchidae [label=Mononchidae fillcolor=aqua shape=hexagon style=filled]
+	Tobrilidae [label=Tobrilidae fillcolor=aqua shape=hexagon style=filled]
+	Tripylidae [label=Tripylidae fillcolor=aqua shape=hexagon style=filled]
+	000
+ -> 001
+ [label="Nematode Specimen
+"]
+	001
+ -> 002
+ [label="Nematodes with a
+protrusible stylet (stomatostyle)
+or spear (odontostyle)
+"]
+	001
+ -> 024
+ [label="Nematodes without protrusible
+stylet or spear
+"]
+	002
+ -> 003
+ [label="Stylet and three-part
+esophagus with median
+bulb (metacorpus), males
+with or without
+bursa
+"]
+	002
+ -> 016
+ [label="Spear and two-part
+esophagus with posterior
+swollen (postcorpus), males
+usually without bursa
+but with supplements
+"]
+	003
+ -> 004
+ [label="Median bulb large
+with refractive valve,
+flattened against body
+wall, stylet knobs
+absent or small
+"]
+	003
+ -> 005
+ [label="Median bulb not
+refractive, stylet knobs
+obvious
+"]
+	004
+ -> Aphelenchidae
+ [label="Stylet without knobs,
+tail rounded, male
+with bursa
+"]
+	004
+ -> Aphelenchoididae
+ [label="Stylet with small
+knobs, tail pointed,
+male usually without
+bursa
+"]
+	005
+ -> 006
+ [label="Esophageal glands overlap
+intestine
+"]
+	005
+ -> 011
+ [label="Esophageal glands enclosed
+in bulb that
+abuts intestine
+"]
+	006
+ -> 007
+ [label="Cephalic framework well-developed,
+lip-region high; females
+with two gonads
+"]
+	006
+ -> 010
+ [label="Posterior gonad reduced
+to a post-uterine
+sac, vulva at
+70-90%, lip-region flattened
+or cephalic framework
+absent
+"]
+	007
+ -> 008
+ [label="Tail tip, anus
+and vulva in
+close proximity on
+posterior of swollen
+female, male body
+twisted, male without
+bursa
+"]
+	007
+ -> 009
+ [label="Anus and vulva
+anterior to tail
+tip even when
+female swollen, male
+body not twisted,
+male with bursa
+"]
+	008
+ -> Heteroderinae
+ [label="Juvenile and female
+stages are sedentary
+endoparasites, female greatly
+swollen; male without
+bursa, body twisted,
+migratory in soil.
+Body of dead
+female forms cyst
+and retains some
+or all eggs
+– subfam. Heteroderinae
+"]
+	008
+ -> Meloidogyninae
+ [label="Juvenile and female
+stages are sedentary
+endoparasites, female greatly
+swollen; male without
+bursa, body twisted,
+migratory in soil
+Female body does
+not form cyst,
+eggs deposited in
+matrix – subfam.
+Meloidogyninae
+"]
+	008
+ -> Nacobboderinae
+ [label="Adult females sedentary
+endoparasites, greatly swollen;
+pre-adults vermiform; male
+without bursa, body
+twisted, migratory in
+soil Female body
+does not form
+cyst, eggs deposited
+in matrix –
+subfam. Nacobboderinae
+"]
+	009
+ -> Hoplolaiminae
+ [label="Stylet 2-3 x
+stylet body diameter,
+tail < 2
+x anal body
+diameter, body spiral
+when heat-killed, vulva
+around 60% .
+Mature female remains
+vermiform – subfam.
+Hoplolaiminae
+"]
+	009
+ -> Rotylenchulinae
+ [label="Stylet 2-3 x
+stylet body diameter,
+tail < 2
+x anal body
+diameter, body spiral
+when heat-killed, vulva
+around 60%. Mature
+female saccate sedentary
+semi-endoparasite – subfam.
+Rotylenchulinae
+"]
+	009
+ -> Belonolaiminae
+ [label="Tail > 2.5
+x anal body
+diameter, phasmids on
+tail region. Long
+nematodes, stylet >
+3 x stylet
+body diameter –
+subfam. Belonolaiminae
+"]
+	009
+ -> Telotylenchinae
+ [label="Tail > 2.5
+x anal body
+diameter, phasmids on
+tail region. Stylet
+< 1.5 x
+stylet body diameter
+– subfam. Telotylenchinae
+"]
+	010
+ -> Pratylenchinae
+ [label="Lip-region flattened but
+cephalic framework well-developed
+Female remains vermiform
+– subfam. Pratylenchinae
+"]
+	010
+ -> Nacobbinae
+ [label="Lip-region flattened but
+cephalic framework well-developed.
+Female a saccate
+endoparasite – subfam.
+Nacobbinae
+"]
+	010
+ -> Anguinidae
+ [label="Cephalic-framework weak or
+absent
+"]
+	011
+ -> Dolichodoridae
+ [label="Females with two
+gonads, males with
+caudal bursa
+"]
+	011
+ -> 012
+ [label="Posterior female gonad
+reduced to a
+post-uterine sac, males
+with adanal bursa
+(if present)
+"]
+	012
+ -> 013
+ [label="Stylet short (<
+stylet body diameter),
+tail pointed to
+filiform
+"]
+	012
+ -> 014
+ [label="Stylet long so
+that knobs are
+close to median
+bulb valve, procorpus
+swollen and fused
+with metacorpus
+"]
+	013
+ -> Tylenchidae
+ [label="Tail long and
+filiform (>5 x
+anal body diameter)
+"]
+	013
+ -> Anguinidae
+ [label="Tail pointed (<5
+x anal body
+diameter), cephalic framework
+absent
+"]
+	014
+ -> 015
+ [label="Thick cuticle with
+coarse striations
+"]
+	014
+ -> Tylenchulinae
+ [label="Female swollen, excretory
+pore posterior on
+body, female a
+saccate sedentary semi-endoparasite
+"]
+	014
+ -> Paratylenchinae
+ [label="Cuticle with fine
+striations, male often
+without stylet, body
+C-shaped
+"]
+	015
+ -> Criconematinae
+ [label="Large body diameter,
+sausage shape, slow
+moving, anchor-shaped stylet
+knobs
+"]
+	015
+ -> Hemicycliophorinae
+ [label="Extra cuticular sheath,
+pointed tail, rounded
+stylet knobs
+"]
+	016
+ -> Diphtherophoridae
+ [label="Spear with complex
+configuration, loose-fitting cuticle
+"]
+	016
+ -> 017
+ [label="Spear simple, cuticle
+not loose but
+may be swollen
+"]
+	017
+ -> Trichodoridae
+ [label="Spear dorsally curved,
+anus almost terminal
+"]
+	017
+ -> 018
+ [label="Spear straight, anus
+not terminal -
+tail present
+"]
+	018
+ -> Longidoridae
+ [label="Long, slender nematodes
+(1-12 mm), spear
+> 50 µm,
+long spear extension
+(odontophore)
+"]
+	018
+ -> 019
+ [label="Short spear
+"]
+	019
+ -> Belondiridae
+ [label="Postcorpus of esophagus
+with muscular sheath
+"]
+	019
+ -> 020
+ [label="No muscular sheath
+around esophagus
+"]
+	020
+ -> Leptonchidae
+ [label="Spear extension (odontophore)
+thick and curved
+"]
+	020
+ -> 021
+ [label="Spear extension not
+curved
+"]
+	021
+ -> 022
+ [label="Plump nematodes, tail
+rounded, with or
+without point
+"]
+	021
+ -> 023
+ [label="Slender nematodes, tail
+conoid to filiform
+"]
+	022
+ -> Nordiidae
+ [label="Spear slightly curved,
+small opening
+"]
+	022
+ -> Aporcelaimidae
+ [label="Spear with large
+opening, cuticle appears
+layered at tail
+"]
+	023
+ -> Thornenematidae
+ [label="Large nematodes (>2
+mm), tail filiform
+(may be rounded
+in male)
+"]
+	023
+ -> Qudsianematidae
+ [label="Medium size (1-2
+mm), tail conoid,
+body generally curved
+"]
+	024
+ -> Bunonematidae
+ [label="Body asymmetrical, caterpillar-like
+"]
+	024
+ -> 025
+ [label="Body symmetrical
+"]
+	025
+ -> Diplogastridae
+ [label="Median bulb present,
+tail filiform
+"]
+	025
+ -> 026
+ [label="Median bulb absent
+"]
+	026
+ -> 027
+ [label="Esophagus with terminal
+bulb or swelling
+"]
+	026
+ -> 037
+ [label="Esophagus cylindrical, no
+swellings
+"]
+	027
+ -> 028
+ [label="Terminal bulb without
+valves
+"]
+	027
+ -> 029
+ [label="Terminal bulb with
+valves
+"]
+	028
+ -> Monhysteridae
+ [label="Cuticle not striated
+"]
+	028
+ -> Bastianiidae
+ [label="Cuticle clearly striated
+"]
+	029
+ -> Chromadoridae
+ [label="Aquatic forms; cuticle
+striated and punctated
+"]
+	029
+ -> 030
+ [label="Cuticle without punctations
+"]
+	030
+ -> Diplogastridae
+ [label="Stoma cavity with
+teeth, tail filiform
+"]
+	030
+ -> 031
+ [label="Stoma cavity without
+teeth
+"]
+	031
+ -> 032
+ [label="Head with labial
+extensions or crown
+"]
+	031
+ -> 034
+ [label="Head without extensions
+"]
+	032
+ -> Plectidae
+ [label="Head with lateral
+cuticular extensions
+"]
+	032
+ -> 033
+ [label="Head with anterior
+extensions only
+"]
+	033
+ -> Teratocephalidae
+ [label="Labial extensions crown-shaped
+"]
+	033
+ -> Cephalobidae
+ [label="Labial-extensions thorn- or
+antler-shaped
+"]
+	034
+ -> Plectidae
+ [label="Tail tip with
+spinneret, amphids easily
+visible, males with
+tubular supplements
+"]
+	034
+ -> 035
+ [label="Tail tip without
+spinneret
+"]
+	035
+ -> Rhabditidae
+ [label="Stoma cavity cylindrical,
+cuticular walls, males
+with bursa
+"]
+	035
+ -> 036
+ [label="Stoma cavity funnel-shaped,
+walls not cuticular,
+posterior female gonad
+reduced, anterior gonad
+reflexed and extending
+beyond vulva
+"]
+	036
+ -> Panagrolaimidae
+ [label="Stoma cavity clearly
+present, anteriorly cylindrical
+"]
+	036
+ -> Cephalobidae
+ [label="Stoma cavity difficult
+to see, only
+anterior section open
+"]
+	037
+ -> Bastianiidae
+ [label="Cuticle striated
+"]
+	037
+ -> 038
+ [label="Cuticle smooth
+"]
+	038
+ -> Alaimidae
+ [label="Slender nematodes, no
+obvious stoma cavity
+or setae
+"]
+	038
+ -> 039
+ [label="Clear stoma cavity
+or setae
+"]
+	039
+ -> Monhysteridae
+ [label="Amphids round, clearly
+visible
+"]
+	039
+ -> 040
+ [label="Amphids difficult to
+see, not round
+"]
+	040
+ -> 041
+ [label="Stoma cavity large,
+walls cuticular walls
+"]
+	040
+ -> 042
+ [label="Stoma cavity funnel-shaped
+or closed anteriorly,
+walls not cuticular
+"]
+	041
+ -> Prismatolaimidae
+ [label="Tail filiform, setae
+present
+"]
+	041
+ -> Mononchidae
+ [label="Tail not filiform,
+large stoma cavity
+with teeth
+"]
+	042
+ -> Tobrilidae
+ [label="Funnel-shaped stoma with
+small teeth
+"]
+	042
+ -> Tripylidae
+ [label="Stoma closed anteriorly,
+one tooth and
+two tiny denticles
+in lumen
+"]
+}

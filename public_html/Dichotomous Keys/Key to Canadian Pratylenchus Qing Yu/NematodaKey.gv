@@ -1,0 +1,122 @@
+digraph GraphTitle {
+	graph [rankdir=LR remincross=True]
+	label="Key to
+ Canadian Pratylenchus sp.
+ Qing Yu"
+	"P. neglectus
+" [label="P. neglectus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. macrostylus
+" [label="P. macrostylus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. flakensis
+" [label="P. flakensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. sensillatus
+" [label="P. sensillatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. thornei
+" [label="P. thornei
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. crenatus
+" [label="P. crenatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. fallax
+" [label="P. fallax
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pratensis
+" [label="P. pratensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. zeae
+" [label="P. zeae
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. hexincinsus
+" [label="P. hexincinsus
+" fillcolor=aqua shape=hexagon style=filled]
+	Start
+ -> 001
+ [label=Specimen
+]
+	001
+ -> 002
+ [label="Lip region composed
+of two annules
+"]
+	001
+ -> 003
+ [label="Lip region composed
+of three annules
+"]
+	001
+ -> 005
+ [label="Lip region composed
+of four annules
+"]
+	002
+ -> 004
+ [label="Spermatheca filled with
+sperm
+"]
+	002
+ -> "P. neglectus
+" [label="Spermatheca empty
+"]
+	003
+ -> 006
+ [label="Tail crenated
+"]
+	003
+ -> 007
+ [label="Tail not crenated
+"]
+	004
+ -> "P. macrostylus
+" [label="Stylet length >24
+μm
+"]
+	004
+ -> "P. flakensis
+" [label="Stylet length <24
+μm
+"]
+	005
+ -> "P. sensillatus
+" [label="Vulva to anus
+distance >95 μm
+"]
+	005
+ -> "P. thornei
+" [label="Vulva to anus
+distance ≤95 μm
+"]
+	006
+ -> "P. crenatus
+" [label="Spermatheca empty
+"]
+	006
+ -> "P. fallax
+" [label="Spermatheca filled with
+sperm
+"]
+	007
+ -> "P. pratensis
+" [label="Lateral field with
+four lines with
+inner ones interrupted
+"]
+	007
+ -> 008
+ [label="Lateral field of
+lines not interrupted
+"]
+	008
+ -> "P. zeae
+" [label="Lateral field with
+four lines
+"]
+	008
+ -> "P. hexincinsus
+" [label="Lateral field with
+six lines
+"]
+}

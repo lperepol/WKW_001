@@ -1,0 +1,4252 @@
+digraph GraphTitle {
+	graph [rankdir=LR remincross=True]
+	label="Key to 
+Families and Genera
+ of the Order Dorylaimida
+ (2009)"
+	"Nygellus Thorne, 1939
+" [label="Nygellus Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Aetholaimus Williams, 1962
+" [label="Aetholaimus Williams, 1962
+" fillcolor=aqua shape=hexagon style=filled]
+	"Clavicauda Heyns, 1968
+" [label="Clavicauda Heyns, 1968
+" fillcolor=aqua shape=hexagon style=filled]
+	"Solididens Heyns, 1968
+" [label="Solididens Heyns, 1968
+" fillcolor=aqua shape=hexagon style=filled]
+	"Feroxides Heyns, 1968
+" [label="Feroxides Heyns, 1968
+" fillcolor=aqua shape=hexagon style=filled]
+	"Afronygus Heyns, 1968
+" [label="Afronygus Heyns, 1968
+" fillcolor=aqua shape=hexagon style=filled]
+	"Laevides Heyns, 1968
+" [label="Laevides Heyns, 1968
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paranygolaimus Heyns, 1968
+" [label="Paranygolaimus Heyns, 1968
+" fillcolor=aqua shape=hexagon style=filled]
+	"Nygolaimus Cobb, 1913
+" [label="Nygolaimus Cobb, 1913
+" fillcolor=aqua shape=hexagon style=filled]
+	"Aquatides Heyns, 1968
+" [label="Aquatides Heyns, 1968
+" fillcolor=aqua shape=hexagon style=filled]
+	"Clavicaudoides Heyns, 1968
+" [label="Clavicaudoides Heyns, 1968
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paravulvus Heyns, 1968
+" [label="Paravulvus Heyns, 1968
+" fillcolor=aqua shape=hexagon style=filled]
+	"Nygolaimellus Loos, 1949
+" [label="Nygolaimellus Loos, 1949
+" fillcolor=aqua shape=hexagon style=filled]
+	"" [label="" fillcolor=aqua shape=hexagon style=filled]
+	"Trachypleurosum Andrassy, 1959
+" [label="Trachypleurosum Andrassy, 1959
+" fillcolor=aqua shape=hexagon style=filled]
+	"Trachactinolaimus Andrassy, 1963
+" [label="Trachactinolaimus Andrassy, 1963
+" fillcolor=aqua shape=hexagon style=filled]
+	"Parastomachoglossa Coomans &
+Loof, 1986
+" [label="Parastomachoglossa Coomans &
+Loof, 1986
+" fillcolor=aqua shape=hexagon style=filled]
+	"Brasilaimus Zamith &
+Lordello, 1957
+" [label="Brasilaimus Zamith &
+Lordello, 1957
+" fillcolor=aqua shape=hexagon style=filled]
+	"Practinocephalus Andrassy, 1974
+" [label="Practinocephalus Andrassy, 1974
+" fillcolor=aqua shape=hexagon style=filled]
+	"Afratinca Vinciguerra &
+Clausi, 2000
+" [label="Afratinca Vinciguerra &
+Clausi, 2000
+" fillcolor=aqua shape=hexagon style=filled]
+	"Actinca Andrassy, 1964
+" [label="Actinca Andrassy, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Actinolaimus Cobb, 1913
+" [label="Actinolaimus Cobb, 1913
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paractinolaimoides Khan. Ahmad
+& Jairajpuri, 1994
+" [label="Paractinolaimoides Khan. Ahmad
+& Jairajpuri, 1994
+" fillcolor=aqua shape=hexagon style=filled]
+	"Scleroactinolaimus Ahmad, Khan
+& Ahmad, 1993
+" [label="Scleroactinolaimus Ahmad, Khan
+& Ahmad, 1993
+" fillcolor=aqua shape=hexagon style=filled]
+	"Metactinolaimus Meyl, 1957
+" [label="Metactinolaimus Meyl, 1957
+" fillcolor=aqua shape=hexagon style=filled]
+	"Westindicus Thorne, 1967
+" [label="Westindicus Thorne, 1967
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paractinolaimus Meyl, 1957
+" [label="Paractinolaimus Meyl, 1957
+" fillcolor=aqua shape=hexagon style=filled]
+	"Afractinolaimus Andrassy, 1970
+" [label="Afractinolaimus Andrassy, 1970
+" fillcolor=aqua shape=hexagon style=filled]
+	"Egtitus Thorne, 1967
+" [label="Egtitus Thorne, 1967
+" fillcolor=aqua shape=hexagon style=filled]
+	"Stopractinca Khan, Ahmad
+& Jairajpuri, 1994
+" [label="Stopractinca Khan, Ahmad
+& Jairajpuri, 1994
+" fillcolor=aqua shape=hexagon style=filled]
+	"Neoactinolaimus Thorne, 1967
+" [label="Neoactinolaimus Thorne, 1967
+" fillcolor=aqua shape=hexagon style=filled]
+	"Mactinolaimus Andrassy, 1970
+" [label="Mactinolaimus Andrassy, 1970
+" fillcolor=aqua shape=hexagon style=filled]
+	"Sicorinema Siddiqi, 1969
+" [label="Sicorinema Siddiqi, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Sicorinemella Andrassy, 2009
+" [label="Sicorinemella Andrassy, 2009
+" fillcolor=aqua shape=hexagon style=filled]
+	"Moshajia Siddiqi, 1982
+" [label="Moshajia Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Poronemella Siddiqi, 1969
+" [label="Poronemella Siddiqi, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Lordellonema Andrassy, 1959
+" [label="Lordellonema Andrassy, 1959
+" fillcolor=aqua shape=hexagon style=filled]
+	"Crateronema Siddiqi, 1969
+" [label="Crateronema Siddiqi, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Chrysonema Thorne, 1929
+" [label="Chrysonema Thorne, 1929
+" fillcolor=aqua shape=hexagon style=filled]
+	"Oonaguntus Thorne, 1974
+" [label="Oonaguntus Thorne, 1974
+" fillcolor=aqua shape=hexagon style=filled]
+	"Parapalus Loof &
+Zullini
+" [label="Parapalus Loof &
+Zullini
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paraxonchium Krall, 1958
+" [label="Paraxonchium Krall, 1958
+" fillcolor=aqua shape=hexagon style=filled]
+	"Gopalus Khan, Jairajpuri
+& Ahmad, 1987
+" [label="Gopalus Khan, Jairajpuri
+& Ahmad, 1987
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tendinema Siddiqi, 1995
+" [label="Tendinema Siddiqi, 1995
+" fillcolor=aqua shape=hexagon style=filled]
+	"Nygolaimoides Meyl in
+Andrassy, 1960
+" [label="Nygolaimoides Meyl in
+Andrassy, 1960
+" fillcolor=aqua shape=hexagon style=filled]
+	"Thorniosa Andrassy, 1996
+" [label="Thorniosa Andrassy, 1996
+" fillcolor=aqua shape=hexagon style=filled]
+	"Thornia Meyl, 1954
+" [label="Thornia Meyl, 1954
+" fillcolor=aqua shape=hexagon style=filled]
+	"Loofilaimus Jairajpuri, Ahmad
+& Sturhan, 1998
+" [label="Loofilaimus Jairajpuri, Ahmad
+& Sturhan, 1998
+" fillcolor=aqua shape=hexagon style=filled]
+	"Sphaeroamphis Ahmad &
+Sturhan, 2000
+" [label="Sphaeroamphis Ahmad &
+Sturhan, 2000
+" fillcolor=aqua shape=hexagon style=filled]
+	"Thorneella Andrassy, 1960
+" [label="Thorneella Andrassy, 1960
+" fillcolor=aqua shape=hexagon style=filled]
+	"Â 65
+" [label="Â 65
+" fillcolor=aqua shape=hexagon style=filled]
+	"Lagenonema Andrassy, 1987
+" [label="Lagenonema Andrassy, 1987
+" fillcolor=aqua shape=hexagon style=filled]
+	"Thornenema Andrassy, 1959
+" [label="Thornenema Andrassy, 1959
+" fillcolor=aqua shape=hexagon style=filled]
+	"Opisthodorylaimus Ahmad &
+Jairajpuri, 1982
+" [label="Opisthodorylaimus Ahmad &
+Jairajpuri, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Prothornenema Baqri &
+Bohra, 2003
+" [label="Prothornenema Baqri &
+Bohra, 2003
+" fillcolor=aqua shape=hexagon style=filled]
+	"Coomansinema Ahmad &
+Jairajpuri, 1989
+" [label="Coomansinema Ahmad &
+Jairajpuri, 1989
+" fillcolor=aqua shape=hexagon style=filled]
+	"Sicaguttur Siddiqi, 1971
+" [label="Sicaguttur Siddiqi, 1971
+" fillcolor=aqua shape=hexagon style=filled]
+	"Indodorylaimus Mehdi Ali
+& Prabha, 1974
+" [label="Indodorylaimus Mehdi Ali
+& Prabha, 1974
+" fillcolor=aqua shape=hexagon style=filled]
+	"Anadorella Siddiqi, 2005
+" [label="Anadorella Siddiqi, 2005
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paratimminema Rahaman, Ahmad
+& Khan, 1994
+" [label="Paratimminema Rahaman, Ahmad
+& Khan, 1994
+" fillcolor=aqua shape=hexagon style=filled]
+	"Sclerolabia Carbonell &
+Coomans, 1986
+" [label="Sclerolabia Carbonell &
+Coomans, 1986
+" fillcolor=aqua shape=hexagon style=filled]
+	"Willinema Baqri &
+Jairajpuri, 1967
+" [label="Willinema Baqri &
+Jairajpuri, 1967
+" fillcolor=aqua shape=hexagon style=filled]
+	"Californidorus Robbins &
+Weiner, 1978
+" [label="Californidorus Robbins &
+Weiner, 1978
+" fillcolor=aqua shape=hexagon style=filled]
+	"Kochinema Heyns, 1963
+" [label="Kochinema Heyns, 1963
+" fillcolor=aqua shape=hexagon style=filled]
+	"Acunemella Andrassy, 2002
+" [label="Acunemella Andrassy, 2002
+" fillcolor=aqua shape=hexagon style=filled]
+	"Thornedia Husain &
+Khan, 1965
+" [label="Thornedia Husain &
+Khan, 1965
+" fillcolor=aqua shape=hexagon style=filled]
+	"Longidorella Thorne, 1939
+" [label="Longidorella Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Malekus Thorne, 1974
+" [label="Malekus Thorne, 1974
+" fillcolor=aqua shape=hexagon style=filled]
+	"Oriverutoides Ahmad &
+Sturhan, 2002
+" [label="Oriverutoides Ahmad &
+Sturhan, 2002
+" fillcolor=aqua shape=hexagon style=filled]
+	"Lenonchium Siddiqi, 1965
+" [label="Lenonchium Siddiqi, 1965
+" fillcolor=aqua shape=hexagon style=filled]
+	"Enchodorus Vinciguerra, 1976
+" [label="Enchodorus Vinciguerra, 1976
+" fillcolor=aqua shape=hexagon style=filled]
+	"Inbionema Loof &
+Zullini, 2000
+" [label="Inbionema Loof &
+Zullini, 2000
+" fillcolor=aqua shape=hexagon style=filled]
+	"Oriverutus Siddiqi, 1971
+" [label="Oriverutus Siddiqi, 1971
+" fillcolor=aqua shape=hexagon style=filled]
+	"Lanzavecchia Zullini, 1988
+" [label="Lanzavecchia Zullini, 1988
+" fillcolor=aqua shape=hexagon style=filled]
+	"Actinolaimoides Meyl, 1957
+" [label="Actinolaimoides Meyl, 1957
+" fillcolor=aqua shape=hexagon style=filled]
+	"Pungentus Thorne &
+Swanger, 1936
+" [label="Pungentus Thorne &
+Swanger, 1936
+" fillcolor=aqua shape=hexagon style=filled]
+	"Pungentella Andrassy, 2009
+" [label="Pungentella Andrassy, 2009
+" fillcolor=aqua shape=hexagon style=filled]
+	"Rhyssocolpus Andrassy, 1971
+" [label="Rhyssocolpus Andrassy, 1971
+" fillcolor=aqua shape=hexagon style=filled]
+	"Enchodelus Thorne, 1939
+" [label="Enchodelus Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Heterodorus Altherr, 1952
+" [label="Heterodorus Altherr, 1952
+" fillcolor=aqua shape=hexagon style=filled]
+	"Fuscheila Siddiqi, 1982
+(Mesodorylaiminae)
+" [label="Fuscheila Siddiqi, 1982
+(Mesodorylaiminae)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Drepanodorylaimus Jairajpuri, 1966
+" [label="Drepanodorylaimus Jairajpuri, 1966
+" fillcolor=aqua shape=hexagon style=filled]
+	"Ischiodorylaimus Andrassy, 1969
+" [label="Ischiodorylaimus Andrassy, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Dorylaimus Dujardin, 1845
+" [label="Dorylaimus Dujardin, 1845
+" fillcolor=aqua shape=hexagon style=filled]
+	"Kittydorylaimus Andrassy, 1998
+" [label="Kittydorylaimus Andrassy, 1998
+" fillcolor=aqua shape=hexagon style=filled]
+	"Amphidorylaimus Andrassy, 1960
+" [label="Amphidorylaimus Andrassy, 1960
+" fillcolor=aqua shape=hexagon style=filled]
+	"Protodorylaimus Andrassy, 1988
+" [label="Protodorylaimus Andrassy, 1988
+" fillcolor=aqua shape=hexagon style=filled]
+	"Prodorylaimus Andrassy, 1959
+" [label="Prodorylaimus Andrassy, 1959
+" fillcolor=aqua shape=hexagon style=filled]
+	"Kunjudorylaimus Dhanam &
+Jairajpuri, 2000
+" [label="Kunjudorylaimus Dhanam &
+Jairajpuri, 2000
+" fillcolor=aqua shape=hexagon style=filled]
+	"Prodorylaimium Andrassy, 1969
+" [label="Prodorylaimium Andrassy, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Afrodorylaimus Andrassy, 1964
+" [label="Afrodorylaimus Andrassy, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Baladorylaimus Andrassy, 2001
+" [label="Baladorylaimus Andrassy, 2001
+" fillcolor=aqua shape=hexagon style=filled]
+	"Idiodorylaimus Andrassy, 1969
+" [label="Idiodorylaimus Andrassy, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Halodorylaimus Andrassy, 1988
+" [label="Halodorylaimus Andrassy, 1988
+" fillcolor=aqua shape=hexagon style=filled]
+	"Laimydorus Siddiqi, 1969
+" [label="Laimydorus Siddiqi, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Chrysodorus Jimenez-Guirado &
+Cadenas, 1985
+" [label="Chrysodorus Jimenez-Guirado &
+Cadenas, 1985
+" fillcolor=aqua shape=hexagon style=filled]
+	"Apodorylaimus Andrassy, 1988
+" [label="Apodorylaimus Andrassy, 1988
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paradorylaimus Andrassy, 1969
+" [label="Paradorylaimus Andrassy, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Crocodorylaimus Andrassy, 1988
+" [label="Crocodorylaimus Andrassy, 1988
+" fillcolor=aqua shape=hexagon style=filled]
+	"Calcaridorylaimus Andrassy, 1969
+" [label="Calcaridorylaimus Andrassy, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Calodorylaimus Andrassy, 1969
+" [label="Calodorylaimus Andrassy, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Miodorylaimus Andrassy, 1986
+" [label="Miodorylaimus Andrassy, 1986
+" fillcolor=aqua shape=hexagon style=filled]
+	"Namaquanema Heyns &
+Swart, 1993
+" [label="Namaquanema Heyns &
+Swart, 1993
+" fillcolor=aqua shape=hexagon style=filled]
+	"Mesodoylaimus Andrassy, 1959
+" [label="Mesodoylaimus Andrassy, 1959
+" fillcolor=aqua shape=hexagon style=filled]
+	"Sectonema Thorne, 1930
+" [label="Sectonema Thorne, 1930
+" fillcolor=aqua shape=hexagon style=filled]
+	"Nygolaimium Thorne, 1930
+" [label="Nygolaimium Thorne, 1930
+" fillcolor=aqua shape=hexagon style=filled]
+	"Scapidens Heyns, 1965
+" [label="Scapidens Heyns, 1965
+" fillcolor=aqua shape=hexagon style=filled]
+	"Aporcedorus Jairajpuri &
+Ahmad, 1983
+" [label="Aporcedorus Jairajpuri &
+Ahmad, 1983
+" fillcolor=aqua shape=hexagon style=filled]
+	"Makatinus Heyns, 1965
+" [label="Makatinus Heyns, 1965
+" fillcolor=aqua shape=hexagon style=filled]
+	"Aporcelaimellus Heyns, 1965
+" [label="Aporcelaimellus Heyns, 1965
+" fillcolor=aqua shape=hexagon style=filled]
+	"Acrotonus Thorne, 1974
+" [label="Acrotonus Thorne, 1974
+" fillcolor=aqua shape=hexagon style=filled]
+	"Silvallis Jairajpuri &
+Ahmad, 1985
+" [label="Silvallis Jairajpuri &
+Ahmad, 1985
+" fillcolor=aqua shape=hexagon style=filled]
+	"Epacrolaimus Andrassy, 2000
+" [label="Epacrolaimus Andrassy, 2000
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tubixaba Monteiro &
+Lordello 1980
+" [label="Tubixaba Monteiro &
+Lordello 1980
+" fillcolor=aqua shape=hexagon style=filled]
+	"Metaporcelaimus Lordello, 1965
+" [label="Metaporcelaimus Lordello, 1965
+" fillcolor=aqua shape=hexagon style=filled]
+	"Aporcelaimus Thorne &
+Swanger, 1936
+" [label="Aporcelaimus Thorne &
+Swanger, 1936
+" fillcolor=aqua shape=hexagon style=filled]
+	"Aporcella Andrassy, 2002
+" [label="Aporcella Andrassy, 2002
+" fillcolor=aqua shape=hexagon style=filled]
+	"Latocephalus Patil &
+Khan, 1982
+" [label="Latocephalus Patil &
+Khan, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Ecumenicus Thorne, 1974
+" [label="Ecumenicus Thorne, 1974
+" fillcolor=aqua shape=hexagon style=filled]
+	"Arctidorylaimus Mulvey &
+Anderson, 1979
+" [label="Arctidorylaimus Mulvey &
+Anderson, 1979
+" fillcolor=aqua shape=hexagon style=filled]
+	"Caryboca Lordello, 1967
+" [label="Caryboca Lordello, 1967
+" fillcolor=aqua shape=hexagon style=filled]
+	"Caribenema Thorne, 1967
+" [label="Caribenema Thorne, 1967
+" fillcolor=aqua shape=hexagon style=filled]
+	"Carcharolaimus Thorne, 1939
+" [label="Carcharolaimus Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Mylodiscoides Lordello, 1963
+" [label="Mylodiscoides Lordello, 1963
+" fillcolor=aqua shape=hexagon style=filled]
+	"Mylodiscus Thorne, 1939
+" [label="Mylodiscus Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Salimella Siddiqi, 2005
+" [label="Salimella Siddiqi, 2005
+" fillcolor=aqua shape=hexagon style=filled]
+	"Filidiscolaimus Siddiqi, 1995
+" [label="Filidiscolaimus Siddiqi, 1995
+" fillcolor=aqua shape=hexagon style=filled]
+	"Discolaimus Cobb, 1913
+" [label="Discolaimus Cobb, 1913
+" fillcolor=aqua shape=hexagon style=filled]
+	"Discolaimoides Heyns, 1963
+" [label="Discolaimoides Heyns, 1963
+" fillcolor=aqua shape=hexagon style=filled]
+	"Discolaimium Thorne, 1939
+" [label="Discolaimium Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Amblydorylaimus Andrassy, 1998
+" [label="Amblydorylaimus Andrassy, 1998
+" fillcolor=aqua shape=hexagon style=filled]
+	"Labronema Thorne, 1939
+" [label="Labronema Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Labronemella Andrassy, 1985
+" [label="Labronemella Andrassy, 1985
+" fillcolor=aqua shape=hexagon style=filled]
+	"Baqriella Ahmad &
+Jairajpuri, 1989
+" [label="Baqriella Ahmad &
+Jairajpuri, 1989
+" fillcolor=aqua shape=hexagon style=filled]
+	"Kallidorylaimus Andrassy, 1989
+" [label="Kallidorylaimus Andrassy, 1989
+" fillcolor=aqua shape=hexagon style=filled]
+	"Kolodorylaimus Andrassy, 1998
+" [label="Kolodorylaimus Andrassy, 1998
+" fillcolor=aqua shape=hexagon style=filled]
+	"Skibbenema Van Reenen
+& Heyns, 1986
+" [label="Skibbenema Van Reenen
+& Heyns, 1986
+" fillcolor=aqua shape=hexagon style=filled]
+	"Boreolaimus Andrassy, 1998
+" [label="Boreolaimus Andrassy, 1998
+" fillcolor=aqua shape=hexagon style=filled]
+	"Epidorylaimus Andrassy, 1986
+" [label="Epidorylaimus Andrassy, 1986
+" fillcolor=aqua shape=hexagon style=filled]
+	"Dorydorella Andrassy, 1987
+" [label="Dorydorella Andrassy, 1987
+" fillcolor=aqua shape=hexagon style=filled]
+	"Microdorylaimus Andrassy, 1986
+" [label="Microdorylaimus Andrassy, 1986
+" fillcolor=aqua shape=hexagon style=filled]
+	"Allodorylaimus Andrassy, 1986
+" [label="Allodorylaimus Andrassy, 1986
+" fillcolor=aqua shape=hexagon style=filled]
+	"Torumanawa Yeates, 1967
+" [label="Torumanawa Yeates, 1967
+" fillcolor=aqua shape=hexagon style=filled]
+	"Talanema Andrassy, 1991
+" [label="Talanema Andrassy, 1991
+" fillcolor=aqua shape=hexagon style=filled]
+	"Eudorylaimus Andrassy, 1959
+" [label="Eudorylaimus Andrassy, 1959
+" fillcolor=aqua shape=hexagon style=filled]
+	"Crassogula Andrassy, 1991
+" [label="Crassogula Andrassy, 1991
+" fillcolor=aqua shape=hexagon style=filled]
+	"Scalpellus Ahmad, 2004
+" [label="Scalpellus Ahmad, 2004
+" fillcolor=aqua shape=hexagon style=filled]
+	"Crassolabium Yeates, 1967
+" [label="Crassolabium Yeates, 1967
+" fillcolor=aqua shape=hexagon style=filled]
+	"Xiphinema Cobb, 1913
+" [label="Xiphinema Cobb, 1913
+" fillcolor=aqua shape=hexagon style=filled]
+	"Xiphidorus Monteiro, 1976
+" [label="Xiphidorus Monteiro, 1976
+" fillcolor=aqua shape=hexagon style=filled]
+	"Longidorus Micoletzky, 1922
+" [label="Longidorus Micoletzky, 1922
+" fillcolor=aqua shape=hexagon style=filled]
+	"Australodorus Coomans, Olmos,
+Casella & Chaves,
+2004
+" [label="Australodorus Coomans, Olmos,
+Casella & Chaves,
+2004
+" fillcolor=aqua shape=hexagon style=filled]
+	"Longidoroides Khan, Chawla
+& Saha, 1978
+" [label="Longidoroides Khan, Chawla
+& Saha, 1978
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paralongidorus Siddiqi, Hooper
+& Khan, 1963
+" [label="Paralongidorus Siddiqi, Hooper
+& Khan, 1963
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paraxiphidorus Coomans &
+Chaves, 1995
+" [label="Paraxiphidorus Coomans &
+Chaves, 1995
+" fillcolor=aqua shape=hexagon style=filled]
+	"Siddiqia Khan, Chawla
+& Saha, 1978
+" [label="Siddiqia Khan, Chawla
+& Saha, 1978
+" fillcolor=aqua shape=hexagon style=filled]
+	"Ibadamus Siddiqi, 1983
+" [label="Ibadamus Siddiqi, 1983
+" fillcolor=aqua shape=hexagon style=filled]
+	"Mesodorylaimus Jairajpuri &
+Ahmad, 1980
+" [label="Mesodorylaimus Jairajpuri &
+Ahmad, 1980
+" fillcolor=aqua shape=hexagon style=filled]
+	"Axodorylaimellus Jairajpuri &
+Ahmad, 1980
+" [label="Axodorylaimellus Jairajpuri &
+Ahmad, 1980
+" fillcolor=aqua shape=hexagon style=filled]
+	"Dorylaimellus Cobb, 1913
+" [label="Dorylaimellus Cobb, 1913
+" fillcolor=aqua shape=hexagon style=filled]
+	"Probelondira Andrassy, 2009
+" [label="Probelondira Andrassy, 2009
+" fillcolor=aqua shape=hexagon style=filled]
+	"Axonchoides Thorne, 1967
+" [label="Axonchoides Thorne, 1967
+" fillcolor=aqua shape=hexagon style=filled]
+	"Immanigula Andrassy, 1991
+" [label="Immanigula Andrassy, 1991
+" fillcolor=aqua shape=hexagon style=filled]
+	"Belondira Thorne, 1939
+" [label="Belondira Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Amphibelondira Rahman, Jairajpuri,
+Ahmad & Ahmad,
+1987
+" [label="Amphibelondira Rahman, Jairajpuri,
+Ahmad & Ahmad,
+1987
+" fillcolor=aqua shape=hexagon style=filled]
+	"Helicobelondira Yeates, 1973
+" [label="Helicobelondira Yeates, 1973
+" fillcolor=aqua shape=hexagon style=filled]
+	"Belondirella Thorne, 1964
+" [label="Belondirella Thorne, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Porternema Suryawanshi, 1972
+" [label="Porternema Suryawanshi, 1972
+" fillcolor=aqua shape=hexagon style=filled]
+	"Belaxellus Thorne, 1974
+" [label="Belaxellus Thorne, 1974
+" fillcolor=aqua shape=hexagon style=filled]
+	"Bullaenema Sauer, 1968
+" [label="Bullaenema Sauer, 1968
+" fillcolor=aqua shape=hexagon style=filled]
+	"Anchobelondira Nair &
+Coomans, 1971
+" [label="Anchobelondira Nair &
+Coomans, 1971
+" fillcolor=aqua shape=hexagon style=filled]
+	"Nimigula Andrassy, 1985
+" [label="Nimigula Andrassy, 1985
+" fillcolor=aqua shape=hexagon style=filled]
+	"Heynsaxonchium Coomans &
+Nair, 1975
+" [label="Heynsaxonchium Coomans &
+Nair, 1975
+" fillcolor=aqua shape=hexagon style=filled]
+	"Dactyluraxonchium Coomans &
+Nair, 1975
+" [label="Dactyluraxonchium Coomans &
+Nair, 1975
+" fillcolor=aqua shape=hexagon style=filled]
+	"Uniqaxonchium Dhanam &
+Jairajpuri, 1998
+" [label="Uniqaxonchium Dhanam &
+Jairajpuri, 1998
+" fillcolor=aqua shape=hexagon style=filled]
+	"Phallaxonchium Jairajpuri &
+Dhanachand, 1979
+" [label="Phallaxonchium Jairajpuri &
+Dhanachand, 1979
+" fillcolor=aqua shape=hexagon style=filled]
+	"Syncheilaxonchium Coomans &
+Nair, 1975
+" [label="Syncheilaxonchium Coomans &
+Nair, 1975
+" fillcolor=aqua shape=hexagon style=filled]
+	"Metaxonchium Coomans &
+Nair, 1975
+" [label="Metaxonchium Coomans &
+Nair, 1975
+" fillcolor=aqua shape=hexagon style=filled]
+	"Axonchium Cobb, 1920
+" [label="Axonchium Cobb, 1920
+" fillcolor=aqua shape=hexagon style=filled]
+	"Lindseyus Ferris &
+Ferris, 1973
+" [label="Lindseyus Ferris &
+Ferris, 1973
+" fillcolor=aqua shape=hexagon style=filled]
+	"Roqueus Thorne, 1974
+" [label="Roqueus Thorne, 1974
+" fillcolor=aqua shape=hexagon style=filled]
+	"Falcihasta Clark, 1964
+" [label="Falcihasta Clark, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paraqudsiella Siddiqi, 1982
+" [label="Paraqudsiella Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Â 76
+" [label="Â 76
+" fillcolor=aqua shape=hexagon style=filled]
+	"Hulqus Siddiqi, 1982
+" [label="Hulqus Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Oxydirus Thorne, 1939
+" [label="Oxydirus Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Swangeria Thorne, 1939
+" [label="Swangeria Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paraoxydirus Jairajpuri &
+Ahmad, 1979
+" [label="Paraoxydirus Jairajpuri &
+Ahmad, 1979
+" fillcolor=aqua shape=hexagon style=filled]
+	"Qudsiella Jairajpuri, 1987
+" [label="Qudsiella Jairajpuri, 1987
+" fillcolor=aqua shape=hexagon style=filled]
+	"Durinemella Andrassy, 2009
+" [label="Durinemella Andrassy, 2009
+" fillcolor=aqua shape=hexagon style=filled]
+	"Oxybelondira Ahmad &
+Jairajpuri, 1979
+" [label="Oxybelondira Ahmad &
+Jairajpuri, 1979
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paraoxybelondira Dhanam &
+Jairajpuri, 1999
+" [label="Paraoxybelondira Dhanam &
+Jairajpuri, 1999
+" fillcolor=aqua shape=hexagon style=filled]
+	"Glochidorella Siddiqi, 1982
+" [label="Glochidorella Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Zetalaimus Siddiqi, 1982
+" [label="Zetalaimus Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Trichonchium Siddiqi &
+Khan, 1964
+" [label="Trichonchium Siddiqi &
+Khan, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Basirotyleptus Jairajpuri, 1964
+" [label="Basirotyleptus Jairajpuri, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Aculonchus Siddiqi, 1982
+" [label="Aculonchus Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Sclerostylus Goseco, Ferris
+& Ferris, 1981
+" [label="Sclerostylus Goseco, Ferris
+& Ferris, 1981
+" fillcolor=aqua shape=hexagon style=filled]
+	"Xiphinemella Loos, 1950
+" [label="Xiphinemella Loos, 1950
+" fillcolor=aqua shape=hexagon style=filled]
+	"Kantbhala Siddiqi, 1982
+" [label="Kantbhala Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Scalpenchus Siddiqi, 1995
+" [label="Scalpenchus Siddiqi, 1995
+" fillcolor=aqua shape=hexagon style=filled]
+	"Utahnema Thorne, 1939
+" [label="Utahnema Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tyleptus Thorne, 1939
+" [label="Tyleptus Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Gymnotyleptus Ahmad &
+Jairajpuri, 1982
+" [label="Gymnotyleptus Ahmad &
+Jairajpuri, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Clavigula Siddiqi, 1995
+" [label="Clavigula Siddiqi, 1995
+" fillcolor=aqua shape=hexagon style=filled]
+	"Meylis Goseco, Ferris
+& Ferris, 1974
+" [label="Meylis Goseco, Ferris
+& Ferris, 1974
+" fillcolor=aqua shape=hexagon style=filled]
+	"Apoleptonchus Siddiqi, 1982
+" [label="Apoleptonchus Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Bertzuckermania Khera, 1970
+" [label="Bertzuckermania Khera, 1970
+" fillcolor=aqua shape=hexagon style=filled]
+	"Incanema Andrassy, 1997
+" [label="Incanema Andrassy, 1997
+" fillcolor=aqua shape=hexagon style=filled]
+	"Funaria Van der
+Linde, 1938
+" [label="Funaria Van der
+Linde, 1938
+" fillcolor=aqua shape=hexagon style=filled]
+	"Leptonchus Cobb, 1920
+" [label="Leptonchus Cobb, 1920
+" fillcolor=aqua shape=hexagon style=filled]
+	"Sclerolaimus Jairajpuri &
+Ahmad, 1992
+" [label="Sclerolaimus Jairajpuri &
+Ahmad, 1992
+" fillcolor=aqua shape=hexagon style=filled]
+	"Caveonchus Siddiqi, 1982
+" [label="Caveonchus Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Loncharionema Goseco, Ferris
+& Ferris, 1974
+" [label="Loncharionema Goseco, Ferris
+& Ferris, 1974
+" fillcolor=aqua shape=hexagon style=filled]
+	"Paraleptonchus Dhanam &
+Jairajpuri, 1999
+" [label="Paraleptonchus Dhanam &
+Jairajpuri, 1999
+" fillcolor=aqua shape=hexagon style=filled]
+	"Proleptonchus Lordello, 1955
+" [label="Proleptonchus Lordello, 1955
+" fillcolor=aqua shape=hexagon style=filled]
+	"Proleptonchoides Ferris, Goseco
+& Kumar, 1979
+" [label="Proleptonchoides Ferris, Goseco
+& Kumar, 1979
+" fillcolor=aqua shape=hexagon style=filled]
+	"Pachydorylaimus Siddiqi, 1983
+" [label="Pachydorylaimus Siddiqi, 1983
+" fillcolor=aqua shape=hexagon style=filled]
+	"Vanderlinea Heyns, 1964
+" [label="Vanderlinea Heyns, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Curvidorylaimus Jairajpuri &
+Rahman, 1983
+" [label="Curvidorylaimus Jairajpuri &
+Rahman, 1983
+" fillcolor=aqua shape=hexagon style=filled]
+	"Neometadorylaimus Jairajpuri &
+Ahmad, 1982
+" [label="Neometadorylaimus Jairajpuri &
+Ahmad, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Metadorylaimus Jairajpuri &
+Goodey, 1966
+" [label="Metadorylaimus Jairajpuri &
+Goodey, 1966
+" fillcolor=aqua shape=hexagon style=filled]
+	"Mumtazium Siddiqi, 1969
+" [label="Mumtazium Siddiqi, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Promumtazium Siddiqi, 1982
+" [label="Promumtazium Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tantunema Siddiqi, 1982
+" [label="Tantunema Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Oxydiroides Altherr, 1972
+" [label="Oxydiroides Altherr, 1972
+" fillcolor=aqua shape=hexagon style=filled]
+	"Discomyctus Thorne, 1939
+" [label="Discomyctus Thorne, 1939
+" fillcolor=aqua shape=hexagon style=filled]
+	"Lawtonema Siddiqi, 1999
+" [label="Lawtonema Siddiqi, 1999
+" fillcolor=aqua shape=hexagon style=filled]
+	"Wasimellus Bloemers &
+Wanless, 1996
+" [label="Wasimellus Bloemers &
+Wanless, 1996
+" fillcolor=aqua shape=hexagon style=filled]
+	"Cricodorylaimus Ahmad &
+Sturhan, 2001
+" [label="Cricodorylaimus Ahmad &
+Sturhan, 2001
+" fillcolor=aqua shape=hexagon style=filled]
+	"Chitwoodius Furstenberg &
+Heyns, 1966
+" [label="Chitwoodius Furstenberg &
+Heyns, 1966
+" fillcolor=aqua shape=hexagon style=filled]
+	"Chitwoodielloides Ahmad &
+Araki, 2123
+" [label="Chitwoodielloides Ahmad &
+Araki, 2123
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tylenchodoroides Gagarin, 2121
+" [label="Tylenchodoroides Gagarin, 2121
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tylencholaimus de Man,
+1876
+" [label="Tylencholaimus de Man,
+1876
+" fillcolor=aqua shape=hexagon style=filled]
+	"Pseudotylencholaimus Jairajpuri &
+Ahmad, 1992
+" [label="Pseudotylencholaimus Jairajpuri &
+Ahmad, 1992
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tylenchodorus Siddiqi, 1983
+" [label="Tylenchodorus Siddiqi, 1983
+" fillcolor=aqua shape=hexagon style=filled]
+	"Rostrulium Siddiqi, 1995
+" [label="Rostrulium Siddiqi, 1995
+" fillcolor=aqua shape=hexagon style=filled]
+	"Chitwoodiellus Jimenez &
+PeÃ±a-Santiago, 1992
+" [label="Chitwoodiellus Jimenez &
+PeÃ±a-Santiago, 1992
+" fillcolor=aqua shape=hexagon style=filled]
+	"Capilonchus Siddiqi, 1982
+" [label="Capilonchus Siddiqi, 1982
+" fillcolor=aqua shape=hexagon style=filled]
+	"Meylonema Andrassy, 1960
+" [label="Meylonema Andrassy, 1960
+" fillcolor=aqua shape=hexagon style=filled]
+	"Encholaimus Golden &
+Murphy, 1967
+" [label="Encholaimus Golden &
+Murphy, 1967
+" fillcolor=aqua shape=hexagon style=filled]
+	"Helmabia Siddiqi, 1971
+" [label="Helmabia Siddiqi, 1971
+" fillcolor=aqua shape=hexagon style=filled]
+	"Nemabia Siddiqi, 1995
+" [label="Nemabia Siddiqi, 1995
+" fillcolor=aqua shape=hexagon style=filled]
+	"Acephalodorylaimus Ahmad &
+Jairajpuri, 1983
+" [label="Acephalodorylaimus Ahmad &
+Jairajpuri, 1983
+" fillcolor=aqua shape=hexagon style=filled]
+	"Cephalodorylaimus Jairajpuri, 1967
+" [label="Cephalodorylaimus Jairajpuri, 1967
+" fillcolor=aqua shape=hexagon style=filled]
+	"Echinodorus Siddiqi, 1995
+" [label="Echinodorus Siddiqi, 1995
+" fillcolor=aqua shape=hexagon style=filled]
+	"Timmus Goseco, Ferris
+& Ferris, 1976
+" [label="Timmus Goseco, Ferris
+& Ferris, 1976
+" fillcolor=aqua shape=hexagon style=filled]
+	"Calolaimus Timm, 1964
+" [label="Calolaimus Timm, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Morasia Baqri &
+Jairajpuri, 1969
+" [label="Morasia Baqri &
+Jairajpuri, 1969
+" fillcolor=aqua shape=hexagon style=filled]
+	"Mydonomus Thorne, 1964
+" [label="Mydonomus Thorne, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Dorylaimoides Thorne &
+Swanger, 1936
+" [label="Dorylaimoides Thorne &
+Swanger, 1936
+" fillcolor=aqua shape=hexagon style=filled]
+	"Adenolaimus Andrassy, 1973
+" [label="Adenolaimus Andrassy, 1973
+" fillcolor=aqua shape=hexagon style=filled]
+	"Oostenbrinkia Ali, Suryawanshi
+& Ahmad, 1973
+" [label="Oostenbrinkia Ali, Suryawanshi
+& Ahmad, 1973
+" fillcolor=aqua shape=hexagon style=filled]
+	"Cladocephalus Swart &
+Heyns, 1991
+" [label="Cladocephalus Swart &
+Heyns, 1991
+" fillcolor=aqua shape=hexagon style=filled]
+	"Aulolaimoides Micoletzky, 1915
+" [label="Aulolaimoides Micoletzky, 1915
+" fillcolor=aqua shape=hexagon style=filled]
+	"Athernema Ahmad &
+Jairajpuri, 1978
+" [label="Athernema Ahmad &
+Jairajpuri, 1978
+" fillcolor=aqua shape=hexagon style=filled]
+	"Dorella Jairajpuri, 1964
+" [label="Dorella Jairajpuri, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Margollus PeÃ±a-Santiago, Peralta
+& Siddiqi, 1993
+" [label="Margollus PeÃ±a-Santiago, Peralta
+& Siddiqi, 1993
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tylencholaimellus Cobb, 1915
+" [label="Tylencholaimellus Cobb, 1915
+" fillcolor=aqua shape=hexagon style=filled]
+	"Phellonema Thorne, 1964
+" [label="Phellonema Thorne, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Goferus Jairajpuri &
+Ahmad, 1992
+" [label="Goferus Jairajpuri &
+Ahmad, 1992
+" fillcolor=aqua shape=hexagon style=filled]
+	"Agmodorus Thorne, 1964
+" [label="Agmodorus Thorne, 1964
+" fillcolor=aqua shape=hexagon style=filled]
+	"Oostenbrinkella Jairajpuri, 1965
+" [label="Oostenbrinkella Jairajpuri, 1965
+" fillcolor=aqua shape=hexagon style=filled]
+	"Doryllium Cobb, 1920
+" [label="Doryllium Cobb, 1920
+" fillcolor=aqua shape=hexagon style=filled]
+	000
+ -> 001
+ [label=Specimen
+]
+	001
+ -> 002
+ [label="Stoma with subventral
+mural tooth, stoma
+wide, cardia with
+3 gland cells
+"]
+	001
+ -> 017
+ [label="Stoma with axial
+odontostyle, stoma narrow,
+cardia small, without
+gland cells
+"]
+	002
+ -> 004
+ [label="Female reproductive system
+monovarial, opisthodelphic; basal
+part of esophagus
+with a sheath
+of spiral muscles
+"]
+	002
+ -> 003
+ [label="Female reproductive system
+diovarial, amphidelphic; basal
+part of esophagus
+with a thin
+muscle sheath which
+is difficult to
+discern
+"]
+	003
+ -> 005
+ [label="Anterior part of
+stoma bowl-shaped and
+sclerotized
+"]
+	003
+ -> 006
+ [label="Anterior part of
+stoma simple, without
+sclerotization
+"]
+	004
+ -> "Nygellus Thorne, 1939
+" [label="Body length <
+1.4 mm; cuticle
+thin with fine
+transverse striations; lip
+region continuous with
+body contour
+"]
+	004
+ -> "Aetholaimus Williams, 1962
+" [label="Body length <
+1.4 mm; cuticle
+thin with fine
+transverse striations
+"]
+	005
+ -> 007
+ [label="Basal part <
+1/2 of esophagus
+length; esophageal gland
+nuclei not enlarged;
+cardia with 3
+small transversely-ovoid glands;
+vulva transverse; ,
+no paravulvae
+"]
+	005
+ -> 015
+ [label="Basal part <
+1/2 of esophagus
+length; esophageal gland
+nuclei enlarged and
+readily visible; cardia
+with 3 longitudinally-ovoid
+glands; vulva longitudinal;
+ventral adanal region
+with papillae or
+pores (paravulvae)
+"]
+	006
+ -> 016
+ [label="Basal part about
+2/3 of esophagus
+length; cardial disk,
+no cardia glands;
+vulva transverse, no
+paravulvae
+"]
+	006
+ -> 008
+ [label="Mural tooth needle-like,
+no lumen
+"]
+	007
+ -> 010
+ [label="Mural tooth deltoid,
+linear or dorylaimoid,
+with lumen
+"]
+	007
+ -> "Clavicauda Heyns, 1968
+" [label="Tail elongate with
+clavate terminus
+"]
+	008
+ -> 009
+ [label="Tail short and
+bluntly rounded, not
+clavate
+"]
+	008
+ -> "Solididens Heyns, 1968
+" [label="Labial region offset
+by a constriction,
+anterior body contour
+not continuous
+"]
+	009
+ -> "Feroxides Heyns, 1968
+" [label="Labial region continuous
+with body contour
+"]
+	009
+ -> "Afronygus Heyns, 1968
+" [label="Tail long, elongate-conoid,
+ventrally arcuate
+"]
+	010
+ -> 011
+ [label="Tail short, convex-conoid
+to rounded, or
+clavate
+"]
+	010
+ -> "Laevides Heyns, 1968
+" [label="Tooth dorylaimoid with
+dorsal aperture
+"]
+	011
+ -> 012
+ [label="Tooth deltoid or
+linear, without aperture
+"]
+	011
+ -> 013
+ [label="Labial region offset
+by a constriction,
+anterior body contour
+not continuous; tooth
+deltoid
+"]
+	012
+ -> 014
+ [label="Labial region continuous
+with body contour;
+tooth deltoid or
+linear
+"]
+	012
+ -> "Paranygolaimus Heyns, 1968
+" [label="Male with prominent
+ventromedian supplements and
+gubernaculum
+"]
+	013
+ -> "Nygolaimus Cobb, 1913
+" [label="Male with weak
+ventromedian supplements; gubernaculum
+absent
+"]
+	013
+ -> "Aquatides Heyns, 1968
+" [label="Tooth linear, tail
+convex-conoid or rounded
+"]
+	014
+ -> "Clavicaudoides Heyns, 1968
+" [label="Tooth deltoid or
+linear, tail rounded
+to clavate
+"]
+	014
+ -> "Paravulvus Heyns, 1968
+" [label="Vulva longitudinal; cardia
+glands longitudinally ovoid
+"]
+	015
+ -> "Nygolaimellus Loos, 1949
+" [label="Basal part about
+2/3 of esophagus
+length; cardial disk,
+no cardia glands;
+vulva transverse
+"]
+	015
+ -> 018
+ [label="Odontostyle usually <
+2x lip width;
+anterior section of
+esophagus slender but
+muscular; posterior without
+muscular sheath; 5
+esophageal nuclei
+"]
+	016
+ -> 153
+ [label="Odontostyle very long
+and slender; anterior
+section of esophagus
+slender not muscular;
+posterior without muscular
+sheath; 3 esophageal
+nuclei
+"]
+	016
+ -> 160
+ [label="Odontostyle usually about
+1x lip width;
+anterior section of
+esophagus slender but
+muscular, posterior surrounded
+by muscular sheath;
+5 esophageal nuclei
+"]
+	017
+ -> 195
+ [label="Odontostyle usually 1-2x
+lip width; anterior
+section of esophagus
+"]
+	017
+ -> "" [label="muscular, posterior section
+a short bulb
+without muscular sheath;
+5 esophageal nuclei
+"]
+	018
+ -> 026
+ [label="Stoma with 4
+large onchia surrounding
+odontostyle
+"]
+	018
+ -> 019
+ [label="Stoma without large
+onchia
+"]
+	019
+ -> 042
+ [label="Cuticle with numerous
+conspicuous pores with
+sclerotized ducts
+"]
+	019
+ -> 020
+ [label="Cuticle without pores
+with sclerotized ducts
+"]
+	020
+ -> 049
+ [label="Anterior of body
+strongly tapered to
+a small head;
+subcuticular glands present
+"]
+	020
+ -> 021
+ [label="Anterior of body
+gently tapered to
+a normal dorylaimid
+head; subcuticular glands
+absent
+"]
+	021
+ -> 052
+ [label="Lip region low
+with the two
+circles of labial
+papillae close together
+"]
+	021
+ -> 022
+ [label="Lip region normal
+with the two
+circles of labial
+papillae well separated
+"]
+	022
+ -> 057
+ [label="Sublabial region sclerotized;
+lips amalgamated; males
+with few supplements
+"]
+	022
+ -> 023
+ [label="Sublabial region not
+sclerotized; males with
+variable number of
+supplements
+"]
+	023
+ -> 068
+ [label="Odontostyle long and
+slender with small
+aperture; odontophore surrounded
+by muscular sheath
+"]
+	023
+ -> 024
+ [label="Odontostyle intermediate length
+and diameter with
+large aperture
+"]
+	024
+ -> 086
+ [label="Female tail attenuated
+to filiform; male
+tail similar or
+short
+"]
+	024
+ -> 025
+ [label="Both female and
+male with short
+tail
+"]
+	025
+ -> 110
+ [label="Odontostyle aperture >1/2
+odontostyle length; guiding
+ring plicated, appears
+double
+"]
+	025
+ -> 123
+ [label="Odontostyle aperture <1/2
+odontostyle length; guiding
+ring simple
+"]
+	026
+ -> 027
+ [label="Odontostyle robust, dorylaimoid;
+cuticle without longitudinal
+ridges; anterior and
+posterior parts of
+esophagus muscular; vulval
+lips sclerotized; male
+and female with
+similar long tails
+"]
+	026
+ -> 032
+ [label="Odontostyle fairly robust,
+dorylaimoid; cuticle usually
+smooth; anterior and
+posterior parts of
+esophagus muscular; vulval
+lips sclerotized; male
+with short, rounded
+tail; female with
+long tail
+"]
+	026
+ -> 028
+ [label="Odontostyle long and
+slender; cuticle with
+longitudinal ridges; anterior
+part of esophagus
+non-muscular, mid and
+and posterior parts
+muscular; vulval lips
+not sclerotized; male
+with short, rounded
+tail; female with
+long tail
+"]
+	027
+ -> "Trachypleurosum Andrassy, 1959
+" [label="Stoma with denticles
+"]
+	027
+ -> "Trachactinolaimus Andrassy, 1963
+" [label="Tail differs in
+male and female,
+elongate to filiform
+in female, short
+and rounded in
+male
+"]
+	028
+ -> "Parastomachoglossa Coomans &
+Loof, 1986
+" [label="Labial region low;
+odontostyle fairly robust
+"]
+	028
+ -> 029
+ [label="Labial region normal;
+odontostyle not robust
+"]
+	029
+ -> "Brasilaimus Zamith &
+Lordello, 1957
+" [label="Cuticle very thick;
+inner vulval lips
+wider than vagina
+"]
+	029
+ -> 030
+ [label="Cuticle not very
+thick; inner vulval
+lips moderately developed
+"]
+	030
+ -> "Practinocephalus Andrassy, 1974
+" [label="Lip region strong
+and expanded; male
+tail with filiform
+extension
+"]
+	030
+ -> 031
+ [label="Lip region not
+expanded; male tail
+without filiform extension
+"]
+	031
+ -> "Afratinca Vinciguerra &
+Clausi, 2000
+" [label="Anterior of stoma
+strong and hexagonal
+"]
+	031
+ -> "Actinca Andrassy, 1964
+" [label="Anterior of stoma
+thin-walled, circular
+"]
+	032
+ -> "Actinolaimus Cobb, 1913
+" [label="Cuticle with longitudinal
+ridges
+"]
+	032
+ -> 033
+ [label="Cuticle without longitudinal
+ridges
+"]
+	033
+ -> 034
+ [label="Anterior of stoma
+with 4 sclerotized
+plates
+"]
+	033
+ -> 035
+ [label="Anterior of stoma
+without sclerotized plates
+"]
+	034
+ -> "Paractinolaimoides Khan. Ahmad
+& Jairajpuri, 1994
+" [label="Stoma wall with
+small denticles
+"]
+	034
+ -> "Scleroactinolaimus Ahmad, Khan
+& Ahmad, 1993
+" [label="Stoma wall without
+denticles
+"]
+	035
+ -> "Metactinolaimus Meyl, 1957
+" [label="Onchia fused at
+base
+"]
+	035
+ -> 036
+ [label="Onchia separate, not
+fused
+"]
+	036
+ -> "Westindicus Thorne, 1967
+" [label="Anterior stoma walls
+strongly ribbed, basket-like
+"]
+	036
+ -> 037
+ [label="Anterior stoma walls
+not ribbed
+"]
+	037
+ -> 038
+ [label="Anterior stoma wall
+with denticles
+"]
+	037
+ -> 039
+ [label="Anterior stoma wall
+without denticles
+"]
+	038
+ -> "Paractinolaimus Meyl, 1957
+" [label="Male supplements in
+a linear series
+"]
+	038
+ -> "Afractinolaimus Andrassy, 1970
+" [label="Male supplements in
+clusters or fascicles
+"]
+	039
+ -> 040
+ [label="Male supplements in
+a linear series
+"]
+	039
+ -> 041
+ [label="Male supplements in
+clusters or fascicles
+"]
+	040
+ -> "Egtitus Thorne, 1967
+" [label="Anterior part of
+esophagus muscular
+"]
+	040
+ -> "Stopractinca Khan, Ahmad
+& Jairajpuri, 1994
+" [label="Anterior part of
+esophagus non-muscular
+"]
+	041
+ -> "Neoactinolaimus Thorne, 1967
+" [label="Onchia each with
+two small additional
+denticles
+"]
+	041
+ -> "Mactinolaimus Andrassy, 1970
+" [label="Onchia without additional
+denticles
+"]
+	042
+ -> 047
+ [label="Slender nematodes; cuticular
+pores indistinct; odontostyle
+very thin with
+small aperture; females
+diovarial, amphidelphic; tail
+conoid to elongate-conoid
+"]
+	042
+ -> 043
+ [label="Moderately slender nematodes;
+cuticular pores distinct;
+odontostyle thick with
+large aperture, often
+>1/2 odontostyle length;
+females monovarial or
+diovarial; tail short,
+rounded or elongate-conoid
+"]
+	043
+ -> "Sicorinema Siddiqi, 1969
+" [label="Female reproductive system
+monovarial, opisthodelphic
+"]
+	043
+ -> 044
+ [label="Female reproductive system
+diovarial
+"]
+	044
+ -> 045
+ [label="Cuticle with conspicuous
+lateral, ventral and
+dorsal pores
+"]
+	044
+ -> "Sicorinemella Andrassy, 2009
+" [label="Cuticle without conspicuous
+pores; odontostyle short
+and thick with
+large aperture
+"]
+	045
+ -> "Moshajia Siddiqi, 1982
+" [label="Odontostyle length about
+1x labial width
+with large aperture,
+>1/2 odontostyle length
+"]
+	045
+ -> 046
+ [label="Odontostyle length >
+1x labial width
+with aperture about
+1/3 odontostyle length
+"]
+	046
+ -> "Poronemella Siddiqi, 1969
+" [label="Body slender; tail
+elongate-conoid
+"]
+	046
+ -> "Lordellonema Andrassy, 1959
+" [label="Body stout; tail
+short, conoid
+"]
+	047
+ -> "Crateronema Siddiqi, 1969
+" [label="Labial region offset
+from body contour,
+lips separated; odontostyle
+thin with small
+aperture
+"]
+	047
+ -> 048
+ [label="Labial region continuous
+with body contour,
+lips amalgamated; odontostyle
+thin with small
+aperture
+"]
+	048
+ -> "Chrysonema Thorne, 1929
+" [label="Tail elongate-conoid, with
+distinct papillae in
+male
+"]
+	048
+ -> "Oonaguntus Thorne, 1974
+" [label="Tail short without
+distinct papillae
+"]
+	049
+ -> 050
+ [label="Anterior of body
+narrowing strongly; neck
+outline concave; head
+very small, <1/4
+body width at
+base of esophagus;
+odontostyle straight or
+bent dorsally; tail
+short-conoid or elongate-conoid
+to filiform
+"]
+	049
+ -> 051
+ [label="Anterior of body
+narrowing less strongly;
+neck outline concave;
+head small, about
+1/3 body width
+at base of
+esophagus; odontostyle straight;
+tail short-conoid or
+conoid-rounded
+"]
+	050
+ -> "Parapalus Loof &
+Zullini
+" [label="Odontostyle straight with
+small aperture
+"]
+	050
+ -> "Paraxonchium Krall, 1958
+" [label="Odontostyle bent dorsally
+with large aperture
+"]
+	051
+ -> "Gopalus Khan, Jairajpuri
+& Ahmad, 1987
+" [label="Odontostyle length >2x
+labial width, aperture
+about 1/4 length
+of odontostyle
+"]
+	051
+ -> "Tendinema Siddiqi, 1995
+" [label="Odontostyle length about
+1x labial width,
+aperture about 1/2
+length of odontostyle
+"]
+	052
+ -> 053
+ [label="Head with lips
+amalgamated; two circles
+of labial papillae
+separated; odontostyle narrowing
+posteriorly; male with
+gubernaculum
+"]
+	052
+ -> 055
+ [label="Head with lips
+amalgamated; two circles
+of labial papillae
+very close; odontostyle
+narrowing posteriorly; male
+without gubernaculum
+"]
+	053
+ -> 054
+ [label="Male spicules short
+and straight without
+inner scerotization
+"]
+	053
+ -> "Nygolaimoides Meyl in
+Andrassy, 1960
+" [label="Male spicules arcuate
+with inner scerotization;
+gubernaculum present
+"]
+	054
+ -> "Thorniosa Andrassy, 1996
+" [label="Labial region offset
+from body contour;
+6 small liplets
+within the outer
+labia
+"]
+	054
+ -> "Thornia Meyl, 1954
+" [label="Labial region not
+offset from body
+contour; without inset
+liplets
+"]
+	055
+ -> "Loofilaimus Jairajpuri, Ahmad
+& Sturhan, 1998
+" [label="Anterior stoma with
+a sclerotized ring
+"]
+	055
+ -> 056
+ [label="Anterior stoma without
+sclerotized ring
+"]
+	056
+ -> "Sphaeroamphis Ahmad &
+Sturhan, 2000
+" [label="Male with 3-4
+supplements
+"]
+	056
+ -> "Thorneella Andrassy, 1960
+" [label="Male without supplements
+"]
+	057
+ -> 058
+ [label="Female tail elongate;
+male tail elongate
+or short, rounded
+"]
+	057
+ -> "Â 65
+" [label="Female and male
+tails both short
+and rounded
+"]
+	058
+ -> "Lagenonema Andrassy, 1987
+" [label="Anterior of body
+narrow, bottle-shaped; amphids
+small
+"]
+	058
+ -> 059
+ [label="Anterior of body
+not bottle-shaped; amphids
+large
+"]
+	059
+ -> 060
+ [label="Female tail attenuated
+to long; male
+tail short, round
+"]
+	059
+ -> 063
+ [label="Tails of males
+and females similar,
+either long or
+short, rounded
+"]
+	060
+ -> 061
+ [label="Female reproductive system
+monovarial, opisthodelphic
+"]
+	060
+ -> 062
+ [label="Female reproductive system
+diovarial, amphidelphic
+"]
+	061
+ -> "Thornenema Andrassy, 1959
+" [label="Labial framework and
+esophageal collar sclerotized
+"]
+	061
+ -> "Opisthodorylaimus Ahmad &
+Jairajpuri, 1982
+" [label="Labial framework and
+esophageal collar not
+sclerotized
+"]
+	062
+ -> "Prothornenema Baqri &
+Bohra, 2003
+" [label="Collar present; male
+with 15-17 ventromedian
+supplements, contiguous
+"]
+	062
+ -> "Coomansinema Ahmad &
+Jairajpuri, 1989
+" [label="Collar absent; male
+with 10-15 ventromedian
+supplements, spaced
+"]
+	063
+ -> 064
+ [label="Tail long in
+both males and
+females
+"]
+	063
+ -> 065
+ [label="Tail short, rounded
+in both males
+and females
+"]
+	064
+ -> "Sicaguttur Siddiqi, 1971
+" [label="Female reproductive system
+diovarial, amphidelphic
+"]
+	064
+ -> "Indodorylaimus Mehdi Ali
+& Prabha, 1974
+" [label="Female reproductive system
+monovarial, opisthodelphic
+"]
+	065
+ -> 066
+ [label="Female reproductive system
+diovarial with both
+branches equally developed,
+amphidelphic
+"]
+	065
+ -> 067
+ [label="Female reproductive system
+monovarial or monovarial
+with rudimentary anterior
+branch, opisthodelphic
+"]
+	066
+ -> "Anadorella Siddiqi, 2005
+" [label="Body very slender,
+2.9-4.6 mm long
+"]
+	066
+ -> "Paratimminema Rahaman, Ahmad
+& Khan, 1994
+" [label="Body very small,
+0.4-0.6 mm long
+"]
+	067
+ -> "Sclerolabia Carbonell &
+Coomans, 1986
+" [label="Cephalic framework and
+collar sclerotized
+"]
+	067
+ -> "Willinema Baqri &
+Jairajpuri, 1967
+" [label="Cephalic framework and
+collar not sclerotized
+"]
+	068
+ -> 069
+ [label="Odontostyle needle-like, <3x
+labial width; lips
+with raised papillae;
+vulva transverse, usually
+diovarial, amphidelphic; tail
+conoid; body length
+0.6-2.2 mm
+"]
+	068
+ -> 069
+ [label="Odontostyle 2-9x labial
+width; labial papillae
+not raised; diovarial,
+amphidelphic or monovarial,
+opisthodelphic; tail short,
+conoid or cylindroid;
+body length 0.4-1.6
+mm, usually robust
+"]
+	068
+ -> 069
+ [label="Odontostyle 2-5x labial
+width; lips with
+raised papillae;, usually
+diovarial, amphidelphic; tail
+rounded or filiform;
+body length 1-8
+mm
+"]
+	069
+ -> "Californidorus Robbins &
+Weiner, 1978
+" [label="Female tail elongate;
+male tail rounded
+"]
+	069
+ -> 070
+ [label="Tail similar in
+both sexes, either
+short or long
+"]
+	070
+ -> "Kochinema Heyns, 1963
+" [label="Head strongly expanded;
+amphid apertures on
+lateral lips
+"]
+	070
+ -> 071
+ [label="Head not expanded;
+amphid apertures post-labial
+"]
+	071
+ -> 072
+ [label="Odontostyle >3x labial
+diameter
+"]
+	071
+ -> 074
+ [label="Odontostyle <3x labial
+diameter
+"]
+	072
+ -> "Acunemella Andrassy, 2002
+" [label="Odontostyle 8-9x labial
+diameter; posterior of
+body twisted
+"]
+	072
+ -> 073
+ [label="Odontostyle 3-5x labial
+diameter; posterior of
+body not twisted
+"]
+	073
+ -> "Thornedia Husain &
+Khan, 1965
+" [label="Tail cylindroid with
+broadly-rounded terminus
+"]
+	073
+ -> "Longidorella Thorne, 1939
+" [label="Tail conoid or
+conoid-rounded with narrowly-rounded
+terminus
+"]
+	074
+ -> 075
+ [label="Odontostyle very thin,
+needle-like, aperture hardly
+discernible
+"]
+	074
+ -> 076
+ [label="Odontostyle not needle-like,
+aperture discernible
+"]
+	075
+ -> "Malekus Thorne, 1974
+" [label="Female reproductive system
+diovarial, amphidelphic
+"]
+	075
+ -> "Oriverutoides Ahmad &
+Sturhan, 2002
+" [label="Female reproductive system
+monovarial, opisthodelphic
+"]
+	076
+ -> 077
+ [label="Tail in both
+sexes long, filiform
+"]
+	076
+ -> 078
+ [label="Tail in both
+sexes short-conoid to
+elongate-conoid
+"]
+	077
+ -> "Lenonchium Siddiqi, 1965
+" [label="Male with numerous
+contiguous ventro-median supplements
+"]
+	077
+ -> "Enchodorus Vinciguerra, 1976
+" [label="Male with few,
+well-spaced, ventro-median supplements
+"]
+	078
+ -> 079
+ [label="Lips large, separate,
+with strongly projecting
+papillae
+"]
+	078
+ -> 080
+ [label="Lips not large,
+papillae not strongly
+projecting
+"]
+	079
+ -> "Inbionema Loof &
+Zullini, 2000
+" [label="Tail short-conoid, ventrally
+arcuate
+"]
+	079
+ -> "Oriverutus Siddiqi, 1971
+" [label="Tail elongate-conoid, dorsally
+arcuate
+"]
+	080
+ -> "Lanzavecchia Zullini, 1988
+" [label="Stoma with thick,
+hyaline walls; male
+with numerous supplements
+(26-31)
+"]
+	080
+ -> 081
+ [label="Stoma with thin
+walls; male with
+<16 supplements
+"]
+	081
+ -> "Actinolaimoides Meyl, 1957
+" [label="Head rounded, continuous
+with body contour;
+tail bent dorsally
+"]
+	081
+ -> 082
+ [label="Head offset from
+body contour; tail
+not bent dorsally
+"]
+	082
+ -> 083
+ [label="Anterior walls of
+stoma with four
+sclerotized platelets
+"]
+	082
+ -> 084
+ [label="Anterior walls of
+stoma without sclerotized
+platelets
+"]
+	083
+ -> "Pungentus Thorne &
+Swanger, 1936
+" [label="Odontostyle 2-3x labial
+diameter, very slender,
+slightly curved; guiding
+ring double
+"]
+	083
+ -> "Pungentella Andrassy, 2009
+" [label="Odontostyle <2x labial
+diameter, straight; guiding
+ring simple
+"]
+	084
+ -> "Rhyssocolpus Andrassy, 1971
+" [label="Cuticle near vulva
+strongly wrinkled
+"]
+	084
+ -> 085
+ [label="Cuticle near vulva
+not wrinkled
+"]
+	085
+ -> "Enchodelus Thorne, 1939
+" [label="Tail rounded; posterior
+male supplements within
+1x spicule length
+of cloaca
+"]
+	085
+ -> "Heterodorus Altherr, 1952
+" [label="Tail conoid; posterior
+male supplements >
+1x spicule length
+from cloaca
+"]
+	086
+ -> 087
+ [label="Cuticle smooth; odontostyle
+moderate; guiding ring
+narrow; vulva longitudinal,
+V<50%; spicules simple;
+male with only
+1 or 2
+supplements; tails in
+both sexes filiform;
+body length 0-8-1.0
+mm
+"]
+	086
+ -> 087
+ [label="Cuticle smooth or
+with fine transverse
+striations; odontostyle strong,
+straight; guiding ring
+thin; vulva longitudinal,
+V<50%; spicules dorylaimid;
+male with numerous
+supplements; tails in
+both sexes elongate
+to filiform; body
+length up to
+5 mm
+"]
+	086
+ -> 087
+ [label="Cuticle smooth or
+with distinct or
+longitudinal ridges striations;
+odontostyle strong, straight
+>1x labial diameter;
+guiding ring double;
+spicules dorylaimid; male
+with numerous supplements;
+tail in female
+elongate to filiform,
+short and rounded
+in male; body
+length up to
+9 mm
+"]
+	086
+ -> 087
+ [label="Cuticle smooth or
+with fine transverse
+striations; odontostyle medium
+size; guiding ring
+simple; spicules dorylaimid;
+male with numerous
+supplements; tails differ
+between sexes, short
+mamillate or elongate
+to filiformin female,
+short and rounded
+in male; body
+length usually 1-3mm
+"]
+	086
+ -> 087
+ [label="Cuticle smooth; odontostyle
+long and thin;
+guiding ring simple;
+vulva usually longitudinal;
+tails in both
+sexes similar or
+dissimilar; body length
+0.8- 5 mm
+"]
+	087
+ -> "Fuscheila Siddiqi, 1982
+(Mesodorylaiminae)
+" [label="Stoma with sclerotized
+pieces
+"]
+	087
+ -> 088
+ [label="Stoma without sclerotized
+pieces
+"]
+	088
+ -> "Drepanodorylaimus Jairajpuri, 1966
+" [label="Monosexual; only females
+present
+"]
+	088
+ -> 089
+ [label="Bisexual; males and
+females present
+"]
+	089
+ -> 090
+ [label="Cuticle with longitudinal
+ridges
+"]
+	089
+ -> 092
+ [label="Cuticle without longitudinal
+ridges
+"]
+	090
+ -> "Ischiodorylaimus Andrassy, 1969
+" [label="Male supplements arranged
+in two clusters
+(fascicles)
+"]
+	090
+ -> 091
+ [label="Male supplements arranged
+in a continuous
+series
+"]
+	091
+ -> "Dorylaimus Dujardin, 1845
+" [label="Female tail elongate
+to filiform; guiding
+ring double
+"]
+	091
+ -> "Kittydorylaimus Andrassy, 1998
+" [label="Female tail conoid-rounded
+with short projection;
+guiding ring simple
+"]
+	092
+ -> 093
+ [label="Tail in both
+sexes similar, elongate
+to filiform
+"]
+	092
+ -> 097
+ [label="Tail in both
+sexes dissimilar, elongate
+in female, short
+and mainly rounded
+in male
+"]
+	093
+ -> "Amphidorylaimus Andrassy, 1960
+" [label="Spicule simple, alaimoid,
+only 1 or
+2 supplements
+"]
+	093
+ -> 094
+ [label="Spicule dorylaimoid, numerous
+supplements
+"]
+	094
+ -> "Protodorylaimus Andrassy, 1988
+" [label="Prerectum very long,
+15-25x anal body
+diameter
+"]
+	094
+ -> 095
+ [label="Prerectum much shorter
+"]
+	095
+ -> "Prodorylaimus Andrassy, 1959
+" [label="Supplements close together,
+numbering 13-31
+"]
+	095
+ -> 096
+ [label="Supplements spaced, numbering
+6-13
+"]
+	096
+ -> "Kunjudorylaimus Dhanam &
+Jairajpuri, 2000
+" [label="Body very slender
+(a about 60);
+head rounded, continuous
+with body contour
+"]
+	096
+ -> "Prodorylaimium Andrassy, 1969
+" [label="Body less slender;
+head truncate
+"]
+	097
+ -> "Afrodorylaimus Andrassy, 1964
+" [label="Male tail conoid,
+ventrally arcuate
+"]
+	097
+ -> 098
+ [label="Male tail rounded
+"]
+	098
+ -> "Baladorylaimus Andrassy, 2001
+" [label="Male tail with
+short terminal peg
+"]
+	098
+ -> 099
+ [label="Male tail without
+terminal peg
+"]
+	099
+ -> "Idiodorylaimus Andrassy, 1969
+" [label="Subcuticle strongly striated
+"]
+	099
+ -> 100
+ [label="Subcuticle not striated
+"]
+	100
+ -> 101
+ [label="Guiding ring double
+and high
+"]
+	100
+ -> 102
+ [label="Guiding ring simple
+and thin
+"]
+	101
+ -> "Halodorylaimus Andrassy, 1988
+" [label="Amphids with very
+small pore-like aperture
+"]
+	101
+ -> "Laimydorus Siddiqi, 1969
+" [label="Amphids with wide
+slit-like aperture
+"]
+	102
+ -> "Chrysodorus Jimenez-Guirado &
+Cadenas, 1985
+" [label="Body extremely slender,
+a = 60-90
+"]
+	102
+ -> 103
+ [label="Body much less
+slender
+"]
+	103
+ -> 104
+ [label="Paired pre- and
+post-cloacal papillae of
+male very strong;
+sperm small and
+rounded
+"]
+	103
+ -> 105
+ [label="Paired pre- and
+post-cloacal papillae of
+male very small;
+sperm fusiform
+"]
+	104
+ -> "Apodorylaimus Andrassy, 1988
+" [label="Spicules simple, without
+inner sclerotization; 4-8
+supplements arranged in
+pairs
+"]
+	104
+ -> "Paradorylaimus Andrassy, 1969
+" [label="Spicules with inner
+sclerotization; 12-18 supplements
+arranged in a
+single row
+"]
+	105
+ -> "Crocodorylaimus Andrassy, 1988
+" [label="Four spindle-shaped yellowish
+spots near base
+of odontostyle
+"]
+	105
+ -> 106
+ [label="No spindle-shaped yellowish
+spots near base
+of odontostyle
+"]
+	106
+ -> "Calcaridorylaimus Andrassy, 1969
+" [label="Each spicule with
+a small spur
+near its distal
+end; posterior part
+of male body
+twisted
+"]
+	106
+ -> 107
+ [label="Spicules without spurs;
+posterior part of
+male body not
+twisted
+"]
+	107
+ -> "Calodorylaimus Andrassy, 1969
+" [label="Supplements 16-31, arranged
+in 3 groups:
+two continuous rows
+with a few
+between
+"]
+	107
+ -> 108
+ [label="Supplements in a
+continuous row
+"]
+	108
+ -> "Miodorylaimus Andrassy, 1986
+" [label="Supplements <5, widely
+spaced
+"]
+	108
+ -> 109
+ [label="Supplements 5-26, closely
+spaced
+"]
+	109
+ -> "Namaquanema Heyns &
+Swart, 1993
+" [label="Body length 2.7-3.3
+mm; vulva sunken
+below body contour
+"]
+	109
+ -> "Mesodoylaimus Andrassy, 1959
+" [label="Body length 0.8-2.3
+mm; vulva not
+sunken below body
+contour
+"]
+	110
+ -> 111
+ [label="Stoma with mural
+tooth
+"]
+	110
+ -> 113
+ [label="Stoma with axial
+odontostyle
+"]
+	111
+ -> "Sectonema Thorne, 1930
+" [label="Tooth parallel with
+body axis
+"]
+	111
+ -> 112
+ [label="Tooth at an
+angle to body
+axis
+"]
+	112
+ -> "Nygolaimium Thorne, 1930
+" [label="Anterior part of
+stoma with fine
+rasp-like denticles
+"]
+	112
+ -> "Scapidens Heyns, 1965
+" [label="Anterior part of
+stoma without denticles
+"]
+	113
+ -> 114
+ [label="Tail very long
+and filiform
+"]
+	113
+ -> 115
+ [label="Tail short, conoid-rounded
+or hemispharical
+"]
+	114
+ -> "Aporcedorus Jairajpuri &
+Ahmad, 1983
+" [label="Tail very long
+and filiform
+"]
+	115
+ -> 116
+ [label="Cuticle with 2
+layers that refract
+light differently
+"]
+	115
+ -> 117
+ [label="Cuticle layers refract
+light similarly
+"]
+	116
+ -> "Makatinus Heyns, 1965
+" [label="Male with 2-5
+pairs of adcloacal
+supplements; lip region
+only slightly offset
+"]
+	116
+ -> "Aporcelaimellus Heyns, 1965
+" [label="Male with only
+1 pair of
+adcloacal supplements; lip
+region strongly offset
+"]
+	117
+ -> "Acrotonus Thorne, 1974
+" [label="Lip region rounded,
+lips amalgamated, odontostyle
+very thick
+"]
+	117
+ -> 118
+ [label="Lip region not
+rounded, lips not
+or only slightly
+amalgamated, odontostyle not
+unusually thick
+"]
+	118
+ -> "Silvallis Jairajpuri &
+Ahmad, 1985
+" [label="Vestibule heavily sclerotized,
+anterior of odontostyle
+thick
+"]
+	118
+ -> 119
+ [label="Vestibule not sclerotized,
+anterior of odontostyle
+normal
+"]
+	119
+ -> "Epacrolaimus Andrassy, 2000
+" [label="Odontostyle aperture arched
+dorsally, vulva cuticle
+wrinkled, very large
+nematodes (7-9.3 mm)
+"]
+	119
+ -> 120
+ [label="Odontostyle aperture not
+arched dorsally, vulva
+cuticle smooth
+"]
+	120
+ -> "Tubixaba Monteiro &
+Lordello 1980
+" [label="Aperture 1/3 of
+odontostyle length, vulva
+lips not sclerotized
+"]
+	120
+ -> 121
+ [label="Aperture Ãƒâ€šÃ‚Â½ or
+greater of odontostyle
+length, vulva lips
+usually sclerotized
+"]
+	121
+ -> "Metaporcelaimus Lordello, 1965
+" [label="Lip region high,
+tail conoid and
+> 1 anal
+body diameter
+"]
+	121
+ -> 122
+ [label="Lip region wide,
+tail conoid-rounded or
+hemisperical and <
+1 anal body
+diameter
+"]
+	122
+ -> "Aporcelaimus Thorne &
+Swanger, 1936
+" [label="Body large (4-10
+mm), vulval lips
+sclerotized
+"]
+	122
+ -> "Aporcella Andrassy, 2002
+" [label="Body around 2
+mm, vulval lips
+not sclerotized
+"]
+	123
+ -> 124
+ [label="Females monovarial, opisthodelphic
+"]
+	123
+ -> 125
+ [label="Females diovarial, amphidelphic
+"]
+	124
+ -> "Latocephalus Patil &
+Khan, 1982
+" [label="Lip region broadly
+offset and high;
+lateral fields with
+conspicuous glands
+"]
+	124
+ -> "Ecumenicus Thorne, 1974
+" [label="Lip region normal;
+lateral fields without
+glands
+"]
+	125
+ -> "Arctidorylaimus Mulvey &
+Anderson, 1979
+" [label="Cuticle usually with
+conspicuous longitudinal ridges
+"]
+	125
+ -> 126
+ [label="Cuticle without longitudinal
+ridges
+"]
+	126
+ -> 127
+ [label="Head with sclerotized
+basket-like structure
+"]
+	126
+ -> 129
+ [label="Head without sclerotized
+basket-like structure
+"]
+	127
+ -> "Caryboca Lordello, 1967
+" [label="Tail conoid, ventrally
+arcuate, about 2x
+abd
+"]
+	127
+ -> 128
+ [label="Tail conoid-rounded to
+bluntly rounded, ventrally
+arcuate, about 1x
+abd
+"]
+	128
+ -> "Caribenema Thorne, 1967
+" [label="Mouth cavity barrel-shaped
+and heavily sclerotized
+posterior to basket-like
+structure
+"]
+	128
+ -> "Carcharolaimus Thorne, 1939
+" [label="Mouth cavity simple
+and slightly sclerotized
+posterior to basket-like
+structure
+"]
+	129
+ -> 130
+ [label="Lateral field with
+numerous conspicuous glandular
+structures
+"]
+	129
+ -> 136
+ [label="Lateral field without
+glandular structures
+"]
+	130
+ -> 131
+ [label="Head with inner
+sclerotized ring or
+plate structure
+"]
+	130
+ -> 132
+ [label="Head without inner
+sclerotized ring or
+plate structure
+"]
+	131
+ -> "Mylodiscoides Lordello, 1963
+" [label="Tail conoid, curved
+ventrally
+"]
+	131
+ -> "Mylodiscus Thorne, 1939
+" [label="Tail bluntly-rounded, short
+"]
+	132
+ -> "Salimella Siddiqi, 2005
+" [label="Posterior section of
+esophagus surrounded by
+strong spiral-muscle sheath
+"]
+	132
+ -> 133
+ [label="Posterior section of
+esophagus without spiral-muscle
+sheath
+"]
+	133
+ -> 134
+ [label="Labial region much
+wider than adjacent
+body, sucker-like
+"]
+	133
+ -> 135
+ [label="Labial region not
+so wide, not
+sucker-like
+"]
+	134
+ -> "Filidiscolaimus Siddiqi, 1995
+" [label="Tail elongate filiform
+"]
+	134
+ -> "Discolaimus Cobb, 1913
+" [label="Tail short, bluntly
+rounded or conoid
+rounded
+"]
+	135
+ -> "Discolaimoides Heyns, 1963
+" [label="Tail elongate, 2-5x
+abd, prerectum with
+short blind sac
+"]
+	135
+ -> "Discolaimium Thorne, 1939
+" [label="Tail shorter, <2x
+abd, prerectum without
+blind sac
+"]
+	136
+ -> "Amblydorylaimus Andrassy, 1998
+" [label="Male with adcloacal
+pair of supplements
+far from cloaca,
+odontostyle weakly sclerotized
+"]
+	136
+ -> 137
+ [label="Male with adcloacal
+pair of supplements
+on anterior cloacal
+lip
+"]
+	137
+ -> 138
+ [label="Oral field somewhat
+sunken with small
+inner liplets
+"]
+	137
+ -> 140
+ [label="Oral field without
+inner liplets
+"]
+	138
+ -> "Labronema Thorne, 1939
+" [label="Vulva longitudinal, male
+with supplements contiguous
+"]
+	138
+ -> 139
+ [label="Vulva transverse, male
+with supplements spaced
+"]
+	139
+ -> "Labronemella Andrassy, 1985
+" [label="Odontostyle longer than
+lip width, tail
+short and bluntly
+rounded
+"]
+	139
+ -> "Baqriella Ahmad &
+Jairajpuri, 1989
+" [label="Odontostyle as long
+as lip width,
+tail elongate conoid
+"]
+	140
+ -> "Kallidorylaimus Andrassy, 1989
+" [label="A single ventromedial
+supplement
+"]
+	140
+ -> 141
+ [label="Multiple ventromedial supplements
+"]
+	141
+ -> "Kolodorylaimus Andrassy, 1998
+" [label="Intestine with very
+large vesiculose cells
+"]
+	141
+ -> 142
+ [label="Intestine with normal
+cells
+"]
+	142
+ -> "Skibbenema Van Reenen
+& Heyns, 1986
+" [label="Slender and wider
+parts of esophagus
+separated by a
+constriction
+"]
+	142
+ -> 143
+ [label="Slender and wider
+parts of esophagus
+not separated by
+a constriction
+"]
+	143
+ -> "Boreolaimus Andrassy, 1998
+" [label="Tail with long,
+apparently empty, distal
+part
+"]
+	143
+ -> 144
+ [label="Tail without long,
+apparently empty, distal
+part
+"]
+	144
+ -> "Epidorylaimus Andrassy, 1986
+" [label="Tail >4x abd
+(4-8)
+"]
+	144
+ -> 145
+ [label="Tail <4x abd
+(1-3)
+"]
+	145
+ -> "Dorydorella Andrassy, 1987
+" [label="Odontostyle slender and
+significantly longer that
+lip width
+"]
+	145
+ -> 146
+ [label="Odontostyle not slender
+and with length
+close to lip
+width
+"]
+	146
+ -> 147
+ [label="Males with precloacal
+space absent and
+posterior pair of
+supplements level with
+spicules
+"]
+	146
+ -> 148
+ [label="Males with precloacal
+space present and
+posterior pair of
+supplements anterior to
+spicules
+"]
+	147
+ -> "Microdorylaimus Andrassy, 1986
+" [label="Small nematodes (0.3-0.8
+mm), esophagus about
+1/3 of body
+length
+"]
+	147
+ -> "Allodorylaimus Andrassy, 1986
+" [label="Larger nematodes (1-3
+mm), esophagus about
+1/4 of body
+length
+"]
+	148
+ -> "Torumanawa Yeates, 1967
+" [label="Cardia with three
+gland cells
+"]
+	148
+ -> 149
+ [label="Cardia without three
+glands
+"]
+	149
+ -> "Talanema Andrassy, 1991
+" [label="Tail subdigitate
+"]
+	149
+ -> 150
+ [label="Tail conoid or
+rounded
+"]
+	150
+ -> "Eudorylaimus Andrassy, 1959
+" [label="Tail conoid, straight
+or ventrally arcuate
+"]
+	150
+ -> 151
+ [label="Tail bluntly rounded
+"]
+	151
+ -> "Crassogula Andrassy, 1991
+" [label="Anterior region of
+esophagus strongly muscular;
+spermatozoa minute, <0.1
+abd
+"]
+	151
+ -> 152
+ [label="Anterior region of
+esophagus moderately muscular;
+spermatozoa minute, 0.2-0.25
+abd
+"]
+	152
+ -> "Scalpellus Ahmad, 2004
+" [label="Head continuous with
+body contour; lips
+amalgamated
+"]
+	152
+ -> "Crassolabium Yeates, 1967
+" [label="Head offset from
+body contour; lips
+separate
+"]
+	153
+ -> "Xiphinema Cobb, 1913
+" [label="Odontophore with well-developed
+flanges; dorsal esophageal
+nucleus larger than
+subventral nuclei; females
+diovarial amphidelphic or
+monovarial opisthodelphic
+"]
+	153
+ -> 154
+ [label="Odontophore without flanges
+or with very
+small flanges; dorsal
+esophageal nucleus smaller
+than subventral nuclei;
+females diovarial amphidelphic
+"]
+	154
+ -> 155
+ [label="Amphid apertures pore-like,
+inconspicuous
+"]
+	154
+ -> 156
+ [label="Amphid apertures slit-like,
+conspicuous
+"]
+	155
+ -> "Xiphidorus Monteiro, 1976
+" [label="Guiding ring near
+posterior end of
+odontostyle; males with
+few supplements and
+posterior pair well
+anterior to spicules
+"]
+	155
+ -> "Longidorus Micoletzky, 1922
+" [label="Guiding ring near
+anterior end of
+odontostyle; males with
+several supplements and
+posterior pair close
+to spicules
+"]
+	156
+ -> 157
+ [label="Amphids pouch-like with
+bilobed fovea
+"]
+	156
+ -> 158
+ [label="Amphids funnel or
+stirrup-shaped, not bilobed
+"]
+	157
+ -> "Australodorus Coomans, Olmos,
+Casella & Chaves,
+2004
+" [label="Lip region sharply
+offset from body
+contour, guiding ring
+at posterior end
+of odontostyle
+"]
+	157
+ -> "Longidoroides Khan, Chawla
+& Saha, 1978
+" [label="Lip region continuous
+with body contour,
+guiding ring at
+anterior end of
+odontostyle
+"]
+	158
+ -> "Paralongidorus Siddiqi, Hooper
+& Khan, 1963
+" [label="Lip region continuous
+with body contour
+"]
+	158
+ -> 159
+ [label="Lip region sharply
+offset from body
+contour
+"]
+	159
+ -> "Paraxiphidorus Coomans &
+Chaves, 1995
+" [label="Guiding ring at
+posterior end of
+odontostyle; males with
+supplements anterior to
+spicules
+"]
+	159
+ -> "Siddiqia Khan, Chawla
+& Saha, 1978
+" [label="Guiding ring at
+anterior end of
+odontostyle; males with
+posterior supplements closer
+to spicules
+"]
+	160
+ -> 162
+ [label="Odontophore flanged; four
+sclerotized pieces around
+oral opening
+"]
+	160
+ -> 161
+ [label="Odontophore rod-like, not
+flanged; oral opening
+without sclerotized pieces
+"]
+	161
+ -> 165
+ [label="Tail in both
+sexes short, conoid-
+rounded or cylindroid
+"]
+	161
+ -> 183
+ [label="Female tail long
+and filiform
+"]
+	162
+ -> 163
+ [label="Females monovarial, prodelphic
+"]
+	162
+ -> 164
+ [label="Females diovarial, amphidelphic
+or, rarely, monovarial,
+opisthodelphic
+"]
+	163
+ -> "Ibadamus Siddiqi, 1983
+" [label="Vulva longitudinal; tail
+filiform
+"]
+	163
+ -> "Mesodorylaimus Jairajpuri &
+Ahmad, 1980
+" [label="Vulva transverse; tail
+short, rounded
+"]
+	164
+ -> "Axodorylaimellus Jairajpuri &
+Ahmad, 1980
+" [label="Tail cylindroid or
+clavate with thick
+terminal cuticle; vulva
+transverse
+"]
+	164
+ -> "Dorylaimellus Cobb, 1913
+" [label="Tail without thick
+terminal cuticle; vulva
+transverse; vulva longitudinal
+"]
+	165
+ -> 166
+ [label="Lip region simple
+or with small
+liplets, continuous with
+body contour; anterior
+and posterior esophageal
+regions not separated
+by a constriction;
+posterior region of
+esophagus with spiral
+muscle sheath; tail
+in both sexes
+short and rounded
+"]
+	165
+ -> 175
+ [label="Lip region without
+liplets; anterior and
+posterior esophageal regions
+separated by a
+narrowing or deep
+constriction; posterior region
+of esophagus with
+straight rather than
+spiral muscle sheath;
+tail in both
+sexes short
+"]
+	166
+ -> 167
+ [label="Females monovarial
+"]
+	166
+ -> 170
+ [label="Females diovarial
+"]
+	167
+ -> "Probelondira Andrassy, 2009
+" [label="Females prodelphic
+"]
+	167
+ -> 168
+ [label="Females opisthodelphic
+"]
+	168
+ -> "Axonchoides Thorne, 1967
+" [label="Lip region with
+mammiform papillae
+"]
+	168
+ -> 169
+ [label="Lip region rounded,
+without mammiform papillae
+"]
+	169
+ -> "Immanigula Andrassy, 1991
+" [label="Anterior slender part
+of esophagus 2/3
+of esophagus length;
+male with 11
+supplements
+"]
+	169
+ -> "Belondira Thorne, 1939
+" [label="Anterior slender part
+of esophagus about
+1/2 of esophagus
+length; male with
+1-2 supplements
+"]
+	170
+ -> 171
+ [label="Muscular esophageal sheath
+with muscle bundles
+twisted sinistrally (to
+the left side)
+"]
+	170
+ -> 172
+ [label="Muscular esophageal sheath
+with muscle bundles
+straight or twisted
+dextrally (to the
+right side)
+"]
+	171
+ -> "Amphibelondira Rahman, Jairajpuri,
+Ahmad & Ahmad,
+1987
+" [label="Male without supplements
+"]
+	171
+ -> "Helicobelondira Yeates, 1973
+" [label="Male with 5-7
+supplements
+"]
+	172
+ -> "Belondirella Thorne, 1964
+" [label="Lip region with
+small perioral liplets;
+tail clavate
+"]
+	172
+ -> 173
+ [label="Lip region rounded;
+tail not clavate
+"]
+	173
+ -> "Porternema Suryawanshi, 1972
+" [label="Lip region continuous
+with body contour
+"]
+	173
+ -> 174
+ [label="Lip region offset
+from body contour
+"]
+	174
+ -> "Belaxellus Thorne, 1974
+" [label="Oral opening with
+small platelets; odontostyle
+thick
+"]
+	174
+ -> "Bullaenema Sauer, 1968
+" [label="Oral opening without
+platelets; odontostyle slender
+"]
+	175
+ -> "Anchobelondira Nair &
+Coomans, 1971
+" [label="Female diovarial, amphidelphic
+"]
+	175
+ -> 176
+ [label="Female monovarial, opisthodelphic
+"]
+	176
+ -> "Nimigula Andrassy, 1985
+" [label="Esophagus very long,
+> 1/2 body
+length
+"]
+	176
+ -> 177
+ [label="Esophagus shorter than
+1/2 body length
+"]
+	177
+ -> "Heynsaxonchium Coomans &
+Nair, 1975
+" [label="Odontostyle slender with
+length 2x lip
+width
+"]
+	177
+ -> 178
+ [label="Odontostyle fusiform with
+length about 1x
+lip width
+"]
+	178
+ -> "Dactyluraxonchium Coomans &
+Nair, 1975
+" [label="Tail subdigitate
+"]
+	178
+ -> 179
+ [label="Tail hemispherical or
+conoid
+"]
+	179
+ -> 180
+ [label="Spicules very long
+and slender, not
+typical dorylaimoid
+"]
+	179
+ -> 181
+ [label="Spicules normal, more
+typical dorylaimoid
+"]
+	180
+ -> "Uniqaxonchium Dhanam &
+Jairajpuri, 1998
+" [label="Vagina strongly inclined
+to the posterior;
+male with 4-6
+supplements
+"]
+	180
+ -> "Phallaxonchium Jairajpuri &
+Dhanachand, 1979
+" [label="Vagina moderately inclined
+to the posterior;
+male with 2
+supplements
+"]
+	181
+ -> "Syncheilaxonchium Coomans &
+Nair, 1975
+" [label="Lip region continuous
+with body contour;
+lips amalgamated
+"]
+	181
+ -> 182
+ [label="Lip region offset
+from body contour;
+lips separate
+"]
+	182
+ -> "Metaxonchium Coomans &
+Nair, 1975
+" [label="Vulval lips sclerotized
+"]
+	182
+ -> "Axonchium Cobb, 1920
+" [label="Vulval lips not
+sclerotized
+"]
+	183
+ -> 184
+ [label="Female and male
+tails dissimilar, long
+in female, short
+and rounded in
+male
+"]
+	183
+ -> 185
+ [label="Female and male
+tails similar, filiform
+in both sexes
+"]
+	184
+ -> "Lindseyus Ferris &
+Ferris, 1973
+" [label="Odontostyle very slender;
+muscular sheath of
+posterior esophageal region
+twisted to the
+left (sinistral)
+"]
+	184
+ -> "Roqueus Thorne, 1974
+" [label="Odontostyle thick, fusiform;
+muscular sheath of
+posterior esophageal region
+twisted to the
+right (dextral)
+"]
+	185
+ -> 186
+ [label="Odontostyle with a
+small dorsal projection
+at posterior end
+of its aperture;
+dorsal esophageal gland
+located near middle
+of posterior esophageal
+region
+"]
+	185
+ -> 189
+ [label="Odontostyle without dorsal
+projection; dorsal esophageal
+gland located near
+anterior of posterior
+esophageal region
+"]
+	186
+ -> 187
+ [label="Expanded posterior of
+esophagus about 1/4
+of esophagus length
+"]
+	186
+ -> 188
+ [label="Expanded posterior of
+esophagus >= 1/2of
+esophagus length
+"]
+	187
+ -> "Falcihasta Clark, 1964
+" [label="Lip region conoid,
+asymmetrical
+"]
+	187
+ -> "Paraqudsiella Siddiqi, 1982
+" [label="Lip region rounded,
+symmetrical
+"]
+	188
+ -> "Â 76
+" [label="Female diovarial, amphidelphic
+"]
+	188
+ -> "Hulqus Siddiqi, 1982
+" [label="Female monovarial, prodelphic
+"]
+	189
+ -> "Oxydirus Thorne, 1939
+" [label="Odontostyle dorylaimoid; lip
+region slightly asymmetrical
+"]
+	189
+ -> 190
+ [label="Odontostyle slender; lip
+region symmetrical
+"]
+	190
+ -> 191
+ [label="Female diovarial, amphidelphic
+"]
+	190
+ -> 194
+ [label="Female monovarial, prodelphic
+"]
+	191
+ -> "Swangeria Thorne, 1939
+" [label="Vestibule of stoma
+with basket-like chamber
+"]
+	191
+ -> 192
+ [label="Vestibule of stoma
+without basket-like chamber
+"]
+	192
+ -> "Paraoxydirus Jairajpuri &
+Ahmad, 1979
+" [label="Body length >
+3mm
+"]
+	192
+ -> 193
+ [label="Body length 1-2
+mm
+"]
+	193
+ -> "Qudsiella Jairajpuri, 1987
+" [label="Posterior part of
+esophagus with distinct
+muscular sheath
+"]
+	193
+ -> "Durinemella Andrassy, 2009
+" [label="Posterior part of
+esophagus without muscular
+sheath
+"]
+	194
+ -> "Oxybelondira Ahmad &
+Jairajpuri, 1979
+" [label="Cephalic region with
+subcuticular sclerotization (collar)
+"]
+	194
+ -> "Paraoxybelondira Dhanam &
+Jairajpuri, 1999
+" [label="Cephalic region without
+subcuticular sclerotization
+"]
+	195
+ -> 196
+ [label="Cuticle inner layer
+loose with irregular
+radial elements (tylencholaimoid)
+"]
+	195
+ -> 197
+ [label="Cuticle inner layer
+compact without radial
+elements (dorylaimoid)
+"]
+	196
+ -> 200
+ [label="Odontostyle slender, often
+without detectable lumen
+or aperture; basal
+expansion of esophagus
+short, 1/5 to
+1/3 of esophagus
+length
+"]
+	196
+ -> 224
+ [label="Odontostyle more robust
+with distinct lumen
+and aperture; basal
+expansion of esophagus
+> 1/3 of
+esophagus length
+"]
+	197
+ -> 247
+ [label="Labial papillae cornuate
+or setiform; cuticle
+often divided into
+small blocks
+"]
+	197
+ -> 198
+ [label="Labial papillae normal,
+papilliform
+"]
+	198
+ -> 252
+ [label="Odontostyle short and
+asymmetrical or curved,
+odontophore also asymmetrical
+"]
+	198
+ -> 199
+ [label="Odontostyle and odontophore
+symmetrical
+"]
+	199
+ -> 256
+ [label="Esophagus with three
+sections: a long
+slender, gradually-expanding anterior
+part, a slender
+intermediate part surrounded
+by glandular tissue,
+and a pyriform
+basal expansion
+"]
+	199
+ -> 259
+ [label="Esophagus dorylaimoid, a
+narrower anterior section
+and a broader
+posterior section
+"]
+	200
+ -> 201
+ [label="Odontostyle very slender,
+needle-like, without visible
+lumen or aperture
+"]
+	200
+ -> 206
+ [label="Odontostyle usually slender
+but with distinct
+lumen and aperture
+"]
+	201
+ -> "Glochidorella Siddiqi, 1982
+" [label="Females diovarial
+"]
+	201
+ -> 202
+ [label="Females monovarial
+"]
+	202
+ -> 203
+ [label="Females prodelphic
+"]
+	202
+ -> 204
+ [label="Females opisthodelphic
+"]
+	203
+ -> "Zetalaimus Siddiqi, 1982
+" [label="Lip region rounded;
+odontophore flanged
+"]
+	203
+ -> "Trichonchium Siddiqi &
+Khan, 1964
+" [label="Lip region cap-like;
+odontophore simple
+"]
+	204
+ -> "Basirotyleptus Jairajpuri, 1964
+" [label="Odontophore simple, rod-like
+"]
+	204
+ -> 205
+ [label="Odontophore flanged
+"]
+	205
+ -> "Aculonchus Siddiqi, 1982
+" [label="Odontostyle length <
+lip width; lip-region
+cap-like
+"]
+	205
+ -> "Sclerostylus Goseco, Ferris
+& Ferris, 1981
+" [label="Odontostyle length >
+lip width; lip-region
+rounded
+"]
+	206
+ -> 207
+ [label="Odontostyle length several
+times > lip
+width
+"]
+	206
+ -> 208
+ [label="Odontostyle length <=
+lip width
+"]
+	207
+ -> "Xiphinemella Loos, 1950
+" [label="Body length of
+adult 1-3mm; odontophore
+flanged
+"]
+	207
+ -> "Kantbhala Siddiqi, 1982
+" [label="Body length of
+adult around 0.5mm;
+odontophore not flanged
+"]
+	208
+ -> 209
+ [label="Odontostyle thick with
+wide lumen and
+distinct aperture
+"]
+	208
+ -> 212
+ [label="Odontostyle thin with
+very narrow lumen
+and minute aperture
+"]
+	209
+ -> "Scalpenchus Siddiqi, 1995
+" [label="Odontostyle asymmetric; female
+gonad prodelphic
+"]
+	209
+ -> 210
+ [label="Odontostyle symmetrical; female
+monovarial opisthodelphic or
+diovarial amphidelphic
+"]
+	210
+ -> "Utahnema Thorne, 1939
+" [label="Odontostyle length +/-
+2x lip width
+"]
+	210
+ -> 211
+ [label="Odontostyle length <1x
+lip width
+"]
+	211
+ -> "Tyleptus Thorne, 1939
+" [label="Oral aperture surrounded
+by inner liplets
+"]
+	211
+ -> "Gymnotyleptus Ahmad &
+Jairajpuri, 1982
+" [label="Oral aperture without
+inner liplets
+"]
+	212
+ -> 213
+ [label="Female diovarial
+"]
+	212
+ -> 220
+ [label="Female monovarial
+"]
+	213
+ -> "Clavigula Siddiqi, 1995
+" [label="Odontophore with basal
+knobs
+"]
+	213
+ -> 214
+ [label="Odontophore simple, without
+basal swellings
+"]
+	214
+ -> "Meylis Goseco, Ferris
+& Ferris, 1974
+" [label="Male with 12-20
+supplements, contiguous or
+closely spaced
+"]
+	214
+ -> 215
+ [label="Male with 0-10
+supplements, widely spaced
+"]
+	215
+ -> "Apoleptonchus Siddiqi, 1982
+" [label="Vulva pore-like
+"]
+	215
+ -> 216
+ [label="Vulva transverse or
+longitudinal
+"]
+	216
+ -> "Bertzuckermania Khera, 1970
+" [label="Lip region continuous
+with body contour,
+lip-region rounded
+"]
+	216
+ -> 217
+ [label="Lip region offset
+from body contour,
+lip-region cap-like
+"]
+	217
+ -> "Incanema Andrassy, 1997
+" [label="Posterior part of
+esophagus with two
+constrictions; intestine surrounding
+posterior bulb
+"]
+	217
+ -> 218
+ [label="Posterior part of
+esophagus with one
+constriction; intestine not
+surrounding posterior bulb
+"]
+	218
+ -> "Funaria Van der
+Linde, 1938
+" [label="Vulva longitudinal
+"]
+	218
+ -> 219
+ [label="Vulva transverse
+"]
+	219
+ -> "Leptonchus Cobb, 1920
+" [label="Posterior expansion of
+esophagus pyriform, about
+1/5 of esophagus
+length; odontophore arcuate
+"]
+	219
+ -> "Sclerolaimus Jairajpuri &
+Ahmad, 1992
+" [label="Posterior expansion of
+esophagus cylindrical, about
+1/3 of esophagus
+length; odontophore straight
+"]
+	220
+ -> "Caveonchus Siddiqi, 1982
+" [label="Female gonad opisthodelphic
+"]
+	220
+ -> 221
+ [label="Female gonad prodelphic
+"]
+	221
+ -> "Loncharionema Goseco, Ferris
+& Ferris, 1974
+" [label="Tail filiform in
+both sexes
+"]
+	221
+ -> 222
+ [label="Tail short in
+both sexes
+"]
+	222
+ -> "Paraleptonchus Dhanam &
+Jairajpuri, 1999
+" [label="Anterior slender region
+of esophagus convoluted;
+basal expansion 1/10
+of esophagus length
+"]
+	222
+ -> 223
+ [label="Anterior slender region
+of esophagus not
+convoluted; basal expansion
+about 1/4 of
+esophagus length
+"]
+	223
+ -> "Proleptonchus Lordello, 1955
+" [label="Stoma flask-like
+"]
+	223
+ -> "Proleptonchoides Ferris, Goseco
+& Kumar, 1979
+" [label="Stoma tubular
+"]
+	224
+ -> 225
+ [label="Odontostyle with thick
+walls
+"]
+	224
+ -> 229
+ [label="Odontostyle with normal
+walls
+"]
+	225
+ -> "Pachydorylaimus Siddiqi, 1983
+" [label="Tail filiform in
+both sexes; body
+length about 1mm
+"]
+	225
+ -> 226
+ [label="Tail short and
+rounded in both
+sexes; body length
+2-6mm
+"]
+	226
+ -> 227
+ [label="Odontostyle >1x lip
+width; curved
+"]
+	226
+ -> 228
+ [label="Odontostyle <1x lip
+width; straight
+"]
+	227
+ -> "Vanderlinea Heyns, 1964
+" [label="Head rounded, broad;
+male supplements in
+double ventral rows
+"]
+	227
+ -> "Curvidorylaimus Jairajpuri &
+Rahman, 1983
+" [label="Head cap-like; male
+supplements in a
+single ventromedian row
+"]
+	228
+ -> "Neometadorylaimus Jairajpuri &
+Ahmad, 1982
+" [label="Vulva longitudinal
+"]
+	228
+ -> "Metadorylaimus Jairajpuri &
+Goodey, 1966
+" [label="Vulva transverse
+"]
+	229
+ -> 230
+ [label="Amphids small with
+minute pore-like aperture
+"]
+	229
+ -> 232
+ [label="Amphids larger with
+slit-like aperture
+"]
+	230
+ -> "Mumtazium Siddiqi, 1969
+" [label="Odontostyle irregular shape,
+length >1x lip
+width
+"]
+	230
+ -> 231
+ [label="Odontostyle regular shape,
+length <1x lip
+width
+"]
+	231
+ -> "Promumtazium Siddiqi, 1982
+" [label="Female diovarial, amphidelphic;
+odontostyle fusiform
+"]
+	231
+ -> "Tantunema Siddiqi, 1982
+" [label="Female monovarial, opisthodelphic;
+odontostyle slender
+"]
+	232
+ -> 233
+ [label="Tail long, filiform
+in both sexes
+"]
+	232
+ -> 236
+ [label="Tail short in
+both sexes
+"]
+	233
+ -> "Oxydiroides Altherr, 1972
+" [label="Body length 1.7-2.8
+mm
+"]
+	233
+ -> 234
+ [label="Body length 0.8-1.5
+mm
+"]
+	234
+ -> "Discomyctus Thorne, 1939
+" [label="Odontophore with basal
+knobs; female monovarial,
+prodelphic
+"]
+	234
+ -> 235
+ [label="Odontophore simple without
+basal knobs; female
+diovarial, amphidelphic
+"]
+	235
+ -> "Lawtonema Siddiqi, 1999
+" [label="Perioral disc present;
+odontostyle irregular shape
+"]
+	235
+ -> "Wasimellus Bloemers &
+Wanless, 1996
+" [label="Perioral disc absent;
+odontostyle regular shape
+"]
+	236
+ -> "Cricodorylaimus Ahmad &
+Sturhan, 2001
+" [label="Subcuticle with distinct
+regular striations
+"]
+	236
+ -> 237
+ [label="Subcuticle with less
+distinct and irregular
+striations
+"]
+	237
+ -> 238
+ [label="Odontostyle distinctly longer
+than lip width
+"]
+	237
+ -> 239
+ [label="Odontostyle <=1x lip
+width
+"]
+	238
+ -> "Chitwoodius Furstenberg &
+Heyns, 1966
+" [label="Lip region rounded;
+odontostyle slightly curved
+"]
+	238
+ -> "Chitwoodielloides Ahmad &
+Araki, 2123
+" [label="Lip region cap-like
+with elevated liplets;
+odontostyle straight
+"]
+	239
+ -> 240
+ [label="Odontophore with small
+basal knobs
+"]
+	239
+ -> 243
+ [label="Odontophore without basal
+knobs
+"]
+	240
+ -> 241
+ [label="Lip region cap-like
+with elevated inner
+liplets
+"]
+	240
+ -> 242
+ [label="Lip region more
+or less rounded
+"]
+	241
+ -> "Tylenchodoroides Gagarin, 2121
+" [label="Stoma surrounded by
+a small sclerotized
+ring
+"]
+	241
+ -> "Tylencholaimus de Man,
+1876
+" [label="Stoma without sclerotized
+ring
+"]
+	242
+ -> "Pseudotylencholaimus Jairajpuri &
+Ahmad, 1992
+" [label="Odontostyle thick; tail
+hemispherical
+"]
+	242
+ -> "Tylenchodorus Siddiqi, 1983
+" [label="Odontostyle thin; tail
+conical
+"]
+	243
+ -> "Rostrulium Siddiqi, 1995
+" [label="Lip region rounded,
+slightly offset; odontostyle
+irregular
+"]
+	243
+ -> 244
+ [label="Lip region cap-like,
+strongly offset; odontostyle
+regular
+"]
+	244
+ -> "Chitwoodiellus Jimenez &
+PeÃ±a-Santiago, 1992
+" [label="Female diovarial, amphidelphic
+"]
+	244
+ -> 245
+ [label="Female monovarial, prodelphic
+"]
+	245
+ -> "Capilonchus Siddiqi, 1982
+" [label="Perioral disk present;
+body length 1.7-2
+mm
+"]
+	245
+ -> "Meylonema Andrassy, 1960
+" [label="Perioral disk absent;
+body length short
+0.4-0.6 mm
+"]
+	247
+ -> 248
+ [label="Cuticle tessellated
+"]
+	247
+ -> 250
+ [label="Cuticle smooth
+"]
+	248
+ -> "Encholaimus Golden &
+Murphy, 1967
+" [label="Females monovarial, opisthodelphic;
+posterior part of
+esophagus pyriform
+"]
+	248
+ -> 249
+ [label="Females diovarial, amphidelphic;
+posterior part of
+esophagus cylindroid
+"]
+	249
+ -> "Helmabia Siddiqi, 1971
+" [label="Outer labial sensilla
+long, setose
+"]
+	249
+ -> "Nemabia Siddiqi, 1995
+" [label="Outer labial sensilla
+very short
+"]
+	250
+ -> "Acephalodorylaimus Ahmad &
+Jairajpuri, 1983
+" [label="Inner labial papillae
+short, hardly elevated;
+female monovarial, prodelphic
+"]
+	250
+ -> 251
+ [label="Inner labial papillae
+setose; female monovarial,
+opisthodelphic or diovarial,
+amphidelphic
+"]
+	251
+ -> "Cephalodorylaimus Jairajpuri, 1967
+" [label="Female diovarial, amphidelphic
+"]
+	251
+ -> "Echinodorus Siddiqi, 1995
+" [label="Female monovarial, opisthodelphic
+"]
+	252
+ -> 253
+ [label="Large nematodes, 3-7
+mm
+"]
+	252
+ -> 254
+ [label="Shorter nematodes, <3
+mm
+"]
+	253
+ -> "Timmus Goseco, Ferris
+& Ferris, 1976
+" [label="Males with two
+pairs of adcloacal
+supplements
+"]
+	253
+ -> "Calolaimus Timm, 1964
+" [label="Males with one
+pair of adcloacal
+supplements
+"]
+	254
+ -> "Morasia Baqri &
+Jairajpuri, 1969
+" [label="Tails of females
+and males dissimilar,
+elongate in females
+and short and
+rounded in males
+"]
+	254
+ -> 255
+ [label="Tails of females
+and males similar
+"]
+	255
+ -> "Mydonomus Thorne, 1964
+" [label="Expanded posterior of
+esophagus surrounded by
+a muscular sheath
+"]
+	255
+ -> "Dorylaimoides Thorne &
+Swanger, 1936
+" [label="Expanded posterior of
+esophagus without muscular
+sheath
+"]
+	256
+ -> 257
+ [label="Tail short and
+rounded
+"]
+	256
+ -> 258
+ [label="Tail elongate conoid
+to filiform
+"]
+	257
+ -> "Adenolaimus Andrassy, 1973
+" [label="Females monovarial
+"]
+	257
+ -> "Oostenbrinkia Ali, Suryawanshi
+& Ahmad, 1973
+" [label="Females diovarial
+"]
+	258
+ -> "Cladocephalus Swart &
+Heyns, 1991
+" [label="Lips distinct with
+large papillae
+"]
+	258
+ -> "Aulolaimoides Micoletzky, 1915
+" [label="Lips amalgamated with
+minute papillae
+"]
+	259
+ -> "Athernema Ahmad &
+Jairajpuri, 1978
+" [label="Amphidial fovea strongly
+sclerotized
+"]
+	259
+ -> 260
+ [label="Amphidial fovea simple,
+not sclerotized
+"]
+	260
+ -> 261
+ [label="Odontostyle with a
+convex stiffening piece
+"]
+	260
+ -> 263
+ [label="Odontostyle without stiffening
+piece
+"]
+	261
+ -> "Dorella Jairajpuri, 1964
+" [label="Stiffening piece of
+odontostyle on ventral
+side; females monovarial,
+prodelphic
+"]
+	261
+ -> 262
+ [label="Stiffening piece of
+odontostyle on dorsal
+side; females monovarial,
+opisthodelphic
+"]
+	262
+ -> "Margollus PeÃ±a-Santiago, Peralta
+& Siddiqi, 1993
+" [label="Labial framework sclerotized
+"]
+	262
+ -> "Tylencholaimellus Cobb, 1915
+" [label="Labial framework not
+sclerotized
+"]
+	263
+ -> 264
+ [label="Female diovarial, amphidelphic
+"]
+	263
+ -> 265
+ [label="Female monovarial, opisthodelphic
+"]
+	264
+ -> "Phellonema Thorne, 1964
+" [label="Odontophore with posterior
+knobs
+"]
+	264
+ -> "Goferus Jairajpuri &
+Ahmad, 1992
+" [label="Odontophore simple, without
+knobs
+"]
+	265
+ -> "Agmodorus Thorne, 1964
+" [label="Odontostyle very short,
+with tip appearing
+broken
+"]
+	265
+ -> 266
+ [label="Odontostyle normal
+"]
+	266
+ -> "Oostenbrinkella Jairajpuri, 1965
+" [label="Tail filiform
+"]
+	266
+ -> "Doryllium Cobb, 1920
+" [label="Tail short, rounded
+"]
+}

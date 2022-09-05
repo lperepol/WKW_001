@@ -1,0 +1,80 @@
+From,Description,To,Genus
+1,Female didelphic,2, 
+1,Female monodelphic,4, 
+2,Cephalic framework moderately sclerotized; vulva provided with lateral vulval membranes; male cloaca provided with large hypoptygmata,"Antarctenchus (Spaull, 1972)","Antarctenchus (Spaull, 1972)"
+2,Cephalic framework not sclerotized; vulva without lateral vulval membranes; male without hypoptygmata,3, 
+3,Head high with distinct amphidial slit on the lateral side; median bulb usually behind middle of pharynx,"Psilenchus (de Man, 1921)","Psilenchus (de Man, 1921)"
+3,Head low with indistinct amphidial slit; median bulb anterior to middle of pharynx,Atetylenchus (Cobb 1913),Atetylenchus (Cobb 1913)
+4,Stylet = 76-104µm,5, 
+4,Stylet = 38-52µm,"Epicharinema (Raski, Maggenti, Koshy & Sosamma, 1982)","Epicharinema (Raski, Maggenti, Koshy & Sosamma, 1982)"
+4,Stylet = 22-34µm,6, 
+4,Stylet less than 22µm,7, 
+5,"Cephalic region continuous, not lobed; lateral field beginning near middle of pharynx","Tylodorus (Meagher, 1964)","Tylodorus (Meagher, 1964)"
+5,"Cephalic region offset, with four prominent lobes; lateral field beginning at base of pharynx","Arboritynchus (Reay, 1991)","Arboritynchus (Reay, 1991)"
+6,Cuticle with longitudinal ridges,"Campbellenchus (Wouts, 1977)","Campbellenchus (Wouts, 1977)"
+6,Cuticle without longitudinal ridges except for the lateral field,"Gracilancea (Siddiqi, 1976)","Gracilancea (Siddiqi, 1976)"
+7,Head with setae,8, 
+7,Head without setae,9, 
+8,"Vulva covered by longitudinal flap, male without caudal alae; cloaca provided with large hypoptytgmata",Atetylenchus (Cobb 1913),Atetylenchus (Cobb 1913)
+8,Vulva with lateral vulval flaps; male with caudal alae; cloaca raised,Eutylenchus (Cobb 1913),Eutylenchus (Cobb 1913)
+9,Cuticle provided with longitudinal ridges,10, 
+9,Cuticle without longitudinal ridges except for the lateral field,14, 
+10,Stylet conus about 1/3 of stylet length,11, 
+10,Stylet conus about 1/2 of stylet length,13, 
+11,The longitudinal ridges mask the transverse body annulations; lateral field not distinct (the mid-lateral ridge appears slightly larger than the others),"Ridgellus (Siddiqi, 2000)","Ridgellus (Siddiqi, 2000)"
+11,The longitudinal ridges divide the transverse annulations into blocks,12, 
+12,Lateral field with four lines,"Neothada (Khan, 1973)","Neothada (Khan, 1973)"
+12,"Lateral field with two lines, very thin animals",Ecphyadophoriodes (Corbett 1964),Ecphyadophoriodes (Corbett 1964)
+13,Vulva covered by longitudinal flap; stylet = 17-19µm,"Pleurotylencus (Szczygiel, 1969)","Pleurotylencus (Szczygiel, 1969)"
+13,Vulva with lateral flaps (sometimes small or absent); stylet less than 15µm (exceptionally 17-19µm,"Coslenchus (Siddiqi, 1978)","Coslenchus (Siddiqi, 1978)"
+14,Stylet conus about 1/3 of stylet length,15, 
+14,Stylet conus about 1/2 stylet length,31, 
+15,15. Head high with oblique or transverse amphidial slit on the lateral side,16,Boleodoridinae
+15,"Head variously shaped, amphidial slit longitudinally oriented or only present on the front (than not seen by light microscopy",18, 
+16,"Body ventrally curved, sometimes in spiral; female reproductive system with offset spermatheca filled with small refractive sperm and ovary with oocytes in multiple rows","Boleodorus (Thorne, 1941)","Boleodorus (Thorne, 1941)"
+16,Body straight or only slightly curved; sperm not refractive and oocytes not in multiple rows,17, 
+17,"17. Anterior part of stylet not conical but with wide lumen, stylet without knobs","Neopsilenchus (Thorne & Malek, 1968)","Neopsilenchus (Thorne & Malek, 1968)"
+17,Anterior part of stylet conical with the usual very fine lumen; stylet with or without knobs,"Basiria (Siddiqi, 1959)","Basiria (Siddiqi, 1959)"
+18,Head with large dome-shaped structure,"Cucullitylenchus (Huang & Raski, 1986)","Cucullitylenchus (Huang & Raski, 1986)"
+18,Head with small disc-like structure at front end,19, 
+18,Head with smooth contour,20, 
+19,"Very slender, (a-value=62-67); caudal alae posteriorly concave","Mitranema (Siddiqi, 1986)","Mitranema (Siddiqi, 1986)"
+19,"Not so slender; caudal alae rounded, no vulval flaps","Discotylenchus (Siddiqi, 1980)","Discotylenchus (Siddiqi, 1980)"
+19,"Not so slender; caudal alae rounded, distinct vulval flaps","Malenchus (M. labiatus) (Maqbool & Shahina, 1985)","Malenchus (M. labiatus) (Maqbool & Shahina, 1985)"
+20,Very slender body (a-value 60-180); bursa lobed,21, 
+20,"Very slender body, bursa not lobed",22, 
+20,Body not extremely slender; bursa (if present) not lobed,23, 
+21,"Body constricted at vulva; head quadrangular (amphidial openings small pores on front, not distinct with light microscopy)","Ecyphyadophora (de Man, 1921)","Ecyphyadophora (de Man, 1921)"
+21,Body not constricted at vulva; head dorso-ventrally flattened; long sinuous amphidial aperture,"Tenunemellus (Siddiqi, 1986)","Tenunemellus (Siddiqi, 1986)"
+22,Lateral field absent,"Ultratenella (Siddiqi, 1984)","Ultratenella (Siddiqi, 1984)"
+22,Lateral field prominent with four lines,"Chilenchus (Siddiqi, 2000)","Chilenchus (Siddiqi, 2000)"
+23,Cuticular annuli deeply incised,24, 
+23,"Cuticular annuli not so deeply incised, sometimes indistinct",27, 
+24,"Stylet with minute swellings, median bulb hardly developed","Thada (Thorne, 1941)","Thada (Thorne, 1941)"
+24,"Stylet with small knobs, median bulb hardly or well developed",25, 
+25,Annuli zigzag in surface view; annulations continue on the head; male without caudal alae,"Miculenchus (Andrássy, 1959)","Miculenchus (Andrássy, 1959)"
+25,Annuli normal; male with caudal alae,26, 
+26,"Vulva with projecting vulval lips, male with elongated bursa","Silenchus (Andrássy, 2001)","Silenchus (Andrássy, 2001)"
+26,"Vulva sunken in body; male with rather short, ad-cloacal bursa","Malenchus (Andrássy, 1968)","Malenchus (Andrássy, 1968)"
+27,Head dorso-ventrally flattened with longitudinal sinuous amphidial apertures; the small head contains large amphidial pouches; body usually very slender,"Lelenchus (Andrássy, 1954)","Lelenchus (Andrássy, 1954)"
+27,Head quadrangular with usually longitudinal (but not sinuous) amphidial apertures; amphidial pouches not distinct; relatively thicker species,28, 
+28,Clavate stylet knobs with ventrally situated opening of pharyngeal lumen; dorsal gland has opening one half to one stylet length posterior to knobs,"Irantylenchus (Kheiri, 1972)","Irantylenchus (Kheiri, 1972)"
+28,Stylet has rounded knobs; dorsal gland opening  close to knobs,29, 
+29,Lateral vulval membranes,"Fraglenchus (Siddiqi, 2000)","Fraglenchus (Siddiqi, 2000)"
+29,Lateral vulval membranes absent,30, 
+30,"Median bulb underdeveloped, no valves","Sakia (Khan, 1964)","Sakia (Khan, 1964)"
+30,"Median bulb slightly or well developed, with valves","Filenchus (Andrássy, 1954)","Filenchus (Andrássy, 1954)"
+31,Vulva provided with lateral flaps,32, 
+31,Vulva without flaps,33, 
+32,Lateral field with two lines; vagina thin; post-vulval sac short,"Allotylenchus (Andrássy, 1984)","Allotylenchus (Andrássy, 1984)"
+32,Lateral field with three lines (but the two ridges can slightly separate so that in total four lines can sometimes be seen); vagina thickened; post-vulval sac short,"Aglenchus (Andrássy, 1954)","Aglenchus (Andrássy, 1954)"
+32,"Lateral field with four lines, vagina not swollen, no post-vulval uterine sac……………","Fraglenchus (Siddiqi, 2000)","Fraglenchus (Siddiqi, 2000)"
+32,"Lateral field usually with six lines, sometimes four lines; vagina not thickened; post-vulval uterine sac well developed","Cephalenchus (Goodey, 1962)","Cephalenchus (Goodey, 1962)"
+33,Pharynx without median bulb,"Tanzanius (Siddiqi, 1991)","Tanzanius (Siddiqi, 1991)"
+33,Pharynx with median bulb,34, 
+34,Lateral field and body annulations at mid-body mostly inconspicuous,35, 
+34,Lateral field and body annulations distinct; caudal alae distinct,36, 
+35,A few large annuli just posterior to the head,"Cervoannulatus (Bajaj, 1998)","Cervoannulatus (Bajaj, 1998)"
+35,Not such large annuli,"Polenchus (Andrássy, 1980)","Polenchus (Andrássy, 1980)"
+36,"Vulva with projecting vulval lips, male with elongated bursa","Silenchus (Andrássy, 2001)","Silenchus (Andrássy, 2001)"
+36,"Vulva plain, male with shorter, ad-cloacal bursa","Tylenchus (Bastian, 1865)","Tylenchus (Bastian, 1865)"

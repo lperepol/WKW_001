@@ -1,0 +1,535 @@
+From,Description,To
+1,"Stoma with subventral mural tooth, stoma wide, cardia with 3 gland cells",2
+1,"Stoma with axial odontostyle, stoma narrow, cardia small, without gland cells",17
+2,"Female reproductive system monovarial, opisthodelphic; basal part of esophagus with a sheath of spiral muscles",4
+2,"Female reproductive system diovarial, amphidelphic; basal part of esophagus with a thin muscle sheath which is difficult to discern",3
+3,Anterior part of stoma bowl-shaped and sclerotized,5
+3,"Anterior part of stoma simple, without sclerotization",6
+4,Body length < 1.4 mm; cuticle thin with fine transverse striations; lip region continuous with body contour,"Nygellus Thorne, 1939"
+4,Body length < 1.4 mm; cuticle thin with fine transverse striations,"Aetholaimus Williams, 1962"
+5,"Basal part < 1/2 of esophagus length; esophageal gland nuclei not enlarged; cardia with 3 small transversely-ovoid glands; vulva transverse; , no paravulvae",7
+5,Basal part < 1/2 of esophagus length; esophageal gland nuclei enlarged and readily visible; cardia with 3 longitudinally-ovoid glands; vulva longitudinal; ventral adanal region with papillae or pores (paravulvae),15
+6,"Basal part about 2/3 of esophagus length; cardial disk, no cardia glands; vulva transverse, no paravulvae",16
+6,"Mural tooth needle-like, no lumen",8
+7,"Mural tooth deltoid, linear or dorylaimoid, with lumen",10
+7,Tail elongate with clavate terminus,"Clavicauda Heyns, 1968"
+8,"Tail short and bluntly rounded, not clavate",9
+8,"Labial region offset by a constriction, anterior body contour not continuous","Solididens Heyns, 1968"
+9,Labial region continuous with body contour,"Feroxides Heyns, 1968"
+9,"Tail long, elongate-conoid, ventrally arcuate","Afronygus Heyns, 1968"
+10,"Tail short, convex-conoid to rounded, or clavate",11
+10,Tooth dorylaimoid with dorsal aperture,"Laevides Heyns, 1968"
+11,"Tooth deltoid or linear, without aperture",12
+11,"Labial region offset by a constriction, anterior body contour not continuous; tooth deltoid",13
+12,Labial region continuous with body contour; tooth deltoid or linear,14
+12,Male with prominent ventromedian supplements and gubernaculum,"Paranygolaimus Heyns, 1968"
+13,Male with weak ventromedian supplements; gubernaculum absent,"Nygolaimus Cobb, 1913"
+13,"Tooth linear, tail convex-conoid or rounded","Aquatides Heyns, 1968"
+14,"Tooth deltoid or linear, tail rounded to clavate","Clavicaudoides Heyns, 1968"
+14,Vulva longitudinal; cardia glands longitudinally ovoid,"Paravulvus Heyns, 1968"
+15,"Basal part about 2/3 of esophagus length; cardial disk, no cardia glands; vulva transverse","Nygolaimellus Loos, 1949"
+15,Odontostyle usually < 2x lip width; anterior section of esophagus slender but muscular; posterior without muscular sheath; 5 esophageal nuclei,18
+16,Odontostyle very long and slender; anterior section of esophagus slender not muscular; posterior without muscular sheath; 3 esophageal nuclei,153
+16,"Odontostyle usually about 1x lip width; anterior section of esophagus slender but muscular, posterior surrounded by muscular sheath; 5 esophageal nuclei",160
+17,Odontostyle usually 1-2x lip width; anterior section of esophagus,195
+17,"muscular, posterior section a short bulb without muscular sheath; 5 esophageal nuclei",
+18,Stoma with 4 large onchia surrounding odontostyle,26
+18,Stoma without large onchia,19
+19,Cuticle with numerous conspicuous pores with sclerotized ducts,42
+19,Cuticle without pores with sclerotized ducts,20
+20,Anterior of body strongly tapered to a small head; subcuticular glands present,49
+20,Anterior of body gently tapered to a normal dorylaimid head; subcuticular glands absent,21
+21,Lip region low with the two circles of labial papillae close together,52
+21,Lip region normal with the two circles of labial papillae well separated,22
+22,Sublabial region sclerotized; lips amalgamated; males with few supplements,57
+22,Sublabial region not sclerotized; males with variable number of supplements,23
+23,Odontostyle long and slender with small aperture; odontophore surrounded by muscular sheath,68
+23,Odontostyle intermediate length and diameter with large aperture,24
+24,Female tail attenuated to filiform; male tail similar or short,86
+24,Both female and male with short tail,25
+25,"Odontostyle aperture >1/2 odontostyle length; guiding ring plicated, appears double",110
+25,Odontostyle aperture <1/2 odontostyle length; guiding ring simple,123
+26,"Odontostyle robust, dorylaimoid; cuticle without longitudinal ridges; anterior and posterior parts of esophagus muscular; vulval lips sclerotized; male and female with similar long tails",27
+26,"Odontostyle fairly robust, dorylaimoid; cuticle usually smooth; anterior and posterior parts of esophagus muscular; vulval lips sclerotized; male with short, rounded tail; female with long tail",32
+26,"Odontostyle long and slender; cuticle with longitudinal ridges; anterior part of esophagus non-muscular, mid and and posterior parts muscular; vulval lips not sclerotized; male with short, rounded tail; female with long tail",28
+27,Stoma with denticles,"Trachypleurosum Andrassy, 1959"
+27,"Tail differs in male and female, elongate to filiform in female, short and rounded in male","Trachactinolaimus Andrassy, 1963"
+28,Labial region low; odontostyle fairly robust,"Parastomachoglossa Coomans & Loof, 1986"
+28,Labial region normal; odontostyle not robust,29
+29,Cuticle very thick; inner vulval lips wider than vagina,"Brasilaimus Zamith & Lordello, 1957"
+29,Cuticle not very thick; inner vulval lips moderately developed,30
+30,Lip region strong and expanded; male tail with filiform extension,"Practinocephalus Andrassy, 1974"
+30,Lip region not expanded; male tail without filiform extension,31
+31,Anterior of stoma strong and hexagonal,"Afratinca Vinciguerra & Clausi, 2000"
+31,"Anterior of stoma thin-walled, circular","Actinca Andrassy, 1964"
+32,Cuticle with longitudinal ridges,"Actinolaimus Cobb, 1913"
+32,Cuticle without longitudinal ridges,33
+33,Anterior of stoma with 4 sclerotized plates,34
+33,Anterior of stoma without sclerotized plates,35
+34,Stoma wall with small denticles,"Paractinolaimoides Khan. Ahmad & Jairajpuri, 1994"
+34,Stoma wall without denticles,"Scleroactinolaimus Ahmad, Khan & Ahmad, 1993"
+35,Onchia fused at base,"Metactinolaimus Meyl, 1957"
+35,"Onchia separate, not fused",36
+36,"Anterior stoma walls strongly ribbed, basket-like","Westindicus Thorne, 1967"
+36,Anterior stoma walls not ribbed,37
+37,Anterior stoma wall with denticles,38
+37,Anterior stoma wall without denticles,39
+38,Male supplements in a linear series,"Paractinolaimus Meyl, 1957"
+38,Male supplements in clusters or fascicles,"Afractinolaimus Andrassy, 1970"
+39,Male supplements in a linear series,40
+39,Male supplements in clusters or fascicles,41
+40,Anterior part of esophagus muscular,"Egtitus Thorne, 1967"
+40,Anterior part of esophagus non-muscular,"Stopractinca Khan, Ahmad & Jairajpuri, 1994"
+41,Onchia each with two small additional denticles,"Neoactinolaimus Thorne, 1967"
+41,Onchia without additional denticles,"Mactinolaimus Andrassy, 1970"
+42,"Slender nematodes; cuticular pores indistinct; odontostyle very thin with small aperture; females diovarial, amphidelphic; tail conoid to elongate-conoid",47
+42,"Moderately slender nematodes; cuticular pores distinct; odontostyle thick with large aperture, often >1/2 odontostyle length; females monovarial or diovarial; tail short, rounded or elongate-conoid",43
+43,"Female reproductive system monovarial, opisthodelphic","Sicorinema Siddiqi, 1969"
+43,Female reproductive system diovarial,44
+44,"Cuticle with conspicuous lateral, ventral and dorsal pores",45
+44,Cuticle without conspicuous pores; odontostyle short and thick with large aperture,"Sicorinemella Andrassy, 2009"
+45,"Odontostyle length about 1x labial width with large aperture,  >1/2 odontostyle length","Moshajia Siddiqi, 1982"
+45,Odontostyle length > 1x labial width with aperture about 1/3 odontostyle length,46
+46,Body slender; tail elongate-conoid,"Poronemella Siddiqi, 1969"
+46,"Body stout; tail short, conoid","Lordellonema Andrassy, 1959"
+47,"Labial region offset from body contour, lips separated; odontostyle thin with small aperture","Crateronema Siddiqi, 1969"
+47,"Labial region continuous with body contour, lips amalgamated; odontostyle thin with small aperture",48
+48,"Tail elongate-conoid, with distinct papillae in male","Chrysonema Thorne, 1929"
+48,Tail short without distinct papillae,"Oonaguntus Thorne, 1974"
+49,"Anterior of body narrowing strongly; neck outline concave; head very small, <1/4 body width at base of esophagus; odontostyle straight or bent dorsally; tail short-conoid or elongate-conoid to filiform",50
+49,"Anterior of body narrowing less strongly; neck outline concave; head small, about 1/3 body width at base of esophagus; odontostyle straight; tail short-conoid or conoid-rounded",51
+50,Odontostyle straight with small aperture,Parapalus Loof & Zullini
+50,Odontostyle bent dorsally with large aperture,"Paraxonchium Krall, 1958"
+51,"Odontostyle length >2x labial width, aperture about 1/4 length of odontostyle","Gopalus Khan, Jairajpuri & Ahmad, 1987"
+51,"Odontostyle length about 1x labial width, aperture about 1/2 length of odontostyle","Tendinema Siddiqi, 1995"
+52,Head with lips amalgamated; two circles of labial papillae separated; odontostyle narrowing posteriorly;  male with gubernaculum,53
+52,Head with lips amalgamated; two circles of labial papillae very close; odontostyle narrowing posteriorly;  male without gubernaculum,55
+53,Male spicules short and straight without inner scerotization,54
+53,Male spicules arcuate with inner scerotization; gubernaculum present,"Nygolaimoides Meyl in Andrassy, 1960"
+54,Labial region offset from body contour;  6 small liplets within the outer labia,"Thorniosa Andrassy, 1996"
+54,Labial region not offset from body contour;  without inset liplets,"Thornia Meyl, 1954"
+55,Anterior stoma with a sclerotized ring,"Loofilaimus Jairajpuri, Ahmad & Sturhan, 1998"
+55,Anterior stoma without sclerotized ring,56
+56,Male with 3-4 supplements,"Sphaeroamphis Ahmad & Sturhan, 2000"
+56,Male without supplements,"Thorneella Andrassy, 1960"
+57,"Female tail elongate; male tail elongate or short, rounded",58
+57,Female and male tails both short and rounded, 65
+58,"Anterior of body narrow, bottle-shaped; amphids small","Lagenonema Andrassy, 1987"
+58,Anterior of body not bottle-shaped; amphids large,59
+59,"Female tail attenuated to long; male tail short, round",60
+59,"Tails of males and females similar, either long or short, rounded",63
+60,"Female reproductive system monovarial, opisthodelphic",61
+60,"Female reproductive system diovarial, amphidelphic",62
+61,Labial framework and esophageal collar sclerotized,"Thornenema Andrassy, 1959"
+61,Labial framework and esophageal collar not sclerotized,"Opisthodorylaimus Ahmad & Jairajpuri, 1982"
+62,"Collar present; male with 15-17 ventromedian supplements, contiguous","Prothornenema Baqri & Bohra, 2003"
+62,"Collar absent; male with 10-15 ventromedian supplements, spaced","Coomansinema Ahmad & Jairajpuri, 1989"
+63,Tail long in both males and females,64
+63,"Tail short, rounded in both males and females",65
+64,"Female reproductive system diovarial, amphidelphic","Sicaguttur Siddiqi, 1971"
+64,"Female reproductive system monovarial, opisthodelphic","Indodorylaimus Mehdi Ali & Prabha, 1974"
+65,"Female reproductive system diovarial with both branches equally developed, amphidelphic",66
+65,"Female reproductive system monovarial or monovarial with rudimentary anterior branch, opisthodelphic",67
+66,"Body very slender, 2.9-4.6 mm long","Anadorella Siddiqi, 2005"
+66,"Body very small, 0.4-0.6 mm long","Paratimminema Rahaman, Ahmad & Khan, 1994"
+67,Cephalic framework and collar sclerotized,"Sclerolabia Carbonell & Coomans, 1986"
+67,Cephalic framework and collar not sclerotized,"Willinema Baqri & Jairajpuri, 1967"
+68,"Odontostyle needle-like, <3x labial width; lips with raised papillae; vulva transverse, usually diovarial, amphidelphic; tail conoid; body length 0.6-2.2 mm",69
+68,"Odontostyle 2-9x labial width; labial papillae not raised; diovarial, amphidelphic or monovarial, opisthodelphic; tail short, conoid or cylindroid; body length 0.4-1.6 mm, usually robust",69
+68,"Odontostyle 2-5x labial width; lips with raised papillae;, usually diovarial, amphidelphic; tail rounded or filiform; body length 1-8 mm",69
+69,Female tail elongate; male tail rounded,"Californidorus Robbins & Weiner, 1978"
+69,"Tail similar in both sexes, either short or long",70
+70,Head strongly expanded; amphid apertures on lateral lips,"Kochinema Heyns, 1963"
+70,Head not expanded; amphid apertures post-labial,71
+71,Odontostyle >3x labial diameter,72
+71,Odontostyle <3x labial diameter,74
+72,Odontostyle 8-9x labial diameter; posterior of body twisted,"Acunemella Andrassy, 2002"
+72,Odontostyle 3-5x labial diameter; posterior of body not twisted,73
+73,Tail cylindroid with broadly-rounded terminus,"Thornedia Husain & Khan, 1965"
+73,Tail conoid or conoid-rounded with narrowly-rounded terminus,"Longidorella Thorne, 1939"
+74,"Odontostyle very thin, needle-like, aperture hardly discernible",75
+74,"Odontostyle not needle-like, aperture discernible",76
+75,"Female reproductive system diovarial, amphidelphic","Malekus Thorne, 1974"
+75,"Female reproductive system monovarial, opisthodelphic","Oriverutoides Ahmad & Sturhan, 2002"
+76,"Tail in both sexes long, filiform",77
+76,Tail in both sexes short-conoid to elongate-conoid,78
+77,Male with numerous contiguous ventro-median supplements,"Lenonchium Siddiqi, 1965"
+77,"Male with few, well-spaced,  ventro-median supplements","Enchodorus Vinciguerra, 1976"
+78,"Lips large, separate, with strongly projecting papillae",79
+78,"Lips not large, papillae not strongly projecting",80
+79,"Tail short-conoid, ventrally arcuate","Inbionema Loof & Zullini, 2000"
+79,"Tail elongate-conoid, dorsally arcuate","Oriverutus Siddiqi, 1971"
+80,"Stoma with thick, hyaline walls; male with numerous supplements (26-31)","Lanzavecchia Zullini, 1988"
+80,Stoma with thin walls; male with <16 supplements,81
+81,"Head rounded, continuous with body contour; tail bent dorsally","Actinolaimoides Meyl, 1957"
+81,Head offset from body contour; tail not bent dorsally,82
+82,Anterior walls of stoma with four sclerotized platelets,83
+82,Anterior walls of stoma without sclerotized platelets,84
+83,"Odontostyle 2-3x labial diameter, very slender, slightly curved; guiding ring double","Pungentus Thorne & Swanger, 1936"
+83,"Odontostyle <2x labial diameter, straight; guiding ring simple","Pungentella Andrassy, 2009"
+84,Cuticle near vulva strongly wrinkled,"Rhyssocolpus Andrassy, 1971"
+84,Cuticle near vulva not wrinkled,85
+85,Tail rounded; posterior male supplements within 1x spicule length of cloaca,"Enchodelus Thorne, 1939"
+85,Tail conoid; posterior male supplements > 1x spicule length from cloaca,"Heterodorus Altherr, 1952"
+86,"Cuticle smooth; odontostyle moderate; guiding ring narrow; vulva longitudinal, V<50%; spicules simple; male with only 1 or 2 supplements; tails in both sexes filiform; body length 0-8-1.0 mm",87
+86,"Cuticle smooth or with fine transverse striations; odontostyle strong, straight; guiding ring thin; vulva longitudinal, V<50%; spicules dorylaimid; male with numerous supplements; tails in both sexes elongate to filiform; body length up to 5 mm",87
+86,"Cuticle smooth or with distinct or longitudinal ridges striations; odontostyle strong, straight >1x labial diameter; guiding ring double; spicules dorylaimid; male with numerous  supplements; tail in female elongate to filiform, short and rounded in male; body length up to 9 mm",87
+86,"Cuticle smooth or with fine transverse striations; odontostyle medium size; guiding ring simple; spicules dorylaimid; male with numerous supplements; tails differ between sexes, short mamillate or elongate to filiformin female, short and rounded in male; body length usually 1-3mm",87
+86,Cuticle smooth; odontostyle long and thin; guiding ring simple; vulva usually longitudinal; tails in both sexes similar or dissimilar; body length 0.8- 5 mm,87
+87,Stoma with sclerotized pieces,"Fuscheila Siddiqi, 1982 (Mesodorylaiminae)"
+87,Stoma without sclerotized pieces,88
+88,Monosexual; only females present,"Drepanodorylaimus Jairajpuri, 1966"
+88,Bisexual; males and females present,89
+89,Cuticle with longitudinal ridges,90
+89,Cuticle without longitudinal ridges,92
+90,Male supplements arranged in two clusters (fascicles),"Ischiodorylaimus Andrassy, 1969"
+90,Male supplements arranged in a continuous series,91
+91,Female tail elongate to filiform; guiding ring double,"Dorylaimus Dujardin, 1845"
+91,Female tail conoid-rounded with short projection; guiding ring simple,"Kittydorylaimus Andrassy, 1998"
+92,"Tail in both sexes similar, elongate to filiform",93
+92,"Tail in both sexes dissimilar, elongate in female, short and mainly rounded in male",97
+93,"Spicule simple, alaimoid, only 1 or 2 supplements","Amphidorylaimus Andrassy, 1960"
+93,"Spicule dorylaimoid, numerous supplements",94
+94,"Prerectum very long, 15-25x anal body diameter","Protodorylaimus Andrassy, 1988"
+94,Prerectum much shorter,95
+95,"Supplements close together, numbering 13-31","Prodorylaimus Andrassy, 1959"
+95,"Supplements spaced, numbering 6-13",96
+96,"Body very slender (a about 60); head rounded, continuous with body contour","Kunjudorylaimus Dhanam & Jairajpuri, 2000"
+96,Body less slender; head truncate,"Prodorylaimium Andrassy, 1969"
+97,"Male tail conoid, ventrally arcuate","Afrodorylaimus Andrassy, 1964"
+97,Male tail rounded,98
+98,Male tail with short terminal peg,"Baladorylaimus Andrassy, 2001"
+98,Male tail without terminal peg,99
+99,Subcuticle strongly striated,"Idiodorylaimus Andrassy, 1969"
+99,Subcuticle not striated,100
+100,Guiding ring double and high,101
+100,Guiding ring simple and thin,102
+101,Amphids with very small pore-like aperture,"Halodorylaimus Andrassy, 1988"
+101,Amphids with wide slit-like aperture,"Laimydorus Siddiqi, 1969"
+102,"Body extremely slender, a = 60-90","Chrysodorus Jimenez-Guirado & Cadenas, 1985"
+102,Body much less slender,103
+103,Paired pre- and post-cloacal papillae of male very strong; sperm small and rounded,104
+103,Paired pre- and post-cloacal papillae of male very small; sperm fusiform,105
+104,"Spicules simple, without inner sclerotization; 4-8 supplements arranged in pairs","Apodorylaimus Andrassy, 1988"
+104,Spicules with inner sclerotization; 12-18 supplements arranged in a single row,"Paradorylaimus Andrassy, 1969"
+105,Four spindle-shaped yellowish spots near base of odontostyle,"Crocodorylaimus Andrassy, 1988"
+105,No spindle-shaped yellowish spots near base of odontostyle,106
+106,Each spicule with a small spur near its distal end; posterior part of male body twisted,"Calcaridorylaimus Andrassy, 1969"
+106,Spicules without spurs; posterior part of male body not twisted,107
+107,"Supplements 16-31, arranged in 3 groups: two continuous rows with a few between","Calodorylaimus Andrassy, 1969"
+107,Supplements in a continuous row,108
+108,"Supplements <5, widely spaced","Miodorylaimus Andrassy, 1986"
+108,"Supplements 5-26, closely spaced",109
+109,Body length 2.7-3.3 mm; vulva sunken below body contour,"Namaquanema Heyns & Swart, 1993"
+109,Body length 0.8-2.3 mm; vulva not sunken below body contour,"Mesodoylaimus Andrassy, 1959"
+110,Stoma with mural tooth,111
+110,Stoma with axial odontostyle,113
+111,Tooth parallel with body axis,"Sectonema Thorne, 1930"
+111,Tooth at an angle to body axis,112
+112,Anterior part of stoma with fine rasp-like denticles,"Nygolaimium Thorne, 1930"
+112,Anterior part of stoma without denticles,"Scapidens Heyns, 1965"
+113,Tail very long and filiform,114
+113,"Tail short, conoid-rounded or hemispharical",115
+114,Tail very long and filiform,"Aporcedorus Jairajpuri & Ahmad, 1983"
+115,Cuticle with 2 layers that refract light differently,116
+115,Cuticle layers refract light similarly,117
+116,Male with 2-5 pairs of adcloacal supplements; lip region only slightly offset,"Makatinus Heyns, 1965"
+116,Male with only 1 pair of adcloacal supplements; lip region strongly offset,"Aporcelaimellus Heyns, 1965"
+117,"Lip region rounded, lips amalgamated, odontostyle very thick","Acrotonus Thorne, 1974"
+117,"Lip region not rounded, lips not or only slightly amalgamated, odontostyle not unusually thick",118
+118,"Vestibule heavily sclerotized, anterior of odontostyle thick","Silvallis Jairajpuri & Ahmad, 1985"
+118,"Vestibule not sclerotized, anterior of odontostyle normal",119
+119,"Odontostyle aperture arched dorsally, vulva cuticle wrinkled, very large nematodes  (7-9.3 mm)","Epacrolaimus Andrassy, 2000"
+119,"Odontostyle aperture not arched dorsally, vulva cuticle smooth",120
+120,"Aperture 1/3 of odontostyle length, vulva lips not sclerotized",Tubixaba Monteiro & Lordello 1980
+120,"Aperture Ã‚Â½ or greater of odontostyle length, vulva lips usually sclerotized",121
+121,"Lip region high, tail conoid and > 1 anal body diameter","Metaporcelaimus Lordello, 1965"
+121,"Lip region wide, tail conoid-rounded or hemisperical and < 1 anal body diameter",122
+122,"Body large (4-10 mm), vulval lips sclerotized","Aporcelaimus Thorne & Swanger, 1936"
+122,"Body around 2 mm, vulval lips not sclerotized","Aporcella Andrassy, 2002"
+123,"Females monovarial, opisthodelphic",124
+123,"Females diovarial, amphidelphic",125
+124,Lip region broadly offset and high; lateral fields with conspicuous glands,"Latocephalus Patil & Khan, 1982"
+124,Lip region normal; lateral fields without glands,"Ecumenicus Thorne, 1974"
+125,Cuticle usually with conspicuous longitudinal ridges,"Arctidorylaimus Mulvey & Anderson, 1979"
+125,Cuticle without longitudinal ridges,126
+126,Head with sclerotized basket-like structure,127
+126,Head without sclerotized basket-like structure,129
+127,"Tail conoid, ventrally arcuate, about 2x abd","Caryboca Lordello, 1967"
+127,"Tail conoid-rounded to bluntly rounded, ventrally arcuate, about 1x abd",128
+128,Mouth cavity barrel-shaped and heavily sclerotized posterior to basket-like structure,"Caribenema Thorne, 1967"
+128,Mouth cavity simple and slightly sclerotized posterior to basket-like structure,"Carcharolaimus Thorne, 1939"
+129,Lateral field with numerous conspicuous glandular structures,130
+129,Lateral field without glandular structures,136
+130,Head with inner sclerotized ring or plate structure,131
+130,Head without inner sclerotized ring or plate structure,132
+131,"Tail conoid, curved ventrally","Mylodiscoides Lordello, 1963"
+131,"Tail bluntly-rounded, short","Mylodiscus Thorne, 1939"
+132,Posterior section of esophagus surrounded by strong spiral-muscle sheath,"Salimella Siddiqi, 2005"
+132,Posterior section of esophagus without spiral-muscle sheath,133
+133,"Labial region much wider than adjacent body, sucker-like",134
+133,"Labial region not so wide, not sucker-like",135
+134,Tail elongate filiform,"Filidiscolaimus Siddiqi, 1995"
+134,"Tail short,  bluntly rounded or conoid rounded","Discolaimus Cobb, 1913"
+135,"Tail elongate, 2-5x abd, prerectum with short blind sac","Discolaimoides Heyns, 1963"
+135,"Tail shorter, <2x abd, prerectum without blind sac","Discolaimium Thorne, 1939"
+136,"Male with adcloacal pair of supplements far from cloaca, odontostyle weakly sclerotized","Amblydorylaimus Andrassy, 1998"
+136,Male with adcloacal pair of supplements on anterior cloacal lip,137
+137,Oral field somewhat sunken with small inner liplets,138
+137,Oral field without inner liplets,140
+138,"Vulva longitudinal, male with supplements contiguous","Labronema Thorne, 1939"
+138,"Vulva transverse, male with supplements spaced",139
+139,"Odontostyle longer than lip width, tail short and bluntly rounded","Labronemella Andrassy, 1985"
+139,"Odontostyle as long as lip width, tail elongate conoid","Baqriella Ahmad & Jairajpuri, 1989"
+140,A single ventromedial supplement,"Kallidorylaimus  Andrassy, 1989"
+140,Multiple  ventromedial supplements,141
+141,Intestine with very large vesiculose cells,"Kolodorylaimus  Andrassy, 1998"
+141,Intestine with normal cells,142
+142,Slender and wider parts of esophagus separated by a constriction,"Skibbenema Van Reenen & Heyns, 1986"
+142,Slender and wider parts of esophagus not separated by a constriction,143
+143,"Tail with long, apparently empty, distal part","Boreolaimus Andrassy, 1998"
+143,"Tail without long, apparently empty, distal part",144
+144,Tail >4x abd (4-8),"Epidorylaimus Andrassy, 1986"
+144,Tail <4x abd (1-3),145
+145,Odontostyle slender and significantly longer that lip width,"Dorydorella Andrassy, 1987"
+145,Odontostyle not slender and with length close to lip width,146
+146,Males with precloacal space absent and posterior pair of supplements level with spicules,147
+146,Males with precloacal space present and posterior pair of supplements anterior to spicules,148
+147,"Small nematodes (0.3-0.8 mm), esophagus about 1/3 of body length","Microdorylaimus Andrassy, 1986"
+147,"Larger nematodes (1-3 mm), esophagus about 1/4 of body length","Allodorylaimus Andrassy, 1986"
+148,Cardia with three gland cells,"Torumanawa Yeates, 1967"
+148,Cardia without three glands,149
+149,Tail subdigitate,"Talanema Andrassy, 1991"
+149,Tail conoid or rounded,150
+150,"Tail conoid, straight or ventrally arcuate","Eudorylaimus Andrassy, 1959"
+150,Tail bluntly rounded,151
+151,"Anterior region of esophagus strongly muscular; spermatozoa minute, <0.1 abd","Crassogula Andrassy, 1991"
+151,"Anterior region of esophagus moderately muscular; spermatozoa minute, 0.2-0.25 abd",152
+152,Head continuous with body contour; lips amalgamated,"Scalpellus Ahmad, 2004"
+152,Head offset from body contour; lips separate,"Crassolabium Yeates, 1967"
+153,Odontophore with well-developed flanges; dorsal esophageal nucleus larger than subventral nuclei; females diovarial amphidelphic or monovarial opisthodelphic,"Xiphinema Cobb, 1913"
+153,Odontophore without flanges or with very small flanges; dorsal esophageal nucleus smaller than subventral nuclei; females diovarial amphidelphic,154
+154,"Amphid apertures pore-like, inconspicuous",155
+154,"Amphid apertures slit-like, conspicuous",156
+155,Guiding ring near posterior end of odontostyle; males with few supplements and posterior pair well anterior to spicules,"Xiphidorus Monteiro, 1976"
+155,Guiding ring near anterior end of odontostyle; males with several supplements and posterior pair close to spicules,"Longidorus Micoletzky, 1922"
+156,Amphids pouch-like with bilobed fovea,157
+156,"Amphids funnel or stirrup-shaped, not bilobed",158
+157,"Lip region sharply offset from body contour, guiding ring at posterior end of odontostyle","Australodorus Coomans, Olmos, Casella & Chaves, 2004"
+157,"Lip region continuous with body contour, guiding ring at anterior end of odontostyle","Longidoroides Khan, Chawla & Saha, 1978"
+158,Lip region continuous with body contour,"Paralongidorus Siddiqi, Hooper & Khan, 1963"
+158,Lip region sharply offset from body contour,159
+159,Guiding ring at posterior end of odontostyle; males with supplements anterior to spicules,"Paraxiphidorus Coomans & Chaves, 1995"
+159,Guiding ring at anterior end of odontostyle; males with posterior supplements closer to spicules,"Siddiqia Khan, Chawla & Saha, 1978"
+160,Odontophore flanged; four sclerotized pieces around oral opening,162
+160,"Odontophore rod-like, not flanged; oral opening without sclerotized pieces",161
+161,"Tail in both sexes short, conoid- rounded or cylindroid",165
+161,Female tail long and filiform,183
+162,"Females monovarial, prodelphic",163
+162,"Females diovarial, amphidelphic or, rarely, monovarial, opisthodelphic",164
+163,Vulva longitudinal; tail filiform,"Ibadamus Siddiqi, 1983"
+163,"Vulva transverse; tail short, rounded","Mesodorylaimus Jairajpuri & Ahmad, 1980"
+164,Tail cylindroid or clavate with thick terminal cuticle; vulva transverse,"Axodorylaimellus Jairajpuri & Ahmad, 1980"
+164,Tail without thick terminal cuticle; vulva transverse; vulva longitudinal,"Dorylaimellus Cobb, 1913"
+165,"Lip region simple or with small liplets, continuous with body contour;  anterior and posterior esophageal regions not separated by a constriction; posterior region of esophagus with spiral muscle sheath; tail in both sexes short and rounded",166
+165,Lip region without liplets;  anterior and posterior esophageal regions separated by a narrowing or deep constriction; posterior region of esophagus with straight rather than spiral muscle sheath; tail in both sexes short,175
+166,Females monovarial,167
+166,Females diovarial,170
+167,Females prodelphic,"Probelondira Andrassy, 2009"
+167,Females opisthodelphic,168
+168,Lip region with mammiform papillae,"Axonchoides Thorne, 1967"
+168,"Lip region rounded, without mammiform papillae",169
+169,Anterior slender part of esophagus 2/3 of esophagus length; male with 11 supplements,"Immanigula Andrassy, 1991"
+169,Anterior slender part of esophagus about 1/2 of esophagus length; male with 1-2 supplements,"Belondira Thorne, 1939"
+170,Muscular esophageal sheath with muscle bundles twisted sinistrally (to the left side),171
+170,Muscular esophageal sheath with muscle bundles straight or twisted dextrally (to the right side),172
+171,Male without supplements,"Amphibelondira Rahman, Jairajpuri, Ahmad & Ahmad, 1987"
+171,Male with 5-7 supplements,"Helicobelondira Yeates, 1973"
+172,Lip region with small perioral liplets; tail clavate,"Belondirella Thorne, 1964"
+172,Lip region rounded; tail not clavate,173
+173,Lip region continuous with body contour,"Porternema Suryawanshi, 1972"
+173,Lip region offset from body contour,174
+174,Oral opening with small platelets; odontostyle thick,"Belaxellus Thorne, 1974"
+174,Oral opening without platelets; odontostyle slender,"Bullaenema Sauer, 1968"
+175,"Female diovarial, amphidelphic","Anchobelondira Nair & Coomans, 1971"
+175,"Female monovarial, opisthodelphic",176
+176,"Esophagus very long, > 1/2 body length","Nimigula Andrassy, 1985"
+176,Esophagus shorter than 1/2 body length,177
+177,Odontostyle slender with length 2x lip width,"Heynsaxonchium Coomans & Nair, 1975"
+177,Odontostyle fusiform with length about 1x lip width,178
+178,Tail subdigitate,"Dactyluraxonchium Coomans & Nair, 1975"
+178,Tail hemispherical or conoid,179
+179,"Spicules very long and slender, not typical dorylaimoid",180
+179,"Spicules normal, more typical dorylaimoid",181
+180,Vagina strongly inclined to the posterior; male with 4-6 supplements,"Uniqaxonchium Dhanam & Jairajpuri, 1998"
+180,Vagina moderately inclined to the posterior; male with 2 supplements,"Phallaxonchium Jairajpuri & Dhanachand, 1979"
+181,Lip region continuous with body contour; lips amalgamated,"Syncheilaxonchium Coomans & Nair, 1975"
+181,Lip region offset from body contour; lips separate,182
+182,Vulval lips sclerotized,"Metaxonchium Coomans & Nair, 1975"
+182,Vulval lips not sclerotized,"Axonchium Cobb, 1920"
+183,"Female and male tails dissimilar, long in female, short and rounded in male",184
+183,"Female and male tails similar, filiform in both sexes",185
+184,Odontostyle very slender; muscular sheath of posterior esophageal region  twisted to the left (sinistral),"Lindseyus Ferris & Ferris, 1973"
+184,"Odontostyle thick, fusiform; muscular sheath of posterior esophageal region  twisted to the right (dextral)","Roqueus Thorne, 1974"
+185,Odontostyle with a small dorsal projection at posterior end of its aperture; dorsal esophageal gland located near middle of posterior esophageal region,186
+185,Odontostyle without dorsal projection; dorsal esophageal gland located near anterior of posterior esophageal region,189
+186,Expanded posterior of esophagus about 1/4 of esophagus length,187
+186,Expanded posterior of esophagus >= 1/2of esophagus length,188
+187,"Lip region conoid, asymmetrical","Falcihasta Clark, 1964"
+187,"Lip region rounded, symmetrical","Paraqudsiella Siddiqi, 1982"
+188,"Female diovarial, amphidelphic", 76
+188,"Female monovarial, prodelphic","Hulqus Siddiqi, 1982"
+189,Odontostyle dorylaimoid; lip region slightly asymmetrical,"Oxydirus Thorne, 1939"
+189,Odontostyle slender; lip region symmetrical,190
+190,"Female diovarial, amphidelphic",191
+190,"Female monovarial, prodelphic",194
+191,Vestibule of stoma with basket-like chamber,"Swangeria Thorne, 1939"
+191,Vestibule of stoma without basket-like chamber,192
+192,Body length > 3mm,"Paraoxydirus Jairajpuri & Ahmad, 1979"
+192,Body length 1-2 mm,193
+193,Posterior part of esophagus with distinct muscular sheath,"Qudsiella Jairajpuri, 1987"
+193,Posterior part of esophagus without muscular sheath,"Durinemella Andrassy, 2009"
+194,Cephalic region with subcuticular sclerotization (collar),"Oxybelondira Ahmad & Jairajpuri, 1979"
+194,Cephalic region without subcuticular sclerotization,"Paraoxybelondira Dhanam & Jairajpuri, 1999"
+195,Cuticle inner layer loose with irregular radial elements (tylencholaimoid),196
+195,Cuticle inner layer compact without radial elements (dorylaimoid),197
+196,"Odontostyle slender, often without detectable lumen or aperture; basal expansion of esophagus short, 1/5 to 1/3 of esophagus length",200
+196,Odontostyle more robust with distinct lumen and aperture; basal expansion of esophagus > 1/3 of esophagus length,224
+197,Labial papillae cornuate or setiform; cuticle often divided into small blocks,247
+197,"Labial papillae normal, papilliform",198
+198,"Odontostyle short and asymmetrical or curved, odontophore also asymmetrical",252
+198,Odontostyle and odontophore symmetrical,199
+199,"Esophagus with three sections: a long slender, gradually-expanding anterior part, a slender intermediate part surrounded by glandular tissue, and a pyriform basal expansion",256
+199,"Esophagus dorylaimoid, a narrower anterior section and a broader posterior section",259
+200,"Odontostyle very slender, needle-like, without visible lumen or aperture",201
+200,Odontostyle usually slender but with distinct lumen and aperture,206
+201,Females diovarial,"Glochidorella Siddiqi, 1982"
+201,Females monovarial,202
+202,Females prodelphic,203
+202,Females opisthodelphic,204
+203,Lip region rounded; odontophore flanged,"Zetalaimus Siddiqi, 1982"
+203,Lip region cap-like; odontophore simple,"Trichonchium Siddiqi & Khan, 1964"
+204,"Odontophore simple, rod-like","Basirotyleptus Jairajpuri, 1964"
+204,Odontophore flanged,205
+205,Odontostyle length < lip width; lip-region cap-like,"Aculonchus Siddiqi, 1982"
+205,Odontostyle length > lip width; lip-region rounded,"Sclerostylus Goseco, Ferris & Ferris, 1981"
+206,Odontostyle length several times > lip width,207
+206,Odontostyle length <= lip width,208
+207,Body length of adult 1-3mm; odontophore flanged,"Xiphinemella Loos, 1950"
+207,Body length of adult around 0.5mm; odontophore not flanged,"Kantbhala Siddiqi, 1982"
+208,Odontostyle thick with wide lumen and distinct aperture,209
+208,Odontostyle thin with very narrow lumen and minute aperture,212
+209,Odontostyle asymmetric; female gonad prodelphic,"Scalpenchus Siddiqi, 1995"
+209,Odontostyle symmetrical; female monovarial opisthodelphic or diovarial amphidelphic,210
+210,Odontostyle length +/- 2x lip width,"Utahnema Thorne, 1939"
+210,Odontostyle length <1x lip width,211
+211,Oral aperture surrounded by inner liplets,"Tyleptus Thorne, 1939"
+211,Oral aperture without inner liplets,"Gymnotyleptus Ahmad & Jairajpuri, 1982"
+212,Female diovarial,213
+212,Female monovarial,220
+213,Odontophore with basal knobs,"Clavigula Siddiqi, 1995"
+213,"Odontophore simple, without basal swellings",214
+214,"Male with 12-20 supplements, contiguous or closely spaced","Meylis Goseco, Ferris & Ferris, 1974"
+214,"Male with 0-10 supplements, widely spaced",215
+215,Vulva pore-like,"Apoleptonchus Siddiqi, 1982"
+215,Vulva transverse or longitudinal,216
+216,"Lip region continuous with body contour, lip-region rounded","Bertzuckermania Khera, 1970"
+216,"Lip region offset from body contour, lip-region cap-like",217
+217,Posterior part of esophagus with two constrictions; intestine surrounding posterior bulb,"Incanema Andrassy, 1997"
+217,Posterior part of esophagus with one constriction; intestine not surrounding posterior bulb,218
+218,Vulva longitudinal,"Funaria Van der Linde, 1938"
+218,Vulva transverse,219
+219,"Posterior expansion of esophagus pyriform, about 1/5 of esophagus length; odontophore arcuate","Leptonchus Cobb, 1920"
+219,"Posterior expansion of esophagus cylindrical, about 1/3 of esophagus length; odontophore straight","Sclerolaimus Jairajpuri & Ahmad, 1992"
+220,Female gonad opisthodelphic,"Caveonchus Siddiqi, 1982"
+220,Female gonad prodelphic,221
+221,Tail filiform in both sexes,"Loncharionema Goseco, Ferris & Ferris, 1974"
+221,Tail short in both sexes,222
+222,Anterior slender region of esophagus convoluted; basal expansion 1/10 of esophagus length,"Paraleptonchus Dhanam & Jairajpuri, 1999"
+222,Anterior slender region of esophagus not convoluted; basal expansion about 1/4 of esophagus length,223
+223,Stoma flask-like,"Proleptonchus Lordello, 1955"
+223,Stoma tubular,"Proleptonchoides Ferris, Goseco & Kumar, 1979"
+224,Odontostyle with thick walls,225
+224,Odontostyle with normal walls,229
+225,Tail filiform in both sexes; body length about 1mm,"Pachydorylaimus Siddiqi, 1983"
+225,Tail short and rounded in both sexes; body length 2-6mm,226
+226,Odontostyle >1x lip width; curved,227
+226,Odontostyle <1x lip width; straight,228
+227,"Head rounded, broad; male supplements in double ventral rows","Vanderlinea Heyns, 1964"
+227,Head cap-like; male supplements in a single ventromedian row,"Curvidorylaimus Jairajpuri & Rahman, 1983"
+228,Vulva longitudinal,"Neometadorylaimus Jairajpuri & Ahmad, 1982"
+228,Vulva transverse,"Metadorylaimus Jairajpuri & Goodey, 1966"
+229,Amphids small with minute pore-like aperture,230
+229,Amphids larger with slit-like aperture,232
+230,"Odontostyle irregular shape, length >1x lip width","Mumtazium Siddiqi, 1969"
+230,"Odontostyle regular shape, length <1x lip width",231
+231,"Female diovarial, amphidelphic; odontostyle fusiform","Promumtazium Siddiqi, 1982"
+231,"Female monovarial, opisthodelphic; odontostyle slender","Tantunema Siddiqi, 1982"
+232,"Tail long, filiform in both sexes",233
+232,Tail short in both sexes,236
+233,Body length 1.7-2.8 mm,"Oxydiroides Altherr, 1972"
+233,Body length 0.8-1.5 mm,234
+234,"Odontophore with basal knobs; female monovarial, prodelphic","Discomyctus Thorne, 1939"
+234,"Odontophore simple without basal knobs; female diovarial, amphidelphic",235
+235,Perioral disc present; odontostyle irregular shape,"Lawtonema Siddiqi, 1999"
+235,Perioral disc absent; odontostyle regular shape,"Wasimellus Bloemers & Wanless, 1996"
+236,Subcuticle with distinct regular striations,"Cricodorylaimus Ahmad & Sturhan, 2001"
+236,Subcuticle with less distinct and irregular striations,237
+237,Odontostyle distinctly longer than lip width,238
+237,Odontostyle <=1x lip width,239
+238,Lip region rounded; odontostyle slightly curved,"Chitwoodius Furstenberg & Heyns, 1966"
+238,Lip region cap-like with elevated liplets; odontostyle straight,"Chitwoodielloides Ahmad & Araki, 2123"
+239,Odontophore with small basal knobs,240
+239,Odontophore without basal knobs,243
+240,Lip region cap-like with elevated inner liplets,241
+240,Lip region more or less rounded,242
+241,Stoma surrounded by a small sclerotized ring,"Tylenchodoroides Gagarin, 2121"
+241,Stoma without sclerotized ring,"Tylencholaimus de Man, 1876"
+242,Odontostyle thick; tail hemispherical,"Pseudotylencholaimus Jairajpuri & Ahmad, 1992"
+242,Odontostyle thin; tail conical,"Tylenchodorus Siddiqi, 1983"
+243,"Lip region rounded, slightly offset; odontostyle irregular","Rostrulium Siddiqi, 1995"
+243,"Lip region cap-like, strongly offset; odontostyle regular",244
+244,"Female diovarial, amphidelphic","Chitwoodiellus Jimenez & Peña-Santiago, 1992"
+244,"Female monovarial, prodelphic",245
+245,Perioral disk present; body length 1.7-2 mm,"Capilonchus Siddiqi, 1982"
+245,Perioral disk absent; body length short 0.4-0.6 mm,"Meylonema  Andrassy, 1960"
+247,Cuticle tessellated,248
+247,Cuticle smooth,250
+248,"Females monovarial, opisthodelphic; posterior part of esophagus pyriform","Encholaimus Golden & Murphy, 1967"
+248,"Females diovarial, amphidelphic; posterior part of esophagus cylindroid",249
+249,"Outer labial sensilla long, setose","Helmabia Siddiqi, 1971"
+249,Outer labial sensilla very short,"Nemabia Siddiqi, 1995"
+250,"Inner labial papillae short, hardly elevated; female monovarial, prodelphic","Acephalodorylaimus Ahmad & Jairajpuri, 1983"
+250,"Inner labial papillae setose; female monovarial, opisthodelphic or diovarial, amphidelphic",251
+251,"Female diovarial, amphidelphic","Cephalodorylaimus Jairajpuri, 1967"
+251,"Female monovarial, opisthodelphic","Echinodorus Siddiqi, 1995"
+252,"Large nematodes, 3-7 mm",253
+252,"Shorter nematodes, <3 mm",254
+253,Males with two pairs of adcloacal supplements,"Timmus Goseco, Ferris & Ferris, 1976"
+253,Males with one pair of adcloacal supplements,"Calolaimus Timm, 1964"
+254,"Tails of females and males dissimilar, elongate in females and short and rounded in males","Morasia Baqri & Jairajpuri, 1969"
+254,Tails of females and males similar,255
+255,Expanded posterior of esophagus surrounded by a muscular sheath,"Mydonomus Thorne, 1964"
+255,Expanded posterior of esophagus without muscular sheath,"Dorylaimoides Thorne & Swanger, 1936"
+256,Tail short and rounded,257
+256,Tail elongate conoid to filiform,258
+257,Females monovarial,"Adenolaimus Andrassy, 1973"
+257,Females diovarial,"Oostenbrinkia Ali, Suryawanshi & Ahmad, 1973"
+258,Lips distinct with large papillae,"Cladocephalus Swart & Heyns, 1991"
+258,Lips amalgamated with minute papillae,"Aulolaimoides Micoletzky, 1915"
+259,Amphidial fovea strongly sclerotized,"Athernema Ahmad & Jairajpuri, 1978"
+259,"Amphidial fovea simple, not sclerotized",260
+260,Odontostyle with a convex stiffening piece,261
+260,Odontostyle without stiffening piece,263
+261,"Stiffening piece of odontostyle on ventral side; females monovarial, prodelphic","Dorella Jairajpuri, 1964"
+261,"Stiffening piece of odontostyle on dorsal side; females monovarial, opisthodelphic",262
+262,Labial framework sclerotized,"Margollus  Peña-Santiago, Peralta & Siddiqi, 1993"
+262,Labial framework not sclerotized,"Tylencholaimellus Cobb, 1915"
+263,"Female diovarial, amphidelphic",264
+263,"Female monovarial, opisthodelphic",265
+264,Odontophore with posterior knobs,"Phellonema Thorne, 1964"
+264,"Odontophore simple, without knobs","Goferus Jairajpuri & Ahmad, 1992"
+265,"Odontostyle very short, with tip appearing broken","Agmodorus Thorne, 1964"
+265,Odontostyle normal,266
+266,Tail filiform,"Oostenbrinkella Jairajpuri, 1965"
+266,"Tail short, rounded","Doryllium Cobb, 1920"

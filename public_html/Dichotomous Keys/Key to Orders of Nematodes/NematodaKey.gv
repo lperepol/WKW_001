@@ -1,0 +1,567 @@
+digraph GraphTitle {
+	graph [rankdir=LR remincross=True]
+	label="Key to Orders of 
+Nematodes"
+	Enoplina
+ [label=Enoplina
+ fillcolor=aqua shape=hexagon style=filled]
+	Ironina
+ [label=Ironina
+ fillcolor=aqua shape=hexagon style=filled]
+	Oncholaimina
+ [label=Oncholaimina
+ fillcolor=aqua shape=hexagon style=filled]
+	Tripyloidina
+ [label=Tripyloidina
+ fillcolor=aqua shape=hexagon style=filled]
+	Campydorina
+ [label=Campydorina
+ fillcolor=aqua shape=hexagon style=filled]
+	Alaimina
+ [label=Alaimina
+ fillcolor=aqua shape=hexagon style=filled]
+	Trefusiina
+ [label=Trefusiina
+ fillcolor=aqua shape=hexagon style=filled]
+	Diphtherophorina
+ [label=Diphtherophorina
+ fillcolor=aqua shape=hexagon style=filled]
+	Tobrilina
+ [label=Tobrilina
+ fillcolor=aqua shape=hexagon style=filled]
+	Tripylina
+ [label=Tripylina
+ fillcolor=aqua shape=hexagon style=filled]
+	Dorylaimina
+ [label=Dorylaimina
+ fillcolor=aqua shape=hexagon style=filled]
+	Nygolaimina
+ [label=Nygolaimina
+ fillcolor=aqua shape=hexagon style=filled]
+	Mononchina
+ [label=Mononchina
+ fillcolor=aqua shape=hexagon style=filled]
+	Bathyodontina
+ [label=Bathyodontina
+ fillcolor=aqua shape=hexagon style=filled]
+	Isolaimiina
+ [label=Isolaimiina
+ fillcolor=aqua shape=hexagon style=filled]
+	Mermithina
+ [label=Mermithina
+ fillcolor=aqua shape=hexagon style=filled]
+	Trichinellina
+ [label=Trichinellina
+ fillcolor=aqua shape=hexagon style=filled]
+	Muscipeicina
+ [label=Muscipeicina
+ fillcolor=aqua shape=hexagon style=filled]
+	Dioctophymatina
+ [label=Dioctophymatina
+ fillcolor=aqua shape=hexagon style=filled]
+	Marimermithina
+ [label=Marimermithina
+ fillcolor=aqua shape=hexagon style=filled]
+	Chromadorina
+ [label=Chromadorina
+ fillcolor=aqua shape=hexagon style=filled]
+	Desmodorina
+ [label=Desmodorina
+ fillcolor=aqua shape=hexagon style=filled]
+	Monhysterina
+ [label=Monhysterina
+ fillcolor=aqua shape=hexagon style=filled]
+	Linhomoeina
+ [label=Linhomoeina
+ fillcolor=aqua shape=hexagon style=filled]
+	Desmoscolecina
+ [label=Desmoscolecina
+ fillcolor=aqua shape=hexagon style=filled]
+	Araeolaimina
+ [label=Araeolaimina
+ fillcolor=aqua shape=hexagon style=filled]
+	Plectina
+ [label=Plectina
+ fillcolor=aqua shape=hexagon style=filled]
+	"Tylenchina; Tylenchomorpha
+" [label="Tylenchina; Tylenchomorpha
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tylenchina; Panagrolaimorpha
+" [label="Tylenchina; Panagrolaimorpha
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tylenchina; Cephalobomorpha
+" [label="Tylenchina; Cephalobomorpha
+" fillcolor=aqua shape=hexagon style=filled]
+	"Rhabditina; Diplogasteromorpha
+" [label="Rhabditina; Diplogasteromorpha
+" fillcolor=aqua shape=hexagon style=filled]
+	"Rhabditina; Rhabditomorpha
+" [label="Rhabditina; Rhabditomorpha
+" fillcolor=aqua shape=hexagon style=filled]
+	Spirurina
+ [label=Spirurina
+ fillcolor=aqua shape=hexagon style=filled]
+	Start
+ -> 001
+ [label=Specimen
+]
+	001
+ -> 002
+ [label="Esophagus cylindrical or
+bottle-shaped; amphids usually
+post-labial; excretory system
+single-cell hypodermal glands;
+male usually with
+2 testes; caudal
+alae rare; phasmids
+absent
+"]
+	001
+ -> 008
+ [label="Esophagus often subdivided
+into bulbs; amphid
+apertures on lips,
+often difficult to
+see, or posterior
+to lips and
+obvious - round
+or coiled; gonads
+single or paired
+in both male
+and female
+"]
+	002
+ -> 003
+ [label="Anterior sensillae often
+in 3 whorls
+of inner labial
+papillae, outer labial
+setae and cephalic
+setae; metanemes (filamentous
+structures in lateral
+chors) present; caudal
+glands present; esophageal
+glands open in
+or near stoma
+"]
+	002
+ -> 004
+ [label="Anterior sensillae rarely
+setiform; stoma with
+teeth or odontostyle;
+esophagus cylindrical, bottle-shaped
+or a stichosome;
+caudal glands usually
+absent; esophageal glands
+open in posterior
+region of esophagus
+"]
+	003
+ -> 010
+ [label="Spicule protractor muscles
+attached to proximal
+enlargement; metanemes present;
+marine and fresh
+water
+"]
+	003
+ -> 011
+ [label="Spicule protractor muscles
+form a pouch
+around spicules; protrusible
+tooth in some
+forms
+"]
+	004
+ -> 012
+ [label="Movable hollow spear;
+esophagus expanded posteriorly
+- bottle-shaped.
+"]
+	004
+ -> 015
+ [label="Glandular esophageal stichosome
+and intestinal trophosome;
+juveniles are parasites
+of invertebrates.
+"]
+	004
+ -> 017
+ [label="Esophagus vestigial; parasites
+of vertebrates in
+all life stages
+"]
+	004
+ -> 005
+ [label="Esophagus cylindrical throughout
+"]
+	005
+ -> 019
+ [label="Juveniles are parasites
+of invertebrates; adults
+free-living
+"]
+	005
+ -> 006
+ [label="All stages parasitic;
+adults are vertebrate
+parasites, juveniles with
+or without intermediate
+hosts
+"]
+	005
+ -> 007
+ [label="All stages free-living
+"]
+	006
+ -> 016
+ [label="Posterior esophagus a
+stichosome; onchiostyle present;
+monovarial; anphids pore-like
+"]
+	006
+ -> 018
+ [label="Anterior end has
+a sucker; males
+with bell-shaped bursa
+"]
+	007
+ -> 013
+ [label="Strong, large, cuticularized
+stoma with prominent
+dorsal tooth; predators
+of nematodes
+"]
+	007
+ -> 014
+ [label="Long and slender;
+tubular stoma without
+teeth; stoma without
+lips; soil inhabitants
+"]
+	008
+ -> 026
+ [label="Amphids usually pore-like,
+on lips; cephalic
+sensillae on lip
+region; phasmids present;
+caudal glands absent;
+mainly terrestrial, rarely
+freshwater or marine;
+include free-living, animal
+parasites, plant parsites
+"]
+	008
+ -> 009
+ [label="Amphids post-labial, varied
+shapes; phasmids absent;
+somatic seta common;
+mainly free-living aquatic
+organisms
+"]
+	009
+ -> 020
+ [label="Anterior sensillae in
+three whorls, inner
+labial, outer labial
+and cephalic; amphids
+var from circular
+to complex spirals,
+post-labial and usually
+posterior to cephalic
+setae; stoma funnel-shaped
+with a dorsal
+tooth and two
+smaller subventral teeth;
+esophagus cylindrical with
+posetrior bulb; females
+diovarial; mainly marine
+"]
+	009
+ -> 021
+ [label="Brownish cuticle; anterior
+sensillae in three
+whorls, inner labial,
+outer labial and
+cephalic; amphids spiral,
+posterior to cephalic
+setae; dorsal and
+smaller subventral teeth;
+esophagus cylindrical with
+enlarged end bulb
+"]
+	009
+ -> 023
+ [label="Anterior sensillae in
+three whorls, inner
+labial, outer labial
+and cephalic, cephalic
+setae on peduncles;
+amphids large, on
+head; ocelli may
+be present; small
+stoma with small
+teeth; esophagus cylindrical;
+females diovarial; mainly
+marine
+"]
+	009
+ -> 022
+ [label="Small, slender nematodes
+with a slender
+tail region; three
+whorls of anterior
+sensilla; amphids round;
+both sexes with
+one or two
+gonads; Mainly aquatic
+and wet soil
+environments
+"]
+	009
+ -> 024
+ [label="Anterior sensillae in
+three whorls, inner
+labial, outer labial
+and cephalic; stoma
+with 3 to
+6 teeth on
+anterior edge; amphids
+loop-shaped; ocelli may
+be present; esophagus
+cylindrical with no
+posterior enlargement
+"]
+	009
+ -> 025
+ [label="Labial sensilla papilliform,
+cephalic sensilla usually
+setiform; qamphids circular
+or simple spiral;
+esophagus cylindrical, with
+or without basal
+bulb; females usually
+diovarial
+"]
+	010
+ -> Enoplina
+ [label="Enoplida; amphids pocket-shaped;
+esophagus cylindrical; 3
+esophageal glands opening
+in or near
+stoma; excretory canal
+present; marine and
+freshwater
+"]
+	010
+ -> Ironina
+ [label="Enoplida; amphids pocket-shaped;
+stoma elongated, without
+teeth or with
+3-5 moveable teeth;
+esophagus cylindrical; excretory
+canal present; mainly
+marine but also
+freshwater
+"]
+	010
+ -> Oncholaimina
+ [label="Enoplida; amphids pocket-shaped;
+stoma large, refractive,
+with 3 teeth;
+esophagus cylindrical; excretory
+canal present; mainly
+marine but also
+freshwater
+"]
+	010
+ -> Tripyloidina
+ [label="Enoplida; amphids spiral;
+stoma with 1
+or more teeth;
+esophagus cylindrical; females
+diovarial; mainly marine
+"]
+	010
+ -> Campydorina
+ [label="Enoplida; amphids pocket-shaped;
+stoma with dorsal
+tooth; esophagus cylindrical
+with terminal bulb;
+excretory canal present;
+females diovarial; soil
+and freshwater inhabitants
+"]
+	010
+ -> Alaimina
+ [label="Enoplida; amphids pore
+or pocket-shaped; stoma
+vestigial, without teeth;
+esophagus slender, cylindrical,
+enlarged posteriorly; soil
+and freshwater inhabitants
+"]
+	010
+ -> Trefusiina
+ [label="Enoplida; amphids spiral;
+stoma with teeth;
+esophagus cylindrical; females
+diovarial; mainly marine,
+some freshwater
+"]
+	011
+ -> Diphtherophorina
+ [label="Triplonchida; stoma with
+curved or complex
+spear; sensilla papilliform;
+esophagus with elongate
+prosterior bulb
+"]
+	011
+ -> Tobrilina
+ [label="Triplonchida; stoma wide
+and refractive or
+funnel-shaped; usually with
+teeth; spinneret at
+tail tip
+"]
+	011
+ -> Tripylina
+ [label="Triplonchida; stoma narrow
+with a dirsal
+and two small
+subventral teeth; well-developed
+caudal glands opening
+at terminal spinneret
+"]
+	012
+ -> Dorylaimina
+ [label="Dorylaimida; stoma with
+axial odontostyle
+"]
+	012
+ -> Nygolaimina
+ [label="Dorylaimida; stoma withgrooved
+subventral mural tooth
+"]
+	013
+ -> Mononchina
+ [label="Mononchida; stoma large,
+wide with 1
+to 3 teeth
+and/or rows of
+denticles
+"]
+	013
+ -> Bathyodontina
+ [label="Mononchida; Stoma narrow
+with a single
+subventral tooth
+"]
+	014
+ -> Isolaimiina
+ [label="Isolaimiida;
+"]
+	015
+ -> Mermithina
+ [label="Mermithida;
+"]
+	016
+ -> Trichinellina
+ [label="Trichinellida;
+"]
+	017
+ -> Muscipeicina
+ [label="Muscipeicida;
+"]
+	018
+ -> Dioctophymatina
+ [label="Dioctophymatida;
+"]
+	019
+ -> Marimermithina
+ [label="Marimermithida;
+"]
+	020
+ -> Chromadorina
+ [label="Chromadorida;
+"]
+	021
+ -> Desmodorina
+ [label="Desmodorida;
+"]
+	022
+ -> Monhysterina
+ [label="Monhysterida;
+"]
+	022
+ -> Linhomoeina
+ [label="Monhysterida;
+"]
+	023
+ -> Desmoscolecina
+ [label="Desmoscolecida;
+"]
+	024
+ -> Araeolaimina
+ [label="Araeolaimida;
+"]
+	025
+ -> Plectina
+ [label="Plectida;
+"]
+	026
+ -> "Tylenchina; Tylenchomorpha
+" [label="Rhabditida; stoma with
+a protrusible stomatostyle;
+lip region simple;
+posterior esophageal region
+either a bulb
+without valve or
+overlapping glands
+"]
+	026
+ -> "Tylenchina; Panagrolaimorpha
+" [label="Rhabditida; stoma without
+teeth or with
+denticles; lip region
+simple; esophageal corpus
+without bulb; posterior
+bulb with valve
+"]
+	026
+ -> "Tylenchina; Cephalobomorpha
+" [label="Rhabditida; stoma without
+teeth or with
+denticles; lip region
+with probolae; esophageal
+corpus without bulb;
+posterior bulb with
+valve
+"]
+	026
+ -> "Rhabditina; Diplogasteromorpha
+" [label="Rhabditida; stoma with
+teeth; lip region
+simple; corpus with
+muscular metacorpus; no
+valve in posterior
+bulb
+"]
+	026
+ -> "Rhabditina; Rhabditomorpha
+" [label="Rhabditida; stoma without
+teeth or with
+denticles; lip region
+simple; corpus with
+metacorpus; posterior bulb
+with valve
+"]
+	026
+ -> Spirurina
+ [label="Rhabditida; juveniles with
+cephalic hooks; multinucleate
+esophageal glands; parasites
+of animals
+"]
+}

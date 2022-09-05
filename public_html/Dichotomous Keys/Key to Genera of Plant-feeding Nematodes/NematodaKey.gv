@@ -1,0 +1,1561 @@
+// FOO
+digraph GraphTitle {
+	graph [rankdir=LR remincross=True]
+	label="Key to Genera of
+Plant-feeding Nematodes
+ Howard Ferris
+ February 2011"
+	"Not a plant
+feeder
+" [label="Not a plant
+feeder
+" fillcolor=aqua shape=hexagon style=filled]
+	"Not a plant
+feeder
+" [label="Not a plant
+feeder
+" fillcolor=aqua shape=hexagon style=filled]
+	Trichodorus
+ [label=Trichodorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Paratrichodorus
+ [label=Paratrichodorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Monotrichodorus
+ [label=Monotrichodorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Allotrichodorus
+ [label=Allotrichodorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Xiphinema
+ [label=Xiphinema
+ fillcolor=aqua shape=hexagon style=filled]
+	Longidorus
+ [label=Longidorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Paralongidorus
+ [label=Paralongidorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Bursaphelenchus
+ [label=Bursaphelenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Aphelenchus
+ [label=Aphelenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Aphelenchoides
+ [label=Aphelenchoides
+ fillcolor=aqua shape=hexagon style=filled]
+	"Nothanguina, Nothotylenchus
+" [label="Nothanguina, Nothotylenchus
+" fillcolor=aqua shape=hexagon style=filled]
+	Rotylenchulus
+ [label=Rotylenchulus
+ fillcolor=aqua shape=hexagon style=filled]
+	Sphaeronema
+ [label=Sphaeronema
+ fillcolor=aqua shape=hexagon style=filled]
+	Trophonema
+ [label=Trophonema
+ fillcolor=aqua shape=hexagon style=filled]
+	Trophotylenchulus
+ [label=Trophotylenchulus
+ fillcolor=aqua shape=hexagon style=filled]
+	Tylenchulus
+ [label=Tylenchulus
+ fillcolor=aqua shape=hexagon style=filled]
+	Nacobbus
+ [label=Nacobbus
+ fillcolor=aqua shape=hexagon style=filled]
+	Meloidogyne
+ [label=Meloidogyne
+ fillcolor=aqua shape=hexagon style=filled]
+	Meloidodera
+ [label=Meloidodera
+ fillcolor=aqua shape=hexagon style=filled]
+	Cryphodera
+ [label=Cryphodera
+ fillcolor=aqua shape=hexagon style=filled]
+	Atalodera
+ [label=Atalodera
+ fillcolor=aqua shape=hexagon style=filled]
+	Sarisodera
+ [label=Sarisodera
+ fillcolor=aqua shape=hexagon style=filled]
+	Heterodera
+ [label=Heterodera
+ fillcolor=aqua shape=hexagon style=filled]
+	Globodera
+ [label=Globodera
+ fillcolor=aqua shape=hexagon style=filled]
+	Brachydorus
+ [label=Brachydorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Caloosia
+ [label=Caloosia
+ fillcolor=aqua shape=hexagon style=filled]
+	Trophurus
+ [label=Trophurus
+ fillcolor=aqua shape=hexagon style=filled]
+	Anguina
+ [label=Anguina
+ fillcolor=aqua shape=hexagon style=filled]
+	Subanguina
+ [label=Subanguina
+ fillcolor=aqua shape=hexagon style=filled]
+	Ditylenchus
+ [label=Ditylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Rotylenchoides
+ [label=Rotylenchoides
+ fillcolor=aqua shape=hexagon style=filled]
+	Pratylenchus
+ [label=Pratylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Radopholoides
+ [label=Radopholoides
+ fillcolor=aqua shape=hexagon style=filled]
+	Acontylus
+ [label=Acontylus
+ fillcolor=aqua shape=hexagon style=filled]
+	Hoplotylus
+ [label=Hoplotylus
+ fillcolor=aqua shape=hexagon style=filled]
+	Criconema
+ [label=Criconema
+ fillcolor=aqua shape=hexagon style=filled]
+	Criconemoides
+ [label=Criconemoides
+ fillcolor=aqua shape=hexagon style=filled]
+	Hemicriconemoides
+ [label=Hemicriconemoides
+ fillcolor=aqua shape=hexagon style=filled]
+	Hemicycliophora
+ [label=Hemicycliophora
+ fillcolor=aqua shape=hexagon style=filled]
+	Bakernema
+ [label=Bakernema
+ fillcolor=aqua shape=hexagon style=filled]
+	Cacopaurus
+ [label=Cacopaurus
+ fillcolor=aqua shape=hexagon style=filled]
+	Paratylenchus
+ [label=Paratylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Gracilacus
+ [label=Gracilacus
+ fillcolor=aqua shape=hexagon style=filled]
+	Belonolaimus
+ [label=Belonolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Macrotrophurus
+ [label=Macrotrophurus
+ fillcolor=aqua shape=hexagon style=filled]
+	Dolichodorus
+ [label=Dolichodorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Morulaimus
+ [label=Morulaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Carphodorus
+ [label=Carphodorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Aphasmatylenchus
+ [label=Aphasmatylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Trichotylenchus
+ [label=Trichotylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Telotylenchus
+ [label=Telotylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Histotylenchus
+ [label=Histotylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Telotylenchoides
+ [label=Telotylenchoides
+ fillcolor=aqua shape=hexagon style=filled]
+	Pratylenchoides
+ [label=Pratylenchoides
+ fillcolor=aqua shape=hexagon style=filled]
+	Radopholus
+ [label=Radopholus
+ fillcolor=aqua shape=hexagon style=filled]
+	Hirschmanniella
+ [label=Hirschmanniella
+ fillcolor=aqua shape=hexagon style=filled]
+	Zygotylenchus
+ [label=Zygotylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Merlinius
+ [label=Merlinius
+ fillcolor=aqua shape=hexagon style=filled]
+	Tylenchorhynchus
+ [label=Tylenchorhynchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Paratrophurus
+ [label=Paratrophurus
+ fillcolor=aqua shape=hexagon style=filled]
+	Rotylenchus
+ [label=Rotylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Helicotylenchus
+ [label=Helicotylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Scutellonema
+ [label=Scutellonema
+ fillcolor=aqua shape=hexagon style=filled]
+	Peltamigratus
+ [label=Peltamigratus
+ fillcolor=aqua shape=hexagon style=filled]
+	Hoplolaimus
+ [label=Hoplolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Aorolaimus
+ [label=Aorolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Macrotrophurus
+ [label=Macrotrophurus
+ fillcolor=aqua shape=hexagon style=filled]
+	Antarctenchus
+ [label=Antarctenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Psilenchus
+ [label=Psilenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Atetylenchus
+ [label=Atetylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Tylodorus
+ [label=Tylodorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Epicharinema
+ [label=Epicharinema
+ fillcolor=aqua shape=hexagon style=filled]
+	Campbellenchus
+ [label=Campbellenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Gracilancea
+ [label=Gracilancea
+ fillcolor=aqua shape=hexagon style=filled]
+	Atylenchus
+ [label=Atylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Eutylenchus
+ [label=Eutylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Basirienchus
+ [label=Basirienchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Neothada
+ [label=Neothada
+ fillcolor=aqua shape=hexagon style=filled]
+	Basirienchus
+ [label=Basirienchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Pleurotylenchus
+ [label=Pleurotylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Coslenchus
+ [label=Coslenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Boleodorus
+ [label=Boleodorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Basirienchus
+ [label=Basirienchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Neopsilenchus
+ [label=Neopsilenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Basiria
+ [label=Basiria
+ fillcolor=aqua shape=hexagon style=filled]
+	Cucullitylenchus
+ [label=Cucullitylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Mitranema
+ [label=Mitranema
+ fillcolor=aqua shape=hexagon style=filled]
+	Filenchus
+ [label=Filenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Ecphyadophora
+ [label=Ecphyadophora
+ fillcolor=aqua shape=hexagon style=filled]
+	Ecphyadophoroides
+ [label=Ecphyadophoroides
+ fillcolor=aqua shape=hexagon style=filled]
+	Miculenchus
+ [label=Miculenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Malenchus
+ [label=Malenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Lelenchus
+ [label=Lelenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Irantylenchus
+ [label=Irantylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Filenchus
+ [label=Filenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Allotylenchus
+ [label=Allotylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Aglenchus
+ [label=Aglenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Cephalenchus
+ [label=Cephalenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Polenchus
+ [label=Polenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Tylenchus
+ [label=Tylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	000
+ -> 001
+ [label="Plant feeding Nematode
+Specimen
+"]
+	001
+ -> "Not a plant
+feeder
+" [label="Stylet absent
+"]
+	001
+ -> 002
+ [label="Stylet or spear
+present
+"]
+	002
+ -> 003
+ [label="2-part esophagus, anterior
+slender, posterior glandular
+and muscular, spear,
+no metacorpus with
+valve
+"]
+	002
+ -> 007
+ [label="3-part esophagus, metacorpus
+with valve, slender
+isthmus, glandular postcorpus,
+stylet usually with
+knobs
+"]
+	003
+ -> 004
+ [label="Spear short and
+curved, body thick,
+anus almost terminal
+"]
+	003
+ -> 005
+ [label="Spear long with
+long extension, body
+long and slender
+"]
+	003
+ -> "Not a plant
+feeder
+" [label="Spear short and
+straight
+"]
+	004
+ -> Trichodorus
+ [label="Diovarial females, males
+without caudal alae
+"]
+	004
+ -> Paratrichodorus
+ [label="Diovarial females, males
+with caudal alae
+"]
+	004
+ -> Monotrichodorus
+ [label="Monovarial females, males
+without caudal alae
+"]
+	004
+ -> Allotrichodorus
+ [label="Monovarial females, males
+without caudal alae
+"]
+	005
+ -> Xiphinema
+ [label="Spear extension with
+basal flanges, guiding
+ring near base
+of spear
+"]
+	005
+ -> 006
+ [label="Spear extension without
+basal flanges, guiding
+ring near tip
+of spear
+"]
+	006
+ -> Longidorus
+ [label="Amphid openings small
+and slit-like
+"]
+	006
+ -> Paralongidorus
+ [label="Amphid openings wide,
+posterior to lips
+"]
+	007
+ -> 008
+ [label="DEGO in metacorpus
+and difficult to
+see; metacorpus usually
+nearly as large
+as body diameter
+"]
+	007
+ -> 010
+ [label="DEGO in procorpus;
+metacorpus usually less
+that 75% of
+body width
+"]
+	008
+ -> Bursaphelenchus
+ [label="Vulva with overlapping
+flap, vagina curved,
+male with small
+bursa at tail
+tip
+"]
+	008
+ -> 009
+ [label="Vulva without flap,
+vagina not curved
+"]
+	009
+ -> Aphelenchus
+ [label="Female tail bluntly
+rounded, lateral field
+with 6-15 lines,
+male with bursa
+and gubernaculum
+"]
+	009
+ -> Aphelenchoides
+ [label="Female tail usually
+conoid and mucronate,
+lateral field with
+3-5 lines, male
+without bursa or
+gubernaculum
+"]
+	010
+ -> 074
+ [label="Head with setae,
+no plant feeders
+"]
+	010
+ -> 011
+ [label="Head without setae,
+mainly plant feeders
+"]
+	011
+ -> "Nothanguina, Nothotylenchus
+" [label="Metacorpus absent or
+reduced, no valve.
+"]
+	011
+ -> 012
+ [label="Metacorpus with valve
+"]
+	012
+ -> 013
+ [label="Mature females greatly
+enlarged (pear-shaped, kidney-shaped),
+embedded or attached
+to plant roots,
+or free in
+soil as cysts
+"]
+	012
+ -> 024
+ [label="Mature females vermiform,
+slender to slightly
+swollen
+"]
+	013
+ -> 014
+ [label="Mature female body
+elongate-saccate or kidney
+shape and not
+hardened into a
+cyst
+"]
+	013
+ -> 019
+ [label="Mature female body
+pear-, lemon-shaped or
+spherical, may be
+hardened into a
+cyst
+"]
+	014
+ -> Rotylenchulus
+ [label="Female diovarial
+"]
+	014
+ -> 015
+ [label="Female monovarial
+"]
+	015
+ -> 016
+ [label="Excretory pore in
+esophageal region, near
+nerve ring
+"]
+	015
+ -> 017
+ [label="Excretory pore posterior
+to nerve ring
+"]
+	016
+ -> Sphaeronema
+ [label="Mature female subspherical,
+may have a
+protruding vulva, cuticle
+marked with coarse
+reticulate pattern
+"]
+	016
+ -> Trophonema
+ [label="Mature female a
+thick spiral, without
+protruding vulva
+"]
+	017
+ -> Trophotylenchulus
+ [label="Lip region elevated
+in females and
+juveniles
+"]
+	017
+ -> 018
+ [label="Lip region not
+elevated, continuous with
+body contour
+"]
+	018
+ -> Tylenchulus
+ [label="Excretory pore in
+posterior third of
+body, near vulva
+"]
+	018
+ -> Nacobbus
+ [label="Excretory pore near
+basal region of
+esophagus
+"]
+	019
+ -> Meloidogyne
+ [label="Females with perineal
+pattern, excretory pore
+close to level
+of stylet, lip
+region with 2
+lateral lips and
+4 smaller sublateral
+lips, weak head
+frame, J2 stylet
+< 20 µm,
+host roots usually
+galled
+"]
+	019
+ -> 020
+ [label="Females without perineal
+pattern, excretory pore
+posterior to metacorpus,
+lip region with
+2 lateral lips
+smaller than 4
+sublateral lips, J2
+stylet > 20
+µm, host roots
+not galled
+"]
+	020
+ -> Meloidodera
+ [label="V > 50%
+but well anterior
+to anus, cuticle
+striated
+"]
+	020
+ -> 021
+ [label="Vulva terminal or
+subterminal, cuticle striated
+or lace-patterned
+"]
+	021
+ -> Cryphodera
+ [label="Cuticle striated
+"]
+	021
+ -> 022
+ [label="Cuticle lace-patterned
+"]
+	022
+ -> 023
+ [label="Female body hardens
+to cyst, vulva
+terminal or on
+a terminal vulval
+cone, anus dorsal
+to vulva
+"]
+	022
+ -> Atalodera
+ [label="Female body does
+not harden to
+cyst, vulva and
+anus on terminal
+prominence
+"]
+	022
+ -> Sarisodera
+ [label="Female body does
+not harden to
+cyst, vulva sunken
+into terminal vulval
+cone with anus
+on upper side
+of dorsal vulva
+lip, J2 stylet
+>38 µm
+"]
+	023
+ -> Heterodera
+ [label="Cysts generally lemon-shaped,
+vulva on terminal
+vulval cone with
+fenestration, bullae present
+or absent, J2
+stylet <30 µm
+"]
+	023
+ -> Globodera
+ [label="Cyst spherical or
+subspherical, bullae absent,
+J2 with 5
+lines in lateral
+field
+"]
+	024
+ -> 025
+ [label="c' ≥ 6,
+filiform with pointed
+or clavate terminus
+"]
+	024
+ -> 029
+ [label="c' generally <
+6, but if
+longer it is
+cylindroid rather than
+filiform
+"]
+	025
+ -> 026
+ [label="Female diovarial
+"]
+	025
+ -> 027
+ [label="Female monovarial
+"]
+	026
+ -> 070
+ [label="Stylet without knobs,
+no cephalic sclerotization,
+tail filiform, usually
+with clavate terminus
+"]
+	026
+ -> Brachydorus
+ [label="Stylet with knobs,
+heavy cephalic sclerotization,
+tail filiform with
+pointed terminus
+"]
+	027
+ -> Caloosia
+ [label="Esophagus criconematoid with
+swollen procorpus continuous
+with metacorpus, cuticle
+thick and coarsely
+striated
+"]
+	027
+ -> 028
+ [label="Esophagus tylenchoid, procorpus
+not swollen,, cuticle
+thin, not coarsely
+striated
+"]
+	028
+ -> 067
+ [label="Esophagus terminating in
+a bulb that
+abuts the intestine;
+non-overlapping
+"]
+	028
+ -> 029
+ [label="Esophageal postcorpus glandular
+region slightly to
+distinctly overlapping intestine
+"]
+	029
+ -> 030
+ [label="Monovarial, vulva in
+posterior third of
+body
+"]
+	029
+ -> Trophurus
+ [label="Monovarial, V near
+50%, lip region
+conical and not
+striated, female tail
+tip rounded, cuticle
+of tail swollen
+"]
+	029
+ -> 045
+ [label="Diovarial, V near
+50%
+"]
+	030
+ -> 031
+ [label="Procorpus not swollen
+and combined into
+metacorpus or, if
+swollen, offset from
+metacorpus by a
+constriction
+"]
+	030
+ -> 038
+ [label="Procorpus swollen and
+continuous with metacorpus
+"]
+	031
+ -> 032
+ [label="Stylet delicate, ≤
+15 µm, tail
+acute or subacute
+"]
+	031
+ -> 034
+ [label="Stylet strong, >15
+µm, tail tapering
+or bluntly rounded
+"]
+	032
+ -> 033
+ [label="Ovary with oocytes
+in one or
+two rows, not
+arranged around central
+rachis, mature female
+slender to stout
+"]
+	032
+ -> Anguina
+ [label="Ovary with multiple
+rows of oocytes
+arranged around central
+rachis, mature female
+usually obese, in
+seed, leaf or
+flower galls
+"]
+	033
+ -> Subanguina
+ [label="Ovary with one
+or two flexures,
+female moderately stout,
+in root galls
+of Graminae
+"]
+	033
+ -> Ditylenchus
+ [label="Ovary outstretched, female
+slender, in bulbs,
+stems, leaves, tubers
+"]
+	034
+ -> Rotylenchoides
+ [label="s ≥1.5, c'
+generally ≤1.5
+"]
+	034
+ -> 035
+ [label="s<1.5, c' >1.5
+"]
+	035
+ -> Pratylenchus
+ [label="Esophagus overlaps intestine
+ventrally
+"]
+	035
+ -> 036
+ [label="Esophagus overlaps intestine
+dorsally
+"]
+	036
+ -> Radopholoides
+ [label="Lip region low,
+generally rounded, stylet
+knobs flattened anteriorly,
+sexual dimorphism
+"]
+	036
+ -> 037
+ [label="Lip region high,
+conoid, stylet knobs
+sloping anteriorly or
+indented, males present
+or absent
+"]
+	037
+ -> Acontylus
+ [label="Female body swollen,
+stylet knobs sloping
+anteriorly, sexual dimorphism
+"]
+	037
+ -> Hoplotylus
+ [label="Female body slender,
+stylet knobs tapering
+anteriorly to a
+dentate tip, males
+absent
+"]
+	038
+ -> 039
+ [label="Mature female without
+extra cuticle or
+sheath
+"]
+	038
+ -> 041
+ [label="Mature female with
+extra cuticle or
+sheath
+"]
+	039
+ -> 040
+ [label="Cuticle with prominent
+retrorse striations
+"]
+	039
+ -> 042
+ [label="Cuticle without prominent
+retrorse striations
+"]
+	040
+ -> Criconema
+ [label="Cuticular striations of
+female with spines,
+scales, plates or
+stalks on posterior
+margins
+"]
+	040
+ -> Criconemoides
+ [label="Cuticular striations of
+female with smooth
+or crenate posterior
+margins
+"]
+	041
+ -> Hemicriconemoides
+ [label="Stylet knobs rounded,
+sloping anteriorly, usually
+<200 striations on
+cuticle
+"]
+	041
+ -> Hemicycliophora
+ [label="Stylet knobs anchor-shaped,
+usually >200 striations
+on cuticle
+"]
+	042
+ -> Bakernema
+ [label="Cuticular striations of
+female with membranous
+structures on posterior
+margins
+"]
+	042
+ -> 043
+ [label="Cuticular striations of
+female without membranous
+structures on posterior
+margins
+"]
+	043
+ -> Cacopaurus
+ [label="Cuticle of female
+with minute tubercles
+"]
+	043
+ -> 044
+ [label="Cuticle of female
+without minute tubercles
+"]
+	044
+ -> Paratylenchus
+ [label="Female stylet ≤36
+µm
+"]
+	044
+ -> Gracilacus
+ [label="Female stylet 45-120
+µm
+"]
+	045
+ -> 046
+ [label="s ≥2.5
+"]
+	045
+ -> 050
+ [label="s generally <2.5
+"]
+	046
+ -> 047
+ [label="Esophageal glands not
+enclosed in a
+bulb, usually unequal
+in length, overlapping
+intestine
+"]
+	046
+ -> 048
+ [label="Esophageal glands enclosed
+in a bulb,
+usually butting intestine
+"]
+	047
+ -> Belonolaimus
+ [label="Average adult body
+length ≥ 1.75mm
+"]
+	047
+ -> 049
+ [label="Average adult body
+length <1.75mm
+"]
+	048
+ -> Macrotrophurus
+ [label="Lip region continuous
+with body contour
+"]
+	048
+ -> Dolichodorus
+ [label="Lip region offset
+from body contour
+by a constriction
+"]
+	049
+ -> Morulaimus
+ [label="Lateral field with
+5 lines
+"]
+	049
+ -> Carphodorus
+ [label="Lateral field with
+3 lines
+"]
+	050
+ -> Aphasmatylenchus
+ [label="Phasmids absent
+"]
+	050
+ -> 051
+ [label="Phasmids present
+"]
+	051
+ -> 062
+ [label="c'<1.5
+"]
+	051
+ -> 052
+ [label="c' ≥ 1.5
+"]
+	052
+ -> 053
+ [label="Esophageal glands usually
+unequal in length,
+overlapping intestine dorsally
+or lateroventrally
+"]
+	052
+ -> 060
+ [label="Esophageal glands enclosed
+in a bulb
+or equal in
+length, usually butting
+intestine
+"]
+	053
+ -> 054
+ [label="Weak to moderate
+cephalic framework, female
+head not low
+or flattened
+"]
+	053
+ -> 057
+ [label="Well-developed cephalic framework,
+female head low
+, rounded or
+flattened
+"]
+	054
+ -> 055
+ [label="Well-developed stylet, lateral
+field with 5
+lines
+"]
+	054
+ -> Trichotylenchus
+ [label="Stylet slender with
+diverging knobs, lateral
+field with 4
+lines
+"]
+	055
+ -> 056
+ [label="Female tail cylindroid
+with rounded terminus
+"]
+	055
+ -> Telotylenchus
+ [label="Female tail elongate-conoid
+with blunt terminus
+"]
+	056
+ -> Histotylenchus
+ [label="Stylet cone asymmetrical,
+c' around 2,
+tail with broadly
+rounded terminus
+"]
+	056
+ -> Telotylenchoides
+ [label="Stylet cone symmetrical,
+female tail with
+broadly rounded to
+bulbous terminus and
+strongly thickened cuticle
+"]
+	057
+ -> 058
+ [label="Esophagus overlapping intestine
+dorsally
+"]
+	057
+ -> 059
+ [label="Esophagus overlapping intestine
+ventrally
+"]
+	058
+ -> Pratylenchoides
+ [label="Short overlap, no
+obvious sexual dimorphism
+"]
+	058
+ -> Radopholus
+ [label="Long overlap, distinct
+sexual dimorphism
+"]
+	059
+ -> Hirschmanniella
+ [label="Tail tip mucronate
+"]
+	059
+ -> Zygotylenchus
+ [label="Tail tip not
+mucronate
+"]
+	060
+ -> 061
+ [label="Lateral field with
+4 lines, female
+tail not acute
+"]
+	060
+ -> Merlinius
+ [label="Lateral field with
+6 lines, female
+tail acute or
+subacute
+"]
+	061
+ -> Tylenchorhynchus
+ [label="Female tail conoid
+with terminus bluntly
+rounded
+"]
+	061
+ -> Paratrophurus
+ [label="Female tail cylindroid,
+tail with broadly
+rounded terminus and
+thick cuticle
+"]
+	062
+ -> 063
+ [label="Phasmids small, pore-like
+"]
+	062
+ -> 064
+ [label="Phasmids enlarged
+"]
+	063
+ -> Rotylenchus
+ [label="Esophagus overlapping intestine
+dorsally and laterally,
+lip region with
+or without striation,
+DEGO <0.25 of
+stylet length behind
+knobs
+"]
+	063
+ -> Helicotylenchus
+ [label="Esophagus overlapping intestine
+ventrally, lip region
+without longitudinal striation,
+DEGO ≥0.25 of
+stylet length behind
+knobs
+"]
+	064
+ -> 065
+ [label="Both phasmids posterior
+to vulva
+"]
+	064
+ -> 066
+ [label="One phasmid anterior
+and one posterior
+to vulva
+"]
+	065
+ -> Scutellonema
+ [label="Phasmids nearly opposite
+each other in
+region of anus,
+lip region with
+transverse striations
+"]
+	065
+ -> Peltamigratus
+ [label="Phasmids anterior to
+anus, not opposite
+each other, lip
+region without striations
+"]
+	066
+ -> Hoplolaimus
+ [label="Stylet knobs with
+anterior projections, <5
+lines in lateral
+field, lateral field
+areolated throughout length
+"]
+	066
+ -> Aorolaimus
+ [label="Stylet knobs rounded
+and without anterior
+projections, 5 lines
+in lateral field,
+lateral field areolated
+at phasmids and
+in anterior
+"]
+	067
+ -> 068
+ [label="Females diovarial
+"]
+	067
+ -> 071
+ [label="Females monovarial
+"]
+	068
+ -> Macrotrophurus
+ [label="Tail short, subcylindrical,
+rounded; stylet very
+long (90-110 µm)
+"]
+	068
+ -> 069
+ [label="Tail elongate, attenuated;
+stylet < 20
+µm
+"]
+	069
+ -> Antarctenchus
+ [label="Cephalic framework sclerotized;
+vulva with lateral
+membranes; male cloaca
+with hypoptygma
+"]
+	069
+ -> 070
+ [label="Cephalic framework not
+sclerotized; vulva withithout
+lateral membranes; male
+cloaca without hypoptygma
+"]
+	070
+ -> Psilenchus
+ [label="Head high, amphidial
+slit obvious; metacorpus
+posterior to middle
+of esophagus
+"]
+	070
+ -> Atetylenchus
+ [label="Head low, amphidial
+slit indistinct; metacorpus
+anterior to middle
+of esophagus
+"]
+	071
+ -> Tylodorus
+ [label="Stylet very long
+(76-104 µm)
+"]
+	071
+ -> Epicharinema
+ [label="Stylet long (38-52
+µm)
+"]
+	071
+ -> 072
+ [label="Stylet moderate (22-34
+µm)
+"]
+	071
+ -> 073
+ [label="Stylet short (<22
+µm)
+"]
+	072
+ -> Campbellenchus
+ [label="Cuticle with longitudinal
+ridges
+"]
+	072
+ -> Gracilancea
+ [label="Cuticle without longitudinal
+ridges
+"]
+	073
+ -> 074
+ [label="Head with setae
+"]
+	073
+ -> 075
+ [label="Head without setae
+"]
+	074
+ -> Atylenchus
+ [label="Vulva covered by
+longitudinal flap; male
+without caudal alae;
+male cloaca with
+hypoptygma
+"]
+	074
+ -> Eutylenchus
+ [label="Vulva with lateral
+flaps; male with
+caudal alae; male
+cloaca raised
+"]
+	075
+ -> 076
+ [label="Cuticle with longitudinal
+ridges
+"]
+	075
+ -> 080
+ [label="Cuticle without longitudinal
+ridges
+"]
+	076
+ -> 077
+ [label="Cone about 1/3
+of stylet length
+"]
+	076
+ -> 079
+ [label="Cone almost 1/2
+of stylet length
+"]
+	077
+ -> Basirienchus
+ [label="Transverse striations not
+visible through longitudinal
+ridges
+"]
+	077
+ -> 078
+ [label="Transverse striations and
+longitudinal ridges form
+block (tessellate) pattern;
+lateral field with
+4 lines
+"]
+	078
+ -> Neothada
+ [label="Lip region with
+2-3 striations, stylet
+without knobs
+"]
+	078
+ -> Basirienchus
+ [label="Lip region with
+6-7 striations, stylet
+without knobs
+"]
+	079
+ -> Pleurotylenchus
+ [label="Vulva covered by
+longitudinal flap; stylet
+17-19 µm
+"]
+	079
+ -> Coslenchus
+ [label="Vulva with lateral
+flaps; stylet <
+15 µm
+"]
+	080
+ -> 081
+ [label="Cone about 1/3
+of stylet length
+"]
+	080
+ -> 094
+ [label="Cone almost 1/2
+of stylet length
+"]
+	081
+ -> 082
+ [label="Head high, with
+distinct lateral amphid
+slits
+"]
+	081
+ -> 085
+ [label="Head variously shaped,
+amphid slit longitudinal
+"]
+	082
+ -> Boleodorus
+ [label="Female body ventrally
+curved or spiral;
+female with offset
+spermatheca and oocytes
+in multiple rows
+"]
+	082
+ -> 083
+ [label="Female body straight;
+oocytes not in
+multiple rows
+"]
+	083
+ -> Basirienchus
+ [label="Tail bent or
+hook-shaped near tip
+"]
+	083
+ -> 084
+ [label="Tail more or
+less straight
+"]
+	084
+ -> Neopsilenchus
+ [label="Stylet without knobs,
+anterior part with
+wide lumen
+"]
+	084
+ -> Basiria
+ [label="Stylet with or
+without knobs, anterior
+conical with narrow
+lumen
+"]
+	085
+ -> 086
+ [label="Head with disc-like
+structure
+"]
+	085
+ -> 088
+ [label="Head with smooth
+contour
+"]
+	086
+ -> 087
+ [label="Head with small
+disc
+"]
+	086
+ -> Cucullitylenchus
+ [label="Head with large
+dome-shaped structure
+"]
+	087
+ -> Mitranema
+ [label="Very slender (a=62-76);
+caudal alae concave
+posteriorly
+"]
+	087
+ -> Filenchus
+ [label="Less slender; caudal
+alae rounded
+"]
+	088
+ -> 089
+ [label="Very slender (a=60-180);
+caudal alae lobed
+"]
+	088
+ -> 090
+ [label="Body width variable;
+caudal alae rounded
+if present
+"]
+	089
+ -> Ecphyadophora
+ [label="Head quadrangular; pore-like
+amphid apertures; body
+constricted after vulva
+"]
+	089
+ -> Ecphyadophoroides
+ [label="Head flattened; long
+amphid apertures; body
+not constricted after
+vulva
+"]
+	090
+ -> 091
+ [label="Cuticle deeply incised
+"]
+	090
+ -> 092
+ [label="Cuticle not deeply
+incised
+"]
+	091
+ -> Miculenchus
+ [label="Head quadrangular; body
+striations with zigzag
+pattern; male without
+caudal alae
+"]
+	091
+ -> Malenchus
+ [label="Head flattened; male
+with caudal alae
+"]
+	092
+ -> Lelenchus
+ [label="Very slender; indistinct
+striation; head very
+flat; long, sinuous
+amphid aperture
+"]
+	092
+ -> 093
+ [label="Larger body diameter;
+distinct striation; head
+quadrangular; aperture not
+sinuous
+"]
+	093
+ -> Irantylenchus
+ [label="Head high with
+longitudinal amphid apertures
+lateral; clavate stylet
+knobs; DEGO >
+1/2 stylet length
+behind knobs
+"]
+	093
+ -> Filenchus
+ [label="Head quadrangular; distinct
+striation; round stylet
+knobs; DEGO <
+1/2 stylet length
+behind knobs
+"]
+	094
+ -> 095
+ [label="Vulva with lateral
+flaps
+"]
+	094
+ -> 096
+ [label="Vulva without flaps
+"]
+	095
+ -> Allotylenchus
+ [label="Lateral field with
+2 lines; vagina
+thin; post-vulval sac
+short
+"]
+	095
+ -> Aglenchus
+ [label="Lateral field with
+3 lines; vagina
+thickened; post-vulval sac
+short
+"]
+	095
+ -> Cephalenchus
+ [label="Lateral field with
+4-6 lines; vagina
+not thickened; post-vulval
+sac long
+"]
+	096
+ -> Polenchus
+ [label="Lateral field and
+striations inconspicuous; caudal
+alae very small
+"]
+	096
+ -> Tylenchus
+ [label="Lateral field and
+striations distinct; caudal
+alae distinct
+"]
+}

@@ -1,0 +1,59 @@
+From,Key to Orders of Nematodes,To,Orders
+1,Esophagus cylindrical or bottle-shaped; amphids usually post-labial; excretory system single-cell hypodermal glands; male usually with 2 testes; caudal alae rare; phasmids absent,2,Class:  Enoplea
+1,"Esophagus often subdivided into bulbs; amphid apertures on lips, often difficult to see, or posterior to lips and obvious - round or coiled; gonads single or paired in both male and female",8,Class:   Chromadorea
+2,"Anterior sensillae often in 3 whorls of inner labial papillae, outer labial setae and cephalic setae; metanemes (filamentous structures in lateral chors) present; caudal glands present; esophageal glands open in or near stoma",3,Sub-class: Enoplia
+2,"Anterior sensillae rarely setiform; stoma with teeth or odontostyle; esophagus cylindrical, bottle-shaped or a stichosome; caudal glands usually absent; esophageal glands open in posterior region of esophagus",4,Sub-class:  Dorylaimia
+3,Spicule protractor muscles attached to proximal enlargement; metanemes present; marine and fresh water,10,Enoplida 
+3,Spicule protractor muscles form a pouch around spicules; protrusible tooth in some forms,11,Triplonchida
+4,Movable hollow spear; esophagus expanded posteriorly - bottle-shaped.,12,Dorylaimida 
+4,Glandular esophageal stichosome and intestinal trophosome; juveniles are parasites of invertebrates.,15,Mermithida
+4,Esophagus vestigial; parasites of vertebrates in all life stages,17,Muspiceida
+4,Esophagus cylindrical throughout,5,
+5,Juveniles are parasites of invertebrates; adults free-living,19,Marimermithida
+5,"All stages parasitic; adults are vertebrate parasites, juveniles with or without intermediate hosts",6,
+5,All stages free-living,7,
+6,Posterior esophagus a stichosome; onchiostyle present; monovarial; anphids pore-like,16,Trichinellida
+6,Anterior end has a sucker; males with bell-shaped bursa,18,Dioctophymatida
+7,"Strong, large, cuticularized stoma with prominent dorsal tooth; predators of nematodes",13,Mononchida
+7,Long and slender; tubular stoma without teeth; stoma without lips; soil inhabitants,14,Isolaimiida
+8,"Amphids usually pore-like, on lips; cephalic sensillae on lip region; phasmids present; caudal glands absent; mainly terrestrial, rarely freshwater or marine; include free-living, animal parasites, plant parsites",26,Rhabditida 
+8,"Amphids post-labial, varied shapes; phasmids absent; somatic seta common; mainly free-living aquatic organisms",9,
+9,"Anterior sensillae in three whorls, inner labial, outer labial and cephalic; amphids var from circular to complex spirals, post-labial and usually posterior to cephalic setae; stoma funnel-shaped with a dorsal tooth and two smaller subventral teeth; esophagus cylindrical with posetrior bulb; females diovarial; mainly marine",20,Chromadorida
+9,"Brownish cuticle; anterior sensillae in three whorls, inner labial, outer labial and cephalic; amphids spiral, posterior to cephalic setae; dorsal and smaller subventral teeth; esophagus cylindrical with enlarged end bulb",21,Desmodorida
+9,"Anterior sensillae in three whorls, inner labial, outer labial and cephalic, cephalic setae on peduncles; amphids large, on head; ocelli may be present; small stoma with small teeth; esophagus cylindrical; females diovarial; mainly marine",23,Desmoscolecida
+9,"Small, slender nematodes with a slender tail region; three whorls of anterior sensilla; amphids round; both sexes with one or two gonads; Mainly aquatic and wet soil environments",22,Monhysterida
+9,"Anterior sensillae in three whorls, inner labial, outer labial and cephalic; stoma with 3 to 6 teeth on anterior edge; amphids loop-shaped; ocelli may be present; esophagus cylindrical with no posterior enlargement",24,Araeolaimida
+9,"Labial sensilla papilliform, cephalic sensilla usually setiform; qamphids circular or simple spiral; esophagus cylindrical, with or without basal bulb; females usually diovarial",25,Plectida
+10,Enoplida; amphids pocket-shaped; esophagus cylindrical; 3 esophageal glands opening in or near stoma; excretory canal present; marine and freshwater,Enoplina,Enoplina
+10,"Enoplida; amphids pocket-shaped; stoma elongated, without teeth or with 3-5 moveable teeth; esophagus cylindrical; excretory canal present; mainly marine but also freshwater",Ironina,Ironina
+10,"Enoplida; amphids pocket-shaped; stoma large, refractive, with 3 teeth; esophagus cylindrical; excretory canal present; mainly marine but also freshwater",Oncholaimina,Oncholaimina
+10,Enoplida; amphids spiral; stoma with 1 or more teeth; esophagus cylindrical; females diovarial; mainly marine,Tripyloidina,Tripyloidina
+10,Enoplida; amphids pocket-shaped; stoma with dorsal tooth; esophagus cylindrical with terminal bulb; excretory canal present; females diovarial; soil and freshwater inhabitants,Campydorina,Campydorina
+10,"Enoplida; amphids pore or pocket-shaped; stoma vestigial, without teeth; esophagus slender, cylindrical, enlarged posteriorly; soil and freshwater inhabitants",Alaimina,Alaimina
+10,"Enoplida; amphids spiral; stoma with teeth; esophagus cylindrical; females diovarial; mainly marine, some freshwater",Trefusiina,Trefusiina
+11,Triplonchida; stoma with curved or complex spear; sensilla papilliform; esophagus with elongate prosterior bulb,Diphtherophorina,Diphtherophorina
+11,Triplonchida; stoma wide and refractive or funnel-shaped; usually with teeth; spinneret at tail tip,Tobrilina,Tobrilina
+11,Triplonchida; stoma narrow with a dirsal and two small subventral teeth; well-developed caudal glands opening at terminal spinneret ,Tripylina,Tripylina
+12,Dorylaimida; stoma with axial odontostyle,Dorylaimina,Dorylaimina
+12,Dorylaimida; stoma withgrooved subventral mural tooth,Nygolaimina,Nygolaimina
+13,"Mononchida; stoma large, wide with 1 to 3 teeth and/or rows of denticles",Mononchina,Mononchina
+13,Mononchida; Stoma narrow with a single subventral tooth,Bathyodontina,Bathyodontina
+14,Isolaimiida;,Isolaimiina,Isolaimiina
+15,Mermithida;,Mermithina,Mermithina
+16,Trichinellida;,Trichinellina,Trichinellina
+17,Muscipeicida;,Muscipeicina,Muscipeicina
+18,Dioctophymatida;,Dioctophymatina,Dioctophymatina
+19,Marimermithida;,Marimermithina,Marimermithina
+20,Chromadorida;,Chromadorina,Chromadorina
+21,Desmodorida;,Desmodorina,Desmodorina
+22,Monhysterida;,Monhysterina,Monhysterina
+22,Monhysterida;,Linhomoeina,Linhomoeina
+23,Desmoscolecida;,Desmoscolecina,Desmoscolecina
+24,Araeolaimida;,Araeolaimina,Araeolaimina
+25,Plectida;,Plectina,Plectina
+26,Rhabditida; stoma with a protrusible stomatostyle; lip region simple; posterior esophageal region either a bulb without valve or overlapping glands,Tylenchina; Tylenchomorpha,Tylenchina; Tylenchomorpha
+26,Rhabditida; stoma without teeth or with denticles; lip region simple; esophageal corpus without bulb; posterior bulb with valve,Tylenchina; Panagrolaimorpha,Tylenchina; Panagrolaimorpha
+26,Rhabditida; stoma without teeth or with denticles; lip region with probolae; esophageal corpus without bulb; posterior bulb with valve,Tylenchina; Cephalobomorpha,Tylenchina; Cephalobomorpha
+26,Rhabditida; stoma with teeth; lip region simple; corpus with muscular metacorpus; no valve in posterior bulb,Rhabditina; Diplogasteromorpha,Rhabditina; Diplogasteromorpha
+26,Rhabditida; stoma without teeth or with denticles; lip region simple; corpus with metacorpus; posterior bulb with valve,Rhabditina; Rhabditomorpha,Rhabditina; Rhabditomorpha
+26,Rhabditida; juveniles with cephalic hooks; multinucleate esophageal glands; parasites of animals,Spirurina,Spirurina

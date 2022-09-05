@@ -1,0 +1,680 @@
+digraph GraphTitle {
+	graph [rankdir=LR remincross=True]
+	label="Key to
+ Genera of 
+Tylenchidae
+ Geraert, E. 
+2008"
+	"Antarctenchus (Spaull, 1972)
+" [label="Antarctenchus (Spaull, 1972)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Psilenchus (de Man,
+1921)
+" [label="Psilenchus (de Man,
+1921)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Atetylenchus (Cobb 1913)
+" [label="Atetylenchus (Cobb 1913)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Epicharinema (Raski, Maggenti,
+Koshy & Sosamma,
+1982)
+" [label="Epicharinema (Raski, Maggenti,
+Koshy & Sosamma,
+1982)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tylodorus (Meagher, 1964)
+" [label="Tylodorus (Meagher, 1964)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Arboritynchus (Reay, 1991)
+" [label="Arboritynchus (Reay, 1991)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Campbellenchus (Wouts, 1977)
+" [label="Campbellenchus (Wouts, 1977)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Gracilancea (Siddiqi, 1976)
+" [label="Gracilancea (Siddiqi, 1976)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Atetylenchus (Cobb 1913)
+" [label="Atetylenchus (Cobb 1913)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Eutylenchus (Cobb 1913)
+" [label="Eutylenchus (Cobb 1913)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Ridgellus (Siddiqi, 2000)
+" [label="Ridgellus (Siddiqi, 2000)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Neothada (Khan, 1973)
+" [label="Neothada (Khan, 1973)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Ecphyadophoriodes (Corbett 1964)
+" [label="Ecphyadophoriodes (Corbett 1964)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Pleurotylencus (Szczygiel, 1969)
+" [label="Pleurotylencus (Szczygiel, 1969)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Coslenchus (Siddiqi, 1978)
+" [label="Coslenchus (Siddiqi, 1978)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Boleodorus (Thorne, 1941)
+" [label="Boleodorus (Thorne, 1941)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Neopsilenchus (Thorne &
+Malek, 1968)
+" [label="Neopsilenchus (Thorne &
+Malek, 1968)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Basiria (Siddiqi, 1959)
+" [label="Basiria (Siddiqi, 1959)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Cucullitylenchus (Huang &
+Raski, 1986)
+" [label="Cucullitylenchus (Huang &
+Raski, 1986)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Mitranema (Siddiqi, 1986)
+" [label="Mitranema (Siddiqi, 1986)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Discotylenchus (Siddiqi, 1980)
+" [label="Discotylenchus (Siddiqi, 1980)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Malenchus (M. labiatus)
+(Maqbool & Shahina,
+1985)
+" [label="Malenchus (M. labiatus)
+(Maqbool & Shahina,
+1985)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Ecyphyadophora (de Man,
+1921)
+" [label="Ecyphyadophora (de Man,
+1921)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tenunemellus (Siddiqi, 1986)
+" [label="Tenunemellus (Siddiqi, 1986)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Ultratenella (Siddiqi, 1984)
+" [label="Ultratenella (Siddiqi, 1984)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Chilenchus (Siddiqi, 2000)
+" [label="Chilenchus (Siddiqi, 2000)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Thada (Thorne, 1941)
+" [label="Thada (Thorne, 1941)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Miculenchus (Andrássy, 1959)
+" [label="Miculenchus (Andrássy, 1959)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Silenchus (Andrássy, 2001)
+" [label="Silenchus (Andrássy, 2001)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Malenchus (Andrássy, 1968)
+" [label="Malenchus (Andrássy, 1968)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Lelenchus (Andrássy, 1954)
+" [label="Lelenchus (Andrássy, 1954)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Irantylenchus (Kheiri, 1972)
+" [label="Irantylenchus (Kheiri, 1972)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Fraglenchus (Siddiqi, 2000)
+" [label="Fraglenchus (Siddiqi, 2000)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Sakia (Khan, 1964)
+" [label="Sakia (Khan, 1964)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Filenchus (Andrássy, 1954)
+" [label="Filenchus (Andrássy, 1954)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Allotylenchus (Andrássy, 1984)
+" [label="Allotylenchus (Andrássy, 1984)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Aglenchus (Andrássy, 1954)
+" [label="Aglenchus (Andrássy, 1954)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Fraglenchus (Siddiqi, 2000)
+" [label="Fraglenchus (Siddiqi, 2000)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Cephalenchus (Goodey, 1962)
+" [label="Cephalenchus (Goodey, 1962)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tanzanius (Siddiqi, 1991)
+" [label="Tanzanius (Siddiqi, 1991)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Cervoannulatus (Bajaj, 1998)
+" [label="Cervoannulatus (Bajaj, 1998)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Polenchus (Andrássy, 1980)
+" [label="Polenchus (Andrássy, 1980)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Silenchus (Andrássy, 2001)
+" [label="Silenchus (Andrássy, 2001)
+" fillcolor=aqua shape=hexagon style=filled]
+	"Tylenchus (Bastian, 1865)
+" [label="Tylenchus (Bastian, 1865)
+" fillcolor=aqua shape=hexagon style=filled]
+	000
+ -> 001
+ [label=Specimen
+]
+	001
+ -> 002
+ [label="Female didelphic
+"]
+	001
+ -> 004
+ [label="Female monodelphic
+"]
+	002
+ -> "Antarctenchus (Spaull, 1972)
+" [label="Cephalic framework moderately
+sclerotized; vulva provided
+with lateral vulval
+membranes; male cloaca
+provided with large
+hypoptygmata
+"]
+	002
+ -> 003
+ [label="Cephalic framework not
+sclerotized; vulva without
+lateral vulval membranes;
+male without hypoptygmata
+"]
+	003
+ -> "Psilenchus (de Man,
+1921)
+" [label="Head high with
+distinct amphidial slit
+on the lateral
+side; median bulb
+usually behind middle
+of pharynx
+"]
+	003
+ -> "Atetylenchus (Cobb 1913)
+" [label="Head low with
+indistinct amphidial slit;
+median bulb anterior
+to middle of
+pharynx
+"]
+	004
+ -> 005
+ [label="Stylet = 76-104
+µm
+"]
+	004
+ -> "Epicharinema (Raski, Maggenti,
+Koshy & Sosamma,
+1982)
+" [label="Stylet = 38-52
+µm
+"]
+	004
+ -> 006
+ [label="Stylet = 22-34
+µm
+"]
+	004
+ -> 007
+ [label="Stylet less than
+22 µm
+"]
+	005
+ -> "Tylodorus (Meagher, 1964)
+" [label="Cephalic region continuous,
+not lobed; lateral
+field beginning near
+middle of pharynx
+"]
+	005
+ -> "Arboritynchus (Reay, 1991)
+" [label="Cephalic region offset,
+with four prominent
+lobes; lateral field
+beginning at base
+of pharynx
+"]
+	006
+ -> "Campbellenchus (Wouts, 1977)
+" [label="Cuticle with longitudinal
+ridges
+"]
+	006
+ -> "Gracilancea (Siddiqi, 1976)
+" [label="Cuticle without longitudinal
+ridges except for
+the lateral field
+"]
+	007
+ -> 008
+ [label="Head with setae
+"]
+	007
+ -> 009
+ [label="Head without setae
+"]
+	008
+ -> "Atetylenchus (Cobb 1913)
+" [label="Vulva covered by
+longitudinal flap, male
+without caudal alae;
+cloaca provided with
+large hypoptytgmata
+"]
+	008
+ -> "Eutylenchus (Cobb 1913)
+" [label="Vulva with lateral
+vulval flaps; male
+with caudal alae;
+cloaca raised
+"]
+	009
+ -> 010
+ [label="Cuticle provided with
+longitudinal ridges
+"]
+	009
+ -> 014
+ [label="Cuticle without longitudinal
+ridges except for
+the lateral field
+"]
+	010
+ -> 011
+ [label="Stylet conus about
+1/3 of stylet
+length
+"]
+	010
+ -> 013
+ [label="Stylet conus about
+1/2 of stylet
+length
+"]
+	011
+ -> "Ridgellus (Siddiqi, 2000)
+" [label="The longitudinal ridges
+mask the transverse
+body annulations; lateral
+field not distinct
+(the mid-lateral ridge
+appears slightly larger
+than the others)
+"]
+	011
+ -> 012
+ [label="The longitudinal ridges
+divide the transverse
+annulations into blocks
+"]
+	012
+ -> "Neothada (Khan, 1973)
+" [label="Lateral field with
+four lines
+"]
+	012
+ -> "Ecphyadophoriodes (Corbett 1964)
+" [label="Lateral field with
+two lines, very
+thin animals
+"]
+	013
+ -> "Pleurotylencus (Szczygiel, 1969)
+" [label="Vulva covered by
+longitudinal flap; stylet
+= 17-19 µm
+"]
+	013
+ -> "Coslenchus (Siddiqi, 1978)
+" [label="Vulva with lateral
+flaps (sometimes small
+or absent); stylet
+less than 15
+µm (exceptionally 17-19
+µm
+"]
+	014
+ -> 015
+ [label="Stylet conus about
+1/3 of stylet
+length
+"]
+	014
+ -> 031
+ [label="Stylet conus about
+1/2 stylet length
+"]
+	015
+ -> 016
+ [label="15. Head high
+with oblique or
+transverse amphidial slit
+on the lateral
+side
+"]
+	015
+ -> 018
+ [label="Head variously shaped,
+amphidial slit longitudinally
+oriented or only
+present on the
+front (than not
+seen by light
+microscopy
+"]
+	016
+ -> "Boleodorus (Thorne, 1941)
+" [label="Body ventrally curved,
+sometimes in spiral;
+female reproductive system
+with offset spermatheca
+filled with small
+refractive sperm and
+ovary with oocytes
+in multiple rows
+"]
+	016
+ -> 017
+ [label="Body straight or
+only slightly curved;
+sperm not refractive
+and oocytes not
+in multiple rows
+"]
+	017
+ -> "Neopsilenchus (Thorne &
+Malek, 1968)
+" [label="17. Anterior part
+of stylet not
+conical but with
+wide lumen, stylet
+without knobs
+"]
+	017
+ -> "Basiria (Siddiqi, 1959)
+" [label="Anterior part of
+stylet conical with
+the usual very
+fine lumen; stylet
+with or without
+knobs
+"]
+	018
+ -> "Cucullitylenchus (Huang &
+Raski, 1986)
+" [label="Head with large
+dome-shaped structure
+"]
+	018
+ -> 019
+ [label="Head with small
+disc-like structure at
+front end
+"]
+	018
+ -> 020
+ [label="Head with smooth
+contour
+"]
+	019
+ -> "Mitranema (Siddiqi, 1986)
+" [label="Very slender, (a-value=62-67);
+caudal alae posteriorly
+concave
+"]
+	019
+ -> "Discotylenchus (Siddiqi, 1980)
+" [label="Not so slender;
+caudal alae rounded,
+no vulval flaps
+"]
+	019
+ -> "Malenchus (M. labiatus)
+(Maqbool & Shahina,
+1985)
+" [label="Not so slender;
+caudal alae rounded,
+distinct vulval flaps
+"]
+	020
+ -> 021
+ [label="Very slender body
+(a-value 60-180); bursa
+lobed
+"]
+	020
+ -> 022
+ [label="Very slender body,
+bursa not lobed
+"]
+	020
+ -> 023
+ [label="Body not extremely
+slender; bursa (if
+present) not lobed
+"]
+	021
+ -> "Ecyphyadophora (de Man,
+1921)
+" [label="Body constricted at
+vulva; head quadrangular
+(amphidial openings small
+pores on front,
+not distinct with
+light microscopy)
+"]
+	021
+ -> "Tenunemellus (Siddiqi, 1986)
+" [label="Body not constricted
+at vulva; head
+dorso-ventrally flattened; long
+sinuous amphidial aperture
+"]
+	022
+ -> "Ultratenella (Siddiqi, 1984)
+" [label="Lateral field absent
+"]
+	022
+ -> "Chilenchus (Siddiqi, 2000)
+" [label="Lateral field prominent
+with four lines
+"]
+	023
+ -> 024
+ [label="Cuticular annuli deeply
+incised
+"]
+	023
+ -> 027
+ [label="Cuticular annuli not
+so deeply incised,
+sometimes indistinct
+"]
+	024
+ -> "Thada (Thorne, 1941)
+" [label="Stylet with minute
+swellings, median bulb
+hardly developed
+"]
+	024
+ -> 025
+ [label="Stylet with small
+knobs, median bulb
+hardly or well
+developed
+"]
+	025
+ -> "Miculenchus (Andrássy, 1959)
+" [label="Annuli zigzag in
+surface view; annulations
+continue on the
+head; male without
+caudal alae
+"]
+	025
+ -> 026
+ [label="Annuli normal; male
+with caudal alae
+"]
+	026
+ -> "Silenchus (Andrássy, 2001)
+" [label="Vulva with projecting
+vulval lips, male
+with elongated bursa
+"]
+	026
+ -> "Malenchus (Andrássy, 1968)
+" [label="Vulva sunken in
+body; male with
+rather short, ad-cloacal
+bursa
+"]
+	027
+ -> "Lelenchus (Andrássy, 1954)
+" [label="Head dorso-ventrally flattened
+with longitudinal sinuous
+amphidial apertures; the
+small head contains
+large amphidial pouches;
+body usually very
+slender
+"]
+	027
+ -> 028
+ [label="Head quadrangular with
+usually longitudinal (but
+not sinuous) amphidial
+apertures; amphidial pouches
+not distinct; relatively
+thicker species
+"]
+	028
+ -> "Irantylenchus (Kheiri, 1972)
+" [label="Clavate stylet knobs
+with ventrally situated
+opening of pharyngeal
+lumen; dorsal gland
+has opening one
+half to one
+stylet length posterior
+to knobs
+"]
+	028
+ -> 029
+ [label="Stylet has rounded
+knobs; dorsal gland
+opening close to
+knobs
+"]
+	029
+ -> "Fraglenchus (Siddiqi, 2000)
+" [label="Lateral vulval membranes
+"]
+	029
+ -> 030
+ [label="Lateral vulval membranes
+absent
+"]
+	030
+ -> "Sakia (Khan, 1964)
+" [label="Median bulb underdeveloped,
+no valves
+"]
+	030
+ -> "Filenchus (Andrássy, 1954)
+" [label="Median bulb slightly
+or well developed,
+with valves
+"]
+	031
+ -> 032
+ [label="Vulva provided with
+lateral flaps
+"]
+	031
+ -> 033
+ [label="Vulva without flaps
+"]
+	032
+ -> "Allotylenchus (Andrássy, 1984)
+" [label="Lateral field with
+two lines; vagina
+thin; post-vulval sac
+short
+"]
+	032
+ -> "Aglenchus (Andrássy, 1954)
+" [label="Lateral field with
+three lines (but
+the two ridges
+can slightly separate
+so that in
+total four lines
+can sometimes be
+seen); vagina thickened;
+post-vulval sac short
+"]
+	032
+ -> "Fraglenchus (Siddiqi, 2000)
+" [label="Lateral field with
+four lines, vagina
+not swollen, no
+post-vulval uterine sac
+"]
+	032
+ -> "Cephalenchus (Goodey, 1962)
+" [label="Lateral field usually
+with six lines,
+sometimes four lines;
+vagina not thickened;
+post-vulval uterine sac
+well developed
+"]
+	033
+ -> "Tanzanius (Siddiqi, 1991)
+" [label="Pharynx without median
+bulb
+"]
+	033
+ -> 034
+ [label="Pharynx with median
+bulb
+"]
+	034
+ -> 035
+ [label="Lateral field and
+body annulations at
+mid-body mostly inconspicuous
+"]
+	034
+ -> 036
+ [label="Lateral field and
+body annulations distinct;
+caudal alae distinct
+"]
+	035
+ -> "Cervoannulatus (Bajaj, 1998)
+" [label="A few large
+annuli just posterior
+to the head
+"]
+	035
+ -> "Polenchus (Andrássy, 1980)
+" [label="Not such large
+annuli
+"]
+	036
+ -> "Silenchus (Andrássy, 2001)
+" [label="Vulva with projecting
+vulval lips, male
+with elongated bursa
+"]
+	036
+ -> "Tylenchus (Bastian, 1865)
+" [label="Vulva plain, male
+with shorter, ad-cloacal
+bursa
+"]
+}
