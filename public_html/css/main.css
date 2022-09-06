@@ -35,6 +35,7 @@
     font-size: 30px;
     font-weight: bolder;
     text-align: center;
+    position: relative;
 }
 
 .top-buffer {
@@ -49,6 +50,12 @@ img, svg {
     height: 595px;
 }
 
+.header_image_caption {
+    float: left;
+    position: relative;
+    top: 175px;
+    color: white;
+}
 
 .bg_image_001 {
     background-image: url('/files/images/UNL_KonzaPraire.jpg');
