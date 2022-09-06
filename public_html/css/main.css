@@ -50,14 +50,24 @@ img, svg {
     height: 595px;
 }
 
-.header_image_caption {
+.header_image_caption_white {
     float: left;
     position: relative;
     top: 175px;
     color: white;
 }
+.header_image_caption_black {
+    float: left;
+    position: relative;
+    top: 175px;
+    color: black;
+}
 
 .bg_image_001 {
+    background-image: url('/files/images/HomeBackgroundHeader_002.jpg');
+    height: 250px;
+}
+.bg_image_002 {
     background-image: url('/files/images/UNL_KonzaPraire.jpg');
     height: 250px;
 }
