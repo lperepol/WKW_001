@@ -18,7 +18,7 @@ $(document).ready(function() {
         $.ajax({
             'async': false,
             'global': false,
-            'url': '/files/json/unl/OOFGGM.json',
+            'url': '/files/json/view/OOFGGM.json',
             
             'dataType': 'json',
             'success': function (data) {
@@ -36,7 +36,6 @@ $(document).ready(function() {
     var FamilySel = document.getElementById('Family');
     var GenusSel = document.getElementById('Genus');
     var GenderSel = document.getElementById('Gender');
-    var MagnificationSel = document.getElementById('Magnification');
    
     for (var x in subjectObject) {
         console.log("view-->" + x);
@@ -45,7 +44,6 @@ $(document).ready(function() {
 
     ViewSel.onchange = function() {
         //empty Magification- and View and dropdowns
-        MagnificationSel.length = 1;
         GenderSel.length = 1;
         GenusSel.length = 1;
         FamilySel.length = 1;
@@ -58,7 +56,6 @@ $(document).ready(function() {
     }
     OrderSel.onchange = function() {
         //empty Magification- and Topics- dropdowns
-        MagnificationSel.length = 1;
         GenderSel.length = 1;
         GenusSel.length = 1;
         FamilySel.length = 1;
@@ -71,7 +68,6 @@ $(document).ready(function() {
     FamilySel.onchange = function() {
         //empty view dropdown
         GenderSel.length = 1;
-        MagnificationSel.length = 1;
         GenusSel.length = 1;
 
         //display correct values
@@ -83,18 +79,9 @@ $(document).ready(function() {
     GenusSel.onchange = function() {
         //empty view dropdown
         GenderSel.length = 1;
-        MagnificationSel.length = 1;
         //display correct values
         for (var t in subjectObject[ViewSel.value][OrderSel.value][FamilySel.value][this.value]) {
             GenderSel.options[GenderSel.options.length] = new Option(t,t);
-        }
-    }
-    GenderSel.onchange = function() {
-        //empty view dropdown
-        MagnificationSel.length = 1;
-        //display correct values
-        for (var u in  subjectObject[ViewSel.value][OrderSel.value][FamilySel.value][GenusSel.value][this.value]) {
-            MagnificationSel.options[MagnificationSel.options.length] = new Option(u,u);
         }
     }
 
@@ -124,14 +111,12 @@ function displayImages() {
     var Family = document.getElementById('Family').value;
     var Genus = document.getElementById('Genus').value;
     var Gender = document.getElementById('Gender').value;
-    var Magnification = document.getElementById('Magnification').value;
     var View = document.getElementById('View').value;
     var nid = null
     //var view = document.getElementById('View');
-    var z = subjectObject[View][Order][Family][Genus][Gender][Magnification];
+    var z = subjectObject[View][Order][Family][Genus][Gender];
     for (let i = 0; i < z.length; i++) {
-        displayimage = 'https://nematode.unl.edu/' + z[i];
-        nid = z[i];
+        displayimage = z[i][0];
         var image = '<a class="example-image-link" href="[ReplaceImage]" data-lightbox="example-set" data-title="Click anywhere outside the image or the X to the right to close."><img class="example-image" src="[ReplaceThumbnail]" alt="" style="width: 150 px" /></a>';
 
         var image = '<div class="col-md-6"> <a href="[ReplaceImage]" target="_blank"> <img  src="[ReplaceImage]" alt="" style="width: 500px" /></a></div>';
