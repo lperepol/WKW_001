@@ -41,7 +41,7 @@ $(document).ready(function () {
 function displayImages(value, object) {
     console.log("displayImages");
     console.log("value");
-//    console.log(value);
+    console.log(value);
     console.log("object");
     console.log(object);
     console.log("object class className");

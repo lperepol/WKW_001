@@ -1,0 +1,1302 @@
+digraph GraphTitle {
+	graph [rankdir=LR remincross=True]
+	label="An illustrated key
+to nematodes found
+in fresh water
+(November 1977) Armen
+C. Tarjan, Robert
+P. Esser, Shih
+L. Chang
+"
+	Dolichodorus
+ [label=Dolichodorus
+ fillcolor=aqua shape=hexagon style=filled]
+	Quinisulcius
+ [label=Quinisulcius
+ fillcolor=aqua shape=hexagon style=filled]
+	Psilenchus
+ [label=Psilenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	"Tylenchorhynchus, Merlinius, Geocenamus
+(in part), Scutylenchus,
+Nagelus
+" [label="Tylenchorhynchus, Merlinius, Geocenamus
+(in part), Scutylenchus,
+Nagelus
+" fillcolor=aqua shape=hexagon style=filled]
+	Hoplolaimus
+ [label=Hoplolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Belonolaimus
+ [label=Belonolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Radopholus
+ [label=Radopholus
+ fillcolor=aqua shape=hexagon style=filled]
+	Hirshmaniella
+ [label=Hirshmaniella
+ fillcolor=aqua shape=hexagon style=filled]
+	Paratylenchus
+ [label=Paratylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Hemicycliophora
+ [label=Hemicycliophora
+ fillcolor=aqua shape=hexagon style=filled]
+	Criconema
+ [label=Criconema
+ fillcolor=aqua shape=hexagon style=filled]
+	Mesocriconema
+ [label=Mesocriconema
+ fillcolor=aqua shape=hexagon style=filled]
+	Helicotylenchus
+ [label=Helicotylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Aphelenchoides
+ [label=Aphelenchoides
+ fillcolor=aqua shape=hexagon style=filled]
+	Tylenchus
+ [label=Tylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Ditylenchus
+ [label=Ditylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Pratylenchus
+ [label=Pratylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Meloidogyne
+ [label=Meloidogyne
+ fillcolor=aqua shape=hexagon style=filled]
+	Heterodera
+ [label=Heterodera
+ fillcolor=aqua shape=hexagon style=filled]
+	Xiphinema
+ [label=Xiphinema
+ fillcolor=aqua shape=hexagon style=filled]
+	Diphtherophora
+ [label=Diphtherophora
+ fillcolor=aqua shape=hexagon style=filled]
+	Tylencholaimellus
+ [label=Tylencholaimellus
+ fillcolor=aqua shape=hexagon style=filled]
+	Aulolaimoides
+ [label=Aulolaimoides
+ fillcolor=aqua shape=hexagon style=filled]
+	Enchodelus
+ [label=Enchodelus
+ fillcolor=aqua shape=hexagon style=filled]
+	Nothotylenchus
+ [label=Nothotylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Tylencholaimus
+ [label=Tylencholaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Doryllium
+ [label=Doryllium
+ fillcolor=aqua shape=hexagon style=filled]
+	"(Actinolaimus, Metactinolaimus, Neoactinolaimus,
+Paractinolaimus) .. Actinolaiminae
+" [label="(Actinolaimus, Metactinolaimus, Neoactinolaimus,
+Paractinolaimus) .. Actinolaiminae
+" fillcolor=aqua shape=hexagon style=filled]
+	Oionchus
+ [label=Oionchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Campydora
+ [label=Campydora
+ fillcolor=aqua shape=hexagon style=filled]
+	Tyleptus
+ [label=Tyleptus
+ fillcolor=aqua shape=hexagon style=filled]
+	Leptonchus
+ [label=Leptonchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Dorylaimoides
+ [label=Dorylaimoides
+ fillcolor=aqua shape=hexagon style=filled]
+	"(Dorylaimus, Eudorylaimus, Labronema,Mesodorylaimus,
+Thornia, Laimydorus, Prodorylaimus)
+.. Dorylaiminae
+" [label="(Dorylaimus, Eudorylaimus, Labronema,Mesodorylaimus,
+Thornia, Laimydorus, Prodorylaimus)
+.. Dorylaiminae
+" fillcolor=aqua shape=hexagon style=filled]
+	Nygolaimus
+ [label=Nygolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Seinura
+ [label=Seinura
+ fillcolor=aqua shape=hexagon style=filled]
+	Aphelenchus
+ [label=Aphelenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Oncholaimus
+ [label=Oncholaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Mylonchulus
+ [label=Mylonchulus
+ fillcolor=aqua shape=hexagon style=filled]
+	Prionchulus
+ [label=Prionchulus
+ fillcolor=aqua shape=hexagon style=filled]
+	Sporonchulus
+ [label=Sporonchulus
+ fillcolor=aqua shape=hexagon style=filled]
+	Anatonchus
+ [label=Anatonchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Iotonchus
+ [label=Iotonchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Mononchus
+ [label=Mononchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Bathyodontus
+ [label=Bathyodontus
+ fillcolor=aqua shape=hexagon style=filled]
+	Enoplocheilus
+ [label=Enoplocheilus
+ fillcolor=aqua shape=hexagon style=filled]
+	Mononchulus
+ [label=Mononchulus
+ fillcolor=aqua shape=hexagon style=filled]
+	Mononchoides
+ [label=Mononchoides
+ fillcolor=aqua shape=hexagon style=filled]
+	Diplogaster
+ [label=Diplogaster
+ fillcolor=aqua shape=hexagon style=filled]
+	Microlaimus
+ [label=Microlaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Leptolaimus
+ [label=Leptolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Rhabdolaimus
+ [label=Rhabdolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Monochromadora
+ [label=Monochromadora
+ fillcolor=aqua shape=hexagon style=filled]
+	Alloionema
+ [label=Alloionema
+ fillcolor=aqua shape=hexagon style=filled]
+	Rhabditis
+ [label=Rhabditis
+ fillcolor=aqua shape=hexagon style=filled]
+	Cylindrocorpus
+ [label=Cylindrocorpus
+ fillcolor=aqua shape=hexagon style=filled]
+	Cephalobus
+ [label=Cephalobus
+ fillcolor=aqua shape=hexagon style=filled]
+	Panagrolaimus
+ [label=Panagrolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Tripyla
+ [label=Tripyla
+ fillcolor=aqua shape=hexagon style=filled]
+	Amphidelus
+ [label=Amphidelus
+ fillcolor=aqua shape=hexagon style=filled]
+	Alaimus
+ [label=Alaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Cryptonchus
+ [label=Cryptonchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Bathyonchus
+ [label=Bathyonchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Bunonema
+ [label=Bunonema
+ fillcolor=aqua shape=hexagon style=filled]
+	Diploscapter
+ [label=Diploscapter
+ fillcolor=aqua shape=hexagon style=filled]
+	Macrolaimus
+ [label=Macrolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Teratocephalus
+ [label=Teratocephalus
+ fillcolor=aqua shape=hexagon style=filled]
+	Acrobeles
+ [label=Acrobeles
+ fillcolor=aqua shape=hexagon style=filled]
+	"Wilsonema, Tylocephalus
+" [label="Wilsonema, Tylocephalus
+" fillcolor=aqua shape=hexagon style=filled]
+	"Plectus & Anaplectus
+" [label="Plectus & Anaplectus
+" fillcolor=aqua shape=hexagon style=filled]
+	Paraplectonema
+ [label=Paraplectonema
+ fillcolor=aqua shape=hexagon style=filled]
+	Paraphanolaimus
+ [label=Paraphanolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Euteratocephalus
+ [label=Euteratocephalus
+ fillcolor=aqua shape=hexagon style=filled]
+	Ethmolaimus
+ [label=Ethmolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Greenenema
+ [label=Greenenema
+ fillcolor=aqua shape=hexagon style=filled]
+	Chronogaster
+ [label=Chronogaster
+ fillcolor=aqua shape=hexagon style=filled]
+	Desmolaimus
+ [label=Desmolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Domorganus
+ [label=Domorganus
+ fillcolor=aqua shape=hexagon style=filled]
+	Monhystera
+ [label=Monhystera
+ fillcolor=aqua shape=hexagon style=filled]
+	Prismatolaimus
+ [label=Prismatolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Cylindrolaimus
+ [label=Cylindrolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Tripyla
+ [label=Tripyla
+ fillcolor=aqua shape=hexagon style=filled]
+	Aphanolaimus
+ [label=Aphanolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Ironus
+ [label=Ironus
+ fillcolor=aqua shape=hexagon style=filled]
+	Achromadora
+ [label=Achromadora
+ fillcolor=aqua shape=hexagon style=filled]
+	Chromadora
+ [label=Chromadora
+ fillcolor=aqua shape=hexagon style=filled]
+	Prochromadorella
+ [label=Prochromadorella
+ fillcolor=aqua shape=hexagon style=filled]
+	Butlerius
+ [label=Butlerius
+ fillcolor=aqua shape=hexagon style=filled]
+	Anonchus
+ [label=Anonchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Monhystrella
+ [label=Monhystrella
+ fillcolor=aqua shape=hexagon style=filled]
+	Atylenchus
+ [label=Atylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Eutylenchus
+ [label=Eutylenchus
+ fillcolor=aqua shape=hexagon style=filled]
+	Chromadorina
+ [label=Chromadorina
+ fillcolor=aqua shape=hexagon style=filled]
+	Punctodora
+ [label=Punctodora
+ fillcolor=aqua shape=hexagon style=filled]
+	Hypodontolaimus
+ [label=Hypodontolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Chromadorita
+ [label=Chromadorita
+ fillcolor=aqua shape=hexagon style=filled]
+	Prodesmodora
+ [label=Prodesmodora
+ fillcolor=aqua shape=hexagon style=filled]
+	Odontolaimus
+ [label=Odontolaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Bastia
+ [label=Bastia
+ fillcolor=aqua shape=hexagon style=filled]
+	Paracyatholaimus
+ [label=Paracyatholaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Oncholaimus
+ [label=Oncholaimus
+ fillcolor=aqua shape=hexagon style=filled]
+	Tobrilus
+ [label=Tobrilus
+ fillcolor=aqua shape=hexagon style=filled]
+	Start
+ -> 001
+ [label="A Specimen
+"]
+	001
+ -> 002
+ [label="Cephalic setae indistinct
+or absent
+"]
+	001
+ -> 064
+ [label="Cephalic setae absent
+but setae-like head
+appendages present
+"]
+	001
+ -> 069
+ [label="Cephalic setae present
+"]
+	002
+ -> 003
+ [label="Stylet present
+"]
+	002
+ -> 038
+ [label="Stylet absent
+"]
+	003
+ -> 004
+ [label="Base of stylet
+knobbed or flanged
+"]
+	003
+ -> 029
+ [label="Stylet knobs or
+flanges absent
+"]
+	004
+ -> 005
+ [label="Valvate median esophageal
+bulb present
+"]
+	004
+ -> 022
+ [label="Valvate median esophageal
+bulb absent
+"]
+	005
+ -> 006
+ [label="Females eel-like
+"]
+	005
+ -> 021
+ [label="Females swollen
+"]
+	006
+ -> 007
+ [label="Vulva at mid-body
+"]
+	006
+ -> 014
+ [label="Vulva on lower
+third of body
+"]
+	007
+ -> 008
+ [label="Esophagus not overlapping
+intestine
+"]
+	007
+ -> 011
+ [label="Esophagus overlapping intestine
+"]
+	008
+ -> 009
+ [label="Stylet length less
+than 50 microns
+"]
+	008
+ -> Dolichodorus
+ [label="Stylet lenght greater
+than 80 microns
+"]
+	009
+ -> Quinisulcius
+ [label="Tail terminus bluntly
+pointed
+"]
+	009
+ -> 010
+ [label="Tail terminus not
+pointed
+"]
+	010
+ -> Psilenchus
+ [label="Tail terminus knobbed
+"]
+	010
+ -> "Tylenchorhynchus, Merlinius, Geocenamus
+(in part), Scutylenchus,
+Nagelus
+" [label="Tail terminus never
+knobbed or pointed
+"]
+	011
+ -> 012
+ [label="Labium offset
+"]
+	011
+ -> 013
+ [label="Labium flattened amalgamated
+or nearly so
+"]
+	012
+ -> Hoplolaimus
+ [label="Stylet massive, 40-50
+microns long
+"]
+	012
+ -> Belonolaimus
+ [label="Stylet long and
+thin, greater than
+90 microns long
+"]
+	013
+ -> Radopholus
+ [label="Body 0.5-1 mm
+"]
+	013
+ -> Hirshmaniella
+ [label="Body 2-3 mm
+long
+"]
+	014
+ -> 015
+ [label="Cuticle heavily annulated,
+stylet elongate
+"]
+	014
+ -> 017
+ [label="Cuticle not heavily
+annulated, stylet short
+"]
+	014
+ -> Paratylenchus
+ [label="Cuticle not heavily
+annulated, stylet long
+"]
+	015
+ -> 016
+ [label="Cuticular sheath absent
+"]
+	015
+ -> Hemicycliophora
+ [label="Cuticular sheath present
+"]
+	016
+ -> Criconema
+ [label="Annules with cuticular
+spines or scales
+"]
+	016
+ -> Mesocriconema
+ [label="Annules plain without
+spines or scales
+"]
+	017
+ -> 018
+ [label="Body death position
+straight
+"]
+	017
+ -> Helicotylenchus
+ [label="Body death position
+spiral
+"]
+	018
+ -> 019
+ [label="Median esophageal bulb
+distinct but not
+pronounced
+"]
+	018
+ -> Aphelenchoides
+ [label="Median esophageal bulb
+well-developed
+"]
+	019
+ -> 020
+ [label="Esophagus overlapping intestine
+"]
+	019
+ -> Tylenchus
+ [label="Esophagus not overlapping
+intestine
+"]
+	020
+ -> Ditylenchus
+ [label="Median bulb and
+valves small, stylet
+usually weak
+"]
+	020
+ -> Pratylenchus
+ [label="Median bulb valves
+and stylet well
+developed, labium flattened
+"]
+	021
+ -> Meloidogyne
+ [label="Female body white
+without eggs
+"]
+	021
+ -> Heterodera
+ [label="Female body brown,
+usually with eggs
+"]
+	022
+ -> 023
+ [label="Stylet short, less
+than 100 microns
+"]
+	022
+ -> Xiphinema
+ [label="Stylet long, greater
+than 100 microns
+"]
+	023
+ -> 024
+ [label="Stylet complex
+"]
+	023
+ -> 025
+ [label="Stylet simple
+"]
+	024
+ -> Diphtherophora
+ [label="Stylet with anterior
+arch-like portion
+"]
+	024
+ -> Tylencholaimellus
+ [label="Stylet with dorsal
+thickening piece
+"]
+	025
+ -> 026
+ [label="Stylet knobs elongate,
+flange-like
+"]
+	025
+ -> 027
+ [label="Stylet knobs round
+"]
+	026
+ -> Aulolaimoides
+ [label="Filiform tail
+"]
+	026
+ -> Enchodelus
+ [label="Round tail
+"]
+	027
+ -> 028
+ [label="Tail rounded
+"]
+	027
+ -> Nothotylenchus
+ [label="Tail pointed
+"]
+	028
+ -> Tylencholaimus
+ [label="Basal part esophagus
+elongate
+"]
+	028
+ -> Doryllium
+ [label="Basal part esophagus
+oval
+"]
+	029
+ -> 030
+ [label="Valvate median esophageal
+bulb absent
+"]
+	029
+ -> 037
+ [label="Valvate median esophageal
+bulb present
+"]
+	030
+ -> 031
+ [label="Stomal walls not
+cuticularized
+"]
+	030
+ -> "(Actinolaimus, Metactinolaimus, Neoactinolaimus,
+Paractinolaimus) .. Actinolaiminae
+" [label="Stomal walls cuticularized
+"]
+	031
+ -> 032
+ [label="Esophagus with basal
+expansions
+"]
+	031
+ -> Oionchus
+ [label="Esophagus expanding uniformly
+"]
+	032
+ -> 033
+ [label="Terminal fifth or
+sixth of esophagus
+an ovoid bulb
+"]
+	032
+ -> 036
+ [label="Posterior third of
+esophagus swollen
+"]
+	033
+ -> 034
+ [label="Stylet axial, positioned
+centrally
+"]
+	033
+ -> Campydora
+ [label="Stylet not axial
+orginating from tooth
+in stoma wall
+"]
+	034
+ -> 035
+ [label="Gonads paired, vulva
+usually near mid-body
+"]
+	034
+ -> Tyleptus
+ [label="Gonads single, posterior
+to vulva. Vulva
+usually anterior to
+mid-body
+"]
+	035
+ -> Leptonchus
+ [label="Stylet slender
+"]
+	035
+ -> Dorylaimoides
+ [label="Stylet not slender
+"]
+	036
+ -> "(Dorylaimus, Eudorylaimus, Labronema,Mesodorylaimus,
+Thornia, Laimydorus, Prodorylaimus)
+.. Dorylaiminae
+" [label="Stylet axial, positioned
+centrally
+"]
+	036
+ -> Nygolaimus
+ [label="Stylet not axial,
+originating from tooth
+in stoma wall
+"]
+	037
+ -> Seinura
+ [label="Tail pointed
+"]
+	037
+ -> Aphelenchus
+ [label="Tail rounded
+"]
+	038
+ -> 039
+ [label="Teeth present, prominent
+"]
+	038
+ -> 050
+ [label="Teeth absent, minute,
+or indistinct
+"]
+	039
+ -> 040
+ [label="Esophagus without mid-region
+expansion
+"]
+	039
+ -> 049
+ [label="Esophagus expanded at
+mid-region
+"]
+	040
+ -> 041
+ [label="Tail pointed or
+tapering
+"]
+	040
+ -> 047
+ [label="Tail rounded
+"]
+	041
+ -> 042
+ [label="Male tail without
+setae
+"]
+	041
+ -> Oncholaimus
+ [label="Male tail with
+setae
+"]
+	042
+ -> 043
+ [label="Stoma with denticles
+"]
+	042
+ -> 045
+ [label="Stoma without denticles
+"]
+	043
+ -> 044
+ [label="Denticles scattered or
+in longitudinal rows
+"]
+	043
+ -> Mylonchulus
+ [label="Denticles in transverse
+rows
+"]
+	044
+ -> Prionchulus
+ [label="Denticles situated on
+longitudinal rib of
+stoma
+"]
+	044
+ -> Sporonchulus
+ [label="Denticles scattered on
+stoma wall
+"]
+	045
+ -> 046
+ [label="Tooth anteriorly directed
+"]
+	045
+ -> Anatonchus
+ [label="Tooth retrorse
+"]
+	046
+ -> Iotonchus
+ [label="Tooth in basal
+part of stoma
+"]
+	046
+ -> Mononchus
+ [label="Tooth in anterior
+part of stoma
+"]
+	047
+ -> 048
+ [label="Stoma with prominent
+medial or apical
+tooth
+"]
+	047
+ -> Bathyodontus
+ [label="Stoma with small
+basal tooth
+"]
+	048
+ -> Enoplocheilus
+ [label="Stoma with 3
+teeth, without small
+basal tooth, caudal
+glands terminal
+"]
+	048
+ -> Mononchulus
+ [label="Stoma with large
+anterior & small
+basal tooth, caudal
+glands ventral
+"]
+	049
+ -> Mononchoides
+ [label="Lip region with
+rib-like armature
+"]
+	049
+ -> Diplogaster
+ [label="Lip region without
+rib-like armature
+"]
+	050
+ -> 051
+ [label="Esophagus with basal
+expansions
+"]
+	050
+ -> 060
+ [label="Esophagus uniformly cylindrical
+"]
+	051
+ -> 052
+ [label="Esophagus without mid-region
+expansion
+"]
+	051
+ -> 055
+ [label="Esophagus expanded at
+mid-region
+"]
+	052
+ -> 053
+ [label="Amphids distinct
+"]
+	052
+ -> 054
+ [label="Amphids indistinct
+"]
+	053
+ -> Microlaimus
+ [label="Stomat walls anteriorly
+inflated with minute
+tooth
+"]
+	053
+ -> Leptolaimus
+ [label="Stoma walls without
+tooth and with
+straight, tapering sides
+"]
+	054
+ -> Rhabdolaimus
+ [label="Stoma with 3
+rod-like thickenings
+"]
+	054
+ -> Monochromadora
+ [label="Stoma without rod-like
+thickenings
+"]
+	055
+ -> 056
+ [label="Gonads paired
+"]
+	055
+ -> 058
+ [label="Gonads single
+"]
+	056
+ -> 057
+ [label="Stomal walls straight
+amalgamated
+"]
+	056
+ -> Alloionema
+ [label="Stomal walls separated,
+not straight
+"]
+	057
+ -> Rhabditis
+ [label="Moderately swollen metacorpus,
+stoma not excessively
+elongate
+"]
+	057
+ -> Cylindrocorpus
+ [label="Elongate, cyclindrical metacorpus,
+stoma elongate
+"]
+	058
+ -> 059
+ [label="Tail with sharp
+terminus
+"]
+	058
+ -> Cephalobus
+ [label="Tail bluntly conical
+"]
+	059
+ -> Panagrolaimus
+ [label="Anterior part of
+stoma a broad,
+open chamber
+"]
+	060
+ -> 061
+ [label="Stoma absent or
+indistinct
+"]
+	060
+ -> 063
+ [label="Stoma distinct
+"]
+	061
+ -> 062
+ [label="Lip region narrow,
+tooth absent
+"]
+	061
+ -> Tripyla
+ [label="Lip region broad,
+small denticle apparent
+in stomal area
+"]
+	062
+ -> Amphidelus
+ [label="Amphid aperture appearing
+as large slit
+"]
+	062
+ -> Alaimus
+ [label="Aphid aperture appearing
+as minute pores
+"]
+	063
+ -> Cryptonchus
+ [label="Stoma narrow and
+long
+"]
+	063
+ -> Bathyonchus
+ [label="Stoma wide and
+shallow
+"]
+	064
+ -> 065
+ [label="Body symmetrical
+"]
+	064
+ -> Bunonema
+ [label="Body asymmetrical, bearing
+series of protuberances
+on side
+"]
+	065
+ -> 066
+ [label="Lip appendages not
+elaborate
+"]
+	065
+ -> 068
+ [label="Lip appendages elaborate
+"]
+	066
+ -> Diploscapter
+ [label="Lateral lip appendages
+thorn-like directed laterally
+"]
+	066
+ -> 067
+ [label="Lateral lip appendages
+not thorn-like or
+directed laterally
+"]
+	067
+ -> Macrolaimus
+ [label="Papillae or setae
+horn-like
+"]
+	067
+ -> Teratocephalus
+ [label="Lips flap-like and
+pointed anteriorly
+"]
+	068
+ -> Acrobeles
+ [label="Lip appendages forked
+and elaborately fringed
+"]
+	068
+ -> "Wilsonema, Tylocephalus
+" [label="Lip appendages membranous
+and wing-like
+"]
+	069
+ -> 070
+ [label="Post-cephalic setae absent
+"]
+	069
+ -> 092
+ [label="Post-cephalic seate present
+(may be very
+faint Ex.Â Tobrilus)
+.
+"]
+	070
+ -> 071
+ [label="Stylet absent
+"]
+	070
+ -> 091
+ [label="Stylet present
+"]
+	071
+ -> 072
+ [label="Teeth absent, minute
+or indistinct
+"]
+	071
+ -> 085
+ [label="Teeth usually present,
+prominent
+"]
+	072
+ -> 073
+ [label="Esophagus with basal
+expansions
+"]
+	072
+ -> 082
+ [label="Esophagus uniformaly cylindrical
+"]
+	073
+ -> 074
+ [label="Amphids oval, spiral,
+or stirrup-shaped
+"]
+	073
+ -> 080
+ [label="amphids circular
+"]
+	074
+ -> 075
+ [label="Amphids spiral
+"]
+	074
+ -> 079
+ [label="Amphids not spiral
+"]
+	075
+ -> 076
+ [label="Cuticular punctations absent
+"]
+	075
+ -> 078
+ [label="Cuticular punctations present
+"]
+	076
+ -> 077
+ [label="Esophageal bulb without
+valves
+"]
+	076
+ -> "Plectus & Anaplectus
+" [label="Esophageal bulb valvate
+"]
+	077
+ -> Paraplectonema
+ [label="Esophageal-intestinal valve elongate
+"]
+	077
+ -> Paraphanolaimus
+ [label="Esophageal-intestinal valve shortened
+"]
+	078
+ -> Euteratocephalus
+ [label="Labial region characteristically
+flap-like
+"]
+	078
+ -> Ethmolaimus
+ [label="Labial region not
+flap-like, lips bluntly
+rounded
+"]
+	079
+ -> Greenenema
+ [label="Amphids oval
+"]
+	079
+ -> Chronogaster
+ [label="Amphids stirrup-shaped
+"]
+	080
+ -> 081
+ [label="Esophageal-intestinal valve shortened
+"]
+	080
+ -> Desmolaimus
+ [label="Esophageal-intestinal valve elongate
+"]
+	081
+ -> Domorganus
+ [label="Excretory pore and
+large excretory gland
+present
+"]
+	081
+ -> Monhystera
+ [label="Excretory pore and
+gland indistinct or
+absent
+"]
+	082
+ -> Prismatolaimus
+ [label="Stoma wide and
+shallow, conspicuous, tail
+filiform
+"]
+	082
+ -> 083
+ [label="Stoma narrow, elongate,
+collapsed or inconspicuous
+"]
+	083
+ -> Cylindrolaimus
+ [label="Gonad single
+"]
+	083
+ -> 084
+ [label="Gonads paired
+"]
+	084
+ -> Tripyla
+ [label="Amphids inconspicuous
+"]
+	084
+ -> Aphanolaimus
+ [label="Amphids conspicuous
+"]
+	085
+ -> 086
+ [label="Terminal fifth or
+sixth of esophagus
+an ovoid bulb
+"]
+	085
+ -> Ironus
+ [label="Esophagus uniformly cylindrical,
+stoma with massive
+teeth
+"]
+	086
+ -> 087
+ [label="Cuticular punctations present
+"]
+	086
+ -> 089
+ [label="Cuticular punctations absent
+"]
+	087
+ -> 088
+ [label="Amphids not spiral
+"]
+	087
+ -> Achromadora
+ [label="Amphids spiral
+"]
+	088
+ -> Chromadora
+ [label="Four longitudinal rows
+of cuticular markings
+present
+"]
+	088
+ -> Prochromadorella
+ [label="No longitudinal rows
+of cuticular markings
+present
+"]
+	089
+ -> 090
+ [label="Amphids distinct
+"]
+	089
+ -> Butlerius
+ [label="Amphids indistinct
+"]
+	090
+ -> Anonchus
+ [label="Female gonad double,
+amphid hook-shaped
+"]
+	090
+ -> Monhystrella
+ [label="Female gonad single,
+amphid circular
+"]
+	091
+ -> Atylenchus
+ [label="Lip region annulated,
+not set off
+"]
+	091
+ -> Eutylenchus
+ [label="Lip region smooth,
+set off
+"]
+	092
+ -> 093
+ [label="Esophagus with basal
+expansion
+"]
+	092
+ -> 098
+ [label="Esophagus uniformly cylindrical
+"]
+	093
+ -> 094
+ [label="Cuticular punctation present,
+amphids not circular
+"]
+	093
+ -> 097
+ [label="Cuticular punctation absent,
+amphids circular
+"]
+	094
+ -> 095
+ [label="Ocelli (eye spots)
+present
+"]
+	094
+ -> 096
+ [label="Ocelli absent
+"]
+	095
+ -> Chromadorina
+ [label="Stoma with three
+equal-sized teeth
+"]
+	095
+ -> Punctodora
+ [label="Stoma with at
+least one large
+tooth
+"]
+	096
+ -> Hypodontolaimus
+ [label="Cuticule with lateral
+longitudinal rows of
+punctation
+"]
+	096
+ -> Chromadorita
+ [label="Cuticle without lateral
+differentiations
+"]
+	097
+ -> Prodesmodora
+ [label="Esophageal bulb valvate
+"]
+	097
+ -> Odontolaimus
+ [label="Esophageal bulb without
+valves
+"]
+	098
+ -> 099
+ [label="Amphid anterior on
+body
+"]
+	098
+ -> Bastia
+ [label="Amphid posteroirly located
+"]
+	099
+ -> Paracyatholaimus
+ [label="Amphid spiral
+"]
+	099
+ -> 100
+ [label="Amphid cup-shaped or
+obscure
+"]
+	100
+ -> Oncholaimus
+ [label="Stomal teeth massive
+"]
+	100
+ -> Tobrilus
+ [label="Stomal teeth small
+"]
+}
