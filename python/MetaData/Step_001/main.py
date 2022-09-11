@@ -45,7 +45,7 @@ def read_csv(fn):
 #        #count = count + 1
 
 def NormalizedBoldData():
-    fn = "../../../Identification_keys_redo/BoldSystems/Bold_data/BoldSystems.csv"
+    fn = "../../BoldSystems/Bold_data/BoldSystems.csv"
     df = read_csv(fn)
     df['source'] = 'http://boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=19'
     df.drop('record_id', axis=1, inplace=True)
@@ -59,7 +59,7 @@ def NormalizedBoldData():
     return df
 
 def NormalizedUNLData():
-    fn = "../../../UNL/Python/Metadata/ManualEdits/KeepMetadata_002.xlsx"
+    fn = "../../UNL/Python/Metadata/ManualEdits/KeepMetadata_002.xlsx"
     sheet = 'KeepMetadata_003_test'
     df = read_excel(fn, sheet)
     df['source'] = 'https://nematode.unl.edu'
@@ -81,7 +81,7 @@ def NormalizedUNLData():
     return df
 
 def NormalizedWURData():
-    fn = "../../../WUR/Python/Step_00s_Get_Images/ImagesOnWUR.csv"
+    fn = "../../WUR/Python/Step_00s_Get_Images/ImagesOnWUR.csv"
     df = read_csv(fn)
     df['source'] = 'https://www.wur.nl'
     df['phylum'] = 'Nematoda'
@@ -104,8 +104,8 @@ def NormalizedWURData():
     return df
 
 def nematodes_myspecies_info():
-    fn = "X:/nemtode/general/Supplimenatay_Key_Images/nematodes.myspecies.info/Metatdata.csv"
-    df = read_csv(fn)
+    fn = "X:/nemtode/general/Supplementary/nematodes.myspecies.info/python/Step_003/Query1.xlsx"
+    df = read_excel(fn,'Sheet1')
     df['source'] = 'https://nematodes.myspecies.info'
     df['phylum'] = 'Nematoda'
     df.drop('Catalogue-number', axis=1, inplace=True)
@@ -115,42 +115,49 @@ def nematodes_myspecies_info():
     df = df.rename(columns={"Identification-qualifier": "identification_method"})
     df = df.rename(columns={"Lifestage": "lifestage"})
     df = df.rename(columns={"Remarks": "caption"})
+
     for index, row in df.iterrows():
         Taxonomic_name = str(row['Taxonomic-name']).strip()
-        Taxonomic_name_TMP = ''
-        if Taxonomic_name != 'None' :
-            spl = Taxonomic_name.split('>')
-            spl = spl[1].split('<')
-            Taxonomic_name_TMP = str(spl[0]).strip()
-        df.loc[index, 'Taxonomic-name'] = Taxonomic_name_TMP
-        AllFiles_001_FileImage = str(row['AllFiles_001_FileImage']).strip()
-        if len(AllFiles_001_FileImage) < 1 :
-            nematodes_joinCol = str(row['nematodes_joinCol']).strip()
-            df.loc[index, 'AllFiles_001_FileImage'] = nematodes_joinCol
-    df['genus'] =''
+        df.loc[index, 'Taxonomic-name'] = Taxonomic_name
     df = df.rename(columns={"Taxonomic-name": "species"})
+    df['FileReffernce'] = ''
     for index, row in df.iterrows():
-        AllFiles_001_FileImage = str(row['AllFiles_001_FileImage']).strip()
-        app = 'https://github.com/lperepol/Supplimenatay_Key_Images/blob/main/nematodes.myspecies.info/Images/'
-        AllFiles_001_FileImage = app + AllFiles_001_FileImage
-        AllFiles_001_FileImage = AllFiles_001_FileImage.replace('/./', '/')
-        df.loc[index, 'AllFiles_001_FileImage'] = AllFiles_001_FileImage
+        FileName = str(row['FileName']).strip()
+        app = 'https://github.com/lperepol/Supplementary/blob/main/nematodes.myspecies.info/Images/'
+        app = 'https://raw.githubusercontent.com/lperepol/Supplementary/main/nematodes.myspecies.info/Images/'
+        FileName = app + FileName
+        df.loc[index, 'FileReffernce'] = FileName
+
         species = str(row['species']).strip()
         splt = species.split(' ')
         if len(splt) > 1 :
             df.loc[index, 'genus'] = str(splt[0]).strip()
+        www = len(splt)
         if len(splt) == 1 :
             df.loc[index, 'genus'] = species
             df.loc[index, 'species'] = ''
 
 
-    df = df.rename(columns={"AllFiles_001_FileImage": "image_file"})
-    df.drop('AllFiles_001_joinCol', axis=1, inplace=True)
-    df.drop('nematodes_joinCol', axis=1, inplace=True)
-    df.drop('nematodes_FileImage', axis=1, inplace=True)
+    df = df.rename(columns={"FileReffernce": "image_file"})
+    df.drop('Join', axis=1, inplace=True)
     df.drop('Specimen', axis=1, inplace=True)
-    fn = "X:/nemtode/general/Supplimenatay_Key_Images/nematodes.myspecies.info/Metatdata_001.csv"
+    df.drop('ID', axis=1, inplace=True)
+    df.drop('Collection-code', axis=1, inplace=True)
+    df.drop('Collector-number', axis=1, inplace=True)
+    df.drop('Date-collected', axis=1, inplace=True)
+    df.drop('Field-number', axis=1, inplace=True)
+    df.drop('Type-status', axis=1, inplace=True)
+    df.drop('Identified-by', axis=1, inplace=True)
+    df.drop('Date-identified', axis=1, inplace=True)
+    df.drop('Count', axis=1, inplace=True)
+    df.drop('GenBank-number-s-', axis=1, inplace=True)
+    df.drop('Location', axis=1, inplace=True)
+    df.drop('Image', axis=1, inplace=True)
+    df.drop('FileName', axis=1, inplace=True)
+    df.drop('Field-notes', axis=1, inplace=True)
+    fn = "nematodes_myspecies_info.csv"
     df.to_csv(fn, index=False)
+    return df
 
 def main():
     df1 = NormalizedBoldData()

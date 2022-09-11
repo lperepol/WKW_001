@@ -5,7 +5,7 @@ import json
 from sortedcontainers import SortedList, SortedSet, SortedDict
 
 def read_metadata():
-    fn = "../../MetaData/AddTaxonomies/MasterMetadata_000.csv"
+    fn = "../../MetaData/Step_002_AddTaxonomies/MasterMetadata_001.csv"
     df = pd.read_csv(fn)
     df = df.fillna('Not Specified')
     return df
