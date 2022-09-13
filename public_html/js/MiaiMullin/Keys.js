@@ -48,7 +48,7 @@ function displayImages(value, object) {
     //if object == 
     //var view = document.getElementById('View');
     var val = value.replace('-image-target', '');
-    var zz = keyObject[val];
+    var zz = keyObject[value];
     console.log("Target");
     console.log(val);
     var targetDivZId = '#' + value;
@@ -56,18 +56,42 @@ function displayImages(value, object) {
     const genusSet = new Set();
     const obsSet = new Set();
     for (let i = 0; i < zz.length; i++) {
-        console.log(zz[i]);
-        displayimage = zz[i][0];
-        genusSet.add(zz[i][1]);
-        obsSet.add(zz[i][2]);
-        //nid = zz[i];
-        //var image = '<a class="example-image-link" href="[ReplaceImage]" data-lightbox="example-set" data-title="Click anywhere outside the image or the X to the right to close."><img class="example-image" src="[ReplaceThumbnail]" alt="" style="width: 150 px" /></a>';
+        
+var image_index=zz[i][0];
+var image_name=zz[i][1];
+var caption=zz[i][2];
+var media_descriptor=zz[i][3];
+var diagnostic_descriptor=zz[i][4];
+var gender=zz[i][5];
+var copyright_institution=zz[i][6];
+var photographer=zz[i][7];
+var genus=zz[i][8];
+var species=zz[i][9];
+var identification_method=zz[i][10];
+var source=zz[i][11];
+var common_name=zz[i][12];
 
-        var image = '<img  src="[ReplaceImage]" alt="blank">';
+        console.log(zz[i]);
+        displayimage = image_name;
+        genusSet.add(genus);
+        obsSet.add(caption);
+        var image = '';
+        var name = genus;
+        if (species !== "Not Specified") {
+            name = species;
+        }
+
+        caption = image_index + '<br>Name: ' + name + '<br>Observing: ' + caption + '<br>Copyright Institution:' + copyright_institution + '<br>Photographer:' + photographer + '<br>Indentification Method: ' + identification_method;
+        if (displayimage.endsWith('.m4v'))
+        {
+            image = '<figure class="figure">  <video class="VCE_Class_001" controls><source src="[ReplaceImage]" type="video/mp4"></video> <figcaption class="figure-caption">[caption]</figcaption></figure>';
+        } else {
+            image = '<figure class="figure">  <a href="[ReplaceImage]" target="_blank" ><img  class="img_key" src="[ReplaceImage]" class="figure-img img-fluid rounded" alt="Alt" ></a> <figcaption class="figure-caption">[caption]</figcaption></figure>';
+        }
+        
         image = image.replace('[ReplaceImage]', displayimage);
-        //image = image.replace('[ReplaceImage]', displayimage);
-        //image = image.replace('[ReplaceImage]', displayimage);
-        //$('#accordioncollapseOne001').append(image);
+        image = image.replace('[ReplaceImage]', displayimage);
+        image = image.replace('[caption]', caption);
         if (displayimage.length > 3) {
             $(targetDivZId).append(image);
         }

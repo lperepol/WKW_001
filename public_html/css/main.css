@@ -47,7 +47,15 @@ img, svg {
     border: 2px solid #555;
     margin: 5px;
     width: 595px;
-    height: 595px;
+    height: auto;
+}
+
+.img_key {
+    vertical-align: middle;
+    border: 2px solid #555;
+    margin: 5px;
+    width: 511px;
+    height: auto;
 }
 
 .header_image_caption_white {

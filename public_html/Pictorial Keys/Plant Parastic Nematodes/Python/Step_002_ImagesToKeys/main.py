@@ -82,22 +82,27 @@ def readImages():
     ppnGenus = GenusSet()
     fn = "../../../../../python/MetaData/Step_002_AddTaxonomies/MasterMetadata_001.xlsx"
     df = pd.read_excel(fn)
+    df = df.fillna('Not Specified')
     imageDict = dict()
     for index, row in df.iterrows():
         genus = row['genus']
         if genus in ppnGenus:
-            ImageName = str(row['image_file']).strip().replace(',', '|')
+            image_index = str(row['image_index']).strip().replace(',', ';')
+            image_name = str(row['image_file']).strip().replace(',', ';')
             media_descriptor = str(row['media_descriptor']).strip().replace(',', '|')
-            diagnostic_descriptor = str(row['diagnostic_descriptor']).strip().replace(',', '|')
-            caption = str(row['caption']).strip().replace(',', '|')
-            copyright_institution = str(row['copyright_institution']).strip().replace(',', '|')
-            photographer = str(row['photographer']).strip().replace(',', '|')
-            source = str(row['source']).strip().replace(',', '|')
-            species = str(row['species']).strip().replace(',', '|')
-            gender = str(row['sex']).strip().replace(',', '|')
-            identification_method = str(row['identification_method']).strip().replace(',', '|')
+            diagnostic_descriptor = str(row['diagnostic_descriptor']).strip().replace(',', ';')
+            caption = str(row['caption']).strip().replace(',', ';')
+            copyright_institution = str(row['copyright_institution']).strip().replace(',', ';')
+            photographer = str(row['photographer']).strip().replace(',', ';')
+            source = str(row['source']).strip().replace(',', ';')
+            species = str(row['species']).strip().replace(',', ';')
+            gender = str(row['sex']).strip().replace(',', ';')
+            identification_method = str(row['identification_method']).strip().replace(',', ';')
+            common_name = str(row['common_name']).strip().replace(',', ';').replace('"','')
+            common_name = str(row['common_name']).strip().replace('|', ';').replace('"','')
             atuple = (
-            ImageName, caption,media_descriptor,diagnostic_descriptor, gender, copyright_institution, photographer, genus, species, identification_method, source,caption)
+                image_index, image_name, caption,media_descriptor,diagnostic_descriptor, gender, copyright_institution, photographer, genus, species, identification_method, source,common_name
+            )
 
             if genus in imageDict:
                 imageDict[genus].append(atuple)
@@ -110,13 +115,17 @@ def associate_key_to_image():
     imageDict = readImages()
     fn = '../../../../../python/Dichotomous Keys/Miai Mullin.xlsx'
     df = pd.read_excel(fn, sheet_name='Sheet1')
+    df = df.fillna('Not Specified')
+
     lis = list()
     LinesInKey = dict()
     keyDict = dict()
     jsonDict = dict()
+    include_in_diagnostic_key = 'Yes'
     for index, row in df.iterrows():
         From = row['From']
         To = str(row['To']).strip()
+        Description = str(row['Description']).strip().replace(',','|')
         if From in LinesInKey:
             LinesInKey[From] =  LinesInKey[From] + 1
         else:
@@ -135,11 +144,27 @@ def associate_key_to_image():
 
         if Param in jsonDict:
             for img in images:
-                jsonDict[Param].append(img)
+                (
+                    image_index, image_name, caption, media_descriptor, diagnostic_descriptor, gender,
+                    copyright_institution, photographer, genus, species, identification_method, source, common_name
+                ) = img
+                newTuple = (
+                    image_index, image_name, caption, media_descriptor, Description, gender,
+                    copyright_institution, photographer, genus, species, identification_method, source, common_name,include_in_diagnostic_key
+                )
+                jsonDict[Param].append(newTuple)
         else:
             jsonDict[Param] = list()
             for img in images:
-                jsonDict[Param].append(img)
+                (
+                    image_index, image_name, caption, media_descriptor, diagnostic_descriptor, gender,
+                    copyright_institution, photographer, genus, species, identification_method, source, common_name
+                ) = img
+                newTuple = (
+                    image_index, image_name, caption, media_descriptor, Description, gender,
+                    copyright_institution, photographer, genus, species, identification_method, source, common_name,include_in_diagnostic_key
+                )
+                jsonDict[Param].append(newTuple)
     return jsonDict
 
 def writeDict2Json(adict):
@@ -151,8 +176,8 @@ def writeDict2Json(adict):
     return json_object
 
 def dictToCSV(jsonDict):
-    header = 'Key,ImageName,caption,Gender,copyright_institution,photographer,genus,species,identification_method,source'
-    with open('test6.csv', 'w') as f:
+    header = 'diagnostic_key,image_index,image_name,caption,media_descriptor,diagnostic_descriptor,gender,copyright_institution,photographer,genus,species,identification_method,source,common_name,include_in_diagnostic_key'
+    with open('keys.csv', 'w',encoding="utf-8") as f:
         f.write("%s\n" % (header))
         for key in jsonDict.keys():
             for row in jsonDict[key]:
@@ -160,6 +185,7 @@ def dictToCSV(jsonDict):
                 rowstr = rowstr[1:]
                 rowstr = rowstr.rstrip(rowstr[-1])
                 rowstr = rowstr.replace("'", '')
+                rowstr = rowstr.replace('"', '')
                 f.write("%s, %s\n" % (key, rowstr))
 
 def main():
