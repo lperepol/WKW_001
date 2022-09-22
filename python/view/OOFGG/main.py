@@ -5,11 +5,10 @@ import json
 from sortedcontainers import SortedList, SortedSet, SortedDict
 
 def read_metadata():
-    fn = "../../MetaData/Step_002_AddTaxonomies/MasterMetadata_001.csv"
-    df = pd.read_csv(fn)
+    fn = "../../MetaData/Step_004/MasterMetadata_001_Indexed_Updated.xlsx"
+    df = pd.read_excel(fn, sheet_name='Sheet1')
     df = df.fillna('Not Specified')
     return df
-
 
 def fixup(df):
     return
@@ -66,75 +65,37 @@ def get_gender(adic, df):
 
 
 def get_image_file_name(adic, df):
-    orderSet = set()
-    FamilySet = set()
-    GenusSet = set()
-    ImageSet = list()
     for index, row in df.iterrows():
         View = str(row['media_descriptor']).strip()
         Order = str(row['order']).strip()
         Family = str(row['family']).strip()
-        Genus = str(row['genus']).strip()
-        Gender = str(row['sex']).strip()
-        orderSet.add(Order)
-        FamilySet.add(Family)
-        GenusSet.add(Genus)
+        genus = str(row['genus']).strip()
+        image_index = str(row['image_index']).strip().replace(',', ';')
+        image_name = str(row['image_file']).strip().replace(',', ';')
+        media_descriptor = str(row['media_descriptor']).strip().replace(',', '|')
+        diagnostic_descriptor = str(row['diagnostic_descriptor']).strip().replace(',', ';')
+        caption = str(row['caption']).strip().replace(',', ';')
+        copyright_institution = str(row['copyright_institution']).strip().replace(',', ';')
+        photographer = str(row['photographer']).strip().replace(',', ';')
+        source = str(row['source']).strip().replace(',', ';')
+        species = str(row['species']).strip().replace(',', ';')
+        gender = str(row['sex']).strip().replace(',', ';')
+        identification_method = str(row['identification_method']).strip().replace(',', ';')
+        common_name = str(row['common_name']).strip().replace(',', ';').replace('"', '')
+        citation = str(row['citation']).strip().replace('|', ';').replace('"', '')
 
 
-        ImageName = str(row['image_file']).strip()
-        caption = str(row['caption']).strip()
-        copyright_institution = str(row['copyright_institution']).strip()
-        photographer = str(row['photographer']).strip()
-        source = str(row['source']).strip()
-        species = str(row['species']).strip()
-        Gender = str(row['sex']).strip()
-        identification_method = str(row['identification_method']).strip()
-        tup = (ImageName,caption,Gender, copyright_institution,photographer,Genus,species,identification_method, source )
 
-        ImageSet.append(ImageName)
+        atuple = (
+            image_index, image_name, caption, media_descriptor, diagnostic_descriptor, gender, copyright_institution,
+            photographer, genus, species, identification_method, source, common_name, citation
+        )
 
-        if tup not in adic[View][Order][Family][Genus][Gender]:
-            adic[View][Order][Family][Genus][Gender].append(tup)
 
-    print ("Order:" + str(len(orderSet)) + ", Family:" + str(len(FamilySet)) + ", Genus:" + str(len(GenusSet)) + ", Completed:" + str(len(ImageSet)) )
-    # Order:12, Family:67, Genus:248
+        if atuple not in adic[View][Order][Family][genus][gender]:
+            adic[View][Order][Family][genus][gender].append(atuple)
+
     return adic
-
-def get_UNL_stats(df):
-    orderSet = set()
-    FamilySet = set()
-    GenusSet = set()
-    LocationSet = set()
-    ObservationSet = set()
-    HostSet = set()
-    SpeciesSet = set()
-    ImageSet = set()
-    for index, row in df.iterrows():
-        Order = str(row['order']).strip()
-        Family = str(row['family']).strip()
-        Genus = str(row['genus']).strip()
-        Gender = str(row['sex']).strip()
-        View = str(row['media_descriptor']).strip()
-        ImageName = str(row['image_file']).strip()
-        orderSet.add(Order)
-        FamilySet.add(Family)
-        ObservationSet.add(View)
-        GenusSet.add(Genus)
-        ImageSet.add(ImageName)
-
-    statsDict = dict()
-    statsDict["Orders"] = len(orderSet)
-    statsDict['Families'] = len(FamilySet)
-    statsDict['Genera'] = len(GenusSet)
-    statsDict['Observations'] = len(ObservationSet)
-    statsDict['Micrographs'] = len(ImageSet)
-
-    json_object = json.dumps(statsDict, indent=4)
-    fn = "stats.json"
-
-    with open(fn, "w") as outfile:
-        json.dump(statsDict, outfile,indent=4)
-
 
 
 def writeDict2Json(adict):
@@ -156,7 +117,6 @@ def main():
     nematode_dict = get_gender(nematode_dict, df)
     nematode_dict = get_image_file_name(nematode_dict, df)
     jo = writeDict2Json(nematode_dict)
-    get_UNL_stats(df)
 
 
 

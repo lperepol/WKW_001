@@ -17,6 +17,7 @@ def GenusSet():
         "Brachydorus",
         "Bursaphelenchus",
         "Bursaphelenchus",
+        "Rhadinaphelenchus",
         "Cacopaurus",
         "Caloosia",
         "Carphodorus",
@@ -27,11 +28,14 @@ def GenusSet():
         "Dolichodorus",
         "Eutylenchus",
         "Globodera",
+        "Paratylenchus",
+        "Gracilacus",
         "Helicotylenchus",
         "Hemicriconemoides",
         "Hemicycliophora",
         "Heterodera",
         "Heterodera",
+        "Sarisodera",
         "Hirschmanniella",
         "Histotylenchus",
         "Hoplolaimus",
@@ -42,13 +46,12 @@ def GenusSet():
         "Meloidogyne",
         "Morulaimus",
         "Nacobbus",
-        "Nothotylenchus",
         "Nothanguina",
+        "Nothotylenchus",
         "Paralongidorus",
         "Paratrichodorus",
+        "Telotylenchoides",
         "Paratrophurus",
-        "Paratrophurus",
-        "Paratylenchus",
         "Paratylenchus",
         "Peltamigratus",
         "Pratylenchoides",
@@ -61,11 +64,15 @@ def GenusSet():
         "Rotylenchus",
         "Scutellonema",
         "Scutylenchus",
+        "Merlinius",
         "Sphaeronema",
         "Subanguina",
+        "Telotylenchoides",
+        "Paratrophurus",
         "Telotylenchus",
         "Trichotylenchus",
         "Trophotylenchulus",
+        "Trophonema",
         "Trophotylenchulus",
         "Trophurus",
         "Tylenchorhynchus",
@@ -80,7 +87,7 @@ def GenusSet():
 
 def readImages():
     ppnGenus = GenusSet()
-    fn = "../../../../../python/MetaData/Step_002_AddTaxonomies/MasterMetadata_001.xlsx"
+    fn = "../../../../../python/MetaData/Step_004/MasterMetadata_001_Indexed_Updated.xlsx"
     df = pd.read_excel(fn)
     df = df.fillna('Not Specified')
     imageDict = dict()
@@ -99,9 +106,9 @@ def readImages():
             gender = str(row['sex']).strip().replace(',', ';')
             identification_method = str(row['identification_method']).strip().replace(',', ';')
             common_name = str(row['common_name']).strip().replace(',', ';').replace('"','')
-            common_name = str(row['common_name']).strip().replace('|', ';').replace('"','')
+            citation = str(row['citation']).strip().replace('|', ';').replace('"','')
             atuple = (
-                image_index, image_name, caption,media_descriptor,diagnostic_descriptor, gender, copyright_institution, photographer, genus, species, identification_method, source,common_name
+                image_index, image_name, caption,media_descriptor,diagnostic_descriptor, gender, copyright_institution, photographer, genus, species, identification_method, source,common_name,citation
             )
 
             if genus in imageDict:
@@ -132,7 +139,8 @@ def associate_key_to_image():
             LinesInKey[From] = 1
         Key = str(From).zfill(3)
         Param = 'accordioncollapse-' + str(LinesInKey[From]) + '-' + str(Key)
-
+        if Param == 'accordioncollapse-2-059':
+            adfaf = 0
         spltTo = To.split(' ')
         images = ''
         for i in spltTo:
@@ -146,11 +154,11 @@ def associate_key_to_image():
             for img in images:
                 (
                     image_index, image_name, caption, media_descriptor, diagnostic_descriptor, gender,
-                    copyright_institution, photographer, genus, species, identification_method, source, common_name
+                    copyright_institution, photographer, genus, species, identification_method, source, common_name,citation
                 ) = img
                 newTuple = (
                     image_index, image_name, caption, media_descriptor, Description, gender,
-                    copyright_institution, photographer, genus, species, identification_method, source, common_name,include_in_diagnostic_key
+                    copyright_institution, photographer, genus, species, identification_method, source, common_name,include_in_diagnostic_key,citation
                 )
                 jsonDict[Param].append(newTuple)
         else:
@@ -158,11 +166,11 @@ def associate_key_to_image():
             for img in images:
                 (
                     image_index, image_name, caption, media_descriptor, diagnostic_descriptor, gender,
-                    copyright_institution, photographer, genus, species, identification_method, source, common_name
+                    copyright_institution, photographer, genus, species, identification_method, source, common_name,citation
                 ) = img
                 newTuple = (
                     image_index, image_name, caption, media_descriptor, Description, gender,
-                    copyright_institution, photographer, genus, species, identification_method, source, common_name,include_in_diagnostic_key
+                    copyright_institution, photographer, genus, species, identification_method, source, common_name,include_in_diagnostic_key,citation
                 )
                 jsonDict[Param].append(newTuple)
     return jsonDict
@@ -176,7 +184,7 @@ def writeDict2Json(adict):
     return json_object
 
 def dictToCSV(jsonDict):
-    header = 'diagnostic_key,image_index,image_name,caption,media_descriptor,diagnostic_descriptor,gender,copyright_institution,photographer,genus,species,identification_method,source,common_name,include_in_diagnostic_key'
+    header = 'diagnostic_key,image_index,image_name,caption,media_descriptor,diagnostic_descriptor,gender,copyright_institution,photographer,genus,species,identification_method,source,common_name,include_in_diagnostic_key,citation'
     with open('keys.csv', 'w',encoding="utf-8") as f:
         f.write("%s\n" % (header))
         for key in jsonDict.keys():

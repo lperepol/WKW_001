@@ -5,22 +5,12 @@ import json
 from sortedcontainers import SortedList, SortedSet, SortedDict
 
 def read_metadata():
-    fn = "../../MetaData/Step_002_AddTaxonomies/MasterMetadata_001.csv"
-    df = pd.read_csv(fn)
+    fn = "../../MetaData/Step_004/MasterMetadata_001_Indexed_Updated.xlsx"
+    df = pd.read_excel(fn, sheet_name='Sheet1')
     df = df.fillna('Not Specified')
+
     return df
 
-
-def fixup(df):
-    return
-    df = df.fillna('')
-    for index, row in df.iterrows():
-        Magnification = str(row['Magnification']).strip()
-        if Magnification.isdigit():
-            Magnification = int(Magnification)
-            Magnification = "{:03d}X".format(Magnification)
-        df.loc[index, 'Magnification'] = Magnification
-    return df
 
 
 def get_order(adic, df):
@@ -49,20 +39,28 @@ def get_image_file_name(adic, df):
     for index, row in df.iterrows():
         Order = str(row['order']).strip()
         Family = str(row['family']).strip()
-        Genus = str(row['genus']).strip()
-        ImageName = str(row['image_file']).strip()
-        caption = str(row['caption']).strip()
-        copyright_institution = str(row['copyright_institution']).strip()
-        photographer = str(row['photographer']).strip()
-        source = str(row['source']).strip()
-        species = str(row['species']).strip()
-        Gender = str(row['sex']).strip()
-        identification_method = str(row['identification_method']).strip()
-        tup = (ImageName,caption,Gender, copyright_institution,photographer,Genus,species,identification_method, source )
+        genus = str(row['genus']).strip()
+        image_index = str(row['image_index']).strip().replace(',', ';')
+        image_name = str(row['image_file']).strip().replace(',', ';')
+        media_descriptor = str(row['media_descriptor']).strip().replace(',', '|')
+        view_of_001 = str(row['view_of_001']).strip().replace(',', ';')
+        caption = str(row['caption']).strip().replace(',', ';')
+        copyright_institution = str(row['copyright_institution']).strip().replace(',', ';')
+        photographer = str(row['photographer']).strip().replace(',', ';')
+        source = str(row['source']).strip().replace(',', ';')
+        species = str(row['species']).strip().replace(',', ';')
+        gender = str(row['sex']).strip().replace(',', ';')
+        identification_method = str(row['identification_method']).strip().replace(',', ';')
+        common_name = str(row['common_name']).strip().replace(',', ';').replace('"', '')
+        citation = str(row['citation']).strip().replace('|', ';').replace('"', '')
 
+        atuple = (
+            image_index, image_name, caption, media_descriptor, view_of_001, gender, copyright_institution,
+            photographer, genus, species, identification_method, source, common_name, citation
+        )
 
-        if tup not in adic[Order][Family][Genus]:
-            adic[Order][Family][Genus].append(tup)
+        if atuple not in adic[Order][Family][genus]:
+            adic[Order][Family][genus].append(atuple)
 
     return adic
 
@@ -77,7 +75,6 @@ def writeDict2Json(adict):
 
 def main():
     df = read_metadata()
-    #df = fixup(df)
     nematode_dict = SortedDict()
     nematode_dict = get_order(nematode_dict, df)
     nematode_dict = get_family(nematode_dict, df)

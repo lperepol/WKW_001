@@ -56,20 +56,21 @@ function displayImages(value, object) {
     const genusSet = new Set();
     const obsSet = new Set();
     for (let i = 0; i < zz.length; i++) {
-        
-var image_index=zz[i][0];
-var image_name=zz[i][1];
-var caption=zz[i][2];
-var media_descriptor=zz[i][3];
-var diagnostic_descriptor=zz[i][4];
-var gender=zz[i][5];
-var copyright_institution=zz[i][6];
-var photographer=zz[i][7];
-var genus=zz[i][8];
-var species=zz[i][9];
-var identification_method=zz[i][10];
-var source=zz[i][11];
-var common_name=zz[i][12];
+
+        var image_index = zz[i][0];
+        var image_name = zz[i][1];
+        var caption = zz[i][2];
+        var media_descriptor = zz[i][3];
+        var diagnostic_descriptor = zz[i][4];
+        var gender = zz[i][5];
+        var copyright_institution = zz[i][6];
+        var photographer = zz[i][7];
+        var genus = zz[i][8];
+        var species = zz[i][9];
+        var indentifcation_method = zz[i][10];
+        var source = zz[i][11];
+        var common_name = zz[i][12];
+        var citation = zz[i][14].trim();
 
         console.log(zz[i]);
         displayimage = image_name;
@@ -77,18 +78,20 @@ var common_name=zz[i][12];
         obsSet.add(caption);
         var image = '';
         var name = genus;
-        if (species !== "Not Specified") {
-            name = species;
-        }
+        if (species.length > 0) {
+            if (species !== "Not Specified") {
+                name = species;
+            }
+         }
 
-        caption = image_index + '<br>Name: ' + name + '<br>Observing: ' + caption + '<br>Copyright Institution:' + copyright_institution + '<br>Photographer:' + photographer + '<br>Indentification Method: ' + identification_method;
+        caption = '<b>Image Index:</b> '+ image_index + '<br><b>Name:</b> ' + name + '<br>' + caption + '<br><b>Copyright Institution:</b> ' + copyright_institution + '<br><b>Photographer:</b> ' + photographer + '<br><b>Indentification Method:</b> ' + indentifcation_method + '<br><b>Citation:</b> ' + citation;
         if (displayimage.endsWith('.m4v'))
         {
             image = '<figure class="figure">  <video class="VCE_Class_001" controls><source src="[ReplaceImage]" type="video/mp4"></video> <figcaption class="figure-caption">[caption]</figcaption></figure>';
         } else {
             image = '<figure class="figure">  <a href="[ReplaceImage]" target="_blank" ><img  class="img_key" src="[ReplaceImage]" class="figure-img img-fluid rounded" alt="Alt" ></a> <figcaption class="figure-caption">[caption]</figcaption></figure>';
         }
-        
+
         image = image.replace('[ReplaceImage]', displayimage);
         image = image.replace('[ReplaceImage]', displayimage);
         image = image.replace('[caption]', caption);
@@ -101,7 +104,7 @@ var common_name=zz[i][12];
     //$(targetDivZId).prepend(str3);
     //$(targetDivZId).prepend('<br>Obs: ');
     const str2 = Array.from(genusSet).sort().join(', ');
-    $(targetDivZId).prepend('</strong>' +str2 + '</strong>');
+    $(targetDivZId).prepend('</strong>' + str2 + '</strong>');
     $(targetDivZId).prepend('<br><strong>Included Genera:</strong> ');
     $(targetDivZId).prepend('<p>');
 

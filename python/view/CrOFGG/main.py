@@ -5,11 +5,20 @@ import json
 from sortedcontainers import SortedList, SortedSet, SortedDict
 
 def read_metadata():
-    fn = "../../MetaData/Step_002_AddTaxonomies/MasterMetadata_001.csv"
-    df = pd.read_csv(fn)
+    fn = "../../MetaData/Step_004/MasterMetadata_001_Indexed_Updated.xlsx"
+    df = pd.read_excel(fn, sheet_name='Sheet1')
+    df = df.fillna('Not Specified')
+    return df
+def read_excel(fn, sheet):
+    df = pd.read_excel(fn, sheet_name='Sheet1')
     df = df.fillna('Not Specified')
     return df
 
+def read_csv(fn):
+    df = pd.read_csv(fn, encoding = "utf-8" )
+    df = df.fillna('Not Specified')
+    return df
+    #df.to_csv(fn, index=False)
 
 def fixup(df):
     return
@@ -60,25 +69,31 @@ def get_species(adic, df):
         Order = str(row['order']).strip()
         Family = str(row['family']).strip()
         Genus = str(row['genus']).strip()
-        Species = str(row['species']).strip()
-        adic[View][Order][Family][Genus][Species] = list()
+        species = str(row['species']).strip().replace(',', ';')
+
+        adic[View][Order][Family][Genus][species] = list()
     return adic
 
 
 def get_image_file_name(adic, df):
-    orderSet = set()
-    FamilySet = set()
-    GenusSet = set()
-    ImageSet = list()
     for index, row in df.iterrows():
         View = str(row['copyright_institution']).strip()
         Order = str(row['order']).strip()
         Family = str(row['family']).strip()
-        Genus = str(row['genus']).strip()
-        Species = str(row['species']).strip()
-        orderSet.add(Order)
-        FamilySet.add(Family)
-        GenusSet.add(Genus)
+        genus = str(row['genus']).strip()
+        image_index = str(row['image_index']).strip().replace(',', ';')
+        image_name = str(row['image_file']).strip().replace(',', ';')
+        media_descriptor = str(row['media_descriptor']).strip().replace(',', '|')
+        diagnostic_descriptor = str(row['diagnostic_descriptor']).strip().replace(',', ';')
+        caption = str(row['caption']).strip().replace(',', ';')
+        copyright_institution = str(row['copyright_institution']).strip().replace(',', ';')
+        photographer = str(row['photographer']).strip().replace(',', ';')
+        source = str(row['source']).strip().replace(',', ';')
+        species = str(row['species']).strip().replace(',', ';')
+        gender = str(row['sex']).strip().replace(',', ';')
+        identification_method = str(row['identification_method']).strip().replace(',', ';')
+        common_name = str(row['common_name']).strip().replace(',', ';').replace('"', '')
+        citation = str(row['citation']).strip().replace('|', ';').replace('"', '')
 
 
         ImageName = str(row['image_file']).strip()
@@ -87,15 +102,16 @@ def get_image_file_name(adic, df):
         photographer = str(row['photographer']).strip()
         source = str(row['source']).strip()
         identification_method = str(row['identification_method']).strip()
-        tup = (ImageName,caption,copyright_institution,photographer,Genus,Species,identification_method, source )
+        citation = str(row['citation']).strip()
+        atuple = (
+            image_index, image_name, caption, media_descriptor, diagnostic_descriptor, gender, copyright_institution,
+            photographer, genus, species, identification_method, source, common_name, citation
+        )
 
-        ImageSet.append(ImageName)
 
-        if tup not in adic[View][Order][Family][Genus][Species]:
-            adic[View][Order][Family][Genus][Species].append(tup)
+        if atuple not in adic[View][Order][Family][genus][species]:
+            adic[View][Order][Family][genus][species].append(atuple)
 
-    print ("Order:" + str(len(orderSet)) + ", Family:" + str(len(FamilySet)) + ", Genus:" + str(len(GenusSet)) + ", Completed:" + str(len(ImageSet)) )
-    # Order:12, Family:67, Genus:248
     return adic
 
 def writeDict2Json(adict):

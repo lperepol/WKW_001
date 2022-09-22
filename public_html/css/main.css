@@ -57,6 +57,22 @@ img, svg {
     width: 511px;
     height: auto;
 }
+.cap-width-001 {
+    vertical-align: middle;
+    margin: 5px;
+    width: 511px;
+    height: auto;
+}
+
+
+.img_no_key {
+    width: 590px;
+    height: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
 
 .header_image_caption_white {
     float: left;

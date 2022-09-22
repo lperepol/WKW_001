@@ -114,35 +114,45 @@ function displayImages() {
     var View = document.getElementById('View').value;
     var nid = null
     //var view = document.getElementById('View');
-    var z = subjectObject[View][Order][Family][Genus][Gender];
-    for (let i = 0; i < z.length; i++) {
-        
-        displayimage = z[i][0];
+    var zz = subjectObject[View][Order][Family][Genus][Gender];
+    for (let i = 0; i < zz.length; i++) {
+
+        displayimage = zz[i][1];
         if (displayimage.length < 3) {
             continue;
         }
-        var caption = z[i][1].trim();
-        var Gender = z[i][2].trim();
-        var copyright_institution = z[i][3].trim();
-        var photographer = z[i][4].trim();
-        var genus = z[i][5].trim();
-        var species = z[i][6].trim();
-        var indentifcation_method = z[i][7].trim();
-        var source = z[i][8].trim();
-        nid = z[i][0];
-        var image = '<a class="example-image-link" href="[ReplaceImage]" data-lightbox="example-set" data-title="Click anywhere outside the image or the X to the right to close."><img class="example-image" src="[ReplaceThumbnail]" alt="" style="width: 150 px" /></a>';
+        var image_index = zz[i][0];
 
-        var image = '<figure class="figure">  <a href="[ReplaceImage]"><img src="[ReplaceImage]" class="figure-img img-fluid rounded" alt="Alt"></a> <figcaption class="figure-caption">[caption]</figcaption></figure>';                
-        var tax = genus;
-        if (species !== "Some") {
-            tax = species;
+        var image_name = zz[i][1].trim();
+        var caption = zz[i][2].trim();
+        var media_descriptor = zz[i][3].trim();
+        var diagnostic_descriptor = zz[i][4].trim();
+        var gender = zz[i][5].trim();
+        var copyright_institution = zz[i][6].trim();
+        var photographer = zz[i][7].trim();
+        var genus = zz[i][8].trim();
+        var species = zz[i][9].trim();
+        var identification_method = zz[i][10].trim();
+        var source = zz[i][11].trim();
+        var common_name = zz[i][12].trim();
+        var citation = zz[i][13].trim();
+
+        nid = zz[i][0];
+        var name = genus;
+        if (species.length > 0) {
+            if (species !== "Not Specified") {
+                name = species;
+            }
+         }
+          caption = '<b>Image Index:</b> '+ image_index + '<br><b>Name:</b> ' + name + '<br>' + caption + '<br><b>Copyright Institution:</b> ' + copyright_institution + '<br><b>Photographer:</b> ' + photographer + '<br><b>Indentification Method:</b> ' + identification_method + '<br><b>Citation:</b> ' + citation;
+        var image = '';
+        if (displayimage.endsWith('.m4v'))
+        {
+            image = '<figure class="figure">  <video class="VCE_Class_001" controls><source src="[ReplaceImage]" type="video/mp4"></video> <figcaption class="figure-caption">[caption]</figcaption></figure>';
+        } else {
+            image = '<figure class="figure">  <a href="[ReplaceImage]" target="_blank" ><img  class="img_no_key" src="[ReplaceImage]" class="figure-img img-fluid rounded" alt="Alt" ></a> <figcaption class="figure-caption">[caption]</figcaption></figure>';
         }
-        if (copyright_institution === photographer) {
-            caption = tax + '<br>' + caption + '<br>' + photographer;
-        }
-        else {
-            caption = 'Name: ' +  tax + '<br>' +  caption + '<br>Sex: ' + Gender + '<br>Copyright Institution:' + copyright_institution + '<br>Photographer:' + photographer + '<br>Indentification Method: ' + indentifcation_method;
-        }
+
         image = image.replace('[ReplaceImage]', displayimage);
         image = image.replace('[ReplaceImage]', displayimage);
         image = image.replace('[caption]', caption);
@@ -153,10 +163,6 @@ function displayImages() {
     count = count + 1;
     //$('#CompareDiv').text($('#CompareHeader').text().replace('', headerText));
     $('#CompareDiv').append(compareText);
-    OrderSet.add(Order);
-    FamilySet.add(Family);
-    GenusSet.add(Genus);
-    ViewSet.add(View);
 
     return false;
 }
