@@ -12,12 +12,12 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script><!-- comment -->
         <!-- Bootstrap core CSS -->
         <link href="/css/vendor/bootstrap/bootstrap.min.css" rel="stylesheet">
         <link href="/css/main.css" rel="stylesheet">
         <script>
-            $(function() {
+            $(function () {
                 $("#wkw-header").load("/header-005.html");
                 $("#nav-placeholder").load("/menu.html");
             });
@@ -26,7 +26,7 @@
         <!-- Popupate Comboboxes -->     
         <script src="/js/view/OFG_Checkbox.js"></script>
         <!-- Popupate Comboboxes -->    
-        
+
     </head>
     <body>
         <!--Navigation bar-->
@@ -73,16 +73,18 @@
         <div class="container">
             <h3>View</h3>
             <div id="CompareDiv"></div>
-                <hr>
-                <div id="displayDiv" class="row"></div>
+            <hr>
+            <div class="row">
+                <div id="displayDiv" ></div>
+            </div>
         </div>
-            <p>
-                <button id="button1" onclick="getCheckboxvalues();">Log Checkbox Values</button>'
-            </p>
+        <p>
+            <button id="button1" onclick="getCheckboxvalues();">Log Checkbox Values</button>'
+        </p>
 
 
         <hr>
-            <hr>
+        <hr>
         <footer>
             <p>References</p>
             <p>Lawrence Perepolkin</p>

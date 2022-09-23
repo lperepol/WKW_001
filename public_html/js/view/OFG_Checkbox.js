@@ -106,7 +106,7 @@ function displayImages() {
                 name = species;
             }
         }
-        caption = '<b>Image Index:</b> ' + image_index + '<br><b>Name:</b> ' + name + '<br>' + caption + '<br><b>Copyright Institution:</b> ' + copyright_institution + '<br><b>Photographer:</b> ' + photographer + '<br><b>Indentification Method:</b> ' + identification_method + '<br><b>Citation:</b> ' + citation;
+        caption = '<figure class="figure"> <b>Image Index:</b> ' + image_index + '<br>' + caption + '</figure>';
         var image = '';
         if (displayimage.endsWith('.m4v'))
         {
@@ -118,15 +118,18 @@ function displayImages() {
         image = image.replace('[ReplaceImage]', displayimage);
         image = image.replace('[ReplaceImage]', displayimage);
         image = image.replace('[caption]', caption);
-        $('#displayDiv').append(image);
-        var checkBoxes = '<div class="img_no_key" >';
-        checkBoxes = checkBoxes + '<input type="checkbox" name="Body" value="' + image_index + ', Body" /><label>Body:</label>';
-        checkBoxes = checkBoxes + '<br><input type="checkbox" name="Anterior" value="' + image_index + ', Anterior" /><label>Anterior:</label>';
-        checkBoxes = checkBoxes + '<br><input type="checkbox" name="Vulva" value="' + image_index + ', Vulva" /><label>Vulva:</label>';
-        checkBoxes = checkBoxes + '<br><input type="checkbox" name="Lateral Field" value="' + image_index + ', Lateral Field" /><label>Lateral Field:</label>';
-        checkBoxes = checkBoxes + '<br><input type="checkbox" name="Posterior" value="' + image_index + ', Posterior" /><label>Posterior:</label><br><br>';
+        var checkBoxes = '<div class="form-check">';
+        checkBoxes = checkBoxes + '<input type="checkbox" name="Body" value="' + image_index + ', Body" /><label>Body</label>';
+        checkBoxes = checkBoxes + '<br><input type="checkbox" name="Head Region" value="' + image_index + ', Head Region" /><label>Head Region</label>';
+        checkBoxes = checkBoxes + '<br><input type="checkbox" name="Tail Region" value="' + image_index + ', Tail Region" /><label>Tail Region</label>';
+
+        checkBoxes = checkBoxes + '<br><input type="checkbox" name="Esophageal Region " value="' + image_index + ', Esophageal Region" /><label>Esophageal Region</label>';
+        checkBoxes = checkBoxes + '<br><input type="checkbox" name="Reproductive Region" value="' + image_index + ', Reproductive Region" /><label>Reproductive Region</label>';
+        checkBoxes = checkBoxes + '<br><input type="checkbox" name="Lateral Field" value="' + image_index + ', Lateral Field" /><label>Lateral Field</label>';
         checkBoxes = checkBoxes + '</div>';
+
         $('#displayDiv').append(checkBoxes);
+        $('#displayDiv').append(image);
 
 
     }
@@ -142,13 +145,73 @@ function resetImages() {
     count = 1;
     location.reload();
 }
+function postCheckboxvalues(values) {
+    var xhr = new XMLHttpRequest();
+    //xhr.open("POST", 'http://127.0.0.1:5000/wkw_001_api/wkw', true);
+    xhr.open("POST", 'http://srv.lp-ubuntu.ca/api/wkw_001_api/wkw', true);
+    xhr.setRequestHeader('Content-Type', 'application/json');
+    //headers: {'Access-Control-Allow-Origin': '*'},
+    xhr.setRequestHeader('Access-Control-Allow-Headers', '*');
+    xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
+    xhr.send(JSON.stringify({
+        value: values
+    }));
+
+    /*
+     $.ajax({
+     type: 'POST',
+     url: 'http://127.0.0.1:5000/api/wkw_001_api/wkw',
+     url: 'http://srv.lp-ubuntu.ca/api/wkw_001_api/wkw',
+     //headers: {'Access-Control-Allow-Origin': '*'},
+     headers: {'X-Content-Type-Options': 'nosniff'},
+     
+     // headers: {  'Access-Control-Allow-Origin': 'http://srv.lp-ubuntu.ca/api/wkw_001_api/wkw' },
+     //crossDomain: true,
+     data: JSON.stringify({param1: "param1", param2: "param2chriwil"}),
+     //        contentType: 'text/html; charset=UTF-8',
+     dataType: 'jsonp',
+     success: function (responseData, textStatus, jqXHR) {
+     var value = responseData.someKey;
+     },
+     error: function (responseData, textStatus, errorThrown) {
+     console.log(responseData);
+     alert('POST failed.');
+     }
+     });
+     
+     $.ajax({
+     method: "POST",
+     type: "POST",
+     url: 'http://127.0.0.1:5000/api/wkw_001_api/wkw',
+     data: "goo",
+     success: function (responseData, textStatus, jqXHR) {
+     var value = responseData.someKey;
+     },
+     error: function (responseData, textStatus, errorThrown) {
+     console.log(responseData);
+     alert('POST failed.');
+     },
+     dataType: 'jsonp'
+     });
+     */
+
+}
 
 
 function getCheckboxvalues() {
-    $('input[type=checkbox]').each(function () {
-        var sThisVal = (this.checked ? $(this).val() : "");
-        if (this.checked) {
-            console.log($(this).val());
+    var values = [];
+    values.length = 0;
+    $("input:checkbox[type=checkbox]:checked").each(function () {
+        var val = $(this).val();
+        
+
+        values.push($(this).val());
+        console.log($(this).val());
+        x=2;
+        for (var i=0; i<100000; i++) {
+            x = x*2;
         }
     });
+    postCheckboxvalues(values);
+    values = [];
 }
